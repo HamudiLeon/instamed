@@ -17,10 +17,17 @@ export const ChoiceList = ({
   const stopTouchPropagation = (event: React.TouchEvent | React.PointerEvent | React.MouseEvent) => {
     event.stopPropagation();
   };
+  const selectOption = (
+    event: React.TouchEvent<HTMLButtonElement> | React.PointerEvent<HTMLButtonElement> | React.MouseEvent<HTMLButtonElement>,
+    id: string,
+  ) => {
+    event.stopPropagation();
+    onSelect(id);
+  };
 
   return (
     <div
-      className="space-y-2"
+      className="relative z-20 space-y-2"
       data-no-swipe="true"
       onMouseDownCapture={stopTouchPropagation}
       onPointerDownCapture={stopTouchPropagation}
@@ -35,22 +42,19 @@ export const ChoiceList = ({
           <button
             key={option.id}
             data-no-swipe="true"
-            className={cn(
-              "block h-auto w-full rounded-[22px] border px-4 py-4 text-left text-sm",
-              "border-white/10 bg-white/5 text-white",
-              revealed && isCorrect && "border-emerald-400/40 bg-emerald-500/10",
-              revealed && isSelected && !isCorrect && "border-rose-400/40 bg-rose-500/10",
-            )}
-            type="button"
-            onClick={(event) => {
-              event.stopPropagation();
-              onSelect(option.id);
-            }}
-            onTouchEnd={(event) => {
-              event.stopPropagation();
-              onSelect(option.id);
-            }}
-          >
+          className={cn(
+            "relative z-20 block h-auto w-full rounded-[22px] border px-4 py-4 text-left text-sm",
+            "border-white/10 bg-white/5 text-white",
+            revealed && isCorrect && "border-emerald-400/40 bg-emerald-500/10",
+            revealed && isSelected && !isCorrect && "border-rose-400/40 bg-rose-500/10",
+          )}
+          style={{ touchAction: "manipulation" }}
+          type="button"
+          onClick={(event) => selectOption(event, option.id)}
+          onMouseUp={(event) => selectOption(event, option.id)}
+          onPointerUp={(event) => selectOption(event, option.id)}
+          onTouchEnd={(event) => selectOption(event, option.id)}
+        >
             <span className="mr-3 text-slate-400">{option.label}</span>
             <span className="whitespace-normal">{option.text}</span>
           </button>
