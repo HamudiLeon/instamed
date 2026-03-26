@@ -1,20 +1,24 @@
 import { Button, Card, CardBody, Chip, Input, Kbd } from "@heroui/react";
+import { useQuery } from "@tanstack/react-query";
 import { motion } from "motion/react";
 import { BookOpenText, Search, Sparkles, Stethoscope, Zap } from "lucide-react";
 import { learnDeckRepo } from "@/lib/mock/learnDeckRepo";
 import { useChannelsStore } from "@/stores/channelsStore";
 import { cn } from "@/lib/utils";
 
-const medLatinDecks = learnDeckRepo.listDecks("med-latin");
-const quizDeckCount = medLatinDecks.filter((deck) => deck.deckType === "learncard").length;
-const vocabDeckCount = medLatinDecks.filter((deck) => deck.deckType === "vocab").length;
+const topics = learnDeckRepo.listTopics();
+const deckTitle = async (topicFolder: string, fileName: string) => {
+  const ref = learnDeckRepo.getDeckRef(topicFolder, fileName);
+  if (!ref) return null;
+  return learnDeckRepo.loadDeck(ref);
+};
 
 const actions = [
   {
     key: "mixed" as const,
     title: "Mixed Session",
     subtitle: "Vocabulary + quiz reel flow",
-    meta: `${vocabDeckCount}+${quizDeckCount} deck flow`,
+    meta: "Pick vocab + quiz decks",
     icon: Zap,
     accent: "text-amber-200",
     glow: "bg-amber-300/12",
@@ -23,7 +27,7 @@ const actions = [
     key: "quiz" as const,
     title: "Quiz Drill",
     subtitle: "Imported Learncard MCQs",
-    meta: `${quizDeckCount} quiz decks`,
+    meta: "Choose one quiz deck",
     icon: Stethoscope,
     accent: "text-cyan-200",
     glow: "bg-cyan-300/12",
@@ -32,7 +36,7 @@ const actions = [
     key: "vocab" as const,
     title: "Vocabulary",
     subtitle: "Medical Latin trainer",
-    meta: `${vocabDeckCount} vocab decks`,
+    meta: "Choose one vocab deck",
     icon: BookOpenText,
     accent: "text-emerald-200",
     glow: "bg-emerald-300/12",
@@ -44,6 +48,25 @@ export const ActionHub = () => {
   const setImmersiveSession = useChannelsStore((state) => state.setImmersiveSession);
   const sessionMode = useChannelsStore((state) => state.sessionMode);
   const setSessionMode = useChannelsStore((state) => state.setSessionMode);
+  const sessionTopicFolder = useChannelsStore((state) => state.sessionTopicFolder);
+  const vocabDeckFileName = useChannelsStore((state) => state.vocabDeckFileName);
+  const quizDeckFileName = useChannelsStore((state) => state.quizDeckFileName);
+  const setSessionTopicFolder = useChannelsStore((state) => state.setSessionTopicFolder);
+  const setSessionDeckFile = useChannelsStore((state) => state.setSessionDeckFile);
+
+  const topicDecks = learnDeckRepo.listDecks(sessionTopicFolder);
+  const vocabDecks = topicDecks.filter((deck) => deck.deckType === "vocab");
+  const quizDecks = topicDecks.filter((deck) => deck.deckType === "learncard");
+
+  const { data: vocabPreview } = useQuery({
+    queryKey: ["deck-preview", sessionTopicFolder, vocabDeckFileName],
+    queryFn: () => deckTitle(sessionTopicFolder, vocabDeckFileName),
+  });
+
+  const { data: quizPreview } = useQuery({
+    queryKey: ["deck-preview", sessionTopicFolder, quizDeckFileName],
+    queryFn: () => deckTitle(sessionTopicFolder, quizDeckFileName),
+  });
 
   return (
     <div className="space-y-3">
@@ -108,6 +131,110 @@ export const ActionHub = () => {
             </motion.div>
           );
         })}
+      </div>
+
+      <div className="rounded-[24px] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.06),rgba(255,255,255,0.02))] p-3 shadow-soft backdrop-blur-2xl">
+        <div className="flex items-center justify-between">
+          <p className="text-[11px] uppercase tracking-[0.2em] text-slate-400">Deck Shelf</p>
+          <p className="text-[11px] uppercase tracking-[0.2em] text-slate-500">JSON-driven</p>
+        </div>
+
+        <div className="mt-3 flex gap-2 overflow-x-auto scrollbar-none">
+          {topics.map((topic) => (
+            <button
+              key={topic.topicFolder}
+              className={cn(
+                "shrink-0 rounded-full border px-3 py-2 text-xs font-medium text-white",
+                sessionTopicFolder === topic.topicFolder
+                  ? "border-cyan-300/25 bg-cyan-300/10"
+                  : "border-white/10 bg-white/5",
+              )}
+              data-no-swipe="true"
+              type="button"
+              onClick={() => {
+                setSessionTopicFolder(topic.topicFolder);
+                const nextVocab = learnDeckRepo.getDefaultDeckRef(topic.topicFolder, "vocab");
+                const nextQuiz = learnDeckRepo.getDefaultDeckRef(topic.topicFolder, "learncard");
+                if (nextVocab) setSessionDeckFile("vocab", nextVocab.fileName);
+                if (nextQuiz) setSessionDeckFile("quiz", nextQuiz.fileName);
+              }}
+            >
+              {topic.title}
+            </button>
+          ))}
+        </div>
+
+        {(sessionMode === "vocab" || sessionMode === "mixed") && vocabDecks.length > 0 ? (
+          <div className="mt-4 space-y-2">
+            <div className="flex items-center justify-between">
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-emerald-300">Vocabulary deck</p>
+              <p className="text-[11px] text-slate-500">{vocabDecks.length} available</p>
+            </div>
+            <div className="flex gap-2 overflow-x-auto scrollbar-none">
+              {vocabDecks.map((deck) => (
+                <button
+                  key={deck.fileName}
+                  className={cn(
+                    "min-w-[9rem] rounded-[18px] border px-3 py-3 text-left",
+                    vocabDeckFileName === deck.fileName
+                      ? "border-emerald-300/25 bg-emerald-500/10"
+                      : "border-white/10 bg-white/5",
+                  )}
+                  data-no-swipe="true"
+                  type="button"
+                  onClick={() => setSessionDeckFile("vocab", deck.fileName)}
+                >
+                  <p className="text-xs uppercase tracking-[0.18em] text-slate-500">Deck {deck.index}</p>
+                  <p className="mt-2 text-sm font-medium text-white">{deck.fileName.replace(".json", "")}</p>
+                </button>
+              ))}
+            </div>
+            {vocabPreview?.deckType === "vocab" ? (
+              <Card className="border border-white/10 bg-black/20 shadow-none">
+                <CardBody className="gap-2 p-3">
+                  <p className="text-sm font-semibold text-white">{vocabPreview.data.title}</p>
+                  <p className="text-xs text-slate-400">{vocabPreview.data.items.length} vocabulary cards</p>
+                </CardBody>
+              </Card>
+            ) : null}
+          </div>
+        ) : null}
+
+        {(sessionMode === "quiz" || sessionMode === "mixed") && quizDecks.length > 0 ? (
+          <div className="mt-4 space-y-2">
+            <div className="flex items-center justify-between">
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-cyan-300">Quiz deck</p>
+              <p className="text-[11px] text-slate-500">{quizDecks.length} available</p>
+            </div>
+            <div className="flex gap-2 overflow-x-auto scrollbar-none">
+              {quizDecks.map((deck) => (
+                <button
+                  key={deck.fileName}
+                  className={cn(
+                    "min-w-[9rem] rounded-[18px] border px-3 py-3 text-left",
+                    quizDeckFileName === deck.fileName
+                      ? "border-cyan-300/25 bg-cyan-300/10"
+                      : "border-white/10 bg-white/5",
+                  )}
+                  data-no-swipe="true"
+                  type="button"
+                  onClick={() => setSessionDeckFile("quiz", deck.fileName)}
+                >
+                  <p className="text-xs uppercase tracking-[0.18em] text-slate-500">Deck {deck.index}</p>
+                  <p className="mt-2 text-sm font-medium text-white">{deck.fileName.replace(".json", "")}</p>
+                </button>
+              ))}
+            </div>
+            {quizPreview?.deckType === "learncard" ? (
+              <Card className="border border-white/10 bg-black/20 shadow-none">
+                <CardBody className="gap-2 p-3">
+                  <p className="text-sm font-semibold text-white">{quizPreview.data.meta.title.en ?? quizPreview.data.deckKey}</p>
+                  <p className="text-xs text-slate-400">{quizPreview.data.meta.cardCount} MCQ cards</p>
+                </CardBody>
+              </Card>
+            ) : null}
+          </div>
+        ) : null}
       </div>
 
       <Button
