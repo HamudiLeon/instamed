@@ -67,6 +67,9 @@ export const VocabularyCard = ({
     () => Math.max(0, Math.ceil((AUTO_FLIP_MS * (1 - progress / 100)) / 1000)),
     [progress],
   );
+  const stopTouchPropagation = (event: React.TouchEvent | React.PointerEvent | React.MouseEvent) => {
+    event.stopPropagation();
+  };
 
   return (
     <div className="space-y-4">
@@ -128,7 +131,18 @@ export const VocabularyCard = ({
                   className="h-10 w-full rounded-full bg-white text-sm font-medium text-black"
                   data-no-swipe="true"
                   type="button"
-                  onClick={onRevealToggle}
+                  onClick={(event) => {
+                    event.stopPropagation();
+                    onRevealToggle();
+                  }}
+                  onMouseDownCapture={stopTouchPropagation}
+                  onPointerDownCapture={stopTouchPropagation}
+                  onTouchEnd={(event) => {
+                    event.stopPropagation();
+                    onRevealToggle();
+                  }}
+                  onTouchMoveCapture={stopTouchPropagation}
+                  onTouchStartCapture={stopTouchPropagation}
                 >
                   Flip Now
                 </button>
@@ -183,7 +197,18 @@ export const VocabularyCard = ({
                   className="h-10 w-full rounded-full border border-white/10 bg-white/6 text-sm font-medium text-white"
                   data-no-swipe="true"
                   type="button"
-                  onClick={onRevealToggle}
+                  onClick={(event) => {
+                    event.stopPropagation();
+                    onRevealToggle();
+                  }}
+                  onMouseDownCapture={stopTouchPropagation}
+                  onPointerDownCapture={stopTouchPropagation}
+                  onTouchEnd={(event) => {
+                    event.stopPropagation();
+                    onRevealToggle();
+                  }}
+                  onTouchMoveCapture={stopTouchPropagation}
+                  onTouchStartCapture={stopTouchPropagation}
                 >
                   Flip Back
                 </button>
