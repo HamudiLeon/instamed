@@ -6,7 +6,6 @@ import { FeedSkeleton } from "@/features/feed/FeedSkeleton";
 import { ReelStack } from "@/features/feed/ReelStack";
 import { preloadImage } from "@/lib/image";
 import { fetchFeed } from "@/mocks/api";
-import { reels as reelCatalog } from "@/mocks/reels";
 import { useFeedStore } from "@/stores/feedStore";
 import type { Reel } from "@/types/domain";
 
@@ -49,7 +48,18 @@ export const ReelContainer = ({ channelId }: { channelId: string }) => {
 
   const currentIndex = feed?.currentIndex ?? 0;
   const ids = feed?.ids ?? [];
-  const reels = useMemo(() => ids.map((id) => reelCatalog.find((item) => item.id === id)).filter(Boolean) as Reel[], [ids]);
+  const reels = useMemo(() => {
+    const map = new Map<string, Reel>();
+    const cached = queryClient.getQueriesData<Reel[]>({ queryKey: ["feed", channelId] });
+
+    cached.forEach(([, items]) => {
+      items?.forEach((item) => {
+        map.set(item.id, item);
+      });
+    });
+
+    return ids.map((id) => map.get(id)).filter(Boolean) as Reel[];
+  }, [channelId, ids, queryClient]);
   const windowed = useMemo(
     () => reels.slice(Math.max(0, currentIndex - WINDOW_RADIUS), currentIndex + WINDOW_RADIUS + 1),
     [currentIndex, reels],
