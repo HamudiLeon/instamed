@@ -1,0 +1,710 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-exam-s2-accent-40",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Accent, Quantity, and Syllable Stress",
+      "de": "Medizinisches Latein — Akzent, Quantität und Silbenbetonung"
+    },
+    "description": {
+      "en": "Focused prosody deck for first-year Medical Latin. Trains accent placement, penult identification, syllable structure, and the application of quantity-based stress rules in medical terminology. Designed to build reliable pronunciation control and rapid recognition of the stress patterns most frequently tested in early medical Latin examinations.",
+      "de": "Fokussiertes Prosodie-Deck für Medizinisches Latein im ersten Studienjahr. Trainiert Akzentsetzung, die Bestimmung der Pänultima, die Silbenstruktur und die Anwendung quantitätsabhängiger Betonungsregeln in der medizinischen Terminologie. Das Deck dient dem sicheren Aufbau von Aussprachekompetenz und der raschen Erkennung der in frühen Prüfungen des Medizinlateins am häufigsten getesteten Betonungsmuster."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "accent",
+      "prosody",
+      "quantity",
+      "syllables",
+      "pronunciation",
+      "exam"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 60,
+    "cardCount": 40,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    },
+    "source": {
+      "file": "FirstSemLatinExerc_25 (1).pdf",
+      "exam": "MU-Varna Latin Medical Terminology 1st semester"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "s2-2001",
+      "type": "mcq",
+      "question": {
+        "en": "Accent rule: Which syllable is NEVER stressed in Latin medical terms?"
+      },
+      "correctAnswer": "final syllable",
+      "options": [
+        "final syllable",
+        "first syllable",
+        "penult always",
+        "antepenult always"
+      ],
+      "explanation": {
+        "en": "Rule: the final syllable is never stressed. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2002",
+      "type": "mcq",
+      "question": {
+        "en": "In a 2-syllable Latin word, the accent falls on:"
+      },
+      "correctAnswer": "the first syllable (penult)",
+      "options": [
+        "the second syllable",
+        "the first syllable (penult)",
+        "the final syllable",
+        "it depends on vowel length"
+      ],
+      "explanation": {
+        "en": "Two-syllable words: accent the first syllable (penult). (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2003",
+      "type": "mcq",
+      "question": {
+        "en": "For words with >2 syllables, which syllable is stressed?"
+      },
+      "correctAnswer": "penult or antepenult (depends on penult quantity)",
+      "options": [
+        "always the first",
+        "always the last",
+        "penult or antepenult (depends on penult quantity)",
+        "always the penult"
+      ],
+      "explanation": {
+        "en": "In longer words, stress depends on whether the penult is long/heavy. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2004",
+      "type": "mcq",
+      "question": {
+        "en": "Algorithm to stress a Latin medical term correctly:"
+      },
+      "correctAnswer": "syllabify → find penult → check penult → stress penult or antepenult",
+      "options": [
+        "stress the final syllable",
+        "translate first → then stress",
+        "syllabify → find penult → check penult → stress penult or antepenult",
+        "stress the prefix"
+      ],
+      "explanation": {
+        "en": "Use the 3-step method in the handout. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2005",
+      "type": "mcq",
+      "question": {
+        "en": "If the penult is NOT stressed in a 3+ syllable word, the accent shifts to:"
+      },
+      "correctAnswer": "antepenult",
+      "options": [
+        "final syllable",
+        "penult",
+        "antepenult",
+        "first syllable"
+      ],
+      "explanation": {
+        "en": "Accent moves to antepenult if penult is not stressed. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2006",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'bursa'?"
+      },
+      "correctAnswer": "BUR-sa",
+      "options": [
+        "bur-SA",
+        "BUR-sa",
+        "buR-sa",
+        "burs-A"
+      ],
+      "explanation": {
+        "en": "'bursa' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2007",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'cavum'?"
+      },
+      "correctAnswer": "CA-vum",
+      "options": [
+        "ca-VUM",
+        "CA-vum",
+        "cA-vum",
+        "cav-UM"
+      ],
+      "explanation": {
+        "en": "'cavum' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2008",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'caput'?"
+      },
+      "correctAnswer": "CA-put",
+      "options": [
+        "ca-PUT",
+        "CA-put",
+        "cA-put",
+        "cap-UT"
+      ],
+      "explanation": {
+        "en": "'caput' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2009",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'ramus'?"
+      },
+      "correctAnswer": "RA-mus",
+      "options": [
+        "ra-MUS",
+        "RA-mus",
+        "rA-mus",
+        "ram-US"
+      ],
+      "explanation": {
+        "en": "'ramus' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2010",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'cera'?"
+      },
+      "correctAnswer": "CE-ra",
+      "options": [
+        "ce-RA",
+        "CE-ra",
+        "cE-ra",
+        "cer-A"
+      ],
+      "explanation": {
+        "en": "'cera' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2011",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'cornu'?"
+      },
+      "correctAnswer": "COR-nu",
+      "options": [
+        "cor-NU",
+        "COR-nu",
+        "cOR-nu",
+        "corn-U"
+      ],
+      "explanation": {
+        "en": "'cornu' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2012",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'manus'?"
+      },
+      "correctAnswer": "MA-nus",
+      "options": [
+        "ma-NUS",
+        "MA-nus",
+        "mA-nus",
+        "man-US"
+      ],
+      "explanation": {
+        "en": "'manus' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2013",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'situs'?"
+      },
+      "correctAnswer": "SI-tus",
+      "options": [
+        "si-TUS",
+        "SI-tus",
+        "sI-tus",
+        "sit-US"
+      ],
+      "explanation": {
+        "en": "'situs' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2014",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'apex'?"
+      },
+      "correctAnswer": "A-pex",
+      "options": [
+        "a-PEX",
+        "A-pex",
+        "aP-ex",
+        "ap-EX"
+      ],
+      "explanation": {
+        "en": "'apex' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2015",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the stress in 'sella'?"
+      },
+      "correctAnswer": "SEL-la",
+      "options": [
+        "sel-LA",
+        "SEL-la",
+        "sEL-la",
+        "sell-A"
+      ],
+      "explanation": {
+        "en": "'sella' has two syllables → stress the first syllable. (Exercise II, p.8)"
+      }
+    },
+    {
+      "cardId": "s2-2016",
+      "type": "mcq",
+      "question": {
+        "en": "In 'skelĕton' (skeleton), which syllable is stressed?"
+      },
+      "correctAnswer": "SKE-le-ton",
+      "options": [
+        "ske-LE-ton",
+        "SKE-le-ton",
+        "ske-le-TON",
+        "Ske-le-ton"
+      ],
+      "explanation": {
+        "en": "Penult has short ĕ → accent shifts to antepenult. (Examples, Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2017",
+      "type": "mcq",
+      "question": {
+        "en": "In 'forāmen' (foramen), which syllable is stressed?"
+      },
+      "correctAnswer": "fo-RĀ-men",
+      "options": [
+        "FO-ra-men",
+        "fo-RĀ-men",
+        "fo-ra-MEN",
+        "fO-ra-men"
+      ],
+      "explanation": {
+        "en": "Penult has long ā → stress the penult. (Examples, Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2018",
+      "type": "mcq",
+      "question": {
+        "en": "In 'urēter' (ureter), which syllable is stressed?"
+      },
+      "correctAnswer": "u-RĒ-ter",
+      "options": [
+        "U-re-ter",
+        "u-RĒ-ter",
+        "u-re-TER",
+        "ur-E-ter"
+      ],
+      "explanation": {
+        "en": "Penult has long ē → stress the penult. (Examples, Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2019",
+      "type": "mcq",
+      "question": {
+        "en": "If a medical term can't be stressed by the rules (unknown penult quantity), what should you do?"
+      },
+      "correctAnswer": "check it in a dictionary / lexicon",
+      "options": [
+        "stress the last syllable anyway",
+        "check it in a dictionary / lexicon",
+        "guess the penult",
+        "ignore accent"
+      ],
+      "explanation": {
+        "en": "Handout: if rules don't resolve, consult the Lexicon (textbook). (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2020",
+      "type": "mcq",
+      "question": {
+        "en": "In 'cervicalis', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "ca",
+      "options": [
+        "vi",
+        "lis",
+        "cer",
+        "ca"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2021",
+      "type": "mcq",
+      "question": {
+        "en": "In 'musculus', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "cu",
+      "options": [
+        "lus",
+        "mus",
+        "cu"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2022",
+      "type": "mcq",
+      "question": {
+        "en": "In 'ventriculus', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "cu",
+      "options": [
+        "tri",
+        "cu",
+        "ven",
+        "lus"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2023",
+      "type": "mcq",
+      "question": {
+        "en": "In 'mandibula', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "bu",
+      "options": [
+        "man",
+        "bu",
+        "di",
+        "la"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2024",
+      "type": "mcq",
+      "question": {
+        "en": "In 'diarrhoea', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "rhoe",
+      "options": [
+        "ar",
+        "a",
+        "di",
+        "rhoe"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2025",
+      "type": "mcq",
+      "question": {
+        "en": "In 'aetiologia', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "gi",
+      "options": [
+        "lo",
+        "a",
+        "ti",
+        "gi"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2026",
+      "type": "mcq",
+      "question": {
+        "en": "In 'ligamentum', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "men",
+      "options": [
+        "ga",
+        "li",
+        "men",
+        "tum"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2027",
+      "type": "mcq",
+      "question": {
+        "en": "In 'pancreas', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "cre",
+      "options": [
+        "pan",
+        "as",
+        "cre"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2028",
+      "type": "mcq",
+      "question": {
+        "en": "In 'cyanosis', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "no",
+      "options": [
+        "a",
+        "sis",
+        "no",
+        "cy"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2029",
+      "type": "mcq",
+      "question": {
+        "en": "In 'tympanum', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "pa",
+      "options": [
+        "pa",
+        "tym",
+        "num"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2030",
+      "type": "mcq",
+      "question": {
+        "en": "In 'adhaesivus', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "si",
+      "options": [
+        "hae",
+        "ad",
+        "vus",
+        "si"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2031",
+      "type": "mcq",
+      "question": {
+        "en": "In 'sinister', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "nis",
+      "options": [
+        "ter",
+        "nis",
+        "si"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2032",
+      "type": "mcq",
+      "question": {
+        "en": "In 'varicella', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "cel",
+      "options": [
+        "ri",
+        "cel",
+        "la",
+        "va"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2033",
+      "type": "mcq",
+      "question": {
+        "en": "In 'empyema', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "e",
+      "options": [
+        "em",
+        "e",
+        "py",
+        "ma"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2034",
+      "type": "mcq",
+      "question": {
+        "en": "In 'sutura', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "tu",
+      "options": [
+        "tu",
+        "su",
+        "ra"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2035",
+      "type": "mcq",
+      "question": {
+        "en": "In 'angulus', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "gu",
+      "options": [
+        "an",
+        "gu",
+        "lus"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2036",
+      "type": "mcq",
+      "question": {
+        "en": "In 'incisura', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "su",
+      "options": [
+        "su",
+        "in",
+        "ra",
+        "ci"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2037",
+      "type": "mcq",
+      "question": {
+        "en": "In 'tuberculum', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "cu",
+      "options": [
+        "lum",
+        "cu",
+        "tu",
+        "ber"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2038",
+      "type": "mcq",
+      "question": {
+        "en": "In 'articularis', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "la",
+      "options": [
+        "cu",
+        "la",
+        "ar",
+        "ris"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2039",
+      "type": "mcq",
+      "question": {
+        "en": "In 'opticus', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "ti",
+      "options": [
+        "cus",
+        "ti",
+        "op"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    },
+    {
+      "cardId": "s2-2040",
+      "type": "mcq",
+      "question": {
+        "en": "In 'pelvinus', what is the penult (next-to-last) syllable?"
+      },
+      "correctAnswer": "vi",
+      "options": [
+        "vi",
+        "pel",
+        "nus"
+      ],
+      "explanation": {
+        "en": "Find the penult before deciding stress. (Exercise II, p.7)"
+      }
+    }
+  ]
+}

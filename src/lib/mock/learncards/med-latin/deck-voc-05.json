@@ -1,0 +1,686 @@
+{
+  "schemaId": "studywithme-bg.vocab.v2",
+  "bookKey": "la-first-declension-teacher-deck",
+  "chapterKey": "ch-01-en-to-la",
+  "title": "Medical Latin — First Declension (EN → LA)",
+  "items": [
+    {
+      "word": "wing",
+      "translation": "ala, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "anatomy noun"
+    },
+    {
+      "word": "aorta",
+      "translation": "aorta, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "vessel"
+    },
+    {
+      "word": "artery",
+      "translation": "arteria, arteriae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "vessel"
+    },
+    {
+      "word": "beard",
+      "translation": "barba, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "general noun"
+    },
+    {
+      "word": "cheek",
+      "translation": "bucca, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "head anatomy"
+    },
+    {
+      "word": "roof of skull / skullcap",
+      "translation": "calvaria, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "skull"
+    },
+    {
+      "word": "cord",
+      "translation": "chorda, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "anatomy noun"
+    },
+    {
+      "word": "column",
+      "translation": "columna, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "anatomy noun"
+    },
+    {
+      "word": "commissure (junction between anatomical parts)",
+      "translation": "commissura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "junction"
+    },
+    {
+      "word": "concha",
+      "translation": "concha, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "ear / nasal anatomy"
+    },
+    {
+      "word": "conjunctiva",
+      "translation": "conjunctiva, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "eye"
+    },
+    {
+      "word": "rib",
+      "translation": "costa, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "thorax"
+    },
+    {
+      "word": "crest",
+      "translation": "crista, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "bone landmark"
+    },
+    {
+      "word": "cell",
+      "translation": "cellula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "histology"
+    },
+    {
+      "word": "clavicle / collarbone",
+      "translation": "clavicula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "fascia",
+      "translation": "fascia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "connective tissue"
+    },
+    {
+      "word": "fibula / calf bone",
+      "translation": "fibula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "lower limb"
+    },
+    {
+      "word": "fissure",
+      "translation": "fissura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "anatomical opening"
+    },
+    {
+      "word": "fossa",
+      "translation": "fossa, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "depression"
+    },
+    {
+      "word": "fovea / pit",
+      "translation": "fovea, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "depression"
+    },
+    {
+      "word": "small pit (minute fovea)",
+      "translation": "foveola, ae, f",
+      "hint": "diminutive 1st declension noun",
+      "examCue": "depression"
+    },
+    {
+      "word": "gum",
+      "translation": "gingiva, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "gland",
+      "translation": "glandula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "histology"
+    },
+    {
+      "word": "joint / junction",
+      "translation": "junctura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "connection"
+    },
+    {
+      "word": "plate / lamina",
+      "translation": "lamina, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "layer"
+    },
+    {
+      "word": "tongue",
+      "translation": "lingua, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "upper jaw bone",
+      "translation": "maxilla, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "skull"
+    },
+    {
+      "word": "medulla (inner region of organ)",
+      "translation": "medulla, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "organ structure"
+    },
+    {
+      "word": "membrane",
+      "translation": "membrana, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "histology"
+    },
+    {
+      "word": "orbit",
+      "translation": "orbita, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "eye socket"
+    },
+    {
+      "word": "eyelid",
+      "translation": "palpebra, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "eye"
+    },
+    {
+      "word": "pleura",
+      "translation": "pleura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "thorax"
+    },
+    {
+      "word": "fold",
+      "translation": "plica, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "mucosal fold"
+    },
+    {
+      "word": "pulp",
+      "translation": "pulpa, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "dental tissue"
+    },
+    {
+      "word": "kneecap",
+      "translation": "patella, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "knee"
+    },
+    {
+      "word": "nipple / papilla",
+      "translation": "papilla, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "projection"
+    },
+    {
+      "word": "pupil",
+      "translation": "pupilla, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "eye"
+    },
+    {
+      "word": "retina",
+      "translation": "retina, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "eye"
+    },
+    {
+      "word": "slit / fissure",
+      "translation": "rima, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "opening"
+    },
+    {
+      "word": "wrinkle / fold",
+      "translation": "ruga, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "surface fold"
+    },
+    {
+      "word": "saliva",
+      "translation": "saliva, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "oral secretion"
+    },
+    {
+      "word": "shoulder blade",
+      "translation": "scapula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "spine",
+      "translation": "spina, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "projection"
+    },
+    {
+      "word": "substance",
+      "translation": "substantia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "general anatomy"
+    },
+    {
+      "word": "suture",
+      "translation": "sutura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "skull"
+    },
+    {
+      "word": "tissue",
+      "translation": "tela, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "histology"
+    },
+    {
+      "word": "shin bone",
+      "translation": "tibia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "lower limb"
+    },
+    {
+      "word": "tonsil",
+      "translation": "tonsilla, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "oropharynx"
+    },
+    {
+      "word": "tube",
+      "translation": "tuba, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "tunic / layer",
+      "translation": "tunica, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "organ layer"
+    },
+    {
+      "word": "ulna",
+      "translation": "ulna, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "forearm"
+    },
+    {
+      "word": "uvula",
+      "translation": "uvula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "soft palate"
+    },
+    {
+      "word": "vagina",
+      "translation": "vagina, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "reproductive"
+    },
+    {
+      "word": "vertebra",
+      "translation": "vertebra, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "spine"
+    },
+    {
+      "word": "bladder",
+      "translation": "vesica, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "urinary"
+    },
+    {
+      "word": "baldness",
+      "translation": "alopecia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "anemia",
+      "translation": "anaemia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "angina",
+      "translation": "angina, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "fracture",
+      "translation": "fractura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "gangrene",
+      "translation": "gangraena, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "pregnant woman",
+      "translation": "gravida, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "obstetrics"
+    },
+    {
+      "word": "hemorrhage",
+      "translation": "haemorrhagia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "hernia",
+      "translation": "hernia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "notch",
+      "translation": "incisura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "bone landmark"
+    },
+    {
+      "word": "insufficiency",
+      "translation": "insufficientia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "spot / stain",
+      "translation": "macula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "clinical sign"
+    },
+    {
+      "word": "medicine",
+      "translation": "medicina, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "placenta",
+      "translation": "placenta, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "obstetrics"
+    },
+    {
+      "word": "rupture",
+      "translation": "ruptura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "stricture",
+      "translation": "strictura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "goiter / struma",
+      "translation": "struma, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "endocrine"
+    },
+    {
+      "word": "formula / recipe",
+      "translation": "formula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "prescription"
+    },
+    {
+      "word": "signature",
+      "translation": "signatura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "prescription"
+    },
+    {
+      "word": "pharmacy storeroom",
+      "translation": "officina, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "water",
+      "translation": "aqua, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "ampule",
+      "translation": "ampulla, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "drop",
+      "translation": "gutta, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "capsule",
+      "translation": "capsula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "wax",
+      "translation": "cera, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "paper / leaf",
+      "translation": "charta, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "essence",
+      "translation": "essentia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "herb",
+      "translation": "herba, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "materia medica"
+    },
+    {
+      "word": "wool",
+      "translation": "lana, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "mixture",
+      "translation": "mixtura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "tablet",
+      "translation": "tabuletta, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "paste",
+      "translation": "pasta, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "vial / phial",
+      "translation": "phiala, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "container"
+    },
+    {
+      "word": "plant",
+      "translation": "planta, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "materia medica"
+    },
+    {
+      "word": "tincture",
+      "translation": "tinctura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "pillbox",
+      "translation": "scatula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "container"
+    },
+    {
+      "word": "tea",
+      "translation": "thea, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "materia medica"
+    },
+    {
+      "word": "almond",
+      "translation": "Amygdala, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "oats",
+      "translation": "Avena, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "camomile",
+      "translation": "Chamomilla, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "belladonna",
+      "translation": "Belladonna, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "rose",
+      "translation": "Rosa, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "lime tree",
+      "translation": "Tilia, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "nettle",
+      "translation": "urtica, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "olive",
+      "translation": "Oliva, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "rice",
+      "translation": "Oryza, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "mint",
+      "translation": "Mentha, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "valerian",
+      "translation": "Valeriana, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "plant"
+    },
+    {
+      "word": "dentist",
+      "translation": "dentista, ae, m",
+      "hint": "masculine exception (-a)",
+      "examCue": "profession"
+    },
+    {
+      "word": "pharmacist",
+      "translation": "pharmacopola, ae, m",
+      "hint": "masculine exception (-a)",
+      "examCue": "profession"
+    },
+    {
+      "word": "colleague",
+      "translation": "collega, ae, m",
+      "hint": "masculine exception (-a)",
+      "examCue": "profession"
+    },
+    {
+      "word": "woman",
+      "translation": "femina, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "general noun"
+    },
+    {
+      "word": "tear",
+      "translation": "lacrima, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "eye"
+    },
+    {
+      "word": "memory",
+      "translation": "memoria, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "general noun"
+    },
+    {
+      "word": "form / shape",
+      "translation": "forma, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "general noun"
+    },
+    {
+      "word": "vein",
+      "translation": "vena, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "vessel"
+    },
+    {
+      "word": "nature",
+      "translation": "natura, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "general noun"
+    },
+    {
+      "word": "female breast",
+      "translation": "mamma, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "surface anatomy"
+    },
+    {
+      "word": "mandible / lower jaw",
+      "translation": "mandibula, ae, f",
+      "hint": "1st declension feminine noun",
+      "examCue": "skull"
+    }
+  ]
+}

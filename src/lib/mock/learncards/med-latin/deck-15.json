@@ -1,0 +1,3715 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "la-third-declension-is-forms-216-premium",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Third Declension Greek-Type Terms Exam Deck",
+      "de": "Medizinisches Latein — Premium-Prüfungsdeck zu griechisch geprägten Begriffen der 3. Deklination"
+    },
+    "description": {
+      "en": "Refactored 216-card exam deck built from the teacher's 108-term list. Includes both Latin→English and English→Latin recall, cognitively stronger distractors, and concise explanations with clinical usage. Example: 'tussis' means cough; chronic bronchitis often presents with persistent tussis.",
+      "de": "Überarbeitetes Prüfungsdeck mit 216 Karten auf Basis der 108 Begriffe umfassenden Dozentenliste. Enthält sowohl Latein→Englisch als auch Englisch→Latein, kognitiv stärkere Distraktoren und knappe Erklärungen mit klinischem Gebrauch. Example: 'tussis' bedeutet Husten; chronische Bronchitis präsentiert sich oft mit persistierender tussis."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "third-declension",
+      "greek-type",
+      "pathology",
+      "anatomy",
+      "dental",
+      "ENT",
+      "gynecology",
+      "learncards",
+      "exam",
+      "reverse-recall",
+      "premium"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 150,
+    "cardCount": 216,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    },
+    "source": {
+      "file": "deck-15.json",
+      "exam": "Medical Latin terminology"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "la-is-refwd-0001",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tussis, is, f'?"
+      },
+      "correctAnswer": "cough",
+      "options": [
+        "crisis",
+        "dose",
+        "salt",
+        "cough"
+      ],
+      "explanation": {
+        "en": "tussis, is, f means 'cough'. Example: Tracheostenosis narrows the tracheal lumen and can cause dyspnea."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0002",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sitis, is, f'?"
+      },
+      "correctAnswer": "thirst",
+      "options": [
+        "thirst",
+        "network",
+        "animal",
+        "crisis"
+      ],
+      "explanation": {
+        "en": "sitis, is, f means 'thirst'. Example: Febris with cough may suggest an acute infection."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0003",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pelvis, is, f'?"
+      },
+      "correctAnswer": "pelvis; renal pelvis",
+      "options": [
+        "base; foundation",
+        "cushion; pillow",
+        "spur; bony spur",
+        "pelvis; renal pelvis"
+      ],
+      "explanation": {
+        "en": "pelvis, is, f means 'pelvis; renal pelvis'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0004",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'febris, is, f'?"
+      },
+      "correctAnswer": "fever; elevated temperature",
+      "options": [
+        "stasis of bile; cholestasis",
+        "fever; elevated temperature",
+        "joining together; synthesis",
+        "fungal disease of the nails"
+      ],
+      "explanation": {
+        "en": "febris, is, f means 'fever; elevated temperature'. Example: Febris with cough may suggest an acute infection."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0005",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'basis, is, f'?"
+      },
+      "correctAnswer": "base; foundation",
+      "options": [
+        "base; foundation",
+        "cushion; pillow",
+        "spur; bony spur",
+        "pelvis; renal pelvis"
+      ],
+      "explanation": {
+        "en": "basis, is, f means 'base; foundation'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0006",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'statis, is, f'?"
+      },
+      "correctAnswer": "stasis; stagnation",
+      "options": [
+        "predisposition",
+        "stasis; stagnation",
+        "stenosis; narrowing",
+        "sclerosis; hardening"
+      ],
+      "explanation": {
+        "en": "statis, is, f means 'stasis; stagnation'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0007",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'diathesis, is, f'?"
+      },
+      "correctAnswer": "predisposition",
+      "options": [
+        "stasis; stagnation",
+        "stenosis; narrowing",
+        "predisposition",
+        "sclerosis; hardening"
+      ],
+      "explanation": {
+        "en": "diathesis, is, f means 'predisposition'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0008",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'paresis, is, f'?"
+      },
+      "correctAnswer": "partial paralysis",
+      "options": [
+        "predisposition",
+        "partial paralysis",
+        "prosthesis",
+        "vomiting of blood"
+      ],
+      "explanation": {
+        "en": "paresis, is, f means 'partial paralysis'. Example: Paresis is weakness, unlike plegia which is complete paralysis."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0009",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'centesis, is, f'?"
+      },
+      "correctAnswer": "puncture; surgical tapping",
+      "options": [
+        "surgical removal of adhesions",
+        "puncture; surgical tapping",
+        "puncture to remove fluid from the abdominal cavity",
+        "puncture to obtain amniotic fluid"
+      ],
+      "explanation": {
+        "en": "centesis, is, f means 'puncture; surgical tapping'. Example: Amniocentesis is a centesis used to obtain amniotic fluid."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0010",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'necrosis, is, f'?"
+      },
+      "correctAnswer": "necrosis; localized tissue death",
+      "options": [
+        "stone formation; calculus formation",
+        "necrosis; localized tissue death",
+        "desiccation; severe dehydration",
+        "overgrowth of adipose tissue"
+      ],
+      "explanation": {
+        "en": "necrosis, is, f means 'necrosis; localized tissue death'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0011",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tuberculosis, is, f'?"
+      },
+      "correctAnswer": "tuberculosis",
+      "options": [
+        "tuberculosis",
+        "prognosis",
+        "diagnosis",
+        "psychosis"
+      ],
+      "explanation": {
+        "en": "tuberculosis, is, f means 'tuberculosis'. Example: Sepsis is a life-threatening systemic response to infection."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0012",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'metastasis, is, f'?"
+      },
+      "correctAnswer": "metastasis; spread of disease",
+      "options": [
+        "fungal disease of the nails",
+        "fungal disease of the hair",
+        "metastasis; spread of disease",
+        "fungal disease of the ear"
+      ],
+      "explanation": {
+        "en": "metastasis, is, f means 'metastasis; spread of disease'. Example: Metastasis means spread from a primary tumor to a distant site."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0013",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'emesis, is, f'?"
+      },
+      "correctAnswer": "vomiting",
+      "options": [
+        "vomiting",
+        "vomiting of blood",
+        "downward displacement of the cecum",
+        "narrowing of the pylorus"
+      ],
+      "explanation": {
+        "en": "emesis, is, f means 'vomiting'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0014",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'lithiasis, is, f'?"
+      },
+      "correctAnswer": "stone formation; calculus formation",
+      "options": [
+        "downward displacement of the diaphragm",
+        "necrosis; localized tissue death",
+        "desiccation; severe dehydration",
+        "stone formation; calculus formation"
+      ],
+      "explanation": {
+        "en": "lithiasis, is, f means 'stone formation; calculus formation'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0015",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'synthesis, is, f'?"
+      },
+      "correctAnswer": "joining together; synthesis",
+      "options": [
+        "vomiting of blood",
+        "enuresis; involuntary urination",
+        "joining together; synthesis",
+        "partial paralysis"
+      ],
+      "explanation": {
+        "en": "synthesis, is, f means 'joining together; synthesis'. Example: Exemplar means a model or specimen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0016",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pyrosis, is, f'?"
+      },
+      "correctAnswer": "heartburn; burning sensation in the stomach",
+      "options": [
+        "heartburn; burning sensation in the stomach",
+        "downward displacement of the cecum",
+        "pathological narrowing of the intestine",
+        "downward displacement of the colon"
+      ],
+      "explanation": {
+        "en": "pyrosis, is, f means 'heartburn; burning sensation in the stomach'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0017",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dosis, is, f'?"
+      },
+      "correctAnswer": "dose",
+      "options": [
+        "dose",
+        "prognosis",
+        "diagnosis",
+        "psychosis"
+      ],
+      "explanation": {
+        "en": "dosis, is, f means 'dose'. Example: Dosis is the amount of a drug given at one time."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0018",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sclerosis, is, f'?"
+      },
+      "correctAnswer": "sclerosis; hardening",
+      "options": [
+        "stasis; stagnation",
+        "malformation; monstrosity",
+        "sclerosis; hardening",
+        "stenosis; narrowing"
+      ],
+      "explanation": {
+        "en": "sclerosis, is, f means 'sclerosis; hardening'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0019",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'stenosis, is, f'?"
+      },
+      "correctAnswer": "stenosis; narrowing",
+      "options": [
+        "stenosis; narrowing",
+        "sclerosis; hardening",
+        "predisposition",
+        "stasis; stagnation"
+      ],
+      "explanation": {
+        "en": "stenosis, is, f means 'stenosis; narrowing'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0020",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'prognosis, is, f'?"
+      },
+      "correctAnswer": "prognosis",
+      "options": [
+        "psychosis",
+        "tuberculosis",
+        "prognosis",
+        "diagnosis"
+      ],
+      "explanation": {
+        "en": "prognosis, is, f means 'prognosis'. Example: Prognosis concerns expected outcome, not diagnosis."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0021",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'crisis, is, f'?"
+      },
+      "correctAnswer": "crisis",
+      "options": [
+        "animal",
+        "thirst",
+        "network",
+        "crisis"
+      ],
+      "explanation": {
+        "en": "crisis, is, f means 'crisis'. Example: Prognosis concerns expected outcome, not diagnosis."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0022",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cystis, is, f'?"
+      },
+      "correctAnswer": "cyst",
+      "options": [
+        "predisposition",
+        "stenosis; narrowing",
+        "cyst",
+        "stasis; stagnation"
+      ],
+      "explanation": {
+        "en": "cystis, is, f means 'cyst'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0023",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'prophylaxis, is, f'?"
+      },
+      "correctAnswer": "prevention; prophylaxis",
+      "options": [
+        "congenital cleft palate",
+        "prevention; prophylaxis",
+        "sepsis; blood poisoning",
+        "narrowing of the larynx"
+      ],
+      "explanation": {
+        "en": "prophylaxis, is, f means 'prevention; prophylaxis'. Example: Prophylaxis means preventing disease before it occurs."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0024",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cyanosis, is, f'?"
+      },
+      "correctAnswer": "cyanosis; bluish discoloration",
+      "options": [
+        "cyanosis; bluish discoloration",
+        "necrosis; localized tissue death",
+        "hemorrhage into a joint cavity",
+        "desiccation; severe dehydration"
+      ],
+      "explanation": {
+        "en": "cyanosis, is, f means 'cyanosis; bluish discoloration'. Example: Cyanosis suggests reduced oxygenation or poor perfusion."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0025",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'diagnosis, is, f'?"
+      },
+      "correctAnswer": "diagnosis",
+      "options": [
+        "diagnosis",
+        "psychosis",
+        "crisis",
+        "prognosis"
+      ],
+      "explanation": {
+        "en": "diagnosis, is, f means 'diagnosis'. Example: Prognosis concerns expected outcome, not diagnosis."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0026",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sepsis, is, f'?"
+      },
+      "correctAnswer": "sepsis; blood poisoning",
+      "options": [
+        "vomiting of blood",
+        "sepsis; blood poisoning",
+        "increased number of white blood cells in the blood",
+        "congenital cleft palate"
+      ],
+      "explanation": {
+        "en": "sepsis, is, f means 'sepsis; blood poisoning'. Example: Sepsis is a life-threatening systemic response to infection."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0027",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'propolis, is, f'?"
+      },
+      "correctAnswer": "propolis; bee glue",
+      "options": [
+        "propolis; bee glue",
+        "excessive sweating",
+        "stasis; stagnation",
+        "partial paralysis"
+      ],
+      "explanation": {
+        "en": "propolis, is, f means 'propolis; bee glue'. Example: Dosis is the amount of a drug given at one time."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0028",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'psoriasis, is, f'?"
+      },
+      "correctAnswer": "psoriasis",
+      "options": [
+        "fungal disease of the hair",
+        "excessive sweating",
+        "absence of sweating",
+        "psoriasis"
+      ],
+      "explanation": {
+        "en": "psoriasis, is, f means 'psoriasis'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0029",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pityriasis, is, f'?"
+      },
+      "correctAnswer": "pityriasis; scaling skin disease",
+      "options": [
+        "fungal infection of the skin",
+        "pityriasis; scaling skin disease",
+        "fungal disease of the nails",
+        "non-inflammatory disease of the skin"
+      ],
+      "explanation": {
+        "en": "pityriasis, is, f means 'pityriasis; scaling skin disease'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0030",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'anamnesis, is, f'?"
+      },
+      "correctAnswer": "anamnesis; medical history taken from the patient",
+      "options": [
+        "joining together; synthesis",
+        "anamnesis; medical history taken from the patient",
+        "amount of urine excreted in 24 hours; diuresis",
+        "enuresis; involuntary urination"
+      ],
+      "explanation": {
+        "en": "anamnesis, is, f means 'anamnesis; medical history taken from the patient'. Example: Anamnesis is the patient history taken before examination."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0031",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'prothesis, is, f'?"
+      },
+      "correctAnswer": "prosthesis",
+      "options": [
+        "partial paralysis",
+        "vomiting",
+        "prosthesis",
+        "predisposition"
+      ],
+      "explanation": {
+        "en": "prothesis, is, f means 'prosthesis'. Example: Adhaesiolysis means surgical division of adhesions."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0032",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dentinogenesis, is, f'?"
+      },
+      "correctAnswer": "formation of dentin",
+      "options": [
+        "formation of dentin",
+        "formation of enamel",
+        "process of tooth formation",
+        "formation of dental calculus"
+      ],
+      "explanation": {
+        "en": "dentinogenesis, is, f means 'formation of dentin'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0033",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'amelogenesis, is, f'?"
+      },
+      "correctAnswer": "formation of enamel",
+      "options": [
+        "formation of dental calculus",
+        "process of tooth formation",
+        "formation of dentin",
+        "formation of enamel"
+      ],
+      "explanation": {
+        "en": "amelogenesis, is, f means 'formation of enamel'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0034",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'narcosis, is, f'?"
+      },
+      "correctAnswer": "narcosis; general anesthesia",
+      "options": [
+        "narrowing of a salivary duct",
+        "overgrowth of adipose tissue",
+        "fungal infection of the skin",
+        "narcosis; general anesthesia"
+      ],
+      "explanation": {
+        "en": "narcosis, is, f means 'narcosis; general anesthesia'. Example: Narcosis refers to general anesthesia or deep drug-induced unconsciousness."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0035",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'exsiccosis, is, f'?"
+      },
+      "correctAnswer": "desiccation; severe dehydration",
+      "options": [
+        "overgrowth of adipose tissue",
+        "stone formation; calculus formation",
+        "desiccation; severe dehydration",
+        "necrosis; localized tissue death"
+      ],
+      "explanation": {
+        "en": "exsiccosis, is, f means 'desiccation; severe dehydration'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0036",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'teratosis, is, f'?"
+      },
+      "correctAnswer": "malformation; monstrosity",
+      "options": [
+        "malformation; monstrosity",
+        "overgrowth of adipose tissue",
+        "sclerosis; hardening",
+        "desiccation; severe dehydration"
+      ],
+      "explanation": {
+        "en": "teratosis, is, f means 'malformation; monstrosity'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0037",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dysostosis, is, f'?"
+      },
+      "correctAnswer": "disordered development of the skeletal system",
+      "options": [
+        "death of bone tissue",
+        "disordered development of the skeletal system",
+        "outgrowth of bone due to inflammation",
+        "loss of bone mass and density leading to fragility"
+      ],
+      "explanation": {
+        "en": "dysostosis, is, f means 'disordered development of the skeletal system'. Example: Osteonecrosis means death of bone tissue."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0038",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'hyperthyreosis, is, f'?"
+      },
+      "correctAnswer": "hyperthyroidism; overfunction of the thyroid gland",
+      "options": [
+        "downward displacement of the tongue toward the throat",
+        "increased number of white blood cells in the blood",
+        "destruction of the periodontal supporting structures",
+        "hyperthyroidism; overfunction of the thyroid gland"
+      ],
+      "explanation": {
+        "en": "hyperthyreosis, is, f means 'hyperthyroidism; overfunction of the thyroid gland'. Example: The meaning is best confirmed by the clinical context and the word parts."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0039",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'lipomatosis, is, f'?"
+      },
+      "correctAnswer": "overgrowth of adipose tissue",
+      "options": [
+        "downward displacement of the diaphragm",
+        "necrosis; localized tissue death",
+        "overgrowth of adipose tissue",
+        "fatty degeneration of organs; steatosis"
+      ],
+      "explanation": {
+        "en": "lipomatosis, is, f means 'overgrowth of adipose tissue'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0040",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'atherosclerosis, is, f'?"
+      },
+      "correctAnswer": "atherosclerosis; plaque formation causing hardening and narrowing of arteries",
+      "options": [
+        "atherosclerosis; plaque formation causing hardening and narrowing of arteries",
+        "pathological narrowing of the intestine",
+        "formation of dense connective tissue in the middle ear",
+        "loss of bone mass and density leading to fragility"
+      ],
+      "explanation": {
+        "en": "atherosclerosis, is, f means 'atherosclerosis; plaque formation causing hardening and narrowing of arteries'. Example: The meaning is best confirmed by the clinical context and the word parts."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0041",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'parodontosis, is, f'?"
+      },
+      "correctAnswer": "atrophy of the periodontal tissues",
+      "options": [
+        "atrophy of the periodontal tissues",
+        "process of tooth formation",
+        "destruction of the periodontal supporting structures",
+        "formation of dental calculus"
+      ],
+      "explanation": {
+        "en": "parodontosis, is, f means 'atrophy of the periodontal tissues'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0042",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'adhaesiolysis, is, f'?"
+      },
+      "correctAnswer": "surgical removal of adhesions",
+      "options": [
+        "destruction or loosening of the epidermis",
+        "suppression of uterine contractions to stop labor",
+        "detachment of the nail from the nail bed",
+        "surgical removal of adhesions"
+      ],
+      "explanation": {
+        "en": "adhaesiolysis, is, f means 'surgical removal of adhesions'. Example: Adhaesiolysis means surgical division of adhesions."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0043",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'epidermolysis, is, f'?"
+      },
+      "correctAnswer": "destruction or loosening of the epidermis",
+      "options": [
+        "destruction or loosening of the epidermis",
+        "excessive keratinization of the epidermis",
+        "detachment of the nail from the nail bed",
+        "non-inflammatory disease of the skin"
+      ],
+      "explanation": {
+        "en": "epidermolysis, is, f means 'destruction or loosening of the epidermis'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0044",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'rete, is, n'?"
+      },
+      "correctAnswer": "network",
+      "options": [
+        "base; foundation",
+        "network",
+        "spur; bony spur",
+        "cushion; pillow"
+      ],
+      "explanation": {
+        "en": "rete, is, n means 'network'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0045",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'animal, alis, n'?"
+      },
+      "correctAnswer": "animal",
+      "options": [
+        "thirst",
+        "animal",
+        "crisis",
+        "network"
+      ],
+      "explanation": {
+        "en": "animal, alis, n means 'animal'. Example: Exemplar means a model or specimen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0046",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'exemplar, aris, n'?"
+      },
+      "correctAnswer": "example; specimen",
+      "options": [
+        "example; specimen",
+        "excessive sweating",
+        "partial paralysis",
+        "vomiting of blood"
+      ],
+      "explanation": {
+        "en": "exemplar, aris, n means 'example; specimen'. Example: Exemplar means a model or specimen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0047",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'thenar, aris, n'?"
+      },
+      "correctAnswer": "thenar eminence; elevation of the palm along the thumb",
+      "options": [
+        "thenar eminence; elevation of the palm along the thumb",
+        "pelvis; renal pelvis",
+        "base; foundation",
+        "cushion; pillow"
+      ],
+      "explanation": {
+        "en": "thenar, aris, n means 'thenar eminence; elevation of the palm along the thumb'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0048",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pulvinar, aris, n'?"
+      },
+      "correctAnswer": "cushion; pillow",
+      "options": [
+        "pelvis; renal pelvis",
+        "cushion; pillow",
+        "base; foundation",
+        "spur; bony spur"
+      ],
+      "explanation": {
+        "en": "pulvinar, aris, n means 'cushion; pillow'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0049",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ilia, ium, n pl.'?"
+      },
+      "correctAnswer": "flanks; groins",
+      "options": [
+        "flanks; groins",
+        "cushion; pillow",
+        "spur; bony spur",
+        "predisposition"
+      ],
+      "explanation": {
+        "en": "ilia, ium, n pl. means 'flanks; groins'. Example: Ilia can refer to the flank or groin regions."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0050",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sal, salis, n'?"
+      },
+      "correctAnswer": "salt",
+      "options": [
+        "cyst",
+        "dose",
+        "cough",
+        "salt"
+      ],
+      "explanation": {
+        "en": "sal, salis, n means 'salt'. Example: Sal is the Latin noun for salt."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0051",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'calcar, aris, n'?"
+      },
+      "correctAnswer": "spur; bony spur",
+      "options": [
+        "cushion; pillow",
+        "pelvis; renal pelvis",
+        "spur; bony spur",
+        "base; foundation"
+      ],
+      "explanation": {
+        "en": "calcar, aris, n means 'spur; bony spur'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0052",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'psychosis, is, f'?"
+      },
+      "correctAnswer": "psychosis",
+      "options": [
+        "tuberculosis",
+        "psychosis",
+        "diagnosis",
+        "prognosis"
+      ],
+      "explanation": {
+        "en": "psychosis, is, f means 'psychosis'. Example: Psychosis involves impaired contact with reality."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0053",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'enuresis, is, f'?"
+      },
+      "correctAnswer": "enuresis; involuntary urination",
+      "options": [
+        "enuresis; involuntary urination",
+        "formation of stones in the kidneys",
+        "joining together; synthesis",
+        "vomiting of blood"
+      ],
+      "explanation": {
+        "en": "enuresis, is, f means 'enuresis; involuntary urination'. Example: Enuresis is involuntary urination, often during sleep."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0054",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'nephrolithiasis, is, f'?"
+      },
+      "correctAnswer": "formation of stones in the kidneys",
+      "options": [
+        "formation of stones in the salivary ducts",
+        "formation of stones in the gallbladder",
+        "formation of dental calculus",
+        "formation of stones in the kidneys"
+      ],
+      "explanation": {
+        "en": "nephrolithiasis, is, f means 'formation of stones in the kidneys'. Example: Enuresis is involuntary urination, often during sleep."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0055",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cholecystolithiasis, is, f'?"
+      },
+      "correctAnswer": "formation of stones in the gallbladder",
+      "options": [
+        "formation of stones in the gallbladder",
+        "formation of dental calculus",
+        "formation of stones in the salivary ducts",
+        "formation of stones in the kidneys"
+      ],
+      "explanation": {
+        "en": "cholecystolithiasis, is, f means 'formation of stones in the gallbladder'. Example: Cholestasis means impaired bile flow with bile stasis."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0056",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'arthrosis, is, f'?"
+      },
+      "correctAnswer": "arthrosis; non-inflammatory joint disease",
+      "options": [
+        "degenerative disease of the hip joint",
+        "arthrosis; non-inflammatory joint disease",
+        "accumulation of fluid in a joint cavity",
+        "degenerative disease of the knee joint"
+      ],
+      "explanation": {
+        "en": "arthrosis, is, f means 'arthrosis; non-inflammatory joint disease'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0057",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'coxarthrosis, is, f'?"
+      },
+      "correctAnswer": "degenerative disease of the hip joint",
+      "options": [
+        "degenerative disease of the vertebrae leading to stiffness",
+        "degenerative disease of the hip joint",
+        "degenerative disease of the knee joint",
+        "accumulation of fluid in a joint cavity"
+      ],
+      "explanation": {
+        "en": "coxarthrosis, is, f means 'degenerative disease of the hip joint'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0058",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'haemarthosis, is, f'?"
+      },
+      "correctAnswer": "hemorrhage into a joint cavity",
+      "options": [
+        "degenerative disease of the hip joint",
+        "hemorrhage into a joint cavity",
+        "accumulation of fluid in a joint cavity",
+        "degenerative disease of the knee joint"
+      ],
+      "explanation": {
+        "en": "haemarthosis, is, f means 'hemorrhage into a joint cavity'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0059",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'spondylosis, is, f'?"
+      },
+      "correctAnswer": "degenerative disease of the vertebrae leading to stiffness",
+      "options": [
+        "degenerative disease of the hip joint",
+        "degenerative disease of the knee joint",
+        "arthrosis; non-inflammatory joint disease",
+        "degenerative disease of the vertebrae leading to stiffness"
+      ],
+      "explanation": {
+        "en": "spondylosis, is, f means 'degenerative disease of the vertebrae leading to stiffness'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0060",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'gonarthrosis, is, f'?"
+      },
+      "correctAnswer": "degenerative disease of the knee joint",
+      "options": [
+        "accumulation of fluid in a joint cavity",
+        "degenerative disease of the vertebrae leading to stiffness",
+        "degenerative disease of the hip joint",
+        "degenerative disease of the knee joint"
+      ],
+      "explanation": {
+        "en": "gonarthrosis, is, f means 'degenerative disease of the knee joint'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0061",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'histogenesis, is, f'?"
+      },
+      "correctAnswer": "formation of tissues",
+      "options": [
+        "process of tooth formation",
+        "formation of dentin",
+        "formation of tissues",
+        "formation of enamel"
+      ],
+      "explanation": {
+        "en": "histogenesis, is, f means 'formation of tissues'. Example: Histogenesis is the formation and differentiation of tissues."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0062",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'haematemesis, is, f'?"
+      },
+      "correctAnswer": "vomiting of blood",
+      "options": [
+        "downward displacement of the cecum",
+        "narrowing of the pylorus",
+        "vomiting of blood",
+        "vomiting"
+      ],
+      "explanation": {
+        "en": "haematemesis, is, f means 'vomiting of blood'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0063",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'osteonecrosis, is, f'?"
+      },
+      "correctAnswer": "death of bone tissue",
+      "options": [
+        "loss of bone mass and density leading to fragility",
+        "outgrowth of bone due to inflammation",
+        "death of bone tissue",
+        "disordered development of the skeletal system"
+      ],
+      "explanation": {
+        "en": "osteonecrosis, is, f means 'death of bone tissue'. Example: Osteonecrosis means death of bone tissue."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0064",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'osteoporosis, is, f'?"
+      },
+      "correctAnswer": "loss of bone mass and density leading to fragility",
+      "options": [
+        "outgrowth of bone due to inflammation",
+        "loss of bone mass and density leading to fragility",
+        "death of bone tissue",
+        "disordered development of the skeletal system"
+      ],
+      "explanation": {
+        "en": "osteoporosis, is, f means 'loss of bone mass and density leading to fragility'. Example: Osteonecrosis means death of bone tissue."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0065",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dermatomycosis, is, f'?"
+      },
+      "correctAnswer": "fungal infection of the skin",
+      "options": [
+        "non-inflammatory disease of the skin",
+        "fungal infection of the skin",
+        "fungal disease of the hair",
+        "fungal disease of the nails"
+      ],
+      "explanation": {
+        "en": "dermatomycosis, is, f means 'fungal infection of the skin'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0066",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dermatosis, is, f'?"
+      },
+      "correctAnswer": "non-inflammatory disease of the skin",
+      "options": [
+        "fungal infection of the skin",
+        "fungal disease of the hair",
+        "fungal disease of the nails",
+        "non-inflammatory disease of the skin"
+      ],
+      "explanation": {
+        "en": "dermatosis, is, f means 'non-inflammatory disease of the skin'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0067",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'onychomycosis, is, f'?"
+      },
+      "correctAnswer": "fungal disease of the nails",
+      "options": [
+        "non-inflammatory disease of the skin",
+        "fungal disease of the hair",
+        "fungal disease of the nails",
+        "fungal infection of the skin"
+      ],
+      "explanation": {
+        "en": "onychomycosis, is, f means 'fungal disease of the nails'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0068",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'onycholysis, is, f'?"
+      },
+      "correctAnswer": "detachment of the nail from the nail bed",
+      "options": [
+        "destruction or loosening of the epidermis",
+        "detachment of the nail from the nail bed",
+        "excessive keratinization of the epidermis",
+        "non-inflammatory disease of the skin"
+      ],
+      "explanation": {
+        "en": "onycholysis, is, f means 'detachment of the nail from the nail bed'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0069",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'hyperkeratosis, is, f'?"
+      },
+      "correctAnswer": "excessive keratinization of the epidermis",
+      "options": [
+        "destruction or loosening of the epidermis",
+        "detachment of the nail from the nail bed",
+        "excessive keratinization of the epidermis",
+        "non-inflammatory disease of the skin"
+      ],
+      "explanation": {
+        "en": "hyperkeratosis, is, f means 'excessive keratinization of the epidermis'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0070",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'trichomycosis, is, f'?"
+      },
+      "correctAnswer": "fungal disease of the hair",
+      "options": [
+        "non-inflammatory disease of the skin",
+        "fungal disease of the nails",
+        "fungal infection of the skin",
+        "fungal disease of the hair"
+      ],
+      "explanation": {
+        "en": "trichomycosis, is, f means 'fungal disease of the hair'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0071",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cheilognathoschisis'?"
+      },
+      "correctAnswer": "cleft of the upper lip and upper jaw",
+      "options": [
+        "cleft of the upper lip and upper jaw",
+        "congenital cleft palate",
+        "congenital cleft of the palate, upper jaw, and upper lip",
+        "cleft lip; congenital split of the upper lip"
+      ],
+      "explanation": {
+        "en": "cheilognathoschisis means 'cleft of the upper lip and upper jaw'. Example: Cheiloschisis is a congenital cleft of the upper lip."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0072",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'otomycosis, is, f'?"
+      },
+      "correctAnswer": "fungal disease of the ear",
+      "options": [
+        "fungal disease of the ear",
+        "formation of dense connective tissue in the middle ear",
+        "narrowing of the larynx",
+        "deafness; total hearing loss"
+      ],
+      "explanation": {
+        "en": "otomycosis, is, f means 'fungal disease of the ear'. Example: Otomycosis is a fungal infection of the external ear canal."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0073",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'anacusis, is, f'?"
+      },
+      "correctAnswer": "deafness; total hearing loss",
+      "options": [
+        "narrowing of the larynx",
+        "deafness; total hearing loss",
+        "fungal disease of the ear",
+        "formation of dense connective tissue in the middle ear"
+      ],
+      "explanation": {
+        "en": "anacusis, is, f means 'deafness; total hearing loss'. Example: Otomycosis is a fungal infection of the external ear canal."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0074",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'stomatomycosis, is, f'?"
+      },
+      "correctAnswer": "fungal disease of the oral cavity",
+      "options": [
+        "cracking and fissuring of the lips",
+        "formation of stones in the salivary ducts",
+        "fungal disease of the oral cavity",
+        "downward displacement of the tongue toward the throat"
+      ],
+      "explanation": {
+        "en": "stomatomycosis, is, f means 'fungal disease of the oral cavity'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0075",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cheilosis, is, f'?"
+      },
+      "correctAnswer": "cracking and fissuring of the lips",
+      "options": [
+        "cracking and fissuring of the lips",
+        "formation of stones in the salivary ducts",
+        "fungal disease of the oral cavity",
+        "downward displacement of the tongue toward the throat"
+      ],
+      "explanation": {
+        "en": "cheilosis, is, f means 'cracking and fissuring of the lips'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0076",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cheiloschisis'?"
+      },
+      "correctAnswer": "cleft lip; congenital split of the upper lip",
+      "options": [
+        "cleft of the upper lip and upper jaw",
+        "congenital cleft of the palate, upper jaw, and upper lip",
+        "cleft lip; congenital split of the upper lip",
+        "congenital cleft palate"
+      ],
+      "explanation": {
+        "en": "cheiloschisis means 'cleft lip; congenital split of the upper lip'. Example: Cheiloschisis is a congenital cleft of the upper lip."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0077",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'glossoptosis, is, f'?"
+      },
+      "correctAnswer": "downward displacement of the tongue toward the throat",
+      "options": [
+        "formation of stones in the salivary ducts",
+        "fungal disease of the oral cavity",
+        "downward displacement of the tongue toward the throat",
+        "cracking and fissuring of the lips"
+      ],
+      "explanation": {
+        "en": "glossoptosis, is, f means 'downward displacement of the tongue toward the throat'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0078",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'uranoschisis, is, f = palatoschisis, is, f'?"
+      },
+      "correctAnswer": "congenital cleft palate",
+      "options": [
+        "cleft of the upper lip and upper jaw",
+        "congenital cleft palate",
+        "congenital cleft of the palate, upper jaw, and upper lip",
+        "cleft lip; congenital split of the upper lip"
+      ],
+      "explanation": {
+        "en": "uranoschisis, is, f = palatoschisis, is, f means 'congenital cleft palate'. Example: Cheiloschisis is a congenital cleft of the upper lip."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0079",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cheilognathouranoschisis, is, f'?"
+      },
+      "correctAnswer": "congenital cleft of the palate, upper jaw, and upper lip",
+      "options": [
+        "congenital cleft of the palate, upper jaw, and upper lip",
+        "cleft of the upper lip and upper jaw",
+        "cleft lip; congenital split of the upper lip",
+        "congenital cleft palate"
+      ],
+      "explanation": {
+        "en": "cheilognathouranoschisis, is, f means 'congenital cleft of the palate, upper jaw, and upper lip'. Example: Cheiloschisis is a congenital cleft of the upper lip."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0080",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'laryngostenosis, is, f'?"
+      },
+      "correctAnswer": "narrowing of the larynx",
+      "options": [
+        "formation of dense connective tissue in the middle ear",
+        "narrowing of the larynx",
+        "fungal disease of the ear",
+        "deafness; total hearing loss"
+      ],
+      "explanation": {
+        "en": "laryngostenosis, is, f means 'narrowing of the larynx'. Example: Otomycosis is a fungal infection of the external ear canal."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0081",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'odontogenesis, is, f'?"
+      },
+      "correctAnswer": "process of tooth formation",
+      "options": [
+        "formation of dentin",
+        "formation of enamel",
+        "process of tooth formation",
+        "formation of dental calculus"
+      ],
+      "explanation": {
+        "en": "odontogenesis, is, f means 'process of tooth formation'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0082",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'parodontolysis, is, f = parodontosis, is, f'?"
+      },
+      "correctAnswer": "destruction of the periodontal supporting structures",
+      "options": [
+        "destruction of the periodontal supporting structures",
+        "atrophy of the periodontal tissues",
+        "process of tooth formation",
+        "formation of dental calculus"
+      ],
+      "explanation": {
+        "en": "parodontolysis, is, f = parodontosis, is, f means 'destruction of the periodontal supporting structures'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0083",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'odontolithiasis, is, f'?"
+      },
+      "correctAnswer": "formation of dental calculus",
+      "options": [
+        "formation of dentin",
+        "process of tooth formation",
+        "formation of enamel",
+        "formation of dental calculus"
+      ],
+      "explanation": {
+        "en": "odontolithiasis, is, f means 'formation of dental calculus'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0084",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sialostenosis, is, f'?"
+      },
+      "correctAnswer": "narrowing of a salivary duct",
+      "options": [
+        "cracking and fissuring of the lips",
+        "fungal disease of the oral cavity",
+        "formation of stones in the salivary ducts",
+        "narrowing of a salivary duct"
+      ],
+      "explanation": {
+        "en": "sialostenosis, is, f means 'narrowing of a salivary duct'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0085",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sialolithiasis, is, f'?"
+      },
+      "correctAnswer": "formation of stones in the salivary ducts",
+      "options": [
+        "downward displacement of the tongue toward the throat",
+        "formation of stones in the salivary ducts",
+        "fungal disease of the oral cavity",
+        "cracking and fissuring of the lips"
+      ],
+      "explanation": {
+        "en": "sialolithiasis, is, f means 'formation of stones in the salivary ducts'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0086",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'phrenoptosis, is, f'?"
+      },
+      "correctAnswer": "downward displacement of the diaphragm",
+      "options": [
+        "overgrowth of adipose tissue",
+        "downward displacement of the internal organs",
+        "downward displacement of the diaphragm",
+        "fatty degeneration of organs; steatosis"
+      ],
+      "explanation": {
+        "en": "phrenoptosis, is, f means 'downward displacement of the diaphragm'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0087",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'splanchnoptosis, is, f'?"
+      },
+      "correctAnswer": "downward displacement of the internal organs",
+      "options": [
+        "overgrowth of adipose tissue",
+        "downward displacement of the internal organs",
+        "downward displacement of the diaphragm",
+        "fatty degeneration of organs; steatosis"
+      ],
+      "explanation": {
+        "en": "splanchnoptosis, is, f means 'downward displacement of the internal organs'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0088",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'laparocentesis, is, f'?"
+      },
+      "correctAnswer": "puncture to remove fluid from the abdominal cavity",
+      "options": [
+        "degenerative disease of the vertebrae leading to stiffness",
+        "puncture to obtain amniotic fluid",
+        "anamnesis; medical history taken from the patient",
+        "puncture to remove fluid from the abdominal cavity"
+      ],
+      "explanation": {
+        "en": "laparocentesis, is, f means 'puncture to remove fluid from the abdominal cavity'. Example: Amniocentesis is a centesis used to obtain amniotic fluid."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0089",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pylorostenosis, is, f'?"
+      },
+      "correctAnswer": "narrowing of the pylorus",
+      "options": [
+        "downward displacement of the colon",
+        "pathological narrowing of the intestine",
+        "narrowing of the pylorus",
+        "downward displacement of the cecum"
+      ],
+      "explanation": {
+        "en": "pylorostenosis, is, f means 'narrowing of the pylorus'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0090",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'enterostenosis, is, f'?"
+      },
+      "correctAnswer": "pathological narrowing of the intestine",
+      "options": [
+        "narrowing of the pylorus",
+        "downward displacement of the cecum",
+        "downward displacement of the colon",
+        "pathological narrowing of the intestine"
+      ],
+      "explanation": {
+        "en": "enterostenosis, is, f means 'pathological narrowing of the intestine'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0091",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'typhloptosis, is, f'?"
+      },
+      "correctAnswer": "downward displacement of the cecum",
+      "options": [
+        "pathological narrowing of the intestine",
+        "downward displacement of the cecum",
+        "narrowing of the pylorus",
+        "downward displacement of the colon"
+      ],
+      "explanation": {
+        "en": "typhloptosis, is, f means 'downward displacement of the cecum'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0092",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'coloptosis, is, f'?"
+      },
+      "correctAnswer": "downward displacement of the colon",
+      "options": [
+        "downward displacement of the colon",
+        "downward displacement of the cecum",
+        "narrowing of the pylorus",
+        "pathological narrowing of the intestine"
+      ],
+      "explanation": {
+        "en": "coloptosis, is, f means 'downward displacement of the colon'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0093",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cholestasis, is, f'?"
+      },
+      "correctAnswer": "stasis of bile; cholestasis",
+      "options": [
+        "base; foundation",
+        "metastasis; spread of disease",
+        "stasis of bile; cholestasis",
+        "formation of stones in the gallbladder"
+      ],
+      "explanation": {
+        "en": "cholestasis, is, f means 'stasis of bile; cholestasis'. Example: Cholestasis means impaired bile flow with bile stasis."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0094",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'endometriosis, is, f'?"
+      },
+      "correctAnswer": "growth of endometrial tissue outside the uterus",
+      "options": [
+        "formation of dense connective tissue in the middle ear",
+        "growth of endometrial tissue outside the uterus",
+        "downward displacement of the internal organs",
+        "disordered development of the skeletal system"
+      ],
+      "explanation": {
+        "en": "endometriosis, is, f means 'growth of endometrial tissue outside the uterus'. Example: Endometriosis is endometrial tissue outside the uterus."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0095",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tocolysis, is, f'?"
+      },
+      "correctAnswer": "suppression of uterine contractions to stop labor",
+      "options": [
+        "detachment of the nail from the nail bed",
+        "destruction or loosening of the epidermis",
+        "suppression of uterine contractions to stop labor",
+        "puncture to obtain amniotic fluid"
+      ],
+      "explanation": {
+        "en": "tocolysis, is, f means 'suppression of uterine contractions to stop labor'. Example: Tocolysis suppresses uterine contractions to delay labor."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0096",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'amniocentesis, is, f'?"
+      },
+      "correctAnswer": "puncture to obtain amniotic fluid",
+      "options": [
+        "puncture; surgical tapping",
+        "suppression of uterine contractions to stop labor",
+        "puncture to obtain amniotic fluid",
+        "puncture to remove fluid from the abdominal cavity"
+      ],
+      "explanation": {
+        "en": "amniocentesis, is, f means 'puncture to obtain amniotic fluid'. Example: Tocolysis suppresses uterine contractions to delay labor."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0097",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'nephrosis, is, f'?"
+      },
+      "correctAnswer": "degenerative disease of the renal tubules",
+      "options": [
+        "degenerative disease of the knee joint",
+        "degenerative disease of the renal tubules",
+        "degenerative disease of the hip joint",
+        "degenerative disease of the vertebrae leading to stiffness"
+      ],
+      "explanation": {
+        "en": "nephrosis, is, f means 'degenerative disease of the renal tubules'. Example: Diuresis is the volume of urine excreted over time."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0098",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'diuresis, is, f'?"
+      },
+      "correctAnswer": "amount of urine excreted in 24 hours; diuresis",
+      "options": [
+        "vomiting of blood",
+        "anamnesis; medical history taken from the patient",
+        "amount of urine excreted in 24 hours; diuresis",
+        "degenerative disease of the renal tubules"
+      ],
+      "explanation": {
+        "en": "diuresis, is, f means 'amount of urine excreted in 24 hours; diuresis'. Example: Diuresis is the volume of urine excreted over time."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0099",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'hydrarthrosis, is, f'?"
+      },
+      "correctAnswer": "accumulation of fluid in a joint cavity",
+      "options": [
+        "degenerative disease of the knee joint",
+        "hemorrhage into a joint cavity",
+        "accumulation of fluid in a joint cavity",
+        "degenerative disease of the hip joint"
+      ],
+      "explanation": {
+        "en": "hydrarthrosis, is, f means 'accumulation of fluid in a joint cavity'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0100",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'hyperhidrosis, is, f'?"
+      },
+      "correctAnswer": "excessive sweating",
+      "options": [
+        "absence of sweating",
+        "excessive sweating",
+        "excessive keratinization of the epidermis",
+        "fungal disease of the hair"
+      ],
+      "explanation": {
+        "en": "hyperhidrosis, is, f means 'excessive sweating'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0101",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'anhidrosis, is, f'?"
+      },
+      "correctAnswer": "absence of sweating",
+      "options": [
+        "excessive sweating",
+        "fungal disease of the nails",
+        "fungal disease of the hair",
+        "absence of sweating"
+      ],
+      "explanation": {
+        "en": "anhidrosis, is, f means 'absence of sweating'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0102",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'steatosis, is, f'?"
+      },
+      "correctAnswer": "fatty degeneration of organs; steatosis",
+      "options": [
+        "downward displacement of the internal organs",
+        "overgrowth of adipose tissue",
+        "fatty degeneration of organs; steatosis",
+        "downward displacement of the diaphragm"
+      ],
+      "explanation": {
+        "en": "steatosis, is, f means 'fatty degeneration of organs; steatosis'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0103",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tympanosclerosis, is, f'?"
+      },
+      "correctAnswer": "formation of dense connective tissue in the middle ear",
+      "options": [
+        "deafness; total hearing loss",
+        "formation of dense connective tissue in the middle ear",
+        "narrowing of the larynx",
+        "fungal disease of the ear"
+      ],
+      "explanation": {
+        "en": "tympanosclerosis, is, f means 'formation of dense connective tissue in the middle ear'. Example: Otomycosis is a fungal infection of the external ear canal."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0104",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tracheostenosis, is, f'?"
+      },
+      "correctAnswer": "narrowing of the trachea",
+      "options": [
+        "narrowing of the trachea",
+        "narrowing of the larynx",
+        "pathological narrowing of the intestine",
+        "narrowing of the pylorus"
+      ],
+      "explanation": {
+        "en": "tracheostenosis, is, f means 'narrowing of the trachea'. Example: Tracheostenosis narrows the tracheal lumen and can cause dyspnea."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0105",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'exostosis, is, f'?"
+      },
+      "correctAnswer": "outgrowth of bone due to inflammation",
+      "options": [
+        "outgrowth of bone due to inflammation",
+        "disordered development of the skeletal system",
+        "loss of bone mass and density leading to fragility",
+        "death of bone tissue"
+      ],
+      "explanation": {
+        "en": "exostosis, is, f means 'outgrowth of bone due to inflammation'. Example: Osteonecrosis means death of bone tissue."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0106",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'leucocytosis, is, f'?"
+      },
+      "correctAnswer": "increased number of white blood cells in the blood",
+      "options": [
+        "destruction of the periodontal supporting structures",
+        "formation of dense connective tissue in the middle ear",
+        "hyperthyroidism; overfunction of the thyroid gland",
+        "increased number of white blood cells in the blood"
+      ],
+      "explanation": {
+        "en": "leucocytosis, is, f means 'increased number of white blood cells in the blood'. Example: Leucocytosis means an increased white blood cell count."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0107",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cirrhosis, is, f'?"
+      },
+      "correctAnswer": "chronic degenerative disease in which liver parenchyma is replaced by fibrous tissue",
+      "options": [
+        "degenerative disease of the vertebrae leading to stiffness",
+        "chronic degenerative disease in which liver parenchyma is replaced by fibrous tissue",
+        "degenerative disease of the renal tubules",
+        "formation of dense connective tissue in the middle ear"
+      ],
+      "explanation": {
+        "en": "cirrhosis, is, f means 'chronic degenerative disease in which liver parenchyma is replaced by fibrous tissue'. Example: Cirrhosis replaces normal liver parenchyma with fibrous tissue."
+      }
+    },
+    {
+      "cardId": "la-is-refwd-0108",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'polycystosis, is, f'?"
+      },
+      "correctAnswer": "condition characterized by multiple cysts",
+      "options": [
+        "downward displacement of the internal organs",
+        "downward displacement of the diaphragm",
+        "fatty degeneration of organs; steatosis",
+        "condition characterized by multiple cysts"
+      ],
+      "explanation": {
+        "en": "polycystosis, is, f means 'condition characterized by multiple cysts'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0001",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'cough'?"
+      },
+      "correctAnswer": "tussis, is, f",
+      "options": [
+        "sclerosis, is, f",
+        "teratosis, is, f",
+        "otomycosis, is, f",
+        "tussis, is, f"
+      ],
+      "explanation": {
+        "en": "tussis, is, f means 'cough'. Example: Tracheostenosis narrows the tracheal lumen and can cause dyspnea."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0002",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'thirst'?"
+      },
+      "correctAnswer": "sitis, is, f",
+      "options": [
+        "coloptosis, is, f",
+        "trichomycosis, is, f",
+        "nephrolithiasis, is, f",
+        "sitis, is, f"
+      ],
+      "explanation": {
+        "en": "sitis, is, f means 'thirst'. Example: Febris with cough may suggest an acute infection."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0003",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'pelvis; renal pelvis'?"
+      },
+      "correctAnswer": "pelvis, is, f",
+      "options": [
+        "pelvis, is, f",
+        "rete, is, n",
+        "basis, is, f",
+        "pulvinar, aris, n"
+      ],
+      "explanation": {
+        "en": "pelvis, is, f means 'pelvis; renal pelvis'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0004",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'fever; elevated temperature'?"
+      },
+      "correctAnswer": "febris, is, f",
+      "options": [
+        "diagnosis, is, f",
+        "atherosclerosis, is, f",
+        "febris, is, f",
+        "coloptosis, is, f"
+      ],
+      "explanation": {
+        "en": "febris, is, f means 'fever; elevated temperature'. Example: Febris with cough may suggest an acute infection."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0005",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'base; foundation'?"
+      },
+      "correctAnswer": "basis, is, f",
+      "options": [
+        "calcar, aris, n",
+        "basis, is, f",
+        "pelvis, is, f",
+        "rete, is, n"
+      ],
+      "explanation": {
+        "en": "basis, is, f means 'base; foundation'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0006",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'stasis; stagnation'?"
+      },
+      "correctAnswer": "statis, is, f",
+      "options": [
+        "polycystosis, is, f",
+        "statis, is, f",
+        "stenosis, is, f",
+        "sclerosis, is, f"
+      ],
+      "explanation": {
+        "en": "statis, is, f means 'stasis; stagnation'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0007",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'predisposition'?"
+      },
+      "correctAnswer": "diathesis, is, f",
+      "options": [
+        "diathesis, is, f",
+        "teratosis, is, f",
+        "necrosis, is, f",
+        "exsiccosis, is, f"
+      ],
+      "explanation": {
+        "en": "diathesis, is, f means 'predisposition'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0008",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'partial paralysis'?"
+      },
+      "correctAnswer": "paresis, is, f",
+      "options": [
+        "paresis, is, f",
+        "diuresis, is, f",
+        "diathesis, is, f",
+        "enuresis, is, f"
+      ],
+      "explanation": {
+        "en": "paresis, is, f means 'partial paralysis'. Example: Paresis is weakness, unlike plegia which is complete paralysis."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0009",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'puncture; surgical tapping'?"
+      },
+      "correctAnswer": "centesis, is, f",
+      "options": [
+        "centesis, is, f",
+        "amniocentesis, is, f",
+        "synthesis, is, f",
+        "laparocentesis, is, f"
+      ],
+      "explanation": {
+        "en": "centesis, is, f means 'puncture; surgical tapping'. Example: Amniocentesis is a centesis used to obtain amniotic fluid."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0010",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'necrosis; localized tissue death'?"
+      },
+      "correctAnswer": "necrosis, is, f",
+      "options": [
+        "splanchnoptosis, is, f",
+        "exsiccosis, is, f",
+        "teratosis, is, f",
+        "necrosis, is, f"
+      ],
+      "explanation": {
+        "en": "necrosis, is, f means 'necrosis; localized tissue death'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0011",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'tuberculosis'?"
+      },
+      "correctAnswer": "tuberculosis, is, f",
+      "options": [
+        "tuberculosis, is, f",
+        "hyperthyreosis, is, f",
+        "dermatomycosis, is, f",
+        "otomycosis, is, f"
+      ],
+      "explanation": {
+        "en": "tuberculosis, is, f means 'tuberculosis'. Example: Sepsis is a life-threatening systemic response to infection."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0012",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'metastasis; spread of disease'?"
+      },
+      "correctAnswer": "metastasis, is, f",
+      "options": [
+        "metastasis, is, f",
+        "cholestasis, is, f",
+        "basis, is, f",
+        "psoriasis, is, f"
+      ],
+      "explanation": {
+        "en": "metastasis, is, f means 'metastasis; spread of disease'. Example: Metastasis means spread from a primary tumor to a distant site."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0013",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'vomiting'?"
+      },
+      "correctAnswer": "emesis, is, f",
+      "options": [
+        "typhloptosis, is, f",
+        "emesis, is, f",
+        "enterostenosis, is, f",
+        "haematemesis, is, f"
+      ],
+      "explanation": {
+        "en": "emesis, is, f means 'vomiting'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0014",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'stone formation; calculus formation'?"
+      },
+      "correctAnswer": "lithiasis, is, f",
+      "options": [
+        "lithiasis, is, f",
+        "lipomatosis, is, f",
+        "teratosis, is, f",
+        "necrosis, is, f"
+      ],
+      "explanation": {
+        "en": "lithiasis, is, f means 'stone formation; calculus formation'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0015",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'joining together; synthesis'?"
+      },
+      "correctAnswer": "synthesis, is, f",
+      "options": [
+        "synthesis, is, f",
+        "anamnesis, is, f",
+        "haematemesis, is, f",
+        "paresis, is, f"
+      ],
+      "explanation": {
+        "en": "synthesis, is, f means 'joining together; synthesis'. Example: Exemplar means a model or specimen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0016",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'heartburn; burning sensation in the stomach'?"
+      },
+      "correctAnswer": "pyrosis, is, f",
+      "options": [
+        "coloptosis, is, f",
+        "pylorostenosis, is, f",
+        "typhloptosis, is, f",
+        "pyrosis, is, f"
+      ],
+      "explanation": {
+        "en": "pyrosis, is, f means 'heartburn; burning sensation in the stomach'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0017",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'dose'?"
+      },
+      "correctAnswer": "dosis, is, f",
+      "options": [
+        "exostosis, is, f",
+        "phrenoptosis, is, f",
+        "hyperhidrosis, is, f",
+        "dosis, is, f"
+      ],
+      "explanation": {
+        "en": "dosis, is, f means 'dose'. Example: Dosis is the amount of a drug given at one time."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0018",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'sclerosis; hardening'?"
+      },
+      "correctAnswer": "sclerosis, is, f",
+      "options": [
+        "polycystosis, is, f",
+        "teratosis, is, f",
+        "sclerosis, is, f",
+        "stenosis, is, f"
+      ],
+      "explanation": {
+        "en": "sclerosis, is, f means 'sclerosis; hardening'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0019",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'stenosis; narrowing'?"
+      },
+      "correctAnswer": "stenosis, is, f",
+      "options": [
+        "lipomatosis, is, f",
+        "sclerosis, is, f",
+        "stenosis, is, f",
+        "polycystosis, is, f"
+      ],
+      "explanation": {
+        "en": "stenosis, is, f means 'stenosis; narrowing'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0020",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'prognosis'?"
+      },
+      "correctAnswer": "prognosis, is, f",
+      "options": [
+        "prognosis, is, f",
+        "onychomycosis, is, f",
+        "dysostosis, is, f",
+        "pyrosis, is, f"
+      ],
+      "explanation": {
+        "en": "prognosis, is, f means 'prognosis'. Example: Prognosis concerns expected outcome, not diagnosis."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0021",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'crisis'?"
+      },
+      "correctAnswer": "crisis, is, f",
+      "options": [
+        "cheilognathouranoschisis, is, f",
+        "crisis, is, f",
+        "uranoschisis, is, f = palatoschisis, is, f",
+        "anacusis, is, f"
+      ],
+      "explanation": {
+        "en": "crisis, is, f means 'crisis'. Example: Prognosis concerns expected outcome, not diagnosis."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0022",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'cyst'?"
+      },
+      "correctAnswer": "cystis, is, f",
+      "options": [
+        "phrenoptosis, is, f",
+        "exsiccosis, is, f",
+        "lithiasis, is, f",
+        "cystis, is, f"
+      ],
+      "explanation": {
+        "en": "cystis, is, f means 'cyst'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0023",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'prevention; prophylaxis'?"
+      },
+      "correctAnswer": "prophylaxis, is, f",
+      "options": [
+        "psoriasis, is, f",
+        "coloptosis, is, f",
+        "prophylaxis, is, f",
+        "nephrosis, is, f"
+      ],
+      "explanation": {
+        "en": "prophylaxis, is, f means 'prevention; prophylaxis'. Example: Prophylaxis means preventing disease before it occurs."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0024",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'cyanosis; bluish discoloration'?"
+      },
+      "correctAnswer": "cyanosis, is, f",
+      "options": [
+        "exsiccosis, is, f",
+        "trichomycosis, is, f",
+        "osteoporosis, is, f",
+        "cyanosis, is, f"
+      ],
+      "explanation": {
+        "en": "cyanosis, is, f means 'cyanosis; bluish discoloration'. Example: Cyanosis suggests reduced oxygenation or poor perfusion."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0025",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'diagnosis'?"
+      },
+      "correctAnswer": "diagnosis, is, f",
+      "options": [
+        "polycystosis, is, f",
+        "haemarthosis, is, f",
+        "diagnosis, is, f",
+        "steatosis, is, f"
+      ],
+      "explanation": {
+        "en": "diagnosis, is, f means 'diagnosis'. Example: Prognosis concerns expected outcome, not diagnosis."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0026",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'sepsis; blood poisoning'?"
+      },
+      "correctAnswer": "sepsis, is, f",
+      "options": [
+        "sialolithiasis, is, f",
+        "sialostenosis, is, f",
+        "sepsis, is, f",
+        "lipomatosis, is, f"
+      ],
+      "explanation": {
+        "en": "sepsis, is, f means 'sepsis; blood poisoning'. Example: Sepsis is a life-threatening systemic response to infection."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0027",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'propolis; bee glue'?"
+      },
+      "correctAnswer": "propolis, is, f",
+      "options": [
+        "propolis, is, f",
+        "glossoptosis, is, f",
+        "cholecystolithiasis, is, f",
+        "cyanosis, is, f"
+      ],
+      "explanation": {
+        "en": "propolis, is, f means 'propolis; bee glue'. Example: Dosis is the amount of a drug given at one time."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0028",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'psoriasis'?"
+      },
+      "correctAnswer": "psoriasis, is, f",
+      "options": [
+        "trichomycosis, is, f",
+        "pityriasis, is, f",
+        "psoriasis, is, f",
+        "dermatosis, is, f"
+      ],
+      "explanation": {
+        "en": "psoriasis, is, f means 'psoriasis'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0029",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'pityriasis; scaling skin disease'?"
+      },
+      "correctAnswer": "pityriasis, is, f",
+      "options": [
+        "psoriasis, is, f",
+        "dermatosis, is, f",
+        "onycholysis, is, f",
+        "pityriasis, is, f"
+      ],
+      "explanation": {
+        "en": "pityriasis, is, f means 'pityriasis; scaling skin disease'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0030",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'anamnesis; medical history taken from the patient'?"
+      },
+      "correctAnswer": "anamnesis, is, f",
+      "options": [
+        "diathesis, is, f",
+        "paresis, is, f",
+        "anamnesis, is, f",
+        "emesis, is, f"
+      ],
+      "explanation": {
+        "en": "anamnesis, is, f means 'anamnesis; medical history taken from the patient'. Example: Anamnesis is the patient history taken before examination."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0031",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'prosthesis'?"
+      },
+      "correctAnswer": "prothesis, is, f",
+      "options": [
+        "synthesis, is, f",
+        "diathesis, is, f",
+        "anamnesis, is, f",
+        "prothesis, is, f"
+      ],
+      "explanation": {
+        "en": "prothesis, is, f means 'prosthesis'. Example: Adhaesiolysis means surgical division of adhesions."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0032",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'formation of dentin'?"
+      },
+      "correctAnswer": "dentinogenesis, is, f",
+      "options": [
+        "dentinogenesis, is, f",
+        "parodontolysis, is, f = parodontosis, is, f",
+        "amelogenesis, is, f",
+        "odontogenesis, is, f"
+      ],
+      "explanation": {
+        "en": "dentinogenesis, is, f means 'formation of dentin'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0033",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'formation of enamel'?"
+      },
+      "correctAnswer": "amelogenesis, is, f",
+      "options": [
+        "dentinogenesis, is, f",
+        "odontogenesis, is, f",
+        "amelogenesis, is, f",
+        "parodontosis, is, f"
+      ],
+      "explanation": {
+        "en": "amelogenesis, is, f means 'formation of enamel'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0034",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'narcosis; general anesthesia'?"
+      },
+      "correctAnswer": "narcosis, is, f",
+      "options": [
+        "prognosis, is, f",
+        "narcosis, is, f",
+        "dermatosis, is, f",
+        "osteoporosis, is, f"
+      ],
+      "explanation": {
+        "en": "narcosis, is, f means 'narcosis; general anesthesia'. Example: Narcosis refers to general anesthesia or deep drug-induced unconsciousness."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0035",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'desiccation; severe dehydration'?"
+      },
+      "correctAnswer": "exsiccosis, is, f",
+      "options": [
+        "exsiccosis, is, f",
+        "teratosis, is, f",
+        "phrenoptosis, is, f",
+        "polycystosis, is, f"
+      ],
+      "explanation": {
+        "en": "exsiccosis, is, f means 'desiccation; severe dehydration'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0036",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'malformation; monstrosity'?"
+      },
+      "correctAnswer": "teratosis, is, f",
+      "options": [
+        "lipomatosis, is, f",
+        "phrenoptosis, is, f",
+        "teratosis, is, f",
+        "steatosis, is, f"
+      ],
+      "explanation": {
+        "en": "teratosis, is, f means 'malformation; monstrosity'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0037",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'disordered development of the skeletal system'?"
+      },
+      "correctAnswer": "dysostosis, is, f",
+      "options": [
+        "dysostosis, is, f",
+        "exostosis, is, f",
+        "osteoporosis, is, f",
+        "osteonecrosis, is, f"
+      ],
+      "explanation": {
+        "en": "dysostosis, is, f means 'disordered development of the skeletal system'. Example: Osteonecrosis means death of bone tissue."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0038",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'hyperthyroidism; overfunction of the thyroid gland'?"
+      },
+      "correctAnswer": "hyperthyreosis, is, f",
+      "options": [
+        "necrosis, is, f",
+        "hyperthyreosis, is, f",
+        "pyrosis, is, f",
+        "coloptosis, is, f"
+      ],
+      "explanation": {
+        "en": "hyperthyreosis, is, f means 'hyperthyroidism; overfunction of the thyroid gland'. Example: The meaning is best confirmed by the clinical context and the word parts."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0039",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'overgrowth of adipose tissue'?"
+      },
+      "correctAnswer": "lipomatosis, is, f",
+      "options": [
+        "sclerosis, is, f",
+        "polycystosis, is, f",
+        "lipomatosis, is, f",
+        "stenosis, is, f"
+      ],
+      "explanation": {
+        "en": "lipomatosis, is, f means 'overgrowth of adipose tissue'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0040",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'atherosclerosis; plaque formation causing hardening and narrowing of arteries'?"
+      },
+      "correctAnswer": "atherosclerosis, is, f",
+      "options": [
+        "atherosclerosis, is, f",
+        "cirrhosis, is, f",
+        "dermatomycosis, is, f",
+        "otomycosis, is, f"
+      ],
+      "explanation": {
+        "en": "atherosclerosis, is, f means 'atherosclerosis; plaque formation causing hardening and narrowing of arteries'. Example: The meaning is best confirmed by the clinical context and the word parts."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0041",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'atrophy of the periodontal tissues'?"
+      },
+      "correctAnswer": "parodontosis, is, f",
+      "options": [
+        "parodontosis, is, f",
+        "dentinogenesis, is, f",
+        "parodontolysis, is, f = parodontosis, is, f",
+        "odontolithiasis, is, f"
+      ],
+      "explanation": {
+        "en": "parodontosis, is, f means 'atrophy of the periodontal tissues'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0042",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'surgical removal of adhesions'?"
+      },
+      "correctAnswer": "adhaesiolysis, is, f",
+      "options": [
+        "tocolysis, is, f",
+        "epidermolysis, is, f",
+        "onycholysis, is, f",
+        "adhaesiolysis, is, f"
+      ],
+      "explanation": {
+        "en": "adhaesiolysis, is, f means 'surgical removal of adhesions'. Example: Adhaesiolysis means surgical division of adhesions."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0043",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'destruction or loosening of the epidermis'?"
+      },
+      "correctAnswer": "epidermolysis, is, f",
+      "options": [
+        "dermatomycosis, is, f",
+        "epidermolysis, is, f",
+        "psoriasis, is, f",
+        "onycholysis, is, f"
+      ],
+      "explanation": {
+        "en": "epidermolysis, is, f means 'destruction or loosening of the epidermis'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0044",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'network'?"
+      },
+      "correctAnswer": "rete, is, n",
+      "options": [
+        "rete, is, n",
+        "calcar, aris, n",
+        "pulvinar, aris, n",
+        "basis, is, f"
+      ],
+      "explanation": {
+        "en": "rete, is, n means 'network'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0045",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'animal'?"
+      },
+      "correctAnswer": "animal, alis, n",
+      "options": [
+        "animal, alis, n",
+        "rete, is, n",
+        "calcar, aris, n",
+        "pulvinar, aris, n"
+      ],
+      "explanation": {
+        "en": "animal, alis, n means 'animal'. Example: Exemplar means a model or specimen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0046",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'example; specimen'?"
+      },
+      "correctAnswer": "exemplar, aris, n",
+      "options": [
+        "thenar, aris, n",
+        "calcar, aris, n",
+        "pulvinar, aris, n",
+        "exemplar, aris, n"
+      ],
+      "explanation": {
+        "en": "exemplar, aris, n means 'example; specimen'. Example: Exemplar means a model or specimen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0047",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'thenar eminence; elevation of the palm along the thumb'?"
+      },
+      "correctAnswer": "thenar, aris, n",
+      "options": [
+        "thenar, aris, n",
+        "rete, is, n",
+        "pulvinar, aris, n",
+        "calcar, aris, n"
+      ],
+      "explanation": {
+        "en": "thenar, aris, n means 'thenar eminence; elevation of the palm along the thumb'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0048",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'cushion; pillow'?"
+      },
+      "correctAnswer": "pulvinar, aris, n",
+      "options": [
+        "pulvinar, aris, n",
+        "thenar, aris, n",
+        "rete, is, n",
+        "calcar, aris, n"
+      ],
+      "explanation": {
+        "en": "pulvinar, aris, n means 'cushion; pillow'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0049",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'flanks; groins'?"
+      },
+      "correctAnswer": "ilia, ium, n pl.",
+      "options": [
+        "ilia, ium, n pl.",
+        "exemplar, aris, n",
+        "rete, is, n",
+        "pulvinar, aris, n"
+      ],
+      "explanation": {
+        "en": "ilia, ium, n pl. means 'flanks; groins'. Example: Ilia can refer to the flank or groin regions."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0050",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'salt'?"
+      },
+      "correctAnswer": "sal, salis, n",
+      "options": [
+        "animal, alis, n",
+        "pulvinar, aris, n",
+        "sal, salis, n",
+        "rete, is, n"
+      ],
+      "explanation": {
+        "en": "sal, salis, n means 'salt'. Example: Sal is the Latin noun for salt."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0051",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'spur; bony spur'?"
+      },
+      "correctAnswer": "calcar, aris, n",
+      "options": [
+        "calcar, aris, n",
+        "rete, is, n",
+        "pulvinar, aris, n",
+        "thenar, aris, n"
+      ],
+      "explanation": {
+        "en": "calcar, aris, n means 'spur; bony spur'. Example: Basis cranii means the base of the skull."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0052",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'psychosis'?"
+      },
+      "correctAnswer": "psychosis, is, f",
+      "options": [
+        "hyperkeratosis, is, f",
+        "leucocytosis, is, f",
+        "psychosis, is, f",
+        "polycystosis, is, f"
+      ],
+      "explanation": {
+        "en": "psychosis, is, f means 'psychosis'. Example: Psychosis involves impaired contact with reality."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0053",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'enuresis; involuntary urination'?"
+      },
+      "correctAnswer": "enuresis, is, f",
+      "options": [
+        "prothesis, is, f",
+        "diathesis, is, f",
+        "emesis, is, f",
+        "enuresis, is, f"
+      ],
+      "explanation": {
+        "en": "enuresis, is, f means 'enuresis; involuntary urination'. Example: Enuresis is involuntary urination, often during sleep."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0054",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'formation of stones in the kidneys'?"
+      },
+      "correctAnswer": "nephrolithiasis, is, f",
+      "options": [
+        "nephrolithiasis, is, f",
+        "pityriasis, is, f",
+        "lithiasis, is, f",
+        "psoriasis, is, f"
+      ],
+      "explanation": {
+        "en": "nephrolithiasis, is, f means 'formation of stones in the kidneys'. Example: Enuresis is involuntary urination, often during sleep."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0055",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'formation of stones in the gallbladder'?"
+      },
+      "correctAnswer": "cholecystolithiasis, is, f",
+      "options": [
+        "cholecystolithiasis, is, f",
+        "sialolithiasis, is, f",
+        "psoriasis, is, f",
+        "pityriasis, is, f"
+      ],
+      "explanation": {
+        "en": "cholecystolithiasis, is, f means 'formation of stones in the gallbladder'. Example: Cholestasis means impaired bile flow with bile stasis."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0056",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'arthrosis; non-inflammatory joint disease'?"
+      },
+      "correctAnswer": "arthrosis, is, f",
+      "options": [
+        "arthrosis, is, f",
+        "coxarthrosis, is, f",
+        "hydrarthrosis, is, f",
+        "haemarthosis, is, f"
+      ],
+      "explanation": {
+        "en": "arthrosis, is, f means 'arthrosis; non-inflammatory joint disease'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0057",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'degenerative disease of the hip joint'?"
+      },
+      "correctAnswer": "coxarthrosis, is, f",
+      "options": [
+        "hydrarthrosis, is, f",
+        "coxarthrosis, is, f",
+        "spondylosis, is, f",
+        "haemarthosis, is, f"
+      ],
+      "explanation": {
+        "en": "coxarthrosis, is, f means 'degenerative disease of the hip joint'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0058",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'hemorrhage into a joint cavity'?"
+      },
+      "correctAnswer": "haemarthosis, is, f",
+      "options": [
+        "arthrosis, is, f",
+        "gonarthrosis, is, f",
+        "haemarthosis, is, f",
+        "coxarthrosis, is, f"
+      ],
+      "explanation": {
+        "en": "haemarthosis, is, f means 'hemorrhage into a joint cavity'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0059",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'degenerative disease of the vertebrae leading to stiffness'?"
+      },
+      "correctAnswer": "spondylosis, is, f",
+      "options": [
+        "haemarthosis, is, f",
+        "gonarthrosis, is, f",
+        "hydrarthrosis, is, f",
+        "spondylosis, is, f"
+      ],
+      "explanation": {
+        "en": "spondylosis, is, f means 'degenerative disease of the vertebrae leading to stiffness'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0060",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'degenerative disease of the knee joint'?"
+      },
+      "correctAnswer": "gonarthrosis, is, f",
+      "options": [
+        "gonarthrosis, is, f",
+        "arthrosis, is, f",
+        "hydrarthrosis, is, f",
+        "coxarthrosis, is, f"
+      ],
+      "explanation": {
+        "en": "gonarthrosis, is, f means 'degenerative disease of the knee joint'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0061",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'formation of tissues'?"
+      },
+      "correctAnswer": "histogenesis, is, f",
+      "options": [
+        "amelogenesis, is, f",
+        "histogenesis, is, f",
+        "odontogenesis, is, f",
+        "dentinogenesis, is, f"
+      ],
+      "explanation": {
+        "en": "histogenesis, is, f means 'formation of tissues'. Example: Histogenesis is the formation and differentiation of tissues."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0062",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'vomiting of blood'?"
+      },
+      "correctAnswer": "haematemesis, is, f",
+      "options": [
+        "emesis, is, f",
+        "haematemesis, is, f",
+        "enterostenosis, is, f",
+        "coloptosis, is, f"
+      ],
+      "explanation": {
+        "en": "haematemesis, is, f means 'vomiting of blood'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0063",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'death of bone tissue'?"
+      },
+      "correctAnswer": "osteonecrosis, is, f",
+      "options": [
+        "dysostosis, is, f",
+        "osteonecrosis, is, f",
+        "osteoporosis, is, f",
+        "exostosis, is, f"
+      ],
+      "explanation": {
+        "en": "osteonecrosis, is, f means 'death of bone tissue'. Example: Osteonecrosis means death of bone tissue."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0064",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'loss of bone mass and density leading to fragility'?"
+      },
+      "correctAnswer": "osteoporosis, is, f",
+      "options": [
+        "osteonecrosis, is, f",
+        "exostosis, is, f",
+        "osteoporosis, is, f",
+        "dysostosis, is, f"
+      ],
+      "explanation": {
+        "en": "osteoporosis, is, f means 'loss of bone mass and density leading to fragility'. Example: Osteonecrosis means death of bone tissue."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0065",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'fungal infection of the skin'?"
+      },
+      "correctAnswer": "dermatomycosis, is, f",
+      "options": [
+        "onychomycosis, is, f",
+        "trichomycosis, is, f",
+        "dermatomycosis, is, f",
+        "hyperkeratosis, is, f"
+      ],
+      "explanation": {
+        "en": "dermatomycosis, is, f means 'fungal infection of the skin'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0066",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'non-inflammatory disease of the skin'?"
+      },
+      "correctAnswer": "dermatosis, is, f",
+      "options": [
+        "hyperkeratosis, is, f",
+        "hyperhidrosis, is, f",
+        "dermatosis, is, f",
+        "dermatomycosis, is, f"
+      ],
+      "explanation": {
+        "en": "dermatosis, is, f means 'non-inflammatory disease of the skin'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0067",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'fungal disease of the nails'?"
+      },
+      "correctAnswer": "onychomycosis, is, f",
+      "options": [
+        "dermatosis, is, f",
+        "trichomycosis, is, f",
+        "onychomycosis, is, f",
+        "anhidrosis, is, f"
+      ],
+      "explanation": {
+        "en": "onychomycosis, is, f means 'fungal disease of the nails'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0068",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'detachment of the nail from the nail bed'?"
+      },
+      "correctAnswer": "onycholysis, is, f",
+      "options": [
+        "onychomycosis, is, f",
+        "anhidrosis, is, f",
+        "epidermolysis, is, f",
+        "onycholysis, is, f"
+      ],
+      "explanation": {
+        "en": "onycholysis, is, f means 'detachment of the nail from the nail bed'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0069",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'excessive keratinization of the epidermis'?"
+      },
+      "correctAnswer": "hyperkeratosis, is, f",
+      "options": [
+        "hyperhidrosis, is, f",
+        "dermatosis, is, f",
+        "hyperkeratosis, is, f",
+        "onychomycosis, is, f"
+      ],
+      "explanation": {
+        "en": "hyperkeratosis, is, f means 'excessive keratinization of the epidermis'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0070",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'fungal disease of the hair'?"
+      },
+      "correctAnswer": "trichomycosis, is, f",
+      "options": [
+        "hyperhidrosis, is, f",
+        "dermatomycosis, is, f",
+        "trichomycosis, is, f",
+        "hyperkeratosis, is, f"
+      ],
+      "explanation": {
+        "en": "trichomycosis, is, f means 'fungal disease of the hair'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0071",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'cleft of the upper lip and upper jaw'?"
+      },
+      "correctAnswer": "cheilognathoschisis",
+      "options": [
+        "cheilognathoschisis",
+        "cheilognathouranoschisis, is, f",
+        "cheiloschisis",
+        "uranoschisis, is, f = palatoschisis, is, f"
+      ],
+      "explanation": {
+        "en": "cheilognathoschisis means 'cleft of the upper lip and upper jaw'. Example: Cheiloschisis is a congenital cleft of the upper lip."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0072",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'fungal disease of the ear'?"
+      },
+      "correctAnswer": "otomycosis, is, f",
+      "options": [
+        "otomycosis, is, f",
+        "laryngostenosis, is, f",
+        "tympanosclerosis, is, f",
+        "anacusis, is, f"
+      ],
+      "explanation": {
+        "en": "otomycosis, is, f means 'fungal disease of the ear'. Example: Otomycosis is a fungal infection of the external ear canal."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0073",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'deafness; total hearing loss'?"
+      },
+      "correctAnswer": "anacusis, is, f",
+      "options": [
+        "tympanosclerosis, is, f",
+        "laryngostenosis, is, f",
+        "anacusis, is, f",
+        "otomycosis, is, f"
+      ],
+      "explanation": {
+        "en": "anacusis, is, f means 'deafness; total hearing loss'. Example: Otomycosis is a fungal infection of the external ear canal."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0074",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'fungal disease of the oral cavity'?"
+      },
+      "correctAnswer": "stomatomycosis, is, f",
+      "options": [
+        "stomatomycosis, is, f",
+        "glossoptosis, is, f",
+        "sialostenosis, is, f",
+        "cheilosis, is, f"
+      ],
+      "explanation": {
+        "en": "stomatomycosis, is, f means 'fungal disease of the oral cavity'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0075",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'cracking and fissuring of the lips'?"
+      },
+      "correctAnswer": "cheilosis, is, f",
+      "options": [
+        "stomatomycosis, is, f",
+        "glossoptosis, is, f",
+        "sialostenosis, is, f",
+        "cheilosis, is, f"
+      ],
+      "explanation": {
+        "en": "cheilosis, is, f means 'cracking and fissuring of the lips'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0076",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'cleft lip; congenital split of the upper lip'?"
+      },
+      "correctAnswer": "cheiloschisis",
+      "options": [
+        "cheilognathouranoschisis, is, f",
+        "uranoschisis, is, f = palatoschisis, is, f",
+        "cheiloschisis",
+        "cheilognathoschisis"
+      ],
+      "explanation": {
+        "en": "cheiloschisis means 'cleft lip; congenital split of the upper lip'. Example: Cheiloschisis is a congenital cleft of the upper lip."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0077",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'downward displacement of the tongue toward the throat'?"
+      },
+      "correctAnswer": "glossoptosis, is, f",
+      "options": [
+        "cheilosis, is, f",
+        "stomatomycosis, is, f",
+        "sialostenosis, is, f",
+        "glossoptosis, is, f"
+      ],
+      "explanation": {
+        "en": "glossoptosis, is, f means 'downward displacement of the tongue toward the throat'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0078",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'congenital cleft palate'?"
+      },
+      "correctAnswer": "uranoschisis, is, f = palatoschisis, is, f",
+      "options": [
+        "cheilognathoschisis",
+        "uranoschisis, is, f = palatoschisis, is, f",
+        "cheilognathouranoschisis, is, f",
+        "cheiloschisis"
+      ],
+      "explanation": {
+        "en": "uranoschisis, is, f = palatoschisis, is, f means 'congenital cleft palate'. Example: Cheiloschisis is a congenital cleft of the upper lip."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0079",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'congenital cleft of the palate, upper jaw, and upper lip'?"
+      },
+      "correctAnswer": "cheilognathouranoschisis, is, f",
+      "options": [
+        "cheilognathoschisis",
+        "cheiloschisis",
+        "uranoschisis, is, f = palatoschisis, is, f",
+        "cheilognathouranoschisis, is, f"
+      ],
+      "explanation": {
+        "en": "cheilognathouranoschisis, is, f means 'congenital cleft of the palate, upper jaw, and upper lip'. Example: Cheiloschisis is a congenital cleft of the upper lip."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0080",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'narrowing of the larynx'?"
+      },
+      "correctAnswer": "laryngostenosis, is, f",
+      "options": [
+        "laryngostenosis, is, f",
+        "tympanosclerosis, is, f",
+        "anacusis, is, f",
+        "otomycosis, is, f"
+      ],
+      "explanation": {
+        "en": "laryngostenosis, is, f means 'narrowing of the larynx'. Example: Otomycosis is a fungal infection of the external ear canal."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0081",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'process of tooth formation'?"
+      },
+      "correctAnswer": "odontogenesis, is, f",
+      "options": [
+        "amelogenesis, is, f",
+        "odontogenesis, is, f",
+        "parodontolysis, is, f = parodontosis, is, f",
+        "dentinogenesis, is, f"
+      ],
+      "explanation": {
+        "en": "odontogenesis, is, f means 'process of tooth formation'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0082",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'destruction of the periodontal supporting structures'?"
+      },
+      "correctAnswer": "parodontolysis, is, f = parodontosis, is, f",
+      "options": [
+        "odontogenesis, is, f",
+        "parodontosis, is, f",
+        "parodontolysis, is, f = parodontosis, is, f",
+        "odontolithiasis, is, f"
+      ],
+      "explanation": {
+        "en": "parodontolysis, is, f = parodontosis, is, f means 'destruction of the periodontal supporting structures'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0083",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'formation of dental calculus'?"
+      },
+      "correctAnswer": "odontolithiasis, is, f",
+      "options": [
+        "odontolithiasis, is, f",
+        "parodontosis, is, f",
+        "amelogenesis, is, f",
+        "parodontolysis, is, f = parodontosis, is, f"
+      ],
+      "explanation": {
+        "en": "odontolithiasis, is, f means 'formation of dental calculus'. Example: Odontogenesis is the developmental process that forms teeth."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0084",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'narrowing of a salivary duct'?"
+      },
+      "correctAnswer": "sialostenosis, is, f",
+      "options": [
+        "glossoptosis, is, f",
+        "stomatomycosis, is, f",
+        "sialostenosis, is, f",
+        "cheilosis, is, f"
+      ],
+      "explanation": {
+        "en": "sialostenosis, is, f means 'narrowing of a salivary duct'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0085",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'formation of stones in the salivary ducts'?"
+      },
+      "correctAnswer": "sialolithiasis, is, f",
+      "options": [
+        "sialostenosis, is, f",
+        "cheilosis, is, f",
+        "sialolithiasis, is, f",
+        "stomatomycosis, is, f"
+      ],
+      "explanation": {
+        "en": "sialolithiasis, is, f means 'formation of stones in the salivary ducts'. Example: Sialolithiasis means stones forming in a salivary duct system."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0086",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'downward displacement of the diaphragm'?"
+      },
+      "correctAnswer": "phrenoptosis, is, f",
+      "options": [
+        "teratosis, is, f",
+        "polycystosis, is, f",
+        "lipomatosis, is, f",
+        "phrenoptosis, is, f"
+      ],
+      "explanation": {
+        "en": "phrenoptosis, is, f means 'downward displacement of the diaphragm'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0087",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'downward displacement of the internal organs'?"
+      },
+      "correctAnswer": "splanchnoptosis, is, f",
+      "options": [
+        "stenosis, is, f",
+        "phrenoptosis, is, f",
+        "splanchnoptosis, is, f",
+        "polycystosis, is, f"
+      ],
+      "explanation": {
+        "en": "splanchnoptosis, is, f means 'downward displacement of the internal organs'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0088",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'puncture to remove fluid from the abdominal cavity'?"
+      },
+      "correctAnswer": "laparocentesis, is, f",
+      "options": [
+        "centesis, is, f",
+        "amniocentesis, is, f",
+        "laparocentesis, is, f",
+        "anamnesis, is, f"
+      ],
+      "explanation": {
+        "en": "laparocentesis, is, f means 'puncture to remove fluid from the abdominal cavity'. Example: Amniocentesis is a centesis used to obtain amniotic fluid."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0089",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'narrowing of the pylorus'?"
+      },
+      "correctAnswer": "pylorostenosis, is, f",
+      "options": [
+        "enterostenosis, is, f",
+        "coloptosis, is, f",
+        "pylorostenosis, is, f",
+        "pyrosis, is, f"
+      ],
+      "explanation": {
+        "en": "pylorostenosis, is, f means 'narrowing of the pylorus'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0090",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'pathological narrowing of the intestine'?"
+      },
+      "correctAnswer": "enterostenosis, is, f",
+      "options": [
+        "pylorostenosis, is, f",
+        "coloptosis, is, f",
+        "enterostenosis, is, f",
+        "pyrosis, is, f"
+      ],
+      "explanation": {
+        "en": "enterostenosis, is, f means 'pathological narrowing of the intestine'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0091",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'downward displacement of the cecum'?"
+      },
+      "correctAnswer": "typhloptosis, is, f",
+      "options": [
+        "typhloptosis, is, f",
+        "enterostenosis, is, f",
+        "coloptosis, is, f",
+        "pyrosis, is, f"
+      ],
+      "explanation": {
+        "en": "typhloptosis, is, f means 'downward displacement of the cecum'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0092",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'downward displacement of the colon'?"
+      },
+      "correctAnswer": "coloptosis, is, f",
+      "options": [
+        "pylorostenosis, is, f",
+        "typhloptosis, is, f",
+        "coloptosis, is, f",
+        "pyrosis, is, f"
+      ],
+      "explanation": {
+        "en": "coloptosis, is, f means 'downward displacement of the colon'. Example: Haematemesis means vomiting blood from the upper GI tract."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0093",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'stasis of bile; cholestasis'?"
+      },
+      "correctAnswer": "cholestasis, is, f",
+      "options": [
+        "cholecystolithiasis, is, f",
+        "metastasis, is, f",
+        "cholestasis, is, f",
+        "basis, is, f"
+      ],
+      "explanation": {
+        "en": "cholestasis, is, f means 'stasis of bile; cholestasis'. Example: Cholestasis means impaired bile flow with bile stasis."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0094",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'growth of endometrial tissue outside the uterus'?"
+      },
+      "correctAnswer": "endometriosis, is, f",
+      "options": [
+        "exsiccosis, is, f",
+        "hyperhidrosis, is, f",
+        "cheilosis, is, f",
+        "endometriosis, is, f"
+      ],
+      "explanation": {
+        "en": "endometriosis, is, f means 'growth of endometrial tissue outside the uterus'. Example: Endometriosis is endometrial tissue outside the uterus."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0095",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'suppression of uterine contractions to stop labor'?"
+      },
+      "correctAnswer": "tocolysis, is, f",
+      "options": [
+        "onycholysis, is, f",
+        "epidermolysis, is, f",
+        "tocolysis, is, f",
+        "adhaesiolysis, is, f"
+      ],
+      "explanation": {
+        "en": "tocolysis, is, f means 'suppression of uterine contractions to stop labor'. Example: Tocolysis suppresses uterine contractions to delay labor."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0096",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'puncture to obtain amniotic fluid'?"
+      },
+      "correctAnswer": "amniocentesis, is, f",
+      "options": [
+        "laparocentesis, is, f",
+        "centesis, is, f",
+        "tocolysis, is, f",
+        "amniocentesis, is, f"
+      ],
+      "explanation": {
+        "en": "amniocentesis, is, f means 'puncture to obtain amniotic fluid'. Example: Tocolysis suppresses uterine contractions to delay labor."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0097",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'degenerative disease of the renal tubules'?"
+      },
+      "correctAnswer": "nephrosis, is, f",
+      "options": [
+        "dosis, is, f",
+        "nephrosis, is, f",
+        "tuberculosis, is, f",
+        "cirrhosis, is, f"
+      ],
+      "explanation": {
+        "en": "nephrosis, is, f means 'degenerative disease of the renal tubules'. Example: Diuresis is the volume of urine excreted over time."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0098",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'amount of urine excreted in 24 hours; diuresis'?"
+      },
+      "correctAnswer": "diuresis, is, f",
+      "options": [
+        "diuresis, is, f",
+        "enuresis, is, f",
+        "anamnesis, is, f",
+        "prothesis, is, f"
+      ],
+      "explanation": {
+        "en": "diuresis, is, f means 'amount of urine excreted in 24 hours; diuresis'. Example: Diuresis is the volume of urine excreted over time."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0099",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'accumulation of fluid in a joint cavity'?"
+      },
+      "correctAnswer": "hydrarthrosis, is, f",
+      "options": [
+        "gonarthrosis, is, f",
+        "hydrarthrosis, is, f",
+        "spondylosis, is, f",
+        "arthrosis, is, f"
+      ],
+      "explanation": {
+        "en": "hydrarthrosis, is, f means 'accumulation of fluid in a joint cavity'. Example: Gonarthrosis is degenerative disease of the knee joint."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0100",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'excessive sweating'?"
+      },
+      "correctAnswer": "hyperhidrosis, is, f",
+      "options": [
+        "hyperhidrosis, is, f",
+        "anhidrosis, is, f",
+        "trichomycosis, is, f",
+        "hyperkeratosis, is, f"
+      ],
+      "explanation": {
+        "en": "hyperhidrosis, is, f means 'excessive sweating'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0101",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'absence of sweating'?"
+      },
+      "correctAnswer": "anhidrosis, is, f",
+      "options": [
+        "anhidrosis, is, f",
+        "hyperhidrosis, is, f",
+        "trichomycosis, is, f",
+        "dermatosis, is, f"
+      ],
+      "explanation": {
+        "en": "anhidrosis, is, f means 'absence of sweating'. Example: Onychomycosis is a fungal infection of the nails."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0102",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'fatty degeneration of organs; steatosis'?"
+      },
+      "correctAnswer": "steatosis, is, f",
+      "options": [
+        "stenosis, is, f",
+        "teratosis, is, f",
+        "steatosis, is, f",
+        "splanchnoptosis, is, f"
+      ],
+      "explanation": {
+        "en": "steatosis, is, f means 'fatty degeneration of organs; steatosis'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0103",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'formation of dense connective tissue in the middle ear'?"
+      },
+      "correctAnswer": "tympanosclerosis, is, f",
+      "options": [
+        "tympanosclerosis, is, f",
+        "anacusis, is, f",
+        "otomycosis, is, f",
+        "laryngostenosis, is, f"
+      ],
+      "explanation": {
+        "en": "tympanosclerosis, is, f means 'formation of dense connective tissue in the middle ear'. Example: Otomycosis is a fungal infection of the external ear canal."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0104",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'narrowing of the trachea'?"
+      },
+      "correctAnswer": "tracheostenosis, is, f",
+      "options": [
+        "narcosis, is, f",
+        "tracheostenosis, is, f",
+        "sclerosis, is, f",
+        "cheilosis, is, f"
+      ],
+      "explanation": {
+        "en": "tracheostenosis, is, f means 'narrowing of the trachea'. Example: Tracheostenosis narrows the tracheal lumen and can cause dyspnea."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0105",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'outgrowth of bone due to inflammation'?"
+      },
+      "correctAnswer": "exostosis, is, f",
+      "options": [
+        "osteoporosis, is, f",
+        "exostosis, is, f",
+        "dysostosis, is, f",
+        "osteonecrosis, is, f"
+      ],
+      "explanation": {
+        "en": "exostosis, is, f means 'outgrowth of bone due to inflammation'. Example: Osteonecrosis means death of bone tissue."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0106",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'increased number of white blood cells in the blood'?"
+      },
+      "correctAnswer": "leucocytosis, is, f",
+      "options": [
+        "tracheostenosis, is, f",
+        "leucocytosis, is, f",
+        "arthrosis, is, f",
+        "coxarthrosis, is, f"
+      ],
+      "explanation": {
+        "en": "leucocytosis, is, f means 'increased number of white blood cells in the blood'. Example: Leucocytosis means an increased white blood cell count."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0107",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'chronic degenerative disease in which liver parenchyma is replaced by fibrous tissue'?"
+      },
+      "correctAnswer": "cirrhosis, is, f",
+      "options": [
+        "dermatomycosis, is, f",
+        "sialostenosis, is, f",
+        "hydrarthrosis, is, f",
+        "cirrhosis, is, f"
+      ],
+      "explanation": {
+        "en": "cirrhosis, is, f means 'chronic degenerative disease in which liver parenchyma is replaced by fibrous tissue'. Example: Cirrhosis replaces normal liver parenchyma with fibrous tissue."
+      }
+    },
+    {
+      "cardId": "la-is-rev-0108",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin medical term means 'condition characterized by multiple cysts'?"
+      },
+      "correctAnswer": "polycystosis, is, f",
+      "options": [
+        "phrenoptosis, is, f",
+        "lipomatosis, is, f",
+        "stenosis, is, f",
+        "polycystosis, is, f"
+      ],
+      "explanation": {
+        "en": "polycystosis, is, f means 'condition characterized by multiple cysts'. Example: Stenosis describes abnormal narrowing of a passage or lumen."
+      }
+    }
+  ]
+}

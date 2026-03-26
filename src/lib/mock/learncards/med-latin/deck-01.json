@@ -1,0 +1,1734 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-exam-100-core-advanced",
+  "meta": {
+    "title": {
+      "en": "Medical Latin & Greek — Core Lexicon and Clinical Terms",
+      "de": "Medical Latin & Greek — Grundwortschatz und klinische Termini"
+    },
+    "description": {
+      "en": "Foundational core deck for first-year Medical Latin and Greek. Covers essential anatomical and clinical vocabulary, basic dictionary-form recognition, high-frequency Greek and Latin roots, and the interpretation of common medical compound terms. Designed to establish the lexical base required for later work in declensions, adjective agreement, stem formation, and exam-oriented terminology analysis.",
+      "de": "Grundlegendes Kerndeck für Medizinisches Latein und Griechisch im ersten Studienjahr. Es vermittelt zentrale anatomische und klinische Terminologie, die Erkennung grundlegender Wörterbuchformen, häufige griechische und lateinische Wortstämme sowie die Deutung gebräuchlicher medizinischer Komposita. Das Deck schafft die lexikalische Grundlage für die spätere Arbeit mit Deklinationen, Adjektivkongruenz, Stammbildung und prüfungsorientierter Terminologieanalyse."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "greek",
+      "anatomy",
+      "terminology",
+      "compound-terms",
+      "declensions",
+      "exam"
+    ],
+    "difficulty": "advanced",
+    "estimatedMinutes": 120,
+    "cardCount": 100,
+    "languages": {
+      "source": "la-gr",
+      "target": "en"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "card-001",
+      "type": "mcq",
+      "question": {
+        "en": "What is the English meaning of 'cor'?"
+      },
+      "correctAnswer": "heart",
+      "options": [
+        "heart",
+        "kidney",
+        "liver",
+        "lung"
+      ],
+      "explanation": {
+        "en": "cor = heart. Simple Latin noun, 3rd declension neuter: cor, cordis n. Not a compound. Example: cor adiposum = fatty heart."
+      }
+    },
+    {
+      "cardId": "card-002",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'ren'?"
+      },
+      "correctAnswer": "ren, renis m",
+      "options": [
+        "ren, renis m",
+        "lien, lienis m",
+        "pulmo, pulmonis m",
+        "testis, testis m"
+      ],
+      "explanation": {
+        "en": "ren = kidney. Simple Latin noun, 3rd declension masculine: ren, renis m. Not a compound. Example: arteria renalis = renal artery."
+      }
+    },
+    {
+      "cardId": "card-003",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'pulmo' mean?"
+      },
+      "correctAnswer": "lung",
+      "options": [
+        "lung",
+        "kidney",
+        "spleen",
+        "heart"
+      ],
+      "explanation": {
+        "en": "pulmo = lung. Simple Latin noun, 3rd declension masculine: pulmo, pulmonis m. Not a compound. Example: exsectio pulmonis = excision of the lung."
+      }
+    },
+    {
+      "cardId": "card-004",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'os, ossis'?"
+      },
+      "correctAnswer": "bone",
+      "options": [
+        "bone",
+        "mouth",
+        "tooth",
+        "joint"
+      ],
+      "explanation": {
+        "en": "os, ossis = bone. Simple Latin noun, 3rd declension neuter: os, ossis n. Not a compound. Example: substantia ossea = bony substance."
+      }
+    },
+    {
+      "cardId": "card-005",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'os, oris'?"
+      },
+      "correctAnswer": "mouth",
+      "options": [
+        "mouth",
+        "bone",
+        "face",
+        "lip"
+      ],
+      "explanation": {
+        "en": "os, oris = mouth. Simple Latin noun, 3rd declension neuter: os, oris n. Not a compound. High-yield contrast: os, ossis = bone. Example: atresia oris = congenital absence/closure of the mouth."
+      }
+    },
+    {
+      "cardId": "card-006",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'caput' in English?"
+      },
+      "correctAnswer": "head",
+      "options": [
+        "head",
+        "neck",
+        "face",
+        "mouth"
+      ],
+      "explanation": {
+        "en": "caput = head. Simple Latin noun, 3rd declension neuter: caput, capitis n. Not a compound. Example: caput femoris = head of femur."
+      }
+    },
+    {
+      "cardId": "card-007",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'sanguis' mean?"
+      },
+      "correctAnswer": "blood",
+      "options": [
+        "blood",
+        "bile",
+        "pus",
+        "milk"
+      ],
+      "explanation": {
+        "en": "sanguis = blood. Simple Latin noun, 3rd declension masculine: sanguis, sanguinis m. Not a compound. Example: hyperlipidaemia = excess of fat in the blood."
+      }
+    },
+    {
+      "cardId": "card-008",
+      "type": "mcq",
+      "question": {
+        "en": "What is the English meaning of 'cutis'?"
+      },
+      "correctAnswer": "skin",
+      "options": [
+        "skin",
+        "fascia",
+        "mucosa",
+        "membrane"
+      ],
+      "explanation": {
+        "en": "cutis = skin. Simple Latin noun, 3rd declension feminine: cutis, is f. Not a compound. Example: laesio cutis = lesion of the skin."
+      }
+    },
+    {
+      "cardId": "card-009",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'musculus' mean?"
+      },
+      "correctAnswer": "muscle",
+      "options": [
+        "muscle",
+        "nerve",
+        "joint",
+        "ligament"
+      ],
+      "explanation": {
+        "en": "musculus = muscle. Simple Latin noun, 2nd declension masculine: musculus, i m. Not a compound. Example: musculus flexor pollicis longus."
+      }
+    },
+    {
+      "cardId": "card-010",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'nervus'?"
+      },
+      "correctAnswer": "nerve",
+      "options": [
+        "nerve",
+        "vessel",
+        "muscle",
+        "joint"
+      ],
+      "explanation": {
+        "en": "nervus = nerve. Simple Latin noun, 2nd declension masculine: nervus, i m. Not a compound. Example: radiculitis = inflammation of a nerve root."
+      }
+    },
+    {
+      "cardId": "card-011",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'cortex' mean?"
+      },
+      "correctAnswer": "outer layer / cortex",
+      "options": [
+        "outer layer / cortex",
+        "surface / face / appearance",
+        "projection / outgrowth / process",
+        "opening / aperture"
+      ],
+      "explanation": {
+        "en": "cortex = outer layer of an organ or structure. Simple Latin noun, 3rd declension masculine: cortex, corticis m. Example: cortex cerebri = cerebral cortex."
+      }
+    },
+    {
+      "cardId": "card-012",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'thorax'?"
+      },
+      "correctAnswer": "chest",
+      "options": [
+        "chest",
+        "pelvis",
+        "neck",
+        "abdomen"
+      ],
+      "explanation": {
+        "en": "thorax = chest. Greek noun used in medical terminology, 3rd declension masculine in Latinized form: thorax, acis m. Example: musculi thoracis = muscles of the chest."
+      }
+    },
+    {
+      "cardId": "card-013",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'adeps' mean?"
+      },
+      "correctAnswer": "fat / lard",
+      "options": [
+        "fat / lard",
+        "bile / gall",
+        "pus / ichor",
+        "serum / lymph"
+      ],
+      "explanation": {
+        "en": "adeps = fat, lard. Simple Latin noun, 3rd declension masculine: adeps, adipis m. Example: inflammatio adipis = inflammation of adipose tissue."
+      }
+    },
+    {
+      "cardId": "card-014",
+      "type": "mcq",
+      "question": {
+        "en": "What is the Greek-derived term for 'nail' in the worksheet?"
+      },
+      "correctAnswer": "onyx",
+      "options": [
+        "onyx",
+        "derma",
+        "pteron",
+        "keras"
+      ],
+      "explanation": {
+        "en": "onyx = nail (Greek). 3rd declension masculine in Latinized medical use: onyx, onychis m. Example: pachyonychia = abnormal thickening of the nails."
+      }
+    },
+    {
+      "cardId": "card-015",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'articulatio' mean?"
+      },
+      "correctAnswer": "joint",
+      "options": [
+        "joint",
+        "opening / aperture",
+        "projection / outgrowth / process",
+        "arch / arc"
+      ],
+      "explanation": {
+        "en": "articulatio = joint. Simple Latin noun, 3rd declension feminine: articulatio, onis f. Example: polyarthritis = inflammation of many joints."
+      }
+    },
+    {
+      "cardId": "card-016",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'pruritus'?"
+      },
+      "correctAnswer": "itching",
+      "options": [
+        "itching",
+        "fever",
+        "pain",
+        "vomiting"
+      ],
+      "explanation": {
+        "en": "pruritus = itching, itch. Simple Latin noun, 4th declension masculine: pruritus, us m. Example: pruritus cutis = itching of the skin."
+      }
+    },
+    {
+      "cardId": "card-017",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'luxatio' mean?"
+      },
+      "correctAnswer": "dislocation",
+      "options": [
+        "dislocation",
+        "fracture",
+        "subluxation",
+        "sprain"
+      ],
+      "explanation": {
+        "en": "luxatio = dislocation. Simple Latin noun, 3rd declension feminine: luxatio, onis f. Example: luxatio lentis = dislocation of the lens."
+      }
+    },
+    {
+      "cardId": "card-018",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'collum'?"
+      },
+      "correctAnswer": "neck",
+      "options": [
+        "neck",
+        "head",
+        "chest",
+        "knee"
+      ],
+      "explanation": {
+        "en": "collum = neck. Simple Latin noun, 2nd declension neuter: collum, i n. Example: collum femoris = neck of femur."
+      }
+    },
+    {
+      "cardId": "card-019",
+      "type": "mcq",
+      "question": {
+        "en": "What is the Latin noun for 'spleen'?"
+      },
+      "correctAnswer": "lien",
+      "options": [
+        "lien",
+        "ren",
+        "pulmo",
+        "cor"
+      ],
+      "explanation": {
+        "en": "lien = spleen. Simple Latin noun, 3rd declension masculine: lien, lienis m. Example: splenitis / lienitis = inflammation of the spleen."
+      }
+    },
+    {
+      "cardId": "card-020",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'foramen' mean?"
+      },
+      "correctAnswer": "opening / aperture",
+      "options": [
+        "opening / aperture",
+        "arch / arc",
+        "surface / face / appearance",
+        "projection / outgrowth / process"
+      ],
+      "explanation": {
+        "en": "foramen = opening, aperture, perforation. Simple Latin noun, 3rd declension neuter: foramen, inis n. Example: foramen caecum linguae."
+      }
+    },
+    {
+      "cardId": "card-021",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'semen'?"
+      },
+      "correctAnswer": "seminal fluid / sperm",
+      "options": [
+        "seminal fluid / sperm",
+        "lymph / tissue fluid",
+        "synovial fluid",
+        "bile / gall"
+      ],
+      "explanation": {
+        "en": "semen = seminal fluid, sperm. Simple Latin noun, 3rd declension neuter: semen, inis n. Example: semen virile."
+      }
+    },
+    {
+      "cardId": "card-022",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'pus'?"
+      },
+      "correctAnswer": "pus, puris n",
+      "options": [
+        "pus, puris n",
+        "lac, lactis n",
+        "fel, fellis n",
+        "os, oris n"
+      ],
+      "explanation": {
+        "en": "pus = pus. Simple Latin noun, 3rd declension neuter: pus, puris n. Example: pyosalpinx = pus in the fallopian tube; pyorrhoea = discharge of pus."
+      }
+    },
+    {
+      "cardId": "card-023",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'crus' mean?"
+      },
+      "correctAnswer": "leg / crus",
+      "options": [
+        "leg / crus",
+        "knee / genu",
+        "foot / pes",
+        "thigh / femur"
+      ],
+      "explanation": {
+        "en": "crus = leg, crus. Simple Latin noun, 3rd declension neuter: crus, cruris n. Example: crus sinistrum diaphragmatis = left crus of diaphragm."
+      }
+    },
+    {
+      "cardId": "card-024",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'ulcus'?"
+      },
+      "correctAnswer": "ulcer / lesion",
+      "options": [
+        "ulcer / lesion",
+        "cyst / abscess",
+        "scar / cicatrix",
+        "erosion / abrasion"
+      ],
+      "explanation": {
+        "en": "ulcus = ulcer, lesion of skin or mucous membrane. Simple Latin noun, 3rd declension neuter: ulcus, eris n. Example: ulcus ventriculi."
+      }
+    },
+    {
+      "cardId": "card-025",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'lac' mean?"
+      },
+      "correctAnswer": "milk",
+      "options": [
+        "milk",
+        "bile",
+        "pus",
+        "blood"
+      ],
+      "explanation": {
+        "en": "lac = milk. Simple Latin noun, 3rd declension neuter: lac, lactis n. Example adjectives: lacteus, lactifer, lactivus."
+      }
+    },
+    {
+      "cardId": "card-026",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'hydrops'?"
+      },
+      "correctAnswer": "collection of fluid in a body cavity",
+      "options": [
+        "collection of fluid in a body cavity",
+        "formation of calculi in organs",
+        "death of cells or tissues",
+        "hardening of an organ wall"
+      ],
+      "explanation": {
+        "en": "hydrops = collection of fluid in a body cavity. Greek-derived noun in Latin medical usage, 3rd declension masculine: hydrops, opis m. Example: hydrops fetalis."
+      }
+    },
+    {
+      "cardId": "card-027",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'febris' mean?"
+      },
+      "correctAnswer": "fever",
+      "options": [
+        "fever",
+        "itching",
+        "vomiting",
+        "cough"
+      ],
+      "explanation": {
+        "en": "febris = fever. Simple Latin noun, 3rd declension feminine: febris, is f. Example: antifebrilis = antipyretic / antifever."
+      }
+    },
+    {
+      "cardId": "card-028",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'pelvis'?"
+      },
+      "correctAnswer": "basin / pelvis",
+      "options": [
+        "basin / pelvis",
+        "arch / arc",
+        "outer layer / cortex",
+        "projection / process"
+      ],
+      "explanation": {
+        "en": "pelvis = basin-like or cup-shaped cavity; also pelvis. Simple Latin noun, 3rd declension feminine: pelvis, is f. Example: pyel- / pyelo- refers to renal pelvis."
+      }
+    },
+    {
+      "cardId": "card-029",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'ignis' mean?"
+      },
+      "correctAnswer": "fire",
+      "options": [
+        "fire",
+        "frost",
+        "venom",
+        "blood"
+      ],
+      "explanation": {
+        "en": "ignis = fire. Simple Latin noun, 3rd declension masculine: ignis, is m. Important as a model pure i-stem."
+      }
+    },
+    {
+      "cardId": "card-030",
+      "type": "mcq",
+      "question": {
+        "en": "What is the Greek noun for 'vomiting'?"
+      },
+      "correctAnswer": "emesis",
+      "options": [
+        "emesis",
+        "pyrexis",
+        "ptosis",
+        "haemorrhage"
+      ],
+      "explanation": {
+        "en": "emesis = vomiting. Greek-derived noun used in medical Latin, 3rd declension feminine: emesis, is f. Example: hyperemesis gravidarum."
+      }
+    },
+    {
+      "cardId": "card-031",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'haematemesis' mean?"
+      },
+      "correctAnswer": "vomiting of blood",
+      "options": [
+        "vomiting of blood",
+        "presence of excess fat in the blood",
+        "flow / discharge of pus",
+        "deficiency of all blood cell components"
+      ],
+      "explanation": {
+        "en": "haematemesis = vomiting of blood. Greek compound: haemat- (blood) + emesis (vomiting). 3rd declension feminine in Latinized use: haematemesis, is f."
+      }
+    },
+    {
+      "cardId": "card-032",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'anamnesis'?"
+      },
+      "correctAnswer": "medical history",
+      "options": [
+        "medical history",
+        "clinical diagnosis",
+        "disease prognosis",
+        "physical examination"
+      ],
+      "explanation": {
+        "en": "anamnesis = medical history of a disease or illness. Greek-derived noun, 3rd declension feminine: anamnesis, is f. Not a simple anatomical noun, but exam-relevant terminology."
+      }
+    },
+    {
+      "cardId": "card-033",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'mycosis' mean?"
+      },
+      "correctAnswer": "disease caused by a fungus",
+      "options": [
+        "disease caused by a fungus",
+        "disease caused by bacteria",
+        "disease caused by viruses",
+        "disease caused by protozoa"
+      ],
+      "explanation": {
+        "en": "mycosis = disease caused by a fungus. Greek compound: myc- (fungus) + -osis (abnormal condition). 3rd declension feminine in Latinized form: mycosis, is f."
+      }
+    },
+    {
+      "cardId": "card-034",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'sclerosis'?"
+      },
+      "correctAnswer": "hardening",
+      "options": [
+        "hardening",
+        "softening",
+        "tissue death",
+        "tubular dilation"
+      ],
+      "explanation": {
+        "en": "sclerosis = induration, hardening. Greek compound: scler- + -osis. 3rd declension feminine in Latinized form: sclerosis, is f."
+      }
+    },
+    {
+      "cardId": "card-035",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'necrosis' mean?"
+      },
+      "correctAnswer": "death of cells or tissues",
+      "options": [
+        "death of cells or tissues",
+        "hardening of cells or tissues",
+        "liquefaction of cells or tissues",
+        "inflammation of cells or tissues"
+      ],
+      "explanation": {
+        "en": "necrosis = death of cells, tissues, or organs. Greek compound: necr- + -osis. 3rd declension feminine in Latinized form: necrosis, is f."
+      }
+    },
+    {
+      "cardId": "card-036",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'lithiasis'?"
+      },
+      "correctAnswer": "formation of calculi / stones",
+      "options": [
+        "formation of calculi / stones",
+        "formation of fibrous bands",
+        "formation of cystic lesions",
+        "formation of necrotic deposits"
+      ],
+      "explanation": {
+        "en": "lithiasis = formation of calculi of any kind. Greek compound: lith- (stone) + -iasis (abnormal condition). 3rd declension feminine in Latinized form: lithiasis, is f."
+      }
+    },
+    {
+      "cardId": "card-037",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'calcar' mean?"
+      },
+      "correctAnswer": "spur-like process",
+      "options": [
+        "spur-like process",
+        "projection / outgrowth / process",
+        "arch / arc",
+        "opening / aperture"
+      ],
+      "explanation": {
+        "en": "calcar = spur-like process. Simple Latin noun, 3rd declension neuter: calcar, aris n. Example: calcar avis."
+      }
+    },
+    {
+      "cardId": "card-038",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'unguis'?"
+      },
+      "correctAnswer": "nail",
+      "options": [
+        "nail",
+        "tooth",
+        "bone",
+        "mouth"
+      ],
+      "explanation": {
+        "en": "unguis = nail (Latin). Simple Latin noun, 3rd declension masculine: unguis, is m. Important contrast with Greek onyx, onychis m."
+      }
+    },
+    {
+      "cardId": "card-039",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'testis' mean?"
+      },
+      "correctAnswer": "testis",
+      "options": [
+        "testis",
+        "ovary",
+        "kidney",
+        "thymus"
+      ],
+      "explanation": {
+        "en": "testis = one of the two male reproductive glands. Simple Latin noun, 3rd declension masculine: testis, is m. Example: ptosis testis = downward displacement of the testes."
+      }
+    },
+    {
+      "cardId": "card-040",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'fel'?"
+      },
+      "correctAnswer": "gall / bile",
+      "options": [
+        "gall / bile",
+        "milk / colostrum",
+        "pus / ichor",
+        "blood / serum"
+      ],
+      "explanation": {
+        "en": "fel = gall, bile. Simple Latin noun, 3rd declension neuter: fel, fellis n. Example: choledocholithiasis = gallstones in the common bile duct."
+      }
+    },
+    {
+      "cardId": "card-041",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'pestis' mean?"
+      },
+      "correctAnswer": "plague / pestilence",
+      "options": [
+        "plague / pestilence",
+        "rabies / lyssa",
+        "scabies / itch",
+        "fever / pyrexia"
+      ],
+      "explanation": {
+        "en": "pestis = plague, pestilence. Simple Latin noun, 3rd declension feminine: pestis, is f."
+      }
+    },
+    {
+      "cardId": "card-042",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'caries'?"
+      },
+      "correctAnswer": "decay and disintegration of a tooth",
+      "options": [
+        "decay and disintegration of a tooth",
+        "contagious skin disease with pruritus",
+        "progressive grayness of the hair",
+        "softening of bone or organ"
+      ],
+      "explanation": {
+        "en": "caries = decay and disintegration of a tooth. Simple Latin noun, 5th declension feminine: caries, ei f."
+      }
+    },
+    {
+      "cardId": "card-043",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'canities' mean?"
+      },
+      "correctAnswer": "grayness / whiteness of hair",
+      "options": [
+        "grayness / whiteness of hair",
+        "decay and disintegration of a tooth",
+        "softening of an organ or part",
+        "diffuse hair loss and thinning"
+      ],
+      "explanation": {
+        "en": "canities = grayness or whiteness of hair. Simple Latin noun, 5th declension feminine: canities, ei f."
+      }
+    },
+    {
+      "cardId": "card-044",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'mollities'?"
+      },
+      "correctAnswer": "softness of an organ or part",
+      "options": [
+        "softness of an organ or part",
+        "hardening of an organ or part",
+        "cortical surface of a part",
+        "narrowing of a duct or aperture"
+      ],
+      "explanation": {
+        "en": "mollities = softness of any organ or part. Simple Latin noun, 5th declension feminine: mollities, ei f."
+      }
+    },
+    {
+      "cardId": "card-045",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'rabies' mean?"
+      },
+      "correctAnswer": "infectious fatal viral disease carried by animals",
+      "options": [
+        "infectious fatal viral disease carried by animals",
+        "epidemic infectious bacterial disease",
+        "contagious skin disease with pruritus",
+        "systemic mycotic infection"
+      ],
+      "explanation": {
+        "en": "rabies = rabies. Simple Latin noun, 5th declension feminine: rabies, ei f."
+      }
+    },
+    {
+      "cardId": "card-046",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'scabies'?"
+      },
+      "correctAnswer": "contagious skin disease with itching and papules",
+      "options": [
+        "contagious skin disease with itching and papules",
+        "fatal viral disease transmitted by animals",
+        "persistent pruritus without skin eruptions",
+        "shallow inflammatory skin ulceration"
+      ],
+      "explanation": {
+        "en": "scabies = contagious skin disease marked by itching, inflammation, and papules. Simple Latin noun, 5th declension feminine: scabies, ei f."
+      }
+    },
+    {
+      "cardId": "card-047",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'arcus' mean?"
+      },
+      "correctAnswer": "arch / arc",
+      "options": [
+        "arch / arc",
+        "projection / outgrowth / process",
+        "opening / aperture",
+        "surface / face / appearance"
+      ],
+      "explanation": {
+        "en": "arcus = arch, arc. Simple Latin noun, 4th declension masculine: arcus, us m. Example: arcus longitudinalis pedis."
+      }
+    },
+    {
+      "cardId": "card-048",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'plexus'?"
+      },
+      "correctAnswer": "network",
+      "options": [
+        "network",
+        "projection / outgrowth / process",
+        "opening / aperture",
+        "series / row"
+      ],
+      "explanation": {
+        "en": "plexus = network of nerves or vessels. Simple Latin noun, 4th declension masculine: plexus, us m. Example: plexus cardiacus profundus."
+      }
+    },
+    {
+      "cardId": "card-049",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'processus' mean?"
+      },
+      "correctAnswer": "projection / outgrowth / process",
+      "options": [
+        "projection / outgrowth / process",
+        "arch / arc",
+        "opening / aperture",
+        "outer layer / cortex"
+      ],
+      "explanation": {
+        "en": "processus = projection, outgrowth, process. Simple Latin noun, 4th declension masculine: processus, us m."
+      }
+    },
+    {
+      "cardId": "card-050",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'manus'?"
+      },
+      "correctAnswer": "manus, us f",
+      "options": [
+        "manus, us f",
+        "arcus, us m",
+        "plexus, us m",
+        "genu, us n"
+      ],
+      "explanation": {
+        "en": "manus = hand. Simple Latin noun, 4th declension feminine: manus, us f. Example: manus manum lavat."
+      }
+    },
+    {
+      "cardId": "card-051",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'visus' mean?"
+      },
+      "correctAnswer": "the act / sense of seeing",
+      "options": [
+        "the act / sense of seeing",
+        "the act / sense of hearing",
+        "the act / sense of smelling",
+        "the act / sense of tasting"
+      ],
+      "explanation": {
+        "en": "visus = the act of seeing, sight. Simple Latin noun, 4th declension masculine: visus, us m."
+      }
+    },
+    {
+      "cardId": "card-052",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'auditus'?"
+      },
+      "correctAnswer": "hearing",
+      "options": [
+        "hearing",
+        "sense of sight",
+        "sense of smell",
+        "sense of taste"
+      ],
+      "explanation": {
+        "en": "auditus = hearing. Simple Latin noun, 4th declension masculine: auditus, us m. Example: hypoacusia = impaired hearing."
+      }
+    },
+    {
+      "cardId": "card-053",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'casus' mean in medical terminology?"
+      },
+      "correctAnswer": "falling / dropping down",
+      "options": [
+        "falling / dropping down",
+        "downward displacement",
+        "joint dislocation",
+        "sudden collapse"
+      ],
+      "explanation": {
+        "en": "casus = falling. Simple Latin noun, 4th declension masculine: casus, us m. Relevant for semantic contrast with Greek -ptosis."
+      }
+    },
+    {
+      "cardId": "card-054",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'olfactus'?"
+      },
+      "correctAnswer": "sense of smell",
+      "options": [
+        "sense of smell",
+        "sense of hearing",
+        "sense of sight",
+        "sense of taste"
+      ],
+      "explanation": {
+        "en": "olfactus = sense of smell. Simple Latin noun, 4th declension masculine: olfactus, us m. Example: hyperosmia = unusually acute smell."
+      }
+    },
+    {
+      "cardId": "card-055",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'genu' mean?"
+      },
+      "correctAnswer": "knee",
+      "options": [
+        "knee",
+        "hand",
+        "neck",
+        "foot"
+      ],
+      "explanation": {
+        "en": "genu = knee. Simple Latin noun, 4th declension neuter: genu, us n. Example: gonarthritis = inflammation of the knee joint."
+      }
+    },
+    {
+      "cardId": "card-056",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'facies'?"
+      },
+      "correctAnswer": "surface / face / appearance",
+      "options": [
+        "surface / face / appearance",
+        "series / row",
+        "outer layer / cortex",
+        "opening / aperture"
+      ],
+      "explanation": {
+        "en": "facies = face, surface, appearance. Simple Latin noun, 5th declension feminine: facies, ei f. Example: facies cerebralis ossis temporalis."
+      }
+    },
+    {
+      "cardId": "card-057",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'species' mean?"
+      },
+      "correctAnswer": "appearance / kind",
+      "options": [
+        "appearance / kind",
+        "series / row",
+        "surface / face / appearance",
+        "arch / arc"
+      ],
+      "explanation": {
+        "en": "species = appearance, kind. Simple Latin noun, 5th declension feminine: species, ei f."
+      }
+    },
+    {
+      "cardId": "card-058",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'series'?"
+      },
+      "correctAnswer": "series / row",
+      "options": [
+        "series / row",
+        "appearance / kind",
+        "surface / face / appearance",
+        "network"
+      ],
+      "explanation": {
+        "en": "series = row, series. Simple Latin noun, 5th declension feminine: series, ei f."
+      }
+    },
+    {
+      "cardId": "card-059",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'erythrocytus' literally mean?"
+      },
+      "correctAnswer": "red cell",
+      "options": [
+        "red cell",
+        "white cell",
+        "stem cell",
+        "platelet"
+      ],
+      "explanation": {
+        "en": "erythrocytus = red blood cell. Compound term of Greek origin: erythr- (red) + cyt- (cell), Latinized as a 2nd declension masculine noun: erythrocytus, i m."
+      }
+    },
+    {
+      "cardId": "card-060",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'mesocardia' mean?"
+      },
+      "correctAnswer": "midline position of the heart",
+      "options": [
+        "midline position of the heart",
+        "rightward position of the heart",
+        "disease of the heart muscle",
+        "fast and irregular heartbeat"
+      ],
+      "explanation": {
+        "en": "mesocardia = location of the heart in the middle of the thorax. Greek compound: meso- (middle) + -cardia (heart condition/location). 1st declension noun in Latinized form."
+      }
+    },
+    {
+      "cardId": "card-061",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'pachyonychia'?"
+      },
+      "correctAnswer": "abnormal thickening of the nails",
+      "options": [
+        "abnormal thickening of the nails",
+        "fungal infection of the nails",
+        "congenital absence of the nails",
+        "atrophy and softening of the nails"
+      ],
+      "explanation": {
+        "en": "pachyonychia = thick nails. Greek compound: pachy- (thick) + onych- (nail) + -ia. 1st declension noun in Latinized use."
+      }
+    },
+    {
+      "cardId": "card-062",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'idiopathia' mean?"
+      },
+      "correctAnswer": "disease of unknown cause / idiopathic disease",
+      "options": [
+        "disease of unknown cause / idiopathic disease",
+        "disease of hereditary origin",
+        "disease following infection",
+        "disease induced by treatment"
+      ],
+      "explanation": {
+        "en": "idiopathia = idiopathic disease. Greek compound: idio- (one's own, peculiar) + -pathia (disease/suffering). 1st declension noun in Latinized form."
+      }
+    },
+    {
+      "cardId": "card-063",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'neonatologia'?"
+      },
+      "correctAnswer": "study / care / treatment of newborns",
+      "options": [
+        "study / care / treatment of newborns",
+        "study of old age and elderly",
+        "study of child development",
+        "study of human beings"
+      ],
+      "explanation": {
+        "en": "neonatologia = study of newborns. Hybrid compound: neo- (new, Greek) + natus (born, Latin) + -logia (study, Greek). 1st declension noun in Latinized form."
+      }
+    },
+    {
+      "cardId": "card-064",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'polioencephalomeningomyelitis' mean?"
+      },
+      "correctAnswer": "inflammation of gray matter, brain, meninges, and spinal cord",
+      "options": [
+        "inflammation of gray matter, brain, meninges, and spinal cord",
+        "inflammation of nerve roots, meninges, and spinal cord",
+        "inflammation of the brain and spinal cord",
+        "inflammation of the meninges and spinal cord"
+      ],
+      "explanation": {
+        "en": "polioencephalomeningomyelitis is a Greek compound: polio- (gray matter) + encephalo- (brain) + meningo- (meninges) + myel- (spinal cord) + -itis (inflammation). High-yield long compound term."
+      }
+    },
+    {
+      "cardId": "card-065",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'platygnathus'?"
+      },
+      "correctAnswer": "condition of having a wide jaw",
+      "options": [
+        "condition of having a wide jaw",
+        "condition of having a narrow jaw",
+        "condition of having a short nose",
+        "condition of having a protruding chin"
+      ],
+      "explanation": {
+        "en": "platygnathus = broad jaw. Greek compound, Latinized as a 2nd declension masculine noun: platy- (broad) + gnath- (jaw) + -us."
+      }
+    },
+    {
+      "cardId": "card-066",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'radiculomeningomyelitis' mean?"
+      },
+      "correctAnswer": "inflammation of nerve roots, meninges, and spinal cord",
+      "options": [
+        "inflammation of nerve roots, meninges, and spinal cord",
+        "inflammation of gray matter, brain, and meninges",
+        "inflammation of the brain and spinal cord only",
+        "inflammation of spinal cord and nerve roots"
+      ],
+      "explanation": {
+        "en": "radiculomeningomyelitis = inflammation of nerve root(s), meninges, and spinal cord. Hybrid compound: radicul- (Latin radicula) + meningo- + myel- + -itis."
+      }
+    },
+    {
+      "cardId": "card-067",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'trachelorrhaphia'?"
+      },
+      "correctAnswer": "surgical fixation / suture of the cervix uteri",
+      "options": [
+        "surgical fixation / suture of the cervix uteri",
+        "surgical suture of the uterine body",
+        "surgical repair of the vaginal wall",
+        "surgical incision of the cervix uteri"
+      ],
+      "explanation": {
+        "en": "trachelorrhaphia = surgical repair or suturing of a lacerated cervix uteri (often post-childbirth). Greek compound: trachelo- (cervix/neck) + -rrhaphia (suture/seam). A 1st declension feminine noun in its Latinized form."
+      }
+    },
+    {
+      "cardId": "card-068",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'podiatria' mean?"
+      },
+      "correctAnswer": "treatment / specialty concerned with the feet",
+      "options": [
+        "treatment / specialty concerned with the feet",
+        "treatment / specialty concerned with the skin",
+        "treatment / specialty concerned with the eyes",
+        "treatment / specialty concerned with the nose"
+      ],
+      "explanation": {
+        "en": "podiatria = treatment/healing of the feet. Greek compound: pod- (foot) + -iatria (healing/treatment). 1st declension noun in Latinized form."
+      }
+    },
+    {
+      "cardId": "card-069",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'anthropologia'?"
+      },
+      "correctAnswer": "study of human beings",
+      "options": [
+        "study of human beings",
+        "study of old age and old people",
+        "study of animal behavior",
+        "study of population groups"
+      ],
+      "explanation": {
+        "en": "anthropologia = anthropology. Greek compound: anthropo- (human being) + -logia (study). 1st declension noun in Latinized form."
+      }
+    },
+    {
+      "cardId": "card-070",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'lipaemia' mean?"
+      },
+      "correctAnswer": "presence of excess fat in the blood",
+      "options": [
+        "presence of excess fat in the blood",
+        "presence of excess glucose in the blood",
+        "presence of excess uric acid in the blood",
+        "deficiency of plasma proteins in the blood"
+      ],
+      "explanation": {
+        "en": "lipaemia = fat in the blood; hyperlipaemia = excess of fats/lipids in blood. Greek compound: lip- (fat) + -aemia (blood condition). 1st declension noun in Latinized use."
+      }
+    },
+    {
+      "cardId": "card-071",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'cardiomyopathia'?"
+      },
+      "correctAnswer": "disease of the heart muscle",
+      "options": [
+        "disease of the heart muscle",
+        "disease of the heart valves",
+        "midline position of the heart",
+        "fast and irregular heartbeat"
+      ],
+      "explanation": {
+        "en": "cardiomyopathia = disease/suffering of heart muscle. Greek compound: cardio- + myo- + -pathia. Latin synonym noted in the worksheet: myocardiopathia."
+      }
+    },
+    {
+      "cardId": "card-072",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'thoracomyositis' mean?"
+      },
+      "correctAnswer": "inflammation of the chest muscles",
+      "options": [
+        "inflammation of the chest muscles",
+        "inflammation of the intercostal nerves",
+        "inflammation of the thoracic pleura",
+        "inflammation of the chest wall fascia"
+      ],
+      "explanation": {
+        "en": "thoracomyositis = inflammation of the chest muscles. Greek compound: thoraco- (chest) + myos- (muscle) + -itis."
+      }
+    },
+    {
+      "cardId": "card-073",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'atresia oris' conceptually referring to?"
+      },
+      "correctAnswer": "congenital absence / closure of the mouth",
+      "options": [
+        "congenital absence / closure of the mouth",
+        "congenital absence / closure of the esophagus",
+        "congenital absence / closure of the anus",
+        "congenital absence / closure of the nasal passages"
+      ],
+      "explanation": {
+        "en": "atresia oris = condition of congenital absence/closure of the mouth. Hybrid idea: Greek atresia + Latin os, oris."
+      }
+    },
+    {
+      "cardId": "card-074",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'cheilostomatoplastica' mean?"
+      },
+      "correctAnswer": "plastic repair of the lips and mouth",
+      "options": [
+        "plastic repair of the lips and mouth",
+        "plastic repair of the nose and palate",
+        "plastic repair of the ear and jaw",
+        "plastic repair of the eyelids and orbit"
+      ],
+      "explanation": {
+        "en": "cheilostomatoplastica = plastic surgery/restoration of the lips and mouth. Greek compound: cheilo- (lip) + stomato- (mouth) + -plastica."
+      }
+    },
+    {
+      "cardId": "card-075",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'pyorrhoea'?"
+      },
+      "correctAnswer": "flow / discharge of pus",
+      "options": [
+        "flow / discharge of pus",
+        "accumulation of pus in a cavity",
+        "pus in the fallopian tube",
+        "destruction of tissue by pus"
+      ],
+      "explanation": {
+        "en": "pyorrhoea = discharge of pus. Greek compound: pyo- (pus) + -rrhoea (flow/discharge). 1st declension noun in Latinized form."
+      }
+    },
+    {
+      "cardId": "card-076",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'pyosalpinx' mean?"
+      },
+      "correctAnswer": "pus in the fallopian tube",
+      "options": [
+        "pus in the fallopian tube",
+        "pus in the uterine cavity",
+        "pus in the pleural space",
+        "pus in the renal pelvis"
+      ],
+      "explanation": {
+        "en": "pyosalpinx = pus in the fallopian (uterine) tube. Greek compound: pyo- + salpinx/salping-."
+      }
+    },
+    {
+      "cardId": "card-077",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'laparocholecystotomia'?"
+      },
+      "correctAnswer": "incision into the gallbladder through the abdominal wall",
+      "options": [
+        "incision into the gallbladder through the abdominal wall",
+        "removal of the gallbladder through the abdominal wall",
+        "suture of the gallbladder through the abdominal wall",
+        "drainage of the gallbladder through the abdominal wall"
+      ],
+      "explanation": {
+        "en": "laparocholecystotomia = incision into the gallbladder through the abdominal wall. Greek compound: laparo- (abdomen) + cholecysto- (gallbladder) + -tomia (incision)."
+      }
+    },
+    {
+      "cardId": "card-078",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'zoanthropia' mean?"
+      },
+      "correctAnswer": "condition in which a human imagines being an animal",
+      "options": [
+        "condition in which a human imagines being an animal",
+        "abnormal condition of split mind",
+        "abnormal fear of the sea",
+        "abnormal dislike or hatred of children"
+      ],
+      "explanation": {
+        "en": "zoanthropia = delusion of being an animal. Greek compound: zoo- (animal) + anthrop- (human) + -ia."
+      }
+    },
+    {
+      "cardId": "card-079",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'pyelonephritis'?"
+      },
+      "correctAnswer": "inflammation of the renal pelvis and kidney",
+      "options": [
+        "inflammation of the renal pelvis and kidney",
+        "dilation of the renal pelvis",
+        "calculi in the renal pelvis",
+        "obstruction of the renal pelvis"
+      ],
+      "explanation": {
+        "en": "pyelonephritis = inflammation of the renal pelvis and kidney. Greek compound: pyelo- (renal pelvis) + nephr- (kidney) + -itis."
+      }
+    },
+    {
+      "cardId": "card-080",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'pyretotherapia' refer to?"
+      },
+      "correctAnswer": "treatment by artificial raising of body temperature",
+      "options": [
+        "treatment by artificial raising of body temperature",
+        "treatment by artificial lowering of body temperature",
+        "treatment by controlled maintenance of normal temperature",
+        "fever suppression by pharmacological means"
+      ],
+      "explanation": {
+        "en": "pyretotherapia = heat/fever treatment. Greek compound: pyreto- (fever/heat) + -therapia. A synonym family includes hyperthermia-based therapy terms."
+      }
+    },
+    {
+      "cardId": "card-081",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'antipyreticus'?"
+      },
+      "correctAnswer": "preventing or reducing fever",
+      "options": [
+        "preventing or reducing fever",
+        "inducing or maintaining fever",
+        "preventing or reducing pain",
+        "preventing or reducing inflammation"
+      ],
+      "explanation": {
+        "en": "antipyreticus = antipyretic. Greek compound with adjective ending of 1st/2nd declension: anti- (against) + pyret- (fever) + -icus, a, um."
+      }
+    },
+    {
+      "cardId": "card-082",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'antitussicus' mean?"
+      },
+      "correctAnswer": "relieving / preventing cough",
+      "options": [
+        "relieving / preventing cough",
+        "relieving / preventing fever",
+        "relieving / preventing pain",
+        "relieving / preventing nausea"
+      ],
+      "explanation": {
+        "en": "antitussicus = antitussive. Hybrid compound possible in the worksheet: anti- (Greek) + tuss- (Latin stem of tussis, cough) + -icus."
+      }
+    },
+    {
+      "cardId": "card-083",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'thalassophobia'?"
+      },
+      "correctAnswer": "abnormal fear of the sea",
+      "options": [
+        "abnormal fear of the sea",
+        "abnormal dislike or hatred of children",
+        "condition in which a human imagines being an animal",
+        "abnormal condition of split mind"
+      ],
+      "explanation": {
+        "en": "thalassophobia = fear of the sea. Greek compound: thalasso- (sea) + -phobia (fear)."
+      }
+    },
+    {
+      "cardId": "card-084",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'pyelectasia' mean?"
+      },
+      "correctAnswer": "dilation of the renal pelvis",
+      "options": [
+        "dilation of the renal pelvis",
+        "inflammation of the renal pelvis",
+        "obstruction of the renal pelvis",
+        "calculi in the renal pelvis"
+      ],
+      "explanation": {
+        "en": "pyelectasia = dilation of renal pelvis. Greek compound: pyel- + -ectasia (dilation). A synonymous form may be built with another noun pattern in the workbook."
+      }
+    },
+    {
+      "cardId": "card-085",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'lithopaedion'?"
+      },
+      "correctAnswer": "calcified fetus / stone baby",
+      "options": [
+        "calcified fetus / stone baby",
+        "calcified gallstone in the biliary system",
+        "calcified renal calculus",
+        "calcified mesenteric lymph node"
+      ],
+      "explanation": {
+        "en": "lithopaedion = stone baby. Greek compound, neuter noun of 2nd declension in Latinized form: litho- (stone) + paedion (little child/infant)."
+      }
+    },
+    {
+      "cardId": "card-086",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'misopaedia' mean?"
+      },
+      "correctAnswer": "abnormal dislike or hatred of children",
+      "options": [
+        "abnormal dislike or hatred of children",
+        "abnormal fear of children",
+        "abnormal attachment to children",
+        "abnormal fascination with children"
+      ],
+      "explanation": {
+        "en": "misopaedia = hatred of children. Greek compound: miso- (hatred) + paed- (child) + -ia."
+      }
+    },
+    {
+      "cardId": "card-087",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'monophyodontia'?"
+      },
+      "correctAnswer": "condition of having only one set of teeth",
+      "options": [
+        "condition of having only one set of teeth",
+        "condition of having two sets of teeth",
+        "condition of having extra supernumerary teeth",
+        "condition of complete absence of teeth"
+      ],
+      "explanation": {
+        "en": "monophyodontia = having only one dentition. Greek compound: mono- (one) + phy- (grow) + odont- (tooth) + -ia."
+      }
+    },
+    {
+      "cardId": "card-088",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'diphyodontia' mean?"
+      },
+      "correctAnswer": "condition of having two sets of teeth",
+      "options": [
+        "condition of having two sets of teeth",
+        "condition of having only one set of teeth",
+        "condition of having extra supernumerary teeth",
+        "condition of widely spaced teeth"
+      ],
+      "explanation": {
+        "en": "diphyodontia = having two sets of teeth (primary and permanent). Greek compound: di- (two) + phy- + odont- + -ia."
+      }
+    },
+    {
+      "cardId": "card-089",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'cholecystorrhaphia'?"
+      },
+      "correctAnswer": "suture of the gallbladder",
+      "options": [
+        "suture of the gallbladder",
+        "incision into the gallbladder",
+        "removal of the gallbladder",
+        "drainage of the gallbladder"
+      ],
+      "explanation": {
+        "en": "cholecystorrhaphia = suture of the gallbladder. Greek compound: cholecysto- + -rrhaphia."
+      }
+    },
+    {
+      "cardId": "card-090",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'cryptorchismus' denote?"
+      },
+      "correctAnswer": "downward displacement / abnormal position of testes",
+      "options": [
+        "downward displacement / abnormal position of testes",
+        "congenital absence of one or both testes",
+        "abnormal smallness of the testes",
+        "torsion of the testis"
+      ],
+      "explanation": {
+        "en": "cryptorchismus in broader terminology concerns hidden/undescended testis; in the worksheet the target notion is abnormal position/displacement of testes. Greek compound form with -ismus."
+      }
+    },
+    {
+      "cardId": "card-091",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'onychomycosis'?"
+      },
+      "correctAnswer": "fungal disease of the nails",
+      "options": [
+        "fungal disease of the nails",
+        "bacterial infection of the nails",
+        "abnormal thickening of the nails",
+        "congenital absence of the nails"
+      ],
+      "explanation": {
+        "en": "onychomycosis = fungal condition of the nails. Greek compound: onycho- (nail) + myc- (fungus) + -osis."
+      }
+    },
+    {
+      "cardId": "card-092",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'schizophrenia' literally mean?"
+      },
+      "correctAnswer": "abnormal condition of split mind",
+      "options": [
+        "abnormal condition of split mind",
+        "condition of imagining oneself an animal",
+        "condition of abnormal fear of open spaces",
+        "condition of compulsive repetitive behavior"
+      ],
+      "explanation": {
+        "en": "schizophrenia = split mind. Greek compound: schizo- (split) + phren- (mind) + -ia. High-yield classic medical Greek."
+      }
+    },
+    {
+      "cardId": "card-093",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'aphakia'?"
+      },
+      "correctAnswer": "absence of the crystalline lens",
+      "options": [
+        "absence of the crystalline lens",
+        "opacity of the crystalline lens",
+        "displacement of the crystalline lens",
+        "hardening of the crystalline lens"
+      ],
+      "explanation": {
+        "en": "aphakia = absence of the crystalline lens of the eye. Greek compound: a- (without) + phak-/phac- (lens) + -ia."
+      }
+    },
+    {
+      "cardId": "card-094",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'polyarthritis' mean?"
+      },
+      "correctAnswer": "inflammation of many joints",
+      "options": [
+        "inflammation of many joints",
+        "inflammation of a single joint",
+        "inflammation of the synovial membrane",
+        "inflammation of the joint capsule"
+      ],
+      "explanation": {
+        "en": "polyarthritis = inflammation of all/many joints. Greek compound: poly- (many) + arthr- (joint) + -itis."
+      }
+    },
+    {
+      "cardId": "card-095",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'pancytopenia'?"
+      },
+      "correctAnswer": "deficiency of all blood cell components",
+      "options": [
+        "deficiency of all blood cell components",
+        "deficiency of red blood cells only",
+        "deficiency of white blood cells only",
+        "deficiency of platelets only"
+      ],
+      "explanation": {
+        "en": "pancytopenia = deficiency of all three cellular blood components. Greek compound: pan- (all) + cyto- (cell) + -penia (poverty/deficiency)."
+      }
+    },
+    {
+      "cardId": "card-096",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'tachyarrhythmia' mean?"
+      },
+      "correctAnswer": "fast and irregular heartbeat",
+      "options": [
+        "fast and irregular heartbeat",
+        "slow and irregular heartbeat",
+        "rapid but regular heartbeat",
+        "slow but regular heartbeat"
+      ],
+      "explanation": {
+        "en": "tachyarrhythmia = fast irregular rhythm of the heart. Greek compound: tachy- (fast) + arrhythmia (loss/abnormality of rhythm)."
+      }
+    },
+    {
+      "cardId": "card-097",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'brachyrhinia'?"
+      },
+      "correctAnswer": "abnormal shortness of the nose",
+      "options": [
+        "abnormal shortness of the nose",
+        "abnormal widening of the jaw",
+        "abnormal narrowing of the nasal passages",
+        "abnormal deviation of the nasal septum"
+      ],
+      "explanation": {
+        "en": "brachyrhinia = short nose. Greek compound: brachy- (short) + rhin- (nose) + -ia."
+      }
+    },
+    {
+      "cardId": "card-098",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'gerontologia' mean?"
+      },
+      "correctAnswer": "study of old age and old people",
+      "options": [
+        "study of old age and old people",
+        "study of child development",
+        "study of human beings",
+        "study of human diseases"
+      ],
+      "explanation": {
+        "en": "gerontologia = gerontology. Greek compound: geronto- (old age/old person) + -logia (study)."
+      }
+    },
+    {
+      "cardId": "card-099",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'homoeoplasia'?"
+      },
+      "correctAnswer": "formation of tissue similar to that already existing",
+      "options": [
+        "formation of tissue similar to that already existing",
+        "formation of tissue unlike that already existing",
+        "abnormal proliferation of existing tissue",
+        "replacement of one tissue type by another"
+      ],
+      "explanation": {
+        "en": "homoeoplasia = formation of the same/similar tissue. Greek compound: homeo-/homo- (same, alike) + -plasia (formation/growth)."
+      }
+    },
+    {
+      "cardId": "card-100",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'hyperosmia' mean?"
+      },
+      "correctAnswer": "unusually acute sense of smell",
+      "options": [
+        "unusually acute sense of smell",
+        "complete absence of sense of smell",
+        "diminished or impaired sense of smell",
+        "distorted or perverted sense of smell"
+      ],
+      "explanation": {
+        "en": "hyperosmia = unusually acute smell. Greek compound: hyper- (excessive) + -osmia (smell). High-yield sensory terminology from the worksheet."
+      }
+    }
+  ]
+}

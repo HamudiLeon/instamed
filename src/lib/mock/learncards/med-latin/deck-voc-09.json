@@ -1,0 +1,662 @@
+{
+  "schemaId": "studywithme-bg.vocab.v2",
+  "bookKey": "greek-compounds-exam",
+  "chapterKey": "ch-core",
+  "title": "Greek Medical Compounds",
+  "items": [
+    {
+      "word": "haem- / haemat-",
+      "translation": "blood",
+      "hint": "Example: Haematoma = localized collection of blood.",
+      "examCue": "hematology"
+    },
+    {
+      "word": "-aesthesia",
+      "translation": "sensation / perception",
+      "hint": "Example: Anaesthesia = loss of sensation.",
+      "examCue": "neurology"
+    },
+    {
+      "word": "kerat- / kerato-",
+      "translation": "cornea / keratinized tissue",
+      "hint": "Example: Keratitis = inflammation of the cornea.",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "-logia",
+      "translation": "study / science",
+      "hint": "Example: Cardiology = study of the heart.",
+      "examCue": "general"
+    },
+    {
+      "word": "ox-",
+      "translation": "oxygen",
+      "hint": "Example: Hypoxia = low oxygen in tissues.",
+      "examCue": "chemistry"
+    },
+    {
+      "word": "plak-",
+      "translation": "plaque",
+      "hint": "Example: Atherosclerotic lesion = arterial plaque build-up.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "-plasia",
+      "translation": "formation / growth",
+      "hint": "Example: Hyperplasia = increased tissue growth.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "-pnea",
+      "translation": "breathing",
+      "hint": "Example: Apnea = absence of breathing.",
+      "examCue": "respiratory"
+    },
+    {
+      "word": "pneumo- / pneumon-",
+      "translation": "lung / air",
+      "hint": "Example: Pneumonia = inflammatory disease of the lung.",
+      "examCue": "respiratory"
+    },
+    {
+      "word": "-rrhagia",
+      "translation": "excessive flow",
+      "hint": "Example: Menorrhagia = excessive menstrual bleeding.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "therm-",
+      "translation": "heat",
+      "hint": "Example: Hyperthermia = abnormally high body temperature.",
+      "examCue": "general"
+    },
+    {
+      "word": "-tresia",
+      "translation": "perforation",
+      "hint": "Example: Atresia = absence of a normal opening.",
+      "examCue": "surgery"
+    },
+    {
+      "word": "aden-",
+      "translation": "gland",
+      "hint": "Example: Adenitis = inflammation of a gland.",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "bio-",
+      "translation": "life",
+      "hint": "Example: Biology = study of life.",
+      "examCue": "general"
+    },
+    {
+      "word": "blephar-",
+      "translation": "eyelid",
+      "hint": "Example: Blepharitis = inflammation of the eyelid.",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "cyst-",
+      "translation": "bladder",
+      "hint": "Example: Cystitis = inflammation of the urinary bladder.",
+      "examCue": "urology"
+    },
+    {
+      "word": "cyt-",
+      "translation": "cell",
+      "hint": "Example: Cytology = study of cells.",
+      "examCue": "histology"
+    },
+    {
+      "word": "dacry-",
+      "translation": "tear",
+      "hint": "Example: Dacryocystitis = inflammation of the lacrimal sac.",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "gloss-",
+      "translation": "tongue",
+      "hint": "Example: Glossitis = inflammation of the tongue.",
+      "examCue": "oral"
+    },
+    {
+      "word": "gnath-",
+      "translation": "jaw",
+      "hint": "Example: Prognathism = forward position of the jaw.",
+      "examCue": "dental"
+    },
+    {
+      "word": "gyn-",
+      "translation": "woman",
+      "hint": "Example: Gynecology = medical field focused on women.",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "hydr-",
+      "translation": "water",
+      "hint": "Example: Hydronephrosis = fluid distension of the kidney.",
+      "examCue": "general"
+    },
+    {
+      "word": "hist-",
+      "translation": "tissue",
+      "hint": "Example: Histology = study of tissues.",
+      "examCue": "histology"
+    },
+    {
+      "word": "mast-",
+      "translation": "breast",
+      "hint": "Example: Mastectomy = surgical removal of the breast.",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "morph-",
+      "translation": "form",
+      "hint": "Example: Morphology = study of form and structure.",
+      "examCue": "general"
+    },
+    {
+      "word": "myel-",
+      "translation": "marrow / spinal cord",
+      "hint": "Example: Myelitis = inflammation of the spinal cord.",
+      "examCue": "neurology"
+    },
+    {
+      "word": "phleb-",
+      "translation": "vein",
+      "hint": "Example: Phlebitis = inflammation of a vein.",
+      "examCue": "vascular"
+    },
+    {
+      "word": "phyt-",
+      "translation": "plant",
+      "hint": "Example: Phytotherapy = treatment using plant-derived substances.",
+      "examCue": "general"
+    },
+    {
+      "word": "salping-",
+      "translation": "tube",
+      "hint": "Example: Salpingitis = inflammation of the uterine tube.",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "spondyl-",
+      "translation": "vertebra",
+      "hint": "Example: Spondylosis = degenerative vertebral disease.",
+      "examCue": "orthopedics"
+    },
+    {
+      "word": "thel-",
+      "translation": "nipple",
+      "hint": "Example: Polythelia = presence of extra nipples.",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "thyr-",
+      "translation": "thyroid gland",
+      "hint": "Example: Hyperthyroidism = excessive thyroid function.",
+      "examCue": "endocrine"
+    },
+    {
+      "word": "-algia",
+      "translation": "pain",
+      "hint": "Example: Neuralgia = pain along a nerve.",
+      "examCue": "symptom"
+    },
+    {
+      "word": "-cele",
+      "translation": "hernia / swelling",
+      "hint": "Example: Hydrocele = fluid-filled swelling.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "-ectomia",
+      "translation": "excision",
+      "hint": "Example: Appendectomy = excision of the appendix.",
+      "examCue": "surgery"
+    },
+    {
+      "word": "-esthesia",
+      "translation": "sensation",
+      "hint": "Example: Paraesthesia = abnormal sensation.",
+      "examCue": "neurology"
+    },
+    {
+      "word": "-graphia",
+      "translation": "writing / recording",
+      "hint": "Example: Angiography = imaging and recording of vessels.",
+      "examCue": "diagnostics"
+    },
+    {
+      "word": "-iatria",
+      "translation": "medical treatment",
+      "hint": "Example: Pediatrics = medical treatment of children.",
+      "examCue": "therapy"
+    },
+    {
+      "word": "-kinesia",
+      "translation": "movement",
+      "hint": "Example: Dyskinesia = abnormal movement.",
+      "examCue": "neurology"
+    },
+    {
+      "word": "-malacia",
+      "translation": "softening",
+      "hint": "Example: Osteomalacia = softening of bone.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "-pathia",
+      "translation": "disease",
+      "hint": "Example: Neuropathy = disease of a nerve.",
+      "examCue": "general"
+    },
+    {
+      "word": "-penia",
+      "translation": "deficiency",
+      "hint": "Example: Thrombocytopenia = deficiency of platelets.",
+      "examCue": "hematology"
+    },
+    {
+      "word": "-philia",
+      "translation": "attraction",
+      "hint": "Example: Hemophilia = tendency toward bleeding.",
+      "examCue": "psych"
+    },
+    {
+      "word": "-rrhoea",
+      "translation": "flow / discharge",
+      "hint": "Example: Diarrhoea = excessive intestinal discharge.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "-scopia",
+      "translation": "visual examination",
+      "hint": "Example: Endoscopy = visual examination with an instrument.",
+      "examCue": "diagnostics"
+    },
+    {
+      "word": "-stomia",
+      "translation": "surgical opening",
+      "hint": "Example: Colostomy = surgically created opening of the colon.",
+      "examCue": "surgery"
+    },
+    {
+      "word": "-therapia",
+      "translation": "treatment",
+      "hint": "Example: Chemotherapy = treatment with chemical agents.",
+      "examCue": "therapy"
+    },
+    {
+      "word": "-tomia",
+      "translation": "incision",
+      "hint": "Example: Tracheotomy = incision into the trachea.",
+      "examCue": "surgery"
+    },
+    {
+      "word": "-trophia",
+      "translation": "nutrition / growth",
+      "hint": "Example: Hypertrophy = increased tissue growth from enlargement.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "carcin-",
+      "translation": "cancer",
+      "hint": "Example: Carcinoma = malignant epithelial cancer.",
+      "examCue": "oncology"
+    },
+    {
+      "word": "gastr-",
+      "translation": "stomach",
+      "hint": "Example: Gastritis = inflammation of the stomach.",
+      "examCue": "GI"
+    },
+    {
+      "word": "hypn-",
+      "translation": "sleep",
+      "hint": "Example: Hypnosis = induced sleep-like state.",
+      "examCue": "neurology"
+    },
+    {
+      "word": "lith-",
+      "translation": "stone",
+      "hint": "Example: Nephrolithiasis = stone formation in the kidney.",
+      "examCue": "urology"
+    },
+    {
+      "word": "my-",
+      "translation": "muscle",
+      "hint": "Example: Myalgia = muscle pain.",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "neur-",
+      "translation": "nerve",
+      "hint": "Example: Neuritis = inflammation of a nerve.",
+      "examCue": "neurology"
+    },
+    {
+      "word": "ophthalm-",
+      "translation": "eye",
+      "hint": "Example: Ophthalmology = study of the eye.",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "path-",
+      "translation": "disease",
+      "hint": "Example: Pathology = study of disease.",
+      "examCue": "general"
+    },
+    {
+      "word": "rhin-",
+      "translation": "nose",
+      "hint": "Example: Rhinitis = inflammation of the nose.",
+      "examCue": "ENT"
+    },
+    {
+      "word": "trich-",
+      "translation": "hair",
+      "hint": "Example: Trichomycosis = fungal disease of hair.",
+      "examCue": "dermatology"
+    },
+    {
+      "word": "anthrop-",
+      "translation": "human",
+      "hint": "Example: Anthropology = study of humans.",
+      "examCue": "general"
+    },
+    {
+      "word": "onco-",
+      "translation": "tumor",
+      "hint": "Example: Oncology = study and treatment of tumors.",
+      "examCue": "oncology"
+    },
+    {
+      "word": "psych-",
+      "translation": "mind",
+      "hint": "Example: Psychosis = severe disorder of thought and perception.",
+      "examCue": "psychiatry"
+    },
+    {
+      "word": "toxic-",
+      "translation": "poison",
+      "hint": "Example: Toxicology = study of poisons and toxins.",
+      "examCue": "toxicology"
+    },
+    {
+      "word": "anti-",
+      "translation": "against",
+      "hint": "Example: Antipyretic = agent acting against fever.",
+      "examCue": "general"
+    },
+    {
+      "word": "encephal-",
+      "translation": "brain",
+      "hint": "Example: Encephalitis = inflammation of the brain.",
+      "examCue": "neurology"
+    },
+    {
+      "word": "enter-",
+      "translation": "intestine",
+      "hint": "Example: Enteritis = inflammation of the intestine.",
+      "examCue": "GI"
+    },
+    {
+      "word": "pharmac-",
+      "translation": "drug",
+      "hint": "Example: Pharmacology = study of drugs.",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "proct-",
+      "translation": "rectum",
+      "hint": "Example: Proctitis = inflammation of the rectum.",
+      "examCue": "GI"
+    },
+    {
+      "word": "sider-",
+      "translation": "iron",
+      "hint": "Example: Sideropenia = iron deficiency.",
+      "examCue": "hematology"
+    },
+    {
+      "word": "urano-",
+      "translation": "palate",
+      "hint": "Example: Uranoplasty = surgical repair of the palate.",
+      "examCue": "oral"
+    },
+    {
+      "word": "leuc-",
+      "translation": "white",
+      "hint": "Example: Leukocyte = white blood cell.",
+      "examCue": "hematology"
+    },
+    {
+      "word": "macr-",
+      "translation": "large",
+      "hint": "Example: Macrocephaly = enlarged head size.",
+      "examCue": "general"
+    },
+    {
+      "word": "micr-",
+      "translation": "small",
+      "hint": "Example: Microcyte = abnormally small cell.",
+      "examCue": "general"
+    },
+    {
+      "word": "necr-",
+      "translation": "death",
+      "hint": "Example: Necrosis = localized tissue death.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "sten-",
+      "translation": "narrow",
+      "hint": "Example: Stenosis = pathological narrowing.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "xero-",
+      "translation": "dry",
+      "hint": "Example: Xeroderma = abnormally dry skin.",
+      "examCue": "dermatology"
+    },
+    {
+      "word": "-itis",
+      "translation": "inflammation",
+      "hint": "Example: Otitis = inflammation of the ear.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "arthr-",
+      "translation": "joint",
+      "hint": "Example: Arthritis = inflammation of a joint.",
+      "examCue": "orthopedics"
+    },
+    {
+      "word": "chondr-",
+      "translation": "cartilage",
+      "hint": "Example: Chondroma = cartilage tumor.",
+      "examCue": "orthopedics"
+    },
+    {
+      "word": "dermat-",
+      "translation": "skin",
+      "hint": "Example: Dermatitis = inflammation of the skin.",
+      "examCue": "dermatology"
+    },
+    {
+      "word": "lip-",
+      "translation": "fat",
+      "hint": "Example: Lipoma = benign tumor of adipose tissue.",
+      "examCue": "metabolism"
+    },
+    {
+      "word": "nephr-",
+      "translation": "kidney",
+      "hint": "Example: Nephritis = inflammation of the kidney.",
+      "examCue": "nephrology"
+    },
+    {
+      "word": "cardi-",
+      "translation": "heart",
+      "hint": "Example: Tachycardia = abnormally rapid heart rate.",
+      "examCue": "cardiology"
+    },
+    {
+      "word": "cephal-",
+      "translation": "head",
+      "hint": "Example: Cephalgia = headache.",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "chron-",
+      "translation": "time",
+      "hint": "Example: Chronic = persisting over time.",
+      "examCue": "general"
+    },
+    {
+      "word": "pyo-",
+      "translation": "pus",
+      "hint": "Example: Pyoderma = purulent skin infection.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "somat-",
+      "translation": "body",
+      "hint": "Example: Somatic = relating to the body.",
+      "examCue": "general"
+    },
+    {
+      "word": "ana-",
+      "translation": "up / again",
+      "hint": "Example: Anabolism = building up of complex substances.",
+      "examCue": "general"
+    },
+    {
+      "word": "cyan-",
+      "translation": "blue",
+      "hint": "Example: Cyanosis = bluish discoloration from low oxygenation.",
+      "examCue": "clinical sign"
+    },
+    {
+      "word": "epi-",
+      "translation": "upon",
+      "hint": "Example: Epidermis = outer layer upon the skin.",
+      "examCue": "general"
+    },
+    {
+      "word": "oste-",
+      "translation": "bone",
+      "hint": "Example: Osteitis = inflammation of bone.",
+      "examCue": "orthopedics"
+    },
+    {
+      "word": "-ptosis",
+      "translation": "drooping",
+      "hint": "Example: Nephroptosis = downward displacement of the kidney.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "-schisis",
+      "translation": "split",
+      "hint": "Example: Cheiloschisis = congenital cleft of the lip.",
+      "examCue": "congenital"
+    },
+    {
+      "word": "-genesis",
+      "translation": "formation",
+      "hint": "Example: Osteogenesis = formation of bone.",
+      "examCue": "development"
+    },
+    {
+      "word": "pyel-",
+      "translation": "renal pelvis",
+      "hint": "Example: Pyelitis = inflammation of the renal pelvis.",
+      "examCue": "urology"
+    },
+    {
+      "word": "pyr-",
+      "translation": "fever",
+      "hint": "Example: Antipyretic = agent used against fever.",
+      "examCue": "clinical"
+    },
+    {
+      "word": "derm-",
+      "translation": "skin",
+      "hint": "Example: Dermoid = lesion containing skin-like tissue.",
+      "examCue": "dermatology"
+    },
+    {
+      "word": "onych-",
+      "translation": "nail",
+      "hint": "Example: Onychomycosis = fungal disease of the nail.",
+      "examCue": "dermatology"
+    },
+    {
+      "word": "ot-",
+      "translation": "ear",
+      "hint": "Example: Otalgia = ear pain.",
+      "examCue": "ENT"
+    },
+    {
+      "word": "phaco-",
+      "translation": "lens",
+      "hint": "Example: Phacoemulsification = lens fragmentation in cataract surgery.",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "thanat-",
+      "translation": "death",
+      "hint": "Example: Euthanasia = act related to death.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "sarc-",
+      "translation": "flesh",
+      "hint": "Example: Sarcoma = malignant tumor of connective tissue.",
+      "examCue": "pathology"
+    },
+    {
+      "word": "tachy-",
+      "translation": "fast",
+      "hint": "Example: Tachypnea = abnormally rapid breathing.",
+      "examCue": "clinical"
+    },
+    {
+      "word": "-emesis",
+      "translation": "vomiting",
+      "hint": "Example: Hematemesis = vomiting of blood.",
+      "examCue": "GI"
+    },
+    {
+      "word": "cheir-",
+      "translation": "hand",
+      "hint": "Example: Cheiropathy = disorder affecting the hand.",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "orex-",
+      "translation": "appetite",
+      "hint": "Example: Anorexia = loss of appetite.",
+      "examCue": "GI"
+    },
+    {
+      "word": "-opia",
+      "translation": "vision",
+      "hint": "Example: Myopia = nearsightedness.",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "toco-",
+      "translation": "childbirth",
+      "hint": "Example: Tocolysis = suppression of uterine contractions.",
+      "examCue": "obstetrics"
+    },
+    {
+      "word": "prosop-",
+      "translation": "face",
+      "hint": "Example: Prosopalgia = facial pain.",
+      "examCue": "anatomy"
+    }
+  ]
+}

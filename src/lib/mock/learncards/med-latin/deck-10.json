@@ -1,0 +1,717 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-adjectives-first-second-declensions-core",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Adjectives of the 1st and 2nd Declensions",
+      "de": "Medizinisches Latein — Adjektive der 1. und 2. Deklination"
+    },
+    "description": {
+      "en": "Core adjective deck for first-year Medical Latin. Covers dictionary-entry structure, the three nominative singular forms, stem derivation, the main -us/-a/-um and -er/-a/-um patterns, agreement with nouns, and high-frequency anatomical and clinical adjective vocabulary. Designed to establish reliable control of adjective formation and concord in medically relevant terminology.",
+      "de": "Zentrales Adjektiv-Deck für Medizinisches Latein im ersten Studienjahr. Behandelt den Aufbau des Wörterbucheintrags, die drei Nominativ-Singular-Formen, die Stammbildung, die wichtigsten Muster auf -us/-a/-um und -er/-a/-um, die Kongruenz mit Substantiven sowie häufige anatomische und klinische Adjektive. Das Deck dient dem sicheren Aufbau von Adjektivbildung und Kongruenz in medizinisch relevanter Terminologie."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "adjectives",
+      "first-declension",
+      "second-declension",
+      "agreement",
+      "dictionary-entry",
+      "grammar",
+      "anatomy",
+      "clinical",
+      "exam"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 80,
+    "cardCount": 40,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "adj12-001",
+      "type": "mcq",
+      "question": {
+        "en": "What is the defining nominative singular pattern of 1st/2nd-declension adjectives?"
+      },
+      "correctAnswer": "They have three nominative singular terminations for masculine, feminine, and neuter",
+      "options": [
+        "They have one nominative singular form for all genders",
+        "They have three nominative singular terminations for masculine, feminine, and neuter",
+        "They are identified only by the English gloss",
+        "They always end in -is, -e"
+      ],
+      "explanation": {
+        "en": "First/second-declension adjectives are classically built with three nominative singular gender forms: masculine, feminine, and neuter. This is the key structural fact. They are not indeclinable, and they are not third-declension adjectives in -is, -e. Mechanistically, the masculine follows a 2nd-declension pattern, the feminine a 1st-declension pattern, and the neuter a 2nd-declension neuter pattern."
+      }
+    },
+    {
+      "cardId": "adj12-002",
+      "type": "mcq",
+      "question": {
+        "en": "Which set of nominative singular endings is standard for the basic 1st/2nd-declension adjective model?"
+      },
+      "correctAnswer": "Masculine -us or -er, feminine -a, neuter -um",
+      "options": [
+        "Masculine -us or -er, feminine -a, neuter -um",
+        "Masculine -is, feminine -is, neuter -e",
+        "Masculine -a, feminine -us, neuter -um",
+        "Masculine -us, feminine -um, neuter -a"
+      ],
+      "explanation": {
+        "en": "The standard pattern is masculine -us or -er, feminine -a, neuter -um. That is why you see entries like bonus, bona, bonum and liber, libera, liberum. The wrong answers either invert gender assignment or describe third-declension adjective behavior."
+      }
+    },
+    {
+      "cardId": "adj12-003",
+      "type": "mcq",
+      "question": {
+        "en": "Which dictionary entry correctly represents a regular 1st/2nd-declension adjective?"
+      },
+      "correctAnswer": "albus, a, um",
+      "options": [
+        "albus, a, um",
+        "albus, ae, i",
+        "albus, albi m",
+        "albus, is, e"
+      ],
+      "explanation": {
+        "en": "The standard dictionary entry gives the masculine nominative singular first, then the feminine nominative singular ending or form, then the neuter nominative singular ending or form: albus, a, um. This compressed format assumes you understand the paradigm. The other options either mix noun-style citation practice or shift into third-declension adjective notation."
+      }
+    },
+    {
+      "cardId": "adj12-004",
+      "type": "mcq",
+      "question": {
+        "en": "In the dictionary entry 'albus, a, um', what does the second element 'a' indicate?"
+      },
+      "correctAnswer": "The feminine nominative singular ending/form",
+      "options": [
+        "The genitive singular ending",
+        "The ablative singular ending",
+        "The feminine nominative singular ending/form",
+        "The neuter plural ending"
+      ],
+      "explanation": {
+        "en": "In the compressed dictionary format albus, a, um, the second element marks the feminine nominative singular, here alba. The entry is economical: instead of writing the full three forms every time, Latin grammars often abbreviate the predictable endings. Do not mistake this for a genitive marker; adjective citation begins with nominative forms, not genitive forms."
+      }
+    },
+    {
+      "cardId": "adj12-005",
+      "type": "mcq",
+      "question": {
+        "en": "In the dictionary entry 'albus, a, um', what does the third element 'um' indicate?"
+      },
+      "correctAnswer": "The neuter nominative singular ending/form",
+      "options": [
+        "The masculine accusative singular",
+        "The neuter nominative singular ending/form",
+        "The neuter genitive plural",
+        "The feminine ablative singular"
+      ],
+      "explanation": {
+        "en": "The third element identifies the neuter nominative singular, here album. This matters because neuter agreement behaves differently from masculine and feminine in several case forms. When you build a noun-adjective phrase with a neuter noun such as atrium, the adjective must switch into its neuter form, not remain masculine by default."
+      }
+    },
+    {
+      "cardId": "adj12-006",
+      "type": "mcq",
+      "question": {
+        "en": "From which form do you derive the stem of a 1st/2nd-declension adjective?"
+      },
+      "correctAnswer": "From the genitive singular",
+      "options": [
+        "From the nominative singular only",
+        "From the English translation",
+        "From the genitive singular",
+        "From the accusative plural"
+      ],
+      "explanation": {
+        "en": "The stem is derived from the genitive singular, just as in noun work. For albus, the genitive masculine/neuter singular is albi, which reveals the stem alb-. This is the productive stem to which endings are attached. The nominative may be enough in easy cases, but the genitive is the more reliable morphological source."
+      }
+    },
+    {
+      "cardId": "adj12-007",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'albus, a, um'?"
+      },
+      "correctAnswer": "alb-",
+      "options": [
+        "alb-",
+        "albu-",
+        "albus-",
+        "albi-"
+      ],
+      "explanation": {
+        "en": "The genitive singular is albi. Remove -i and the stem is alb-. Students commonly confuse the citation form with the stem and try albus- or albu-, but inflection is built on alb-. This becomes obvious when you inspect forms such as alba, album, albo, alborum."
+      }
+    },
+    {
+      "cardId": "adj12-008",
+      "type": "mcq",
+      "question": {
+        "en": "Which statement about agreement is correct?"
+      },
+      "correctAnswer": "An adjective must agree with its noun in gender, number, and case",
+      "options": [
+        "An adjective must agree with its noun only in gender",
+        "An adjective must agree with its noun in gender, number, and case",
+        "An adjective agrees only in meaning, not form",
+        "An adjective must always have the same declension as the noun because they are the same word class"
+      ],
+      "explanation": {
+        "en": "Latin agreement means the adjective matches the noun in gender, number, and case. That is the operational rule. The adjective does not merely share semantic content; it must inflect accordingly. Also, agreement does not mean adjective and noun are identical lexical categories. They are different word classes, but their forms must align syntactically."
+      }
+    },
+    {
+      "cardId": "adj12-009",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase correctly means 'good boy'?"
+      },
+      "correctAnswer": "bonus puer",
+      "options": [
+        "bonus puer",
+        "bona puer",
+        "bonum puer",
+        "bonus puella"
+      ],
+      "explanation": {
+        "en": "puer is masculine singular nominative, so the adjective must also be masculine singular nominative: bonus. bona would be feminine, bonum neuter, and puella is a different noun altogether. This is the simplest possible agreement check, but it encodes the core grammar of adjective-noun matching."
+      }
+    },
+    {
+      "cardId": "adj12-010",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase correctly means 'good girl'?"
+      },
+      "correctAnswer": "bona puella",
+      "options": [
+        "bonus puella",
+        "bona puella",
+        "bonum puella",
+        "bonus verbum"
+      ],
+      "explanation": {
+        "en": "puella is feminine singular nominative, so the adjective must be bona. bonus is masculine, bonum is neuter, and verbum would shift the phrase to a neuter noun. Train yourself to identify the noun first, then force the adjective into matching gender, number, and case."
+      }
+    },
+    {
+      "cardId": "adj12-011",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase correctly means 'good word'?"
+      },
+      "correctAnswer": "bonum verbum",
+      "options": [
+        "bonus verbum",
+        "bona verbum",
+        "bonum verbum",
+        "bona puella"
+      ],
+      "explanation": {
+        "en": "verbum is neuter singular nominative, so the adjective must be bonum. This card is important because neuter agreement is a common failure point: students often default to masculine forms. The noun determines the form. Never let the English translation drive the morphology."
+      }
+    },
+    {
+      "cardId": "adj12-012",
+      "type": "mcq",
+      "question": {
+        "en": "Which case-ending pattern does the feminine of a 1st/2nd-declension adjective follow?"
+      },
+      "correctAnswer": "The 1st declension like aqua",
+      "options": [
+        "The 1st declension like aqua",
+        "The 2nd declension masculine like nervus",
+        "The 2nd declension neuter like signum",
+        "The 3rd declension like pars"
+      ],
+      "explanation": {
+        "en": "The feminine form of these adjectives declines like a 1st-declension noun such as aqua. That is why you get forms like alba, albae, albam, alba. The masculine follows a 2nd-declension masculine model, and the neuter follows a 2nd-declension neuter model. This split system is exactly why the class is called '1st/2nd-declension adjectives.'"
+      }
+    },
+    {
+      "cardId": "adj12-013",
+      "type": "mcq",
+      "question": {
+        "en": "Which case-ending pattern does the neuter of a 1st/2nd-declension adjective follow?"
+      },
+      "correctAnswer": "The 2nd declension neuter like signum",
+      "options": [
+        "The 1st declension like aqua",
+        "The 2nd declension neuter like signum",
+        "The 2nd declension masculine like puer",
+        "The 3rd declension neuter like corpus"
+      ],
+      "explanation": {
+        "en": "The neuter follows the 2nd-declension neuter pattern, like signum. That is why you see forms such as album, albi, albo, alba, alborum. Neuter is not a minor variation of masculine; it has its own consistent paradigm, and medical terminology uses neuter nouns frequently."
+      }
+    },
+    {
+      "cardId": "adj12-014",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective shows the regular -us, -a, -um pattern?"
+      },
+      "correctAnswer": "bonus, bona, bonum",
+      "options": [
+        "bonus, bona, bonum",
+        "niger, nigra, nigrum",
+        "liber, libera, liberum",
+        "ruber, rubra, rubrum"
+      ],
+      "explanation": {
+        "en": "bonus, bona, bonum is the clean regular model with masculine in -us, feminine in -a, neuter in -um. The other options belong to the -er family, where the masculine nominative singular ends in -er and may preserve or lose the e in the stem. This distinction matters because students often overgeneralize from bonus to all adjectives."
+      }
+    },
+    {
+      "cardId": "adj12-015",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective belongs to the -er, -a, -um type?"
+      },
+      "correctAnswer": "liber, libera, liberum",
+      "options": [
+        "bonus, bona, bonum",
+        "durus, dura, durum",
+        "liber, libera, liberum",
+        "longus, longa, longum"
+      ],
+      "explanation": {
+        "en": "liber, libera, liberum belongs to the -er type because the masculine nominative singular ends in -er. This group must be treated carefully because some members preserve the e in the stem, while others drop it. The -us adjectives are simpler and should not be used as a template for every form."
+      }
+    },
+    {
+      "cardId": "adj12-016",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'liber, libera, liberum'?"
+      },
+      "correctAnswer": "liber-",
+      "options": [
+        "lib-",
+        "liber-",
+        "libr-",
+        "libera-"
+      ],
+      "explanation": {
+        "en": "The genitive singular is liberi, so removing -i gives liber-. This adjective preserves the e in the stem. That is why the feminine is libera, not libra, and the neuter liberum, not librum. This is the major contrast with adjectives like niger or ruber, where the e disappears in the stem."
+      }
+    },
+    {
+      "cardId": "adj12-017",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective loses the e of the masculine nominative in the stem?"
+      },
+      "correctAnswer": "niger, nigra, nigrum",
+      "options": [
+        "liber, libera, liberum",
+        "niger, nigra, nigrum",
+        "bonus, bona, bonum",
+        "durus, dura, durum"
+      ],
+      "explanation": {
+        "en": "niger, nigra, nigrum loses the e in the stem. The genitive singular is nigri, so the stem is nigr-, not niger-. This is why the feminine is nigra and not nigera. Mechanistically, the genitive reveals the truth. The nominative masculine alone can mislead you about stem formation."
+      }
+    },
+    {
+      "cardId": "adj12-018",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'niger, nigra, nigrum'?"
+      },
+      "correctAnswer": "nigr-",
+      "options": [
+        "nig-",
+        "nigr-",
+        "niger-",
+        "nigra-"
+      ],
+      "explanation": {
+        "en": "The genitive singular is nigri, so the stem is nigr-. The wrong answers reflect classic mistakes: keeping the nominative intact, truncating too much, or confusing a declined form with the stem. This is exactly the sort of pattern that exams target because it checks whether you are deriving, not guessing."
+      }
+    },
+    {
+      "cardId": "adj12-019",
+      "type": "mcq",
+      "question": {
+        "en": "Which full entry means 'black, dark'?"
+      },
+      "correctAnswer": "niger, nigra, nigrum",
+      "options": [
+        "niger, nigra, nigrum",
+        "liber, libera, liberum",
+        "albus, a, um",
+        "durus, a, um"
+      ],
+      "explanation": {
+        "en": "niger, nigra, nigrum means black or dark. liber means free, albus white, and durus hard. This card is lexical, but not trivial: the point is to tie meaning to declensional pattern. You should know not just the translation, but whether the adjective is a regular -us type or an -er type with stem change."
+      }
+    },
+    {
+      "cardId": "adj12-020",
+      "type": "mcq",
+      "question": {
+        "en": "Which full entry means 'free, unrestricted'?"
+      },
+      "correctAnswer": "liber, libera, liberum",
+      "options": [
+        "liber, libera, liberum",
+        "niger, nigra, nigrum",
+        "strictus, a, um",
+        "externus, a, um"
+      ],
+      "explanation": {
+        "en": "liber, libera, liberum means free or unrestricted. It is useful because it represents the -er subtype that preserves e in the stem. Learning only meaning without morphological behavior would miss the real grammar payoff."
+      }
+    },
+    {
+      "cardId": "adj12-021",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase correctly means 'right atrium'?"
+      },
+      "correctAnswer": "atrium dextrum",
+      "options": [
+        "atrium dextrum",
+        "atrium dexter",
+        "atrium dextra",
+        "atrium dextri"
+      ],
+      "explanation": {
+        "en": "atrium is neuter singular nominative, so the adjective must also be neuter singular nominative: dextrum. dexter is masculine, dextra feminine, and dextri is a genitive form. This card checks whether you can apply adjective agreement to real anatomical terminology instead of isolated paradigm drills."
+      }
+    },
+    {
+      "cardId": "adj12-022",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase correctly means 'external coat'?"
+      },
+      "correctAnswer": "tunica externa",
+      "options": [
+        "tunica externa",
+        "tunica externus",
+        "tunica externum",
+        "tunica externi"
+      ],
+      "explanation": {
+        "en": "tunica is feminine singular nominative, so externa is required. externus would be masculine, externum neuter, and externi genitive singular masculine/neuter. This is a good test of whether you can map a common anatomical noun directly to the correct adjective form."
+      }
+    },
+    {
+      "cardId": "adj12-023",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase correctly means 'urinary bladder'?"
+      },
+      "correctAnswer": "vesica urinaria",
+      "options": [
+        "vesica urinaria",
+        "vesica urinarius",
+        "vesica urinarium",
+        "vesica urinarii"
+      ],
+      "explanation": {
+        "en": "vesica is feminine singular nominative, so the adjective must be urinaria. This is a common medical phrase and a good example of why dictionary knowledge alone is insufficient: real Latin reading requires live agreement. The noun chooses the adjective form."
+      }
+    },
+    {
+      "cardId": "adj12-024",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase correctly means 'mammary gland lobes'?"
+      },
+      "correctAnswer": "lobi glandulae mammariae",
+      "options": [
+        "lobi glandulae mammariae",
+        "lobi glandulae mammarius",
+        "lobi glandulae mammarium",
+        "lobi glandula mammaria"
+      ],
+      "explanation": {
+        "en": "The adjective mammariae agrees with glandulae, not with lobi. This is a more advanced syntax point. In the phrase 'lobes of the mammary gland,' the adjective modifies the genitive noun glandulae, so it must also be feminine singular genitive: mammariae. Students often attach the adjective to the wrong noun because they read linearly instead of structurally."
+      }
+    },
+    {
+      "cardId": "adj12-025",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase correctly means 'thoracic vertebrae'?"
+      },
+      "correctAnswer": "vertebrae thoracicae",
+      "options": [
+        "vertebrae thoracicae",
+        "vertebrae thoracici",
+        "vertebrae thoracica",
+        "vertebra thoracicae"
+      ],
+      "explanation": {
+        "en": "vertebrae is feminine plural nominative, so the adjective must also be feminine plural nominative: thoracicae. The wrong answers illustrate common errors in number and gender matching. In anatomical nomenclature, plural structures are especially good agreement tests because students often keep the adjective in singular form by inertia."
+      }
+    },
+    {
+      "cardId": "adj12-026",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase correctly means 'olfactory glands'?"
+      },
+      "correctAnswer": "glandulae olfactoriae",
+      "options": [
+        "glandulae olfactoriae",
+        "glandulae olfactorius",
+        "glandulae olfactoria",
+        "glandula olfactoriae"
+      ],
+      "explanation": {
+        "en": "glandulae is feminine plural nominative, so olfactoriae is the correct agreeing form. This is straightforward grammar, but in medical Latin such phrases must be read fast and accurately. The adjective cannot remain in its citation form once the noun changes number."
+      }
+    },
+    {
+      "cardId": "adj12-027",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase pattern is used in 'fundus gastricus'?"
+      },
+      "correctAnswer": "Noun + adjective agreement",
+      "options": [
+        "Noun + adjective agreement",
+        "Nominative noun + genitive noun",
+        "Verb + object",
+        "Preposition + ablative"
+      ],
+      "explanation": {
+        "en": "fundus gastricus is a noun plus adjective construction. gastricus is an adjective agreeing with fundus. This must be distinguished from fundus ventriculi, where the second word is a genitive noun. That contrast is diagnostically important because both patterns are common in anatomical Latin and they mean slightly different things structurally."
+      }
+    },
+    {
+      "cardId": "adj12-028",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective refers to smell?"
+      },
+      "correctAnswer": "olfactorius, a, um",
+      "options": [
+        "olfactorius, a, um",
+        "gustatorius, a, um",
+        "urinarius, a, um",
+        "thoracicus, a, um"
+      ],
+      "explanation": {
+        "en": "olfactorius, a, um means olfactory, relating to smell. gustatorius relates to taste, urinarius to urine, and thoracicus to the thorax. These are all medically plausible distractors, which is why they work well in a serious deck."
+      }
+    },
+    {
+      "cardId": "adj12-029",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective means 'relating to taste'?"
+      },
+      "correctAnswer": "gustatorius, a, um",
+      "options": [
+        "gustatorius, a, um",
+        "olfactorius, a, um",
+        "masticatorius, a, um",
+        "digestivus, a, um"
+      ],
+      "explanation": {
+        "en": "gustatorius refers to taste. olfactorius refers to smell, masticatorius to chewing, and digestivus to digestion. This card is meant to sharpen discrimination among functionally related sensory or alimentary terms, because these are common sites of lexical confusion."
+      }
+    },
+    {
+      "cardId": "adj12-030",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective means 'mammary'?"
+      },
+      "correctAnswer": "mammarius, a, um",
+      "options": [
+        "mammarius, a, um",
+        "sebaceus, a, um",
+        "osseus, a, um",
+        "felleus, a, um"
+      ],
+      "explanation": {
+        "en": "mammarius means mammary. sebaceus refers to sebum, osseus to bone, and felleus to bile. The point is not only vocabulary. It is also to make sure that the student can later produce forms like mammaria, mammariae, mammarium without hesitation."
+      }
+    },
+    {
+      "cardId": "adj12-031",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective means 'bony'?"
+      },
+      "correctAnswer": "osseus, a, um",
+      "options": [
+        "osseus, a, um",
+        "sanguineus, a, um",
+        "strictus, a, um",
+        "siccus, a, um"
+      ],
+      "explanation": {
+        "en": "osseus means osseous or bony. sanguineus relates to blood, strictus means narrowed or drawn tight, and siccus means dry. These are useful because they occur in actual medical descriptions and force precise adjective recall rather than vague recognition."
+      }
+    },
+    {
+      "cardId": "adj12-032",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective means 'pertaining to the thorax'?"
+      },
+      "correctAnswer": "thoracicus, a, um",
+      "options": [
+        "thoracicus, a, um",
+        "gastricus, a, um",
+        "cutaneus, a, um",
+        "caninus, a, um"
+      ],
+      "explanation": {
+        "en": "thoracicus means thoracic, pertaining to the thorax. gastricus refers to the stomach, cutaneus to skin, and caninus to dog or canine teeth. This deck should train semantic boundaries sharply, because many medical adjectives are all of the form -icus, -a, -um and can blur together."
+      }
+    },
+    {
+      "cardId": "adj12-033",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective means 'relating to the skin'?"
+      },
+      "correctAnswer": "cutaneus, a, um",
+      "options": [
+        "cutaneus, a, um",
+        "adiposus, a, um",
+        "osseus, a, um",
+        "externus, a, um"
+      ],
+      "explanation": {
+        "en": "cutaneus means cutaneous, relating to the skin. adiposus means fatty, osseus bony, and externus external. The challenge here is lexical precision among descriptive adjectives that could all plausibly appear in a pathology or anatomy context."
+      }
+    },
+    {
+      "cardId": "adj12-034",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective means 'fatty'?"
+      },
+      "correctAnswer": "adiposus, a, um",
+      "options": [
+        "adiposus, a, um",
+        "purulentus, a, um",
+        "humidus, a, um",
+        "solidus, a, um"
+      ],
+      "explanation": {
+        "en": "adiposus means adipose or fatty. purulentus refers to pus, humidus to moisture, and solidus to solidity. A strong medical Latin deck should force discrimination across semantically adjacent tissue descriptors."
+      }
+    },
+    {
+      "cardId": "adj12-035",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective means 'containing or discharging pus'?"
+      },
+      "correctAnswer": "purulentus, a, um",
+      "options": [
+        "purulentus, a, um",
+        "adiposus, a, um",
+        "strictus, a, um",
+        "frigidus, a, um"
+      ],
+      "explanation": {
+        "en": "purulentus means purulent. This is clinically high-yield because it describes suppurative pathology. adiposus refers to fat, strictus to constriction, and frigidus to cold. Vocabulary cards matter most when the distractors are medically credible."
+      }
+    },
+    {
+      "cardId": "adj12-036",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective pair is contrasted in the handout through 'diabetes mellitus' and 'diabetes insipidus'?"
+      },
+      "correctAnswer": "mellitus and insipidus",
+      "options": [
+        "mellitus and insipidus",
+        "benignus and malignus",
+        "acutus and chronicus",
+        "strictus and laxus"
+      ],
+      "explanation": {
+        "en": "The handout highlights diabetes mellitus and diabetes insipidus, making mellitus and insipidus a clinically meaningful contrast. This is useful because adjective learning becomes more durable when tied to canonical disease phrases. benignus/malignus and acutus/chronicus are also important contrasts, but they are not the pair tested here."
+      }
+    },
+    {
+      "cardId": "adj12-037",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective means 'benign'?"
+      },
+      "correctAnswer": "benignus, a, um",
+      "options": [
+        "benignus, a, um",
+        "malignus, a, um",
+        "perniciosus, a, um",
+        "contagiosus, a, um"
+      ],
+      "explanation": {
+        "en": "benignus means benign, typically mild or nonmalignant. malignus is its malignant counterpart, perniciosus means destructive or harmful, and contagiosus means contagious. This is clinically relevant vocabulary, not just grammar ornament."
+      }
+    },
+    {
+      "cardId": "adj12-038",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective means 'Virulent/Lethal/Deadly'?"
+      },
+      "correctAnswer": "malignus, a, um",
+      "options": [
+        "malignus, a, um",
+        "benignus, a, um",
+        "vivus, a, um",
+        "verus, a, um"
+      ],
+      "explanation": {
+        "en": "malignus means malignant. benignus is the deliberate look-alike opposite. vivus means living, verus true. In clinical Latin and medical English, the benign-malignant contrast is foundational, so it deserves dedicated recall."
+      }
+    },
+    {
+      "cardId": "adj12-039",
+      "type": "mcq",
+      "question": {
+        "en": "A student sees the phrase 'vertebrae thoracicae' and changes the adjective to 'thoracici' because it 'sounds more Latin.' What is the best correction?"
+      },
+      "correctAnswer": "Keep thoracicae because vertebrae is feminine plural nominative",
+      "options": [
+        "Keep thoracicae because vertebrae is feminine plural nominative",
+        "Change to thoracici because all anatomical adjectives should be masculine plural",
+        "Change to thoracicum because vertebrae is neuter",
+        "Either form is acceptable because meaning is clear"
+      ],
+      "explanation": {
+        "en": "The correct form is thoracicae because vertebrae is feminine plural nominative. This card targets a real cognitive error: sound-based guessing. Latin is not validated by what 'sounds right' to the learner. Morphology is governed by the noun. Agreement outranks intuition."
+      }
+    },
+    {
+      "cardId": "adj12-040",
+      "type": "mcq",
+      "question": {
+        "en": "What is the main operational mindset for mastering 1st/2nd-declension adjectives in medical Latin?"
+      },
+      "correctAnswer": "Identify the noun first, then force the adjective to match it in gender, number, and case",
+      "options": [
+        "Memorize only the masculine citation form and improvise the rest",
+        "Identify the noun first, then force the adjective to match it in gender, number, and case",
+        "Translate into English first and then choose whichever Latin form sounds best",
+        "Ignore stem formation because adjectives are simpler than nouns"
+      ],
+      "explanation": {
+        "en": "This is the correct exam mindset. Start with the noun: determine its gender, number, and case in the phrase. Then inflect the adjective to match. That workflow prevents most agreement mistakes. Students fail when they memorize isolated citation forms but do not convert them under syntactic pressure."
+      }
+    }
+  ]
+}

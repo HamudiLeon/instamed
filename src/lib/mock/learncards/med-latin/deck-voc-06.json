@@ -1,0 +1,879 @@
+{
+  "schemaId": "studywithme-bg.vocab.v2",
+  "bookKey": "la-second-declension-teacher-deck",
+  "chapterKey": "ch-01-en-to-la",
+  "title": "Medical Latin — Second Declension (EN → LA)",
+  "items": [
+    {
+      "word": "small cell; cavity; socket",
+      "translation": "alveolus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "angle",
+      "translation": "angulus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "anal orifice",
+      "translation": "anus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "bronchium",
+      "translation": "bronchus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "respiratory"
+    },
+    {
+      "word": "bulb",
+      "translation": "bulbus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "circle",
+      "translation": "circulus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "shape"
+    },
+    {
+      "word": "digit; finger",
+      "translation": "digitus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "follicle",
+      "translation": "folliculus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "histology"
+    },
+    {
+      "word": "base of a hollow organ",
+      "translation": "fundus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "organ anatomy"
+    },
+    {
+      "word": "arm bone",
+      "translation": "humerus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "lobe",
+      "translation": "lobus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "loin; lower back",
+      "translation": "lumbus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "regional anatomy"
+    },
+    {
+      "word": "wrist; carpal bone",
+      "translation": "carpus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "palm; grip",
+      "translation": "metacarpus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "muscle",
+      "translation": "musculus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "musculoskeletal"
+    },
+    {
+      "word": "nose",
+      "translation": "nasus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "head anatomy"
+    },
+    {
+      "word": "nerve",
+      "translation": "nervus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "neuroanatomy"
+    },
+    {
+      "word": "node",
+      "translation": "nodus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "food pipe, throat",
+      "translation": "oesophagus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "GI"
+    },
+    {
+      "word": "hair",
+      "translation": "pilus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "integument"
+    },
+    {
+      "word": "pylorus",
+      "translation": "pylorus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pyloric sphincter"
+    },
+    {
+      "word": "radial bone",
+      "translation": "radius, ii, m",
+      "hint": "2nd declension masculine noun; genitive kept as provided",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "branch",
+      "translation": "ramus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "sac",
+      "translation": "saccus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "juice; body fluid; secretion",
+      "translation": "succus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "physiology"
+    },
+    {
+      "word": "furrow; groove",
+      "translation": "sulcus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "surface anatomy"
+    },
+    {
+      "word": "trunk",
+      "translation": "truncus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "regional anatomy"
+    },
+    {
+      "word": "navel; belly button",
+      "translation": "umbilicus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "surface anatomy"
+    },
+    {
+      "word": "womb",
+      "translation": "uterus, i, m",
+      "hint": "2nd declension masculine noun as provided in source",
+      "examCue": "reproductive"
+    },
+    {
+      "word": "stomach",
+      "translation": "stomachus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "GI"
+    },
+    {
+      "word": "ventricle; small stomach",
+      "translation": "ventriculus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "cardiac / GI"
+    },
+    {
+      "word": "sick person; patient",
+      "translation": "aegrotus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "clinical term"
+    },
+    {
+      "word": "stone; calculus",
+      "translation": "calculus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "postnasal drip",
+      "translation": "catarrhus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "sore /gathering /boil",
+      "translation": "furunculus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "jaundice",
+      "translation": "icterus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "disease",
+      "translation": "morbus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "newborn",
+      "translation": "neonatus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "neonatology"
+    },
+    {
+      "word": "sudden attack",
+      "translation": "paroxysmus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "arthritis, joint disease",
+      "translation": "rheumatismus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "blood clot",
+      "translation": "thrombus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pathology"
+    },
+    {
+      "word": "meal; dish",
+      "translation": "cibus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "nutrition"
+    },
+    {
+      "word": "mushroom",
+      "translation": "fungus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "plant / food"
+    },
+    {
+      "word": "droplet, bead, blob",
+      "translation": "globulus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "shape"
+    },
+    {
+      "word": "number",
+      "translation": "numerus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "general term"
+    },
+    {
+      "word": "cough drop, troche",
+      "translation": "pastillus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "syrup",
+      "translation": "sirupus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "sunflower",
+      "translation": "Helianthus, i, m",
+      "hint": "2nd declension masculine noun; capitalization preserved from source",
+      "examCue": "plant"
+    },
+    {
+      "word": "castor bean",
+      "translation": "Ricinus, i, m",
+      "hint": "2nd declension masculine noun; capitalization preserved from source",
+      "examCue": "plant"
+    },
+    {
+      "word": "garden thyme",
+      "translation": "Thymus, i, m",
+      "hint": "2nd declension masculine noun; capitalization preserved from source",
+      "examCue": "plant"
+    },
+    {
+      "word": "Hawthorn,May-tree, ",
+      "translation": "Crataegus, i, f",
+      "hint": "2nd declension feminine noun in -us",
+      "examCue": "plant exception"
+    },
+    {
+      "word": "Elder",
+      "translation": "Sambucus, i, f",
+      "hint": "2nd declension feminine noun in -us",
+      "examCue": "plant exception"
+    },
+    {
+      "word": "master; teacher",
+      "translation": "magister, tri, m",
+      "hint": "2nd declension masculine noun in -er",
+      "examCue": "-er noun"
+    },
+    {
+      "word": "boy",
+      "translation": "puer, pueri, m",
+      "hint": "2nd declension masculine noun in -er",
+      "examCue": "-er noun"
+    },
+    {
+      "word": "man; husband",
+      "translation": "vir, viri, m",
+      "hint": "2nd declension masculine noun in -ir",
+      "examCue": "irregular stem"
+    },
+    {
+      "word": "period",
+      "translation": "periodus, i, f",
+      "hint": "Greek loanword; feminine as provided",
+      "examCue": "Greek exception"
+    },
+    {
+      "word": "diameter",
+      "translation": "diameter, tri, f",
+      "hint": "Greek noun; feminine as provided",
+      "examCue": "Greek exception"
+    },
+    {
+      "word": "method",
+      "translation": "methodus, i, f",
+      "hint": "Greek loanword; feminine as provided",
+      "examCue": "Greek exception"
+    },
+    {
+      "word": "children's doctor",
+      "translation": "paediater, tri, m",
+      "hint": "Greek-type professional noun",
+      "examCue": "profession"
+    },
+    {
+      "word": "psychiatrist",
+      "translation": "psychiater, tri, m",
+      "hint": "Greek-type professional noun",
+      "examCue": "profession"
+    },
+    {
+      "word": "biologist",
+      "translation": "biologus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "profession"
+    },
+    {
+      "word": "Skind Doctor",
+      "translation": "dermatologus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "profession"
+    },
+    {
+      "word": "gynecologist",
+      "translation": "gynecologus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "profession"
+    },
+    {
+      "word": "neurologist",
+      "translation": "neurologus, i, m",
+      "hint": "2nd declension masculine noun",
+      "examCue": "profession"
+    },
+    {
+      "word": "neck",
+      "translation": "collum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "regional anatomy"
+    },
+    {
+      "word": "accessory structures",
+      "translation": "adnexa, orum, n pl.",
+      "hint": "2nd declension neuter plural",
+      "examCue": "plural neuter"
+    },
+    {
+      "word": "atrium of heart",
+      "translation": "atrium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "cardiac anatomy"
+    },
+    {
+      "word": "cavity",
+      "translation": "cavum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "eyelash",
+      "translation": "cilium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "eye"
+    },
+    {
+      "word": "eyebrow",
+      "translation": "supercilium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "eye"
+    },
+    {
+      "word": "girdle",
+      "translation": "cingulum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "musculoskeletal"
+    },
+    {
+      "word": "brain",
+      "translation": "cerebrum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "neuroanatomy"
+    },
+    {
+      "word": "hindbrain,small brain",
+      "translation": "cerebellum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "neuroanatomy"
+    },
+    {
+      "word": "skull",
+      "translation": "cranium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "skull"
+    },
+    {
+      "word": "back",
+      "translation": "dorsum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "regional anatomy"
+    },
+    {
+      "word": "intestine",
+      "translation": "intestinum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "GI"
+    },
+    {
+      "word": "duodenum",
+      "translation": "duodenum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "GI"
+    },
+    {
+      "word": "arm",
+      "translation": "brachium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "forearm",
+      "translation": "antebrachium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "cement",
+      "translation": "cementum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "dental"
+    },
+    {
+      "word": "dentine",
+      "translation": "dentium, ii, n",
+      "hint": "spelling kept exactly as provided by source",
+      "examCue": "dental"
+    },
+    {
+      "word": "lip",
+      "translation": "labium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "oral anatomy"
+    },
+    {
+      "word": "frenulum",
+      "translation": "frenulum, i, n",
+      "hint": "2nd declension neuter noun",
+      "description":"The frenulum is the thin flap of skin that connects your lip to your gum.",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "organ",
+      "translation": "organum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "general anatomy"
+    },
+    {
+      "word": "ovary",
+      "translation": "ovarium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "reproductive"
+    },
+    {
+      "word": "ligament",
+      "translation": "ligamentum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "musculoskeletal"
+    },
+    {
+      "word": "chin",
+      "translation": "mentum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "head anatomy"
+    },
+    {
+      "word": "mesentery",
+      "translation": "mesenterium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "GI"
+    },
+    {
+      "word": "palate",
+      "translation": "palatum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "oral anatomy"
+    },
+    {
+      "word": "wall",
+      "translation": "septum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "serum",
+      "translation": "serum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "physiology"
+    },
+    {
+      "word": "space",
+      "translation": "spatium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "breast bone",
+      "translation": "sternum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "thorax"
+    },
+    {
+      "word": "stratum",
+      "translation": "stratum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "histology"
+    },
+    {
+      "word": "foremilk",
+      "translation": "colostrum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "lactation"
+    },
+    {
+      "word": "delirium",
+      "translation": "delirium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "psychiatry"
+    },
+    {
+      "word": "hordeolum; stye",
+      "translation": "hordeolum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "eye pathology"
+    },
+    {
+      "word": "whitlow; foot rot",
+      "translation": "panaritium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "pathology"
+    },
+    {
+      "word": "grease",
+      "translation": "sebum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "integument"
+    },
+    {
+      "word": "sign",
+      "translation": "signum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "clinical term"
+    },
+    {
+      "word": "syndrome",
+      "translation": "syndromum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "clinical term"
+    },
+    {
+      "word": "defect; disorder; fault",
+      "translation": "vitium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "pathology"
+    },
+    {
+      "word": "acid",
+      "translation": "acidum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "chemistry"
+    },
+    {
+      "word": "starch",
+      "translation": "amylum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "chemistry"
+    },
+    {
+      "word": "antidote",
+      "translation": "antidotum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "butter",
+      "translation": "butyrum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "substance"
+    },
+    {
+      "word": "oil",
+      "translation": "oleum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "substance for cleaning the teeth",
+      "translation": "dentifricium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "extraction of water-soluble drug substances by boiling",
+      "translation": "decoctum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "plaster",
+      "translation": "emplastrum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "emulsion",
+      "translation": "emulsum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "extract",
+      "translation": "extractum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "leaf",
+      "translation": "folium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "botany"
+    },
+    {
+      "word": "gel",
+      "translation": "gelum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "cotton",
+      "translation": "gossypium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "material"
+    },
+    {
+      "word": "granule",
+      "translation": "granulum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "hydroxide",
+      "translation": "hydroxydum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "chemistry"
+    },
+    {
+      "word": "infusion",
+      "translation": "infusum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "liniment",
+      "translation": "linimentum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "medicine; remedy",
+      "translation": "medicamentum, i, n",
+      "hint": "2nd declension neuter noun,syn. remedium, ii, n",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "paraffin",
+      "translation": "paraffinum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "substance"
+    },
+    {
+      "word": "pigment",
+      "translation": "pigmentum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "substance"
+    },
+    {
+      "word": "sugar",
+      "translation": "saccharum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "substance"
+    },
+    {
+      "word": "suppository",
+      "translation": "suppositorium, ii, n",
+      "hint": "2nd declension neuter noun; genitive kept as provided",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "semisolid preparation; ointment",
+      "translation": "unguentum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "dosage form"
+    },
+    {
+      "word": "vaccine",
+      "translation": "vaccinum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "immunology"
+    },
+    {
+      "word": "poison",
+      "translation": "venenum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "toxicology"
+    },
+    {
+      "word": "virus",
+      "translation": "virus, i, n",
+      "hint": "2nd declension neuter noun as provided by source",
+      "examCue": "microbiology"
+    },
+    {
+      "word": "vitamin",
+      "translation": "vitaminum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "nutrition"
+    },
+    {
+      "word": "glass",
+      "translation": "vitrum, i, n",
+      "hint": "2nd declension neuter noun",
+      "examCue": "material"
+    },
+    {
+      "word": "garlic",
+      "translation": "Allium, ii, n",
+      "hint": "2nd declension neuter noun; capitalization preserved from source",
+      "examCue": "plant"
+    },
+    {
+      "word": "potato",
+      "translation": "Solanum, i, n",
+      "hint": "2nd declension neuter noun; capitalization preserved from source",
+      "examCue": "plant"
+    },
+    {
+      "word": "aspirin",
+      "translation": "Aspirinum, i, n",
+      "hint": "2nd declension neuter noun; capitalization preserved from source",
+      "examCue": "drug"
+    },
+    {
+      "word": "iron",
+      "translation": "Ferrum, i, n",
+      "hint": "2nd declension neuter noun; capitalization preserved from source",
+      "examCue": "element"
+    },
+    {
+      "word": "oxygen",
+      "translation": "Oxygenium, ii, n",
+      "hint": "2nd declension neuter noun; capitalization preserved from source",
+      "examCue": "element"
+    },
+    {
+      "word": "silver",
+      "translation": "Argentum, i, n",
+      "hint": "2nd declension neuter noun; capitalization preserved from source",
+      "examCue": "element"
+    },
+    {
+      "word": "calcium",
+      "translation": "Calcium, ii, n",
+      "hint": "2nd declension neuter noun; capitalization preserved from source",
+      "examCue": "element"
+    },
+    {
+      "word": "tip of the shoulder",
+      "translation": "acromion, ii, n",
+      "hint": "Greek-type neuter noun as provided",
+      "examCue": "scapula"
+    },
+    {
+      "word": "tip of elbow",
+      "translation": "olecranon, i, n",
+      "hint": "Greek-type neuter noun as provided",
+      "examCue": "ulna"
+    },
+    {
+      "word": "membrane around a fetus, Little lamb",
+      "translation": "amnion, ii, n",
+      "hint": "Greek-type neuter noun as provided",
+      "examCue": "embryology"
+    },
+    {
+      "word": "Within the head; brain",
+      "translation": "encephalon, i, n",
+      "hint": "Greek-type neuter noun as provided",
+      "examCue": "neuroanatomy"
+    },
+    {
+      "word": "knot, swelling",
+      "translation": "ganglion, ii, n",
+      "hint": "Greek-type neuter noun as provided",
+      "examCue": "neuroanatomy"
+    },
+    {
+      "word": "giant colon",
+      "translation": "megacolon, i, n",
+      "hint": "Greek-type neuter noun as provided",
+      "examCue": "GI"
+    },
+    {
+      "word": "skeleton",
+      "translation": "skeleton, i, n",
+      "hint": "Greek-type neuter noun as provided",
+      "examCue": "musculoskeletal"
+    },
+    {
+      "word": "medicine",
+      "translation": "pharmacon, i, n",
+      "hint": "Greek-type neuter noun as provided",
+      "examCue": "Greek term"
+    }
+  ]
+}

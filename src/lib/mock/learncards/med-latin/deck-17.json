@@ -1,0 +1,1584 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "la-third-declension-exam-50",
+  "meta": {
+    "title": {
+      "en": "Third Declension: 50 Exam Practice Questions"
+    },
+    "description": {
+      "en": "Complete conversion of the provided exam-topic JSON into the StudyWithMe learncard schema. All 50 questions, hints, and rationales preserved verbatim."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "third-declension",
+      "exam",
+      "mcq",
+      "learncards"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 60,
+    "cardCount": 50,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    },
+    "source": {
+      "file": "user-provided exam dataset",
+      "exam": "Medical Terminology"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "q-001",
+      "type": "mcq",
+      "question": {
+        "en": "What is the English translation for the pharmaceutical term 'Papaver'?"
+      },
+      "correctAnswer": "Poppy",
+      "options": [
+        {
+          "text": "Poppy",
+          "rationale": "Papaver, Papaveris (f.) is the specific Latin term for the poppy plant.",
+          "isCorrect": true
+        },
+        {
+          "text": "Plantain",
+          "rationale": "Plantain is the translation for Plantago.",
+          "isCorrect": false
+        },
+        {
+          "text": "Coltsfoot",
+          "rationale": "Coltsfoot refers to Tussilago.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mustard",
+          "rationale": "Mustard is known as Sinapis in Latin.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This flower is the source of opium and is often seen in memorial services."
+    },
+    {
+      "cardId": "q-002",
+      "type": "mcq",
+      "question": {
+        "en": "Which of these is the correct Genitive Singular for 'Plantago'?"
+      },
+      "correctAnswer": "Plantaginis",
+      "options": [
+        {
+          "text": "Plantaginis",
+          "rationale": "Nouns ending in -ago in the third declension usually have a genitive in -inis.",
+          "isCorrect": true
+        },
+        {
+          "text": "Plantagonis",
+          "rationale": "The 'o' changes to an 'i' in the stem for this category of nouns.",
+          "isCorrect": false
+        },
+        {
+          "text": "Plantagis",
+          "rationale": "This form misses the full consonant stem extension 'in'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Plantagi",
+          "rationale": "This is a second declension ending, not the third declension -is.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Recall the pattern for words like 'imago' or 'cartilago'."
+    },
+    {
+      "cardId": "q-003",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of the neuter third declension word 'Semen'?"
+      },
+      "correctAnswer": "Seed",
+      "options": [
+        {
+          "text": "Seed",
+          "rationale": "Semen, seminis (n.) is the Latin term for seed, used frequently in pharmacology.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stem",
+          "rationale": "Stems are usually referred to as 'stipes' or 'caulis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Root",
+          "rationale": "Root is 'radix' in Latin.",
+          "isCorrect": false
+        },
+        {
+          "text": "Blood",
+          "rationale": "Blood is 'sanguis'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This is the biological unit of reproduction for a plant."
+    },
+    {
+      "cardId": "q-004",
+      "type": "mcq",
+      "question": {
+        "en": "Which term refers to the 'Foxglove' plant?"
+      },
+      "correctAnswer": "Digitalis",
+      "options": [
+        {
+          "text": "Digitalis",
+          "rationale": "Digitalis, digitalis (f.) is named after 'digitus' (finger) because of its bell-shaped flowers.",
+          "isCorrect": true
+        },
+        {
+          "text": "Adonis",
+          "rationale": "Adonis refers to pheasant's eye.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vitis",
+          "rationale": "Vitis refers to a vine or grape.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nux",
+          "rationale": "Nux simply means nut.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of the medication used for heart failure."
+    },
+    {
+      "cardId": "q-005",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive form of the Greek-derived neuter noun 'Rhizoma'?"
+      },
+      "correctAnswer": "Rhizomatis",
+      "options": [
+        {
+          "text": "Rhizomatis",
+          "rationale": "Nouns ending in -ma (Greek origin) in the 3rd declension always take the -matis ending.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rhizomae",
+          "rationale": "This is a 1st declension ending and is incorrect for this word.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rhizomis",
+          "rationale": "The -ma ending requires the insertion of 'at' in the stem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rhizomutis",
+          "rationale": "The stem extension for Greek nouns in -ma is 'at', not 'ut'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Consider the genitive ending for 'systema' or 'symptoma'."
+    },
+    {
+      "cardId": "q-006",
+      "type": "mcq",
+      "question": {
+        "en": "Which of these words is a 'Pure I-Stem' noun?"
+      },
+      "correctAnswer": "Sinapis",
+      "options": [
+        {
+          "text": "Sinapis",
+          "rationale": "Sinapis (mustard) is a parisyllabic noun that follows the pure i-stem pattern (Ablative -i).",
+          "isCorrect": true
+        },
+        {
+          "text": "Flos",
+          "rationale": "Flos is a consonant stem (floris).",
+          "isCorrect": false
+        },
+        {
+          "text": "Cortex",
+          "rationale": "Cortex is a consonant stem (corticis).",
+          "isCorrect": false
+        },
+        {
+          "text": "Cor",
+          "rationale": "Cor is a neuter consonant stem (cordis).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This word is parisyllabic and refers to a spice used for mustard plasters."
+    },
+    {
+      "cardId": "q-007",
+      "type": "mcq",
+      "question": {
+        "en": "Translate 'Flos' into English."
+      },
+      "correctAnswer": "Flower",
+      "options": [
+        {
+          "text": "Flower",
+          "rationale": "Flos, floris (m.) is the standard Latin term for flower.",
+          "isCorrect": true
+        },
+        {
+          "text": "Leaf",
+          "rationale": "Leaf is 'folium' (2nd declension).",
+          "isCorrect": false
+        },
+        {
+          "text": "Bark",
+          "rationale": "Bark is 'cortex'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fruit",
+          "rationale": "Fruit is 'fructus' (4th declension).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This is the general category that 'Papaver' and 'Digitalis' belong to."
+    },
+    {
+      "cardId": "q-008",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive plural ending for a 'Mixed I-Stem' noun?"
+      },
+      "correctAnswer": "-ium",
+      "options": [
+        {
+          "text": "-ium",
+          "rationale": "Both Pure and Mixed I-stems take -ium in the genitive plural.",
+          "isCorrect": true
+        },
+        {
+          "text": "-um",
+          "rationale": "This ending is reserved for regular consonant stems.",
+          "isCorrect": false
+        },
+        {
+          "text": "-orum",
+          "rationale": "This is a 2nd declension plural ending.",
+          "isCorrect": false
+        },
+        {
+          "text": "-arum",
+          "rationale": "This is a 1st declension plural ending.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It adds an 'i' before the standard -um."
+    },
+    {
+      "cardId": "q-009",
+      "type": "mcq",
+      "question": {
+        "en": "What part of the plant is the 'Cortex'?"
+      },
+      "correctAnswer": "Bark",
+      "options": [
+        {
+          "text": "Bark",
+          "rationale": "Cortex, corticis (m.) refers to the outer layer or bark of a plant/organ.",
+          "isCorrect": true
+        },
+        {
+          "text": "Heart",
+          "rationale": "Heart is 'cor'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Skin",
+          "rationale": "Skin is 'cutis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Root",
+          "rationale": "Root is 'radix'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of the outer layer of a tree or the brain."
+    },
+    {
+      "cardId": "q-010",
+      "type": "mcq",
+      "question": {
+        "en": "The term 'Radix' refers to which plant part?"
+      },
+      "correctAnswer": "Root",
+      "options": [
+        {
+          "text": "Root",
+          "rationale": "Radix, radicis (f.) means root and is used for both plants and anatomical structures.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stem",
+          "rationale": "Stem is 'caulis' or 'stipes'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Leaf",
+          "rationale": "Leaf is 'folium'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Branch",
+          "rationale": "Branch is 'ramus'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This is the part that anchors the plant in the soil."
+    },
+    {
+      "cardId": "q-011",
+      "type": "mcq",
+      "question": {
+        "en": "Which gender is 'Tussilago' (Coltsfoot)?"
+      },
+      "correctAnswer": "Feminine",
+      "options": [
+        {
+          "text": "Feminine",
+          "rationale": "Most 3rd declension nouns ending in -ago, -igo, and -udo are feminine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masculine",
+          "rationale": "Nouns in -ago are typically not masculine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neuter",
+          "rationale": "This suffix does not denote the neuter gender.",
+          "isCorrect": false
+        },
+        {
+          "text": "Common",
+          "rationale": "Biological species names like this have fixed genders.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of the common gender rule for the '-ago' suffix."
+    },
+    {
+      "cardId": "q-012",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'Cannabis' in the context of pharmaceutical terminology?"
+      },
+      "correctAnswer": "Hemp",
+      "options": [
+        {
+          "text": "Hemp",
+          "rationale": "Cannabis, cannabis (f.) is a Pure I-stem noun meaning hemp.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vine",
+          "rationale": "Vine is 'Vitis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mustard",
+          "rationale": "Mustard is 'Sinapis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poppy",
+          "rationale": "Poppy is 'Papaver'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This plant is often used for fibers or medicinal extracts."
+    },
+    {
+      "cardId": "q-013",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive singular of 'Cor' (heart)?"
+      },
+      "correctAnswer": "Cordis",
+      "options": [
+        {
+          "text": "Cordis",
+          "rationale": "Cor is a neuter noun with an irregular consonant stem: Cord-.",
+          "isCorrect": true
+        },
+        {
+          "text": "Coris",
+          "rationale": "The 'd' must be restored to the stem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Corris",
+          "rationale": "The doubling of 'r' is incorrect for this stem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cordus",
+          "rationale": "The genitive singular ending for the 3rd declension is -is, not -us.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This stem gives us the word 'cardiac' in English."
+    },
+    {
+      "cardId": "q-014",
+      "type": "mcq",
+      "question": {
+        "en": "Translate the anatomical term 'Pulmo' into English."
+      },
+      "correctAnswer": "Lung",
+      "options": [
+        {
+          "text": "Lung",
+          "rationale": "Pulmo, pulmonis (m.) is the Latin word for lung.",
+          "isCorrect": true
+        },
+        {
+          "text": "Skin",
+          "rationale": "Skin is 'cutis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Heart",
+          "rationale": "Heart is 'cor'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ear",
+          "rationale": "Ear is 'auris'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of 'pulmonary' health."
+    },
+    {
+      "cardId": "q-015",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'Erigeron'?"
+      },
+      "correctAnswer": "Fleabane",
+      "options": [
+        {
+          "text": "Fleabane",
+          "rationale": "Erigeron, erigerontis (n.) is the botanical term for fleabane.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pheasant's eye",
+          "rationale": "This is Adonis.",
+          "isCorrect": false
+        },
+        {
+          "text": "Walnut",
+          "rationale": "This is Juglans.",
+          "isCorrect": false
+        },
+        {
+          "text": "Plantain",
+          "rationale": "This is Plantago.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This is a neuter plant name with a genitive ending in -ontis."
+    },
+    {
+      "cardId": "q-016",
+      "type": "mcq",
+      "question": {
+        "en": "Which part of the plant is 'Stigma'?"
+      },
+      "correctAnswer": "Stigma",
+      "options": [
+        {
+          "text": "Stigma",
+          "rationale": "In pharmaceutical Latin, 'stigma' refers to the pollen-receiving part of the flower.",
+          "isCorrect": true
+        },
+        {
+          "text": "Petal",
+          "rationale": "Petal is 'petalum' (2nd declension).",
+          "isCorrect": false
+        },
+        {
+          "text": "Stem",
+          "rationale": "Stem is 'caulis' or 'rhizoma'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fruit",
+          "rationale": "Fruit is 'fructus'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It is a part of the pistil in a flower."
+    },
+    {
+      "cardId": "q-017",
+      "type": "mcq",
+      "question": {
+        "en": "The term 'Nux vomica' contains which 3rd declension noun?"
+      },
+      "correctAnswer": "Nux",
+      "options": [
+        {
+          "text": "Nux",
+          "rationale": "Nux (gen. nucis) is a mixed i-stem meaning nut.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vomica",
+          "rationale": "Vomica is an adjective/noun here following the 1st declension.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vomitus",
+          "rationale": "Vomitus is a 4th declension noun.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nutrix",
+          "rationale": "Nutrix means nurse.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This word specifically means 'nut'."
+    },
+    {
+      "cardId": "q-018",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct translation of 'Juglans'?"
+      },
+      "correctAnswer": "Walnut",
+      "options": [
+        {
+          "text": "Walnut",
+          "rationale": "Juglans, juglandis (f.) is the Latin name for the walnut tree/nut.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hazelnut",
+          "rationale": "Hazelnut is 'corylus'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Peanut",
+          "rationale": "Peanut is usually 'arachis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Almond",
+          "rationale": "Almond is 'amygdala'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This nut is known for its brain-like appearance."
+    },
+    {
+      "cardId": "q-019",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive singular of 'Adonis'?"
+      },
+      "correctAnswer": "Adonidis",
+      "options": [
+        {
+          "text": "Adonidis",
+          "rationale": "Adonis follows the pattern of consonant stems ending in -is that extend to -idis.",
+          "isCorrect": true
+        },
+        {
+          "text": "Adonis",
+          "rationale": "This would imply it is a parisyllabic I-stem, which it is not in this context.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adoni",
+          "rationale": "This is a 2nd declension genitive.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adonitis",
+          "rationale": "The stem ends in 'd', not 't'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The stem changes from 's' to 'd'."
+    },
+    {
+      "cardId": "q-020",
+      "type": "mcq",
+      "question": {
+        "en": "Translate 'Caput' into English."
+      },
+      "correctAnswer": "Head",
+      "options": [
+        {
+          "text": "Head",
+          "rationale": "Caput, capitis (n.) is the 3rd declension neuter word for head.",
+          "isCorrect": true
+        },
+        {
+          "text": "Chest",
+          "rationale": "Chest is 'thorax'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Body",
+          "rationale": "Body is 'corpus'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neck",
+          "rationale": "Neck is 'collum' or 'cervix'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of the 'capital' city or 'cap' for your top."
+    },
+    {
+      "cardId": "q-021",
+      "type": "mcq",
+      "question": {
+        "en": "Which word refers to 'Pheasant's eye'?"
+      },
+      "correctAnswer": "Adonis",
+      "options": [
+        {
+          "text": "Adonis",
+          "rationale": "Adonis, adonidis (m./f.) is the pharmaceutical name for pheasant's eye.",
+          "isCorrect": true
+        },
+        {
+          "text": "Papaver",
+          "rationale": "Papaver is poppy.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tussilago",
+          "rationale": "Tussilago is coltsfoot.",
+          "isCorrect": false
+        },
+        {
+          "text": "Digitalis",
+          "rationale": "Digitalis is foxglove.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Named after a figure from Greek mythology known for beauty."
+    },
+    {
+      "cardId": "q-022",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive singular of 'Pus'?"
+      },
+      "correctAnswer": "Puris",
+      "options": [
+        {
+          "text": "Puris",
+          "rationale": "Pus is a neuter noun that changes its stem from 's' to 'r' (rhotacism).",
+          "isCorrect": true
+        },
+        {
+          "text": "Pussis",
+          "rationale": "The stem changes from 's' to 'r'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pudis",
+          "rationale": "The stem ends in 'r', not 'd'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pori",
+          "rationale": "Pus is 3rd declension, not 2nd.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The 's' becomes an 'r', similar to 'flos/floris'."
+    },
+    {
+      "cardId": "q-023",
+      "type": "mcq",
+      "question": {
+        "en": "In medical Latin, what does 'Os, oris' mean?"
+      },
+      "correctAnswer": "Mouth",
+      "options": [
+        {
+          "text": "Mouth",
+          "rationale": "Os, oris (n.) means mouth.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bone",
+          "rationale": "Bone is Os, ossis.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ear",
+          "rationale": "Ear is auris.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eye",
+          "rationale": "Eye is oculus.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of 'oral' hygiene."
+    },
+    {
+      "cardId": "q-024",
+      "type": "mcq",
+      "question": {
+        "en": "How do you distinguish 'Os' (mouth) from 'Os' (bone) in the genitive?"
+      },
+      "correctAnswer": "Mouth is 'oris', bone is 'ossis'",
+      "options": [
+        {
+          "text": "Mouth is 'oris', bone is 'ossis'",
+          "rationale": "Mouth (oris) and bone (ossis) are both neuter but have different stems.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mouth is 'ossis', bone is 'oris'",
+          "rationale": "This is the opposite of the correct stems.",
+          "isCorrect": false
+        },
+        {
+          "text": "They are both 'oris'",
+          "rationale": "They have distinct stems for clarity in medical terminology.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mouth is 'osi', bone is 'osso'",
+          "rationale": "These are not correct 3rd declension genitive endings.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of 'oral' vs 'ossification'."
+    },
+    {
+      "cardId": "q-025",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'Vitis' in botanical terms?"
+      },
+      "correctAnswer": "Vine/Grape",
+      "options": [
+        {
+          "text": "Vine/Grape",
+          "rationale": "Vitis, vitis (f.) is a Pure I-stem meaning vine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Life",
+          "rationale": "Life is 'vita' (1st declension).",
+          "isCorrect": false
+        },
+        {
+          "text": "Vitality",
+          "rationale": "This is an abstract concept, not a botanical term.",
+          "isCorrect": false
+        },
+        {
+          "text": "Water",
+          "rationale": "Water is 'aqua'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of 'viticulture' (the study of grapes)."
+    },
+    {
+      "cardId": "q-026",
+      "type": "mcq",
+      "question": {
+        "en": "The term 'Tussis' refers to what medical condition?"
+      },
+      "correctAnswer": "Cough",
+      "options": [
+        {
+          "text": "Cough",
+          "rationale": "Tussis, tussis (f.) is a Pure I-stem noun meaning cough.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fever",
+          "rationale": "Fever is 'febris'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pain",
+          "rationale": "Pain is 'dolor'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Death",
+          "rationale": "Death is 'mors'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The plant 'Tussilago' is used to treat this condition."
+    },
+    {
+      "cardId": "q-027",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive of 'Febris' (fever)?"
+      },
+      "correctAnswer": "Febris",
+      "options": [
+        {
+          "text": "Febris",
+          "rationale": "Febris is a parisyllabic Pure I-stem, so the nominative and genitive are identical.",
+          "isCorrect": true
+        },
+        {
+          "text": "Febritis",
+          "rationale": "Febris is an I-stem, not a consonant stem ending in -is/-itis.",
+          "isCorrect": false
+        },
+        {
+          "text": "Febrinis",
+          "rationale": "There is no 'n' in the stem of this word.",
+          "isCorrect": false
+        },
+        {
+          "text": "Febri",
+          "rationale": "This is the dative or ablative form.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It is an I-stem noun where the nominative and genitive singular often match."
+    },
+    {
+      "cardId": "q-028",
+      "type": "mcq",
+      "question": {
+        "en": "Translate 'Pelvis' into English."
+      },
+      "correctAnswer": "Pelvis",
+      "options": [
+        {
+          "text": "Pelvis",
+          "rationale": "Pelvis, pelvis (f.) is a Pure I-stem used directly in English.",
+          "isCorrect": true
+        },
+        {
+          "text": "Skin",
+          "rationale": "Skin is cutis.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ear",
+          "rationale": "Ear is auris.",
+          "isCorrect": false
+        },
+        {
+          "text": "Chest",
+          "rationale": "Chest is thorax.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It is the basin-shaped structure at the base of the spine."
+    },
+    {
+      "cardId": "q-029",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'Rete' mean in an anatomical context?"
+      },
+      "correctAnswer": "Net / Network",
+      "options": [
+        {
+          "text": "Net / Network",
+          "rationale": "Rete, retis (n.) is a Pure I-stem meaning net or network (e.g., of vessels).",
+          "isCorrect": true
+        },
+        {
+          "text": "Root",
+          "rationale": "Root is radix.",
+          "isCorrect": false
+        },
+        {
+          "text": "Result",
+          "rationale": "This is an abstract term, not anatomical.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rate",
+          "rationale": "Rate is usually 'frequentia' or 'proportio'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of the 'retina' in the eye, which is like a light-sensitive net."
+    },
+    {
+      "cardId": "q-030",
+      "type": "mcq",
+      "question": {
+        "en": "Which of these is a characteristic of 'Pure I-stems' in the Ablative Singular?"
+      },
+      "correctAnswer": "Ends in -i",
+      "options": [
+        {
+          "text": "Ends in -i",
+          "rationale": "Pure I-stems take -i in the ablative singular, unlike consonant stems which take -e.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ends in -e",
+          "rationale": "Consonant stems take -e, not pure I-stems.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ends in -o",
+          "rationale": "This is a 2nd declension ending.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ends in -u",
+          "rationale": "This is a 4th declension ending.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It uses the vowel that defines the stem category."
+    },
+    {
+      "cardId": "q-031",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive singular of 'Cutis' (skin)?"
+      },
+      "correctAnswer": "Cutis",
+      "options": [
+        {
+          "text": "Cutis",
+          "rationale": "Cutis is a parisyllabic mixed I-stem, so the genitive is the same as the nominative.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cutinis",
+          "rationale": "The stem does not include 'n'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cutitis",
+          "rationale": "While 'cutitis' looks like an inflammation word, the genitive is simply 'cutis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cuti",
+          "rationale": "This is a dative or ablative form.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It is a parisyllabic noun."
+    },
+    {
+      "cardId": "q-032",
+      "type": "mcq",
+      "question": {
+        "en": "Translate 'Auris' into English."
+      },
+      "correctAnswer": "Ear",
+      "options": [
+        {
+          "text": "Ear",
+          "rationale": "Auris, auris (f.) is the 3rd declension word for ear.",
+          "isCorrect": true
+        },
+        {
+          "text": "Air",
+          "rationale": "Air is 'aer'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gold",
+          "rationale": "Gold is 'aurum' (2nd declension).",
+          "isCorrect": false
+        },
+        {
+          "text": "Art",
+          "rationale": "Art is 'ars'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of 'aural' skills."
+    },
+    {
+      "cardId": "q-033",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'Mors' mean?"
+      },
+      "correctAnswer": "Death",
+      "options": [
+        {
+          "text": "Death",
+          "rationale": "Mors, mortis (f.) is a mixed I-stem meaning death.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bite",
+          "rationale": "Bite is 'morsus' (4th declension).",
+          "isCorrect": false
+        },
+        {
+          "text": "Muscle",
+          "rationale": "Muscle is 'musculus'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Moral",
+          "rationale": "Moral is related to 'mos, moris'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of 'mortal' or 'mortician'."
+    },
+    {
+      "cardId": "q-034",
+      "type": "mcq",
+      "question": {
+        "en": "Which of these is the correct Genitive Plural for 'Mors'?"
+      },
+      "correctAnswer": "Mortium",
+      "options": [
+        {
+          "text": "Mortium",
+          "rationale": "Mors is a mixed I-stem (double consonant stem 'rt'), so it takes -ium.",
+          "isCorrect": true
+        },
+        {
+          "text": "Morum",
+          "rationale": "This would be the genitive plural of 'mos' (custom/habit).",
+          "isCorrect": false
+        },
+        {
+          "text": "Mortum",
+          "rationale": "Mixed I-stems require the 'i' in the plural genitive.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mortis",
+          "rationale": "This is the genitive singular.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It follows the I-stem rule for plural genitives."
+    },
+    {
+      "cardId": "q-035",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'Mens' translated as?"
+      },
+      "correctAnswer": "Mind",
+      "options": [
+        {
+          "text": "Mind",
+          "rationale": "Mens, mentis (f.) means mind.",
+          "isCorrect": true
+        },
+        {
+          "text": "Table",
+          "rationale": "Table is 'mensa' (1st declension).",
+          "isCorrect": false
+        },
+        {
+          "text": "Month",
+          "rationale": "Month is 'mensis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Measure",
+          "rationale": "Measure is 'mensura'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of 'mental' health."
+    },
+    {
+      "cardId": "q-036",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive singular of 'Pars' (part)?"
+      },
+      "correctAnswer": "Partis",
+      "options": [
+        {
+          "text": "Partis",
+          "rationale": "Pars is a mixed I-stem with a genitive in -is.",
+          "isCorrect": true
+        },
+        {
+          "text": "Parsis",
+          "rationale": "The 's' in the nominative changes back to 't' in the stem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parti",
+          "rationale": "This is the dative or ablative form.",
+          "isCorrect": false
+        },
+        {
+          "text": "Partus",
+          "rationale": "Partus is a 4th declension noun meaning birth.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Restore the 't' to the stem."
+    },
+    {
+      "cardId": "q-037",
+      "type": "mcq",
+      "question": {
+        "en": "What type of stem is 'Nux'?"
+      },
+      "correctAnswer": "Mixed I-Stem",
+      "options": [
+        {
+          "text": "Mixed I-Stem",
+          "rationale": "Nux is monosyllabic with two consonants (c+s) in the stem, making it mixed.",
+          "isCorrect": true
+        },
+        {
+          "text": "Consonant Stem",
+          "rationale": "While it has a consonant stem, it follows the mixed I-stem plural rule.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pure I-Stem",
+          "rationale": "Pure I-stems are usually parisyllabic.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neuter Stem",
+          "rationale": "Nux is feminine.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of the plural genitive 'nucium'."
+    },
+    {
+      "cardId": "q-038",
+      "type": "mcq",
+      "question": {
+        "en": "What does the Latin word 'Sinapis' refer to?"
+      },
+      "correctAnswer": "Mustard",
+      "options": [
+        {
+          "text": "Mustard",
+          "rationale": "Sinapis, sinapis (f.) is the pharmaceutical name for mustard.",
+          "isCorrect": true
+        },
+        {
+          "text": "Syrup",
+          "rationale": "Syrup is 'sirupus'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinus",
+          "rationale": "Sinus is a 4th declension noun.",
+          "isCorrect": false
+        },
+        {
+          "text": "Salt",
+          "rationale": "Salt is 'sal'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of 'mustard' seeds or plasters."
+    },
+    {
+      "cardId": "q-039",
+      "type": "mcq",
+      "question": {
+        "en": "Which of these means 'Coltsfoot'?"
+      },
+      "correctAnswer": "Tussilago",
+      "options": [
+        {
+          "text": "Tussilago",
+          "rationale": "Tussilago, tussilaginis (f.) is coltsfoot, traditionally used as a cough suppressant.",
+          "isCorrect": true
+        },
+        {
+          "text": "Plantago",
+          "rationale": "Plantago is plantain.",
+          "isCorrect": false
+        },
+        {
+          "text": "Solidago",
+          "rationale": "Solidago is goldenrod.",
+          "isCorrect": false
+        },
+        {
+          "text": "Borago",
+          "rationale": "Borago is borage.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Its name starts with the same root as the Latin word for 'cough'."
+    },
+    {
+      "cardId": "q-040",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive singular of 'Semen'?"
+      },
+      "correctAnswer": "Seminis",
+      "options": [
+        {
+          "text": "Seminis",
+          "rationale": "Neuter nouns ending in -en in the 3rd declension usually have a genitive in -inis.",
+          "isCorrect": true
+        },
+        {
+          "text": "Semenis",
+          "rationale": "The 'e' in the stem changes to 'i'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Semini",
+          "rationale": "This is the dative form.",
+          "isCorrect": false
+        },
+        {
+          "text": "Semis",
+          "rationale": "This misses the 'in' expansion of the stem.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Recall the pattern for words like 'nomen'."
+    },
+    {
+      "cardId": "q-041",
+      "type": "mcq",
+      "question": {
+        "en": "Which word is feminine?"
+      },
+      "correctAnswer": "Radix",
+      "options": [
+        {
+          "text": "Radix",
+          "rationale": "Nouns ending in -ix are generally feminine in the third declension.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cortex",
+          "rationale": "Cortex is masculine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flos",
+          "rationale": "Flos is masculine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Semen",
+          "rationale": "Semen is neuter.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of the gender rule for words ending in '-ix'."
+    },
+    {
+      "cardId": "q-042",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'Plantago'?"
+      },
+      "correctAnswer": "Plantain",
+      "options": [
+        {
+          "text": "Plantain",
+          "rationale": "Plantago, plantaginis (f.) is plantain.",
+          "isCorrect": true
+        },
+        {
+          "text": "Planting",
+          "rationale": "Planting is a verb or action, not this noun.",
+          "isCorrect": false
+        },
+        {
+          "text": "Planta",
+          "rationale": "Planta is simply 'plant' (1st declension).",
+          "isCorrect": false
+        },
+        {
+          "text": "Plastic",
+          "rationale": "This is not a pharmaceutical botanical term.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It sounds very similar to the English name for the weed often found in lawns."
+    },
+    {
+      "cardId": "q-043",
+      "type": "mcq",
+      "question": {
+        "en": "Which part of the flower receives the pollen?"
+      },
+      "correctAnswer": "Stigma",
+      "options": [
+        {
+          "text": "Stigma",
+          "rationale": "Stigma, stigmatis (n.) is the receptive tip of the flower's carpel.",
+          "isCorrect": true
+        },
+        {
+          "text": "Semen",
+          "rationale": "Semen is the seed that results after fertilization.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flos",
+          "rationale": "Flos is the whole flower.",
+          "isCorrect": false
+        },
+        {
+          "text": "Radix",
+          "rationale": "Radix is the root.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "In Latin, this word often takes the genitive '-matis'."
+    },
+    {
+      "cardId": "q-044",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive plural of 'Auris'?"
+      },
+      "correctAnswer": "Aurium",
+      "options": [
+        {
+          "text": "Aurium",
+          "rationale": "Auris is a mixed I-stem (parisyllabic), so it takes -ium.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aurum",
+          "rationale": "Aurum means gold; it is not the genitive plural of auris.",
+          "isCorrect": false
+        },
+        {
+          "text": "Auris",
+          "rationale": "This is the genitive singular.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aureum",
+          "rationale": "Aureum is an adjective meaning golden.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It is an I-stem plural genitive."
+    },
+    {
+      "cardId": "q-045",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'Digitalis purpurea'?"
+      },
+      "correctAnswer": "Purple Foxglove",
+      "options": [
+        {
+          "text": "Purple Foxglove",
+          "rationale": "Digitalis (foxglove) + purpurea (purple).",
+          "isCorrect": true
+        },
+        {
+          "text": "Red Foxglove",
+          "rationale": "Red is 'ruber'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Purple Mustard",
+          "rationale": "Mustard is 'Sinapis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Purple Poppy",
+          "rationale": "Purple poppy is not a standard pharmaceutical term like the others.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Translate both the genus and the species adjective."
+    },
+    {
+      "cardId": "q-046",
+      "type": "mcq",
+      "question": {
+        "en": "The term 'Nux' refers to:"
+      },
+      "correctAnswer": "Nut",
+      "options": [
+        {
+          "text": "Nut",
+          "rationale": "Nux, nucis (f.) means nut.",
+          "isCorrect": true
+        },
+        {
+          "text": "Night",
+          "rationale": "Night is 'nox, noctis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nose",
+          "rationale": "Nose is 'nasus'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neck",
+          "rationale": "Neck is 'cervix' or 'collum'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Think of 'Nux vomica'."
+    },
+    {
+      "cardId": "q-047",
+      "type": "mcq",
+      "question": {
+        "en": "What is the Latin word for 'Network'?"
+      },
+      "correctAnswer": "Rete",
+      "options": [
+        {
+          "text": "Rete",
+          "rationale": "Rete, retis (n.) means net or network.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pars",
+          "rationale": "Pars means part.",
+          "isCorrect": false
+        },
+        {
+          "text": "Os",
+          "rationale": "Os means bone or mouth.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cutis",
+          "rationale": "Cutis means skin.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This word is a neuter I-stem."
+    },
+    {
+      "cardId": "q-048",
+      "type": "mcq",
+      "question": {
+        "en": "Which of these is NOT an I-stem?"
+      },
+      "correctAnswer": "Pulmo",
+      "options": [
+        {
+          "text": "Pulmo",
+          "rationale": "Pulmo is a standard consonant stem (pulmonis).",
+          "isCorrect": true
+        },
+        {
+          "text": "Tussis",
+          "rationale": "Tussis is a pure I-stem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Auris",
+          "rationale": "Auris is a mixed I-stem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinapis",
+          "rationale": "Sinapis is a pure I-stem.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Look for the word that has a changing stem (pulmo -> pulmon-) and is not parisyllabic."
+    },
+    {
+      "cardId": "q-049",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'Adonis vernalis'?"
+      },
+      "correctAnswer": "Spring pheasant's eye",
+      "options": [
+        {
+          "text": "Spring pheasant's eye",
+          "rationale": "Adonis (pheasant's eye) + vernalis (spring).",
+          "isCorrect": true
+        },
+        {
+          "text": "Autumn pheasant's eye",
+          "rationale": "Autumn is 'autumnalis'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Winter poppy",
+          "rationale": "Poppy is 'Papaver'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spring mustard",
+          "rationale": "Mustard is 'Sinapis'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The adjective refers to the season of 'ver' (spring)."
+    },
+    {
+      "cardId": "q-050",
+      "type": "mcq",
+      "question": {
+        "en": "What is the genitive of 'Erigeron'?"
+      },
+      "correctAnswer": "Erigerontis",
+      "options": [
+        {
+          "text": "Erigerontis",
+          "rationale": "This neuter word has a Greek-pattern genitive in -ontis.",
+          "isCorrect": true
+        },
+        {
+          "text": "Erigeronis",
+          "rationale": "The 't' must be included in the stem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erigeri",
+          "rationale": "This is not a 2nd declension noun.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erigeris",
+          "rationale": "It requires the -ontis extension.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "It follows a similar pattern to 'gigantis' or 'elephantis' in some Greek words."
+    }
+  ]
+}

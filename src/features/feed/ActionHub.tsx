@@ -1,16 +1,20 @@
 import { Button, Card, CardBody, Chip, Input, Kbd } from "@heroui/react";
 import { motion } from "motion/react";
 import { BookOpenText, Search, Sparkles, Stethoscope, Zap } from "lucide-react";
+import { learnDeckRepo } from "@/lib/mock/learnDeckRepo";
 import { useChannelsStore } from "@/stores/channelsStore";
 import { cn } from "@/lib/utils";
-import { studyDeckSessionMeta } from "@/mocks/studyDeckReels";
+
+const medLatinDecks = learnDeckRepo.listDecks("med-latin");
+const quizDeckCount = medLatinDecks.filter((deck) => deck.deckType === "learncard").length;
+const vocabDeckCount = medLatinDecks.filter((deck) => deck.deckType === "vocab").length;
 
 const actions = [
   {
     key: "mixed" as const,
     title: "Mixed Session",
     subtitle: "Vocabulary + quiz reel flow",
-    meta: `${studyDeckSessionMeta.vocab.count + studyDeckSessionMeta.quiz.count} cards`,
+    meta: `${vocabDeckCount}+${quizDeckCount} deck flow`,
     icon: Zap,
     accent: "text-amber-200",
     glow: "bg-amber-300/12",
@@ -19,7 +23,7 @@ const actions = [
     key: "quiz" as const,
     title: "Quiz Drill",
     subtitle: "Imported Learncard MCQs",
-    meta: `${studyDeckSessionMeta.quiz.count} cards`,
+    meta: `${quizDeckCount} quiz decks`,
     icon: Stethoscope,
     accent: "text-cyan-200",
     glow: "bg-cyan-300/12",
@@ -28,7 +32,7 @@ const actions = [
     key: "vocab" as const,
     title: "Vocabulary",
     subtitle: "Medical Latin trainer",
-    meta: `${studyDeckSessionMeta.vocab.count} cards`,
+    meta: `${vocabDeckCount} vocab decks`,
     icon: BookOpenText,
     accent: "text-emerald-200",
     glow: "bg-emerald-300/12",

@@ -1,0 +1,974 @@
+{
+  "schemaId": "studywithme-bg.vocab.v2",
+  "bookKey": "medical-greek-latin-roots-teacher-deck",
+  "chapterKey": "ch-01-la-en",
+  "title": "Medical Greek & Latin Roots",
+  "items": [
+    {
+      "word": "cephal- / -cephalia",
+      "translation": "head",
+      "hint": "Greek medical combining form for head",
+      "examCue": "head"
+    },
+    {
+      "word": "prosop-",
+      "translation": "face",
+      "hint": "Greek medical combining form for face",
+      "examCue": "face"
+    },
+    {
+      "word": "crotaph-",
+      "translation": "temple",
+      "hint": "Greek medical combining form for temple region",
+      "examCue": "head region"
+    },
+    {
+      "word": "metop-",
+      "translation": "forehead",
+      "hint": "Greek medical combining form for forehead",
+      "examCue": "head region"
+    },
+    {
+      "word": "gnath- / -gnathia",
+      "translation": "jaw; upper jaw; lower jaw",
+      "hint": "Greek medical combining form for jaw structures",
+      "examCue": "jaw"
+    },
+    {
+      "word": "dolicho-",
+      "translation": "elongated; long",
+      "hint": "Greek prefix indicating length",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "di-",
+      "translation": "two; twice; double",
+      "hint": "Greek numeric prefix",
+      "examCue": "number"
+    },
+    {
+      "word": "-plegia",
+      "translation": "paralysis",
+      "hint": "suffix indicating paralysis",
+      "examCue": "neurology"
+    },
+    {
+      "word": "gnos- / -gnosia",
+      "translation": "knowledge; recognition",
+      "hint": "Greek form for knowing or recognizing",
+      "examCue": "neuropsych"
+    },
+    {
+      "word": "brachy-",
+      "translation": "short",
+      "hint": "Greek prefix for shortness",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "pro-",
+      "translation": "before; forward; in front of",
+      "hint": "directional/temporal prefix",
+      "examCue": "position/time"
+    },
+    {
+      "word": "-genia",
+      "translation": "lower jaw; chin",
+      "hint": "source meaning preserved",
+      "examCue": "jaw"
+    },
+    {
+      "word": "mel-",
+      "translation": "cheek",
+      "hint": "Greek combining form for cheek",
+      "examCue": "face"
+    },
+    {
+      "word": "rhythid-",
+      "translation": "wrinkle",
+      "hint": "Greek combining form for wrinkle",
+      "examCue": "skin"
+    },
+    {
+      "word": "ophthalm-",
+      "translation": "eye",
+      "hint": "Greek combining form for eye",
+      "examCue": "eye"
+    },
+    {
+      "word": "blephar-",
+      "translation": "eyelid",
+      "hint": "Greek combining form for eyelid",
+      "examCue": "eye"
+    },
+    {
+      "word": "kerat-",
+      "translation": "cornea",
+      "hint": "Greek combining form; in ophthalmology often cornea",
+      "examCue": "eye"
+    },
+    {
+      "word": "phac- / -phakia",
+      "translation": "lens",
+      "hint": "Greek combining form for ocular lens",
+      "examCue": "eye"
+    },
+    {
+      "word": "cor- / -coria",
+      "translation": "pupil",
+      "hint": "Greek combining form for pupil",
+      "examCue": "eye"
+    },
+    {
+      "word": "cycl-",
+      "translation": "vitreous body",
+      "hint": "teacher-deck meaning preserved as given",
+      "examCue": "eye"
+    },
+    {
+      "word": "ot-",
+      "translation": "ear",
+      "hint": "Greek combining form for ear",
+      "examCue": "ENT"
+    },
+    {
+      "word": "ex-",
+      "translation": "outside; out",
+      "hint": "prefix indicating outward position",
+      "examCue": "direction"
+    },
+    {
+      "word": "iso-",
+      "translation": "equal; same",
+      "hint": "Greek prefix indicating equality",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "-scopia",
+      "translation": "instrumental examination",
+      "hint": "suffix for visual/instrumental examination",
+      "examCue": "diagnostics"
+    },
+    {
+      "word": "-rrhagia",
+      "translation": "hemorrhage; bleeding",
+      "hint": "suffix indicating bursting forth, usually bleeding",
+      "examCue": "pathology"
+    },
+    {
+      "word": "rhin-",
+      "translation": "nose",
+      "hint": "Greek combining form for nose",
+      "examCue": "ENT"
+    },
+    {
+      "word": "syring-",
+      "translation": "Eustachian tube; auditory tube",
+      "hint": "teacher-deck meaning preserved as given",
+      "examCue": "ENT"
+    },
+    {
+      "word": "opt- / ops- / -opsia / -opia / -blepsia",
+      "translation": "vision; sight",
+      "hint": "grouped visual roots and suffixes from source",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "asthen- / -asthenia",
+      "translation": "weakness; lack of strength",
+      "hint": "root/suffix for weakness",
+      "examCue": "clinical descriptor"
+    },
+    {
+      "word": "ambly-",
+      "translation": "dull; blunt",
+      "hint": "prefix for dim or blunt function",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "chroma- / -chromia",
+      "translation": "color",
+      "hint": "root/suffix for color",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "encephal-",
+      "translation": "brain",
+      "hint": "Greek combining form for brain",
+      "examCue": "neurology"
+    },
+    {
+      "word": "myel-",
+      "translation": "bone marrow; spinal cord",
+      "hint": "Greek combining form with two major meanings",
+      "examCue": "neurology/hematology"
+    },
+    {
+      "word": "poli-",
+      "translation": "gray",
+      "hint": "root used for gray matter / gray coloration",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "mening-",
+      "translation": "meninges",
+      "hint": "Greek combining form for meninges",
+      "examCue": "neurology"
+    },
+    {
+      "word": "pachymening-",
+      "translation": "dura mater",
+      "hint": "hard meninx; teacher gloss preserved",
+      "examCue": "neurology"
+    },
+    {
+      "word": "pachy-",
+      "translation": "hard; thick",
+      "hint": "teacher gloss preserved",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "phren- / -phrenia",
+      "translation": "diaphragm; mind; reason",
+      "hint": "Greek form with somatic and mental meanings",
+      "examCue": "neuropsych"
+    },
+    {
+      "word": "-noia / ment- (lat.)",
+      "translation": "mind; reason",
+      "hint": "Greek suffix and Latin root grouped as in source",
+      "examCue": "neuropsych"
+    },
+    {
+      "word": "de- (lat.)",
+      "translation": "separation; loss; removal",
+      "hint": "Latin prefix",
+      "examCue": "direction/change"
+    },
+    {
+      "word": "olig-",
+      "translation": "little; scanty",
+      "hint": "prefix indicating small quantity",
+      "examCue": "quantity"
+    },
+    {
+      "word": "schizo- / -schizis / -schisis",
+      "translation": "splitting; division; cleft",
+      "hint": "root/suffix set for splitting",
+      "examCue": "pathology"
+    },
+    {
+      "word": "para-",
+      "translation": "around; abnormal; unexpected",
+      "hint": "prefix with spatial and abnormal meanings",
+      "examCue": "modifier"
+    },
+    {
+      "word": "psych-",
+      "translation": "mind; soul",
+      "hint": "Greek combining form for psyche",
+      "examCue": "psychiatry"
+    },
+    {
+      "word": "thanat-",
+      "translation": "death",
+      "hint": "Greek combining form for death",
+      "examCue": "pathology"
+    },
+    {
+      "word": "mnes- / -mnesia",
+      "translation": "memory; recollection",
+      "hint": "root/suffix for memory",
+      "examCue": "neuropsych"
+    },
+    {
+      "word": "gnos- / -gnosis / -gnosia",
+      "translation": "knowledge; recognition",
+      "hint": "root/suffix for knowing",
+      "examCue": "neuropsych"
+    },
+    {
+      "word": "hypn-",
+      "translation": "sleep",
+      "hint": "Greek combining form for sleep",
+      "examCue": "neurology"
+    },
+    {
+      "word": "narc-",
+      "translation": "sleep; numbness; narcosis",
+      "hint": "root for stupor or narcosis",
+      "examCue": "anesthesia"
+    },
+    {
+      "word": "-philia",
+      "translation": "attraction; affinity; tendency",
+      "hint": "suffix for attraction or predisposition",
+      "examCue": "behavior/pathology"
+    },
+    {
+      "word": "-thymia / -phoria",
+      "translation": "mood; temperament",
+      "hint": "suffixes for mood and affect",
+      "examCue": "psychiatry"
+    },
+    {
+      "word": "-phobia",
+      "translation": "pathological; irrational fear",
+      "hint": "suffix for fear",
+      "examCue": "psychiatry"
+    },
+    {
+      "word": "-mania",
+      "translation": "madness; compulsive attraction",
+      "hint": "suffix for mania or excessive drive",
+      "examCue": "psychiatry"
+    },
+    {
+      "word": "pyr-",
+      "translation": "fire; fever; high temperature",
+      "hint": "root with literal and clinical meanings",
+      "examCue": "fever"
+    },
+    {
+      "word": "stomat- / -stomia",
+      "translation": "mouth; oral cavity",
+      "hint": "root/suffix for mouth",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "chalan-",
+      "translation": "corner of the mouth",
+      "hint": "Greek combining form for mouth angle",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "cheil- / -cheilia",
+      "translation": "lip",
+      "hint": "root/suffix for lip",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "gloss- / -glossia",
+      "translation": "tongue",
+      "hint": "root/suffix for tongue",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "uran- (gr.) = palat- (lat.)",
+      "translation": "palate",
+      "hint": "Greek and Latin equivalents grouped as in source",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "ul- (gr.) / gingiv- (lat.)",
+      "translation": "gum; gingiva",
+      "hint": "Greek and Latin equivalents grouped as in source",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "staphyl-",
+      "translation": "uvula",
+      "hint": "Greek combining form for uvula",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "pharyng-",
+      "translation": "pharynx; throat",
+      "hint": "Greek combining form for pharynx",
+      "examCue": "ENT"
+    },
+    {
+      "word": "laryng-",
+      "translation": "larynx; throat",
+      "hint": "Greek combining form for larynx",
+      "examCue": "ENT"
+    },
+    {
+      "word": "amygdal- = tonsill-",
+      "translation": "tonsil",
+      "hint": "Greek and Latin equivalents grouped as in source",
+      "examCue": "ENT"
+    },
+    {
+      "word": "adenoid-",
+      "translation": "gland-like",
+      "hint": "descriptor meaning glandular",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "odont- / -odontia",
+      "translation": "tooth",
+      "hint": "root/suffix for tooth",
+      "examCue": "dental"
+    },
+    {
+      "word": "sial- / -sialia / ptyal- / -ptyalia",
+      "translation": "saliva",
+      "hint": "Greek root/suffix group for saliva",
+      "examCue": "oral cavity"
+    },
+    {
+      "word": "-geusia",
+      "translation": "taste",
+      "hint": "suffix for taste",
+      "examCue": "sensory"
+    },
+    {
+      "word": "-orexia",
+      "translation": "appetite",
+      "hint": "suffix for appetite",
+      "examCue": "GI"
+    },
+    {
+      "word": "-phasia",
+      "translation": "related to speech formation",
+      "hint": "teacher-deck gloss preserved",
+      "examCue": "neurology"
+    },
+    {
+      "word": "-arthria",
+      "translation": "articulation disorder",
+      "hint": "suffix for articulation disturbance",
+      "examCue": "neurology"
+    },
+    {
+      "word": "-phrasia",
+      "translation": "related to speech quality",
+      "hint": "teacher-deck gloss preserved",
+      "examCue": "neurology"
+    },
+    {
+      "word": "phem- / -phemia",
+      "translation": "ability to speak",
+      "hint": "teacher-deck gloss normalized into English",
+      "examCue": "neurology"
+    },
+    {
+      "word": "-lalia",
+      "translation": "speech defect; abnormal speech",
+      "hint": "suffix for speech abnormality",
+      "examCue": "neurology"
+    },
+    {
+      "word": "log-",
+      "translation": "speech; word",
+      "hint": "root for speech or discourse",
+      "examCue": "neurology"
+    },
+    {
+      "word": "phon- / -phonia",
+      "translation": "voice",
+      "hint": "root/suffix for voice",
+      "examCue": "laryngology"
+    },
+    {
+      "word": "-lexia",
+      "translation": "reading; speaking",
+      "hint": "teacher-deck gloss preserved",
+      "examCue": "neurology"
+    },
+    {
+      "word": "pneum- / pneumon- / pulmon- (lat.)",
+      "translation": "lung",
+      "hint": "Greek and Latin equivalents grouped as in source",
+      "examCue": "respiratory"
+    },
+    {
+      "word": "pneum- / pneumat-",
+      "translation": "air",
+      "hint": "root for air or gas",
+      "examCue": "respiratory"
+    },
+    {
+      "word": "cardi- / -cardia",
+      "translation": "heart; gastric cardia; pulse",
+      "hint": "source preserved with three meanings",
+      "examCue": "cardiology"
+    },
+    {
+      "word": "sphygmo- / -sphygmia / rhytm- / -rhythmia / -cardia",
+      "translation": "pulse; cardiac activity",
+      "hint": "grouped circulation roots/suffixes as in source",
+      "examCue": "cardiology"
+    },
+    {
+      "word": "splanchn-",
+      "translation": "internal organs; viscera",
+      "hint": "Greek combining form for viscera",
+      "examCue": "viscera"
+    },
+    {
+      "word": "lapar- / coeli- / -coelia / ventr-",
+      "translation": "abdomen; abdominal cavity",
+      "hint": "grouped abdominal roots from source",
+      "examCue": "abdomen"
+    },
+    {
+      "word": "gastr-",
+      "translation": "stomach",
+      "hint": "Greek combining form for stomach",
+      "examCue": "GI"
+    },
+    {
+      "word": "pylor-",
+      "translation": "pylorus; lower outlet of the stomach",
+      "hint": "Greek combining form for pylorus",
+      "examCue": "GI"
+    },
+    {
+      "word": "duoden-",
+      "translation": "duodenum",
+      "hint": "combining form for duodenum",
+      "examCue": "GI"
+    },
+    {
+      "word": "enter-",
+      "translation": "intestine; small intestine",
+      "hint": "combining form with broad and narrow meanings",
+      "examCue": "GI"
+    },
+    {
+      "word": "ieiun-",
+      "translation": "jejunum",
+      "hint": "Latin root for jejunum",
+      "examCue": "GI"
+    },
+    {
+      "word": "ile-",
+      "translation": "ileum",
+      "hint": "combining form for ileum",
+      "examCue": "GI"
+    },
+    {
+      "word": "typhl-",
+      "translation": "cecum",
+      "hint": "combining form for cecum",
+      "examCue": "GI"
+    },
+    {
+      "word": "append-",
+      "translation": "appendix",
+      "hint": "combining form for vermiform appendix",
+      "examCue": "GI"
+    },
+    {
+      "word": "col- / colon-",
+      "translation": "colon; large intestine",
+      "hint": "combining form for colon",
+      "examCue": "GI"
+    },
+    {
+      "word": "sigmoid-",
+      "translation": "sigmoid colon",
+      "hint": "combining form for sigmoid segment",
+      "examCue": "GI"
+    },
+    {
+      "word": "proct- / rect-",
+      "translation": "rectum",
+      "hint": "Greek and Latin forms grouped as in source",
+      "examCue": "GI"
+    },
+    {
+      "word": "periton-",
+      "translation": "peritoneum",
+      "hint": "combining form for peritoneum",
+      "examCue": "GI"
+    },
+    {
+      "word": "epipl- / oment- (lat.)",
+      "translation": "greater omentum",
+      "hint": "Greek and Latin equivalents grouped as in source",
+      "examCue": "GI"
+    },
+    {
+      "word": "hepat-",
+      "translation": "liver",
+      "hint": "Greek combining form for liver",
+      "examCue": "hepatology"
+    },
+    {
+      "word": "hepatic-",
+      "translation": "hepatic duct",
+      "hint": "teacher-deck meaning preserved as given",
+      "examCue": "hepatobiliary"
+    },
+    {
+      "word": "chole- / chol- / -cholia",
+      "translation": "bile",
+      "hint": "root/suffix for bile",
+      "examCue": "hepatobiliary"
+    },
+    {
+      "word": "cholecyst-",
+      "translation": "gallbladder",
+      "hint": "combining form for gallbladder",
+      "examCue": "hepatobiliary"
+    },
+    {
+      "word": "choledoch-",
+      "translation": "common bile duct",
+      "hint": "combining form for common bile duct",
+      "examCue": "hepatobiliary"
+    },
+    {
+      "word": "cholang-",
+      "translation": "bile ducts",
+      "hint": "combining form for biliary passages",
+      "examCue": "hepatobiliary"
+    },
+    {
+      "word": "splen-",
+      "translation": "spleen",
+      "hint": "combining form for spleen",
+      "examCue": "hematology"
+    },
+    {
+      "word": "pancreat-",
+      "translation": "pancreas",
+      "hint": "combining form for pancreas",
+      "examCue": "GI"
+    },
+    {
+      "word": "gynaec-",
+      "translation": "woman",
+      "hint": "combining form for woman/female",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "parthen-",
+      "translation": "maiden; virgin",
+      "hint": "combining form for maidenhood",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "mast- / -mastia / mamm- (lat)",
+      "translation": "breast; mammary gland",
+      "hint": "Greek and Latin equivalents grouped as in source",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "thel-",
+      "translation": "nipple",
+      "hint": "combining form for nipple",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "hyster- / metr- / -metra",
+      "translation": "uterus",
+      "hint": "grouped uterine roots from source",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "salping-",
+      "translation": "uterine tube",
+      "hint": "combining form for fallopian tube",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "trachel-",
+      "translation": "cervix; neck of uterus",
+      "hint": "combining form for cervical region",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "oo-",
+      "translation": "ovum; egg cell",
+      "hint": "combining form for ovum",
+      "examCue": "reproduction"
+    },
+    {
+      "word": "oophor- / ovari-",
+      "translation": "ovary",
+      "hint": "Greek and Latin equivalents grouped as in source",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "adnex-",
+      "translation": "adnexa of the uterus",
+      "hint": "combining form for uterine appendages",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "colp-",
+      "translation": "vagina",
+      "hint": "combining form for vagina",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "episi-",
+      "translation": "pubic region; external genital organs",
+      "hint": "teacher-deck gloss preserved",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "toc- / -tokia",
+      "translation": "childbirth; delivery",
+      "hint": "root/suffix for birth",
+      "examCue": "obstetrics"
+    },
+    {
+      "word": "men- / -menorrhoea",
+      "translation": "menstrual cycle; menstruation",
+      "hint": "root/suffix for menstruation",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "amni-",
+      "translation": "amnion; innermost extraembryonic membrane",
+      "hint": "teacher gloss normalized into English",
+      "examCue": "embryology"
+    },
+    {
+      "word": "galact- / -galactia",
+      "translation": "milk; lactation",
+      "hint": "root/suffix for milk",
+      "examCue": "obstetrics"
+    },
+    {
+      "word": "anthrop-",
+      "translation": "human",
+      "hint": "combining form for human being",
+      "examCue": "general"
+    },
+    {
+      "word": "andr-",
+      "translation": "man; male",
+      "hint": "combining form for male",
+      "examCue": "general"
+    },
+    {
+      "word": "phall-",
+      "translation": "penis",
+      "hint": "combining form for male genital organ",
+      "examCue": "andrology"
+    },
+    {
+      "word": "orchid- / -orchia",
+      "translation": "testis",
+      "hint": "root/suffix for testis",
+      "examCue": "andrology"
+    },
+    {
+      "word": "prostat-",
+      "translation": "prostate gland",
+      "hint": "combining form for prostate",
+      "examCue": "andrology"
+    },
+    {
+      "word": "sperm- / spermat- / -spermia",
+      "translation": "semen; sperm",
+      "hint": "root/suffix for seminal fluid",
+      "examCue": "andrology"
+    },
+    {
+      "word": "nephr-",
+      "translation": "kidney",
+      "hint": "combining form for kidney",
+      "examCue": "nephrology"
+    },
+    {
+      "word": "pyel-",
+      "translation": "renal pelvis",
+      "hint": "combining form for renal pelvis",
+      "examCue": "nephrology"
+    },
+    {
+      "word": "cyst-",
+      "translation": "urinary bladder",
+      "hint": "teacher-deck gloss preserved as bladder",
+      "examCue": "urology"
+    },
+    {
+      "word": "urethr-",
+      "translation": "urethra",
+      "hint": "combining form for urethra",
+      "examCue": "urology"
+    },
+    {
+      "word": "ureter-",
+      "translation": "ureter",
+      "hint": "combining form for ureter",
+      "examCue": "urology"
+    },
+    {
+      "word": "uro- / -uria / -uresis",
+      "translation": "urine; urination",
+      "hint": "root/suffix group for urine and voiding",
+      "examCue": "urology"
+    },
+    {
+      "word": "hydr-",
+      "translation": "water",
+      "hint": "combining form for water",
+      "examCue": "general"
+    },
+    {
+      "word": "hidr-",
+      "translation": "sweat",
+      "hint": "combining form for sweat",
+      "examCue": "dermatology"
+    },
+    {
+      "word": "hygr-",
+      "translation": "moisture; moist; fluid",
+      "hint": "combining form for moisture",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "crin-",
+      "translation": "secretion; discharge",
+      "hint": "combining form for secretion",
+      "examCue": "physiology"
+    },
+    {
+      "word": "dacry-",
+      "translation": "tear",
+      "hint": "combining form for tear",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "dacryoaden-",
+      "translation": "lacrimal gland",
+      "hint": "combining form for tear gland",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "dacryocyst-",
+      "translation": "lacrimal sac",
+      "hint": "combining form for lacrimal sac",
+      "examCue": "ophthalmology"
+    },
+    {
+      "word": "myx-",
+      "translation": "mucus",
+      "hint": "combining form for mucus",
+      "examCue": "pathology"
+    },
+    {
+      "word": "py- / pur- (lat.)",
+      "translation": "pus",
+      "hint": "Greek and Latin equivalents grouped as in source",
+      "examCue": "infection"
+    },
+    {
+      "word": "lip- / steat- / adip-",
+      "translation": "fat; grease; adipose tissue",
+      "hint": "grouped roots for fat",
+      "examCue": "metabolism"
+    },
+    {
+      "word": "ox(y)-",
+      "translation": "acid; sharp",
+      "hint": "teacher-deck gloss preserved with two meanings",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "macr- / mega- / megal-",
+      "translation": "large; enlargement",
+      "hint": "grouped roots for largeness",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "micr- / nan-",
+      "translation": "small",
+      "hint": "grouped roots for smallness",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "tachy-",
+      "translation": "fast; rapid",
+      "hint": "prefix for increased speed",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "brady-",
+      "translation": "slow",
+      "hint": "prefix for slowness",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "scler-",
+      "translation": "hard; sclera",
+      "hint": "root with general and ocular meanings",
+      "examCue": "descriptor/eye"
+    },
+    {
+      "word": "lept- / malac- / -malacia",
+      "translation": "soft",
+      "hint": "teacher deck grouped softness terms as given",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "platy-",
+      "translation": "broad; wide",
+      "hint": "prefix for broadness",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "sten-",
+      "translation": "narrow",
+      "hint": "prefix for narrowing",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "xer-",
+      "translation": "dry",
+      "hint": "prefix for dryness",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "presby- / ger- / geront-",
+      "translation": "old; elderly; senile",
+      "hint": "grouped age-related roots from source",
+      "examCue": "age descriptor"
+    },
+    {
+      "word": "hebe-",
+      "translation": "youthful",
+      "hint": "teacher-deck gloss preserved",
+      "examCue": "age descriptor"
+    },
+    {
+      "word": "neo-",
+      "translation": "new",
+      "hint": "prefix for newness",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "homo- / home-",
+      "translation": "same; similar",
+      "hint": "grouped sameness roots from source",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "allo-",
+      "translation": "other; foreign",
+      "hint": "prefix for otherness",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "heter-",
+      "translation": "different",
+      "hint": "prefix for difference",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "auto-",
+      "translation": "self; own",
+      "hint": "prefix for self",
+      "examCue": "descriptor"
+    },
+    {
+      "word": "end-",
+      "translation": "inside; internal",
+      "hint": "prefix for inner position",
+      "examCue": "direction"
+    },
+    {
+      "word": "necr-",
+      "translation": "death; necrosis",
+      "hint": "standard medical meaning supplied because source line was blank",
+      "examCue": "pathology"
+    }
+  ]
+}

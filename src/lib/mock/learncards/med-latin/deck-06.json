@@ -1,0 +1,806 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-exam-s3-wordparts-45",
+  "meta": {
+    "title": {
+      "en": "Medical Latin & Greek — Word Parts and Term Formation",
+      "de": "Medizinisches Latein und Griechisch — Wortbausteine und Terminologiebildung"
+    },
+    "description": {
+      "en": "Focused terminology deck for first-year Medical Latin and Greek. Covers roots, prefixes, suffixes, combining vowels, and the structural rules used to form and interpret medical terms. Designed to strengthen morphological awareness, improve decoding of unfamiliar terminology, and prepare the student for accurate analysis of clinically relevant compound expressions.",
+      "de": "Fokussiertes Terminologie-Deck für Medizinisches Latein und Griechisch im ersten Studienjahr. Es behandelt Wortstämme, Präfixe, Suffixe, Verbindungsvokale und die strukturellen Regeln der Bildung und Deutung medizinischer Fachausdrücke. Das Deck stärkt das morphologische Verständnis, verbessert die Analyse unbekannter Terminologie und bereitet auf die präzise Auswertung klinisch relevanter Komposita vor."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "greek",
+      "word-parts",
+      "term-building",
+      "prefixes",
+      "suffixes",
+      "combining-vowels",
+      "morphology",
+      "terminology",
+      "exam"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 65,
+    "cardCount": 45,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    },
+    "source": {
+      "file": "FirstSemLatinExerc_25 (1).pdf",
+      "exam": "MU-Varna Latin Medical Terminology 1st semester"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "s3-3001",
+      "type": "mcq",
+      "question": {
+        "en": "A 'combining vowel' in medical terms has:"
+      },
+      "correctAnswer": "no meaning; it links word parts",
+      "options": [
+        "its own meaning",
+        "no meaning; it links word parts",
+        "it marks plural",
+        "it indicates tense"
+      ],
+      "explanation": {
+        "en": "Combining vowel (often -o-) is used to connect elements and ease pronunciation. (Exercise III, p.11)"
+      }
+    },
+    {
+      "cardId": "s3-3002",
+      "type": "mcq",
+      "question": {
+        "en": "Most common Greek combining vowel is:"
+      },
+      "correctAnswer": "-o-",
+      "options": [
+        "-a-",
+        "-e-",
+        "-i-",
+        "-o-"
+      ],
+      "explanation": {
+        "en": "Greek combining vowel is usually -o-. (Exercise III, p.11 & p.15)"
+      }
+    },
+    {
+      "cardId": "s3-3003",
+      "type": "mcq",
+      "question": {
+        "en": "If a suffix begins with a vowel (e.g., -itis), you usually:"
+      },
+      "correctAnswer": "do NOT use a combining vowel",
+      "options": [
+        "always add -o-",
+        "do NOT use a combining vowel",
+        "replace vowel with -i-",
+        "drop the suffix"
+      ],
+      "explanation": {
+        "en": "Rule: root attaches directly to vowel-starting suffix. (Exercise III, p.12 & p.15)"
+      }
+    },
+    {
+      "cardId": "s3-3004",
+      "type": "mcq",
+      "question": {
+        "en": "General rule of thumb: Latin vs Greek roots in terminology:"
+      },
+      "correctAnswer": "Latin → anatomy; Greek → disease/diagnosis/treatment",
+      "options": [
+        "Greek → anatomy; Latin → disease",
+        "Latin only",
+        "Greek only",
+        "No pattern"
+      ],
+      "explanation": {
+        "en": "Handout: Latin terms often anatomical; Greek often clinical (with exceptions). (Exercise III, p.14)"
+      }
+    },
+    {
+      "cardId": "s3-3005",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'a- / an-' mean?"
+      },
+      "correctAnswer": "without; absence of",
+      "options": [
+        "with",
+        "without; absence of",
+        "above",
+        "many"
+      ],
+      "explanation": {
+        "en": "Prefix a-/an- denotes absence. (Word parts box, p.17)"
+      }
+    },
+    {
+      "cardId": "s3-3006",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'ec-' mean?"
+      },
+      "correctAnswer": "out of; away from",
+      "options": [
+        "inside",
+        "out of; away from",
+        "below",
+        "around"
+      ],
+      "explanation": {
+        "en": "ec- = out of/away. (p.17)"
+      }
+    },
+    {
+      "cardId": "s3-3007",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'poly-' mean?"
+      },
+      "correctAnswer": "many; excessive",
+      "options": [
+        "few",
+        "many; excessive",
+        "half",
+        "without"
+      ],
+      "explanation": {
+        "en": "poly- = many. (p.17)"
+      }
+    },
+    {
+      "cardId": "s3-3008",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part '-itis' mean?"
+      },
+      "correctAnswer": "inflammation",
+      "options": [
+        "tumor",
+        "inflammation",
+        "pain",
+        "stone"
+      ],
+      "explanation": {
+        "en": "Suffix -itis = inflammation. (p.12 & p.17)"
+      }
+    },
+    {
+      "cardId": "s3-3009",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part '-ia' mean?"
+      },
+      "correctAnswer": "condition (often abnormal)",
+      "options": [
+        "blood",
+        "condition (often abnormal)",
+        "toward",
+        "tumor"
+      ],
+      "explanation": {
+        "en": "Suffix -ia = condition/state. (p.12 & p.17)"
+      }
+    },
+    {
+      "cardId": "s3-3010",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part '-oma' mean?"
+      },
+      "correctAnswer": "tumor / neoplasm",
+      "options": [
+        "tumor / neoplasm",
+        "inflammation",
+        "removal",
+        "bleeding"
+      ],
+      "explanation": {
+        "en": "Suffix -oma indicates tumor. (p.22)"
+      }
+    },
+    {
+      "cardId": "s3-3011",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'neur- / neuro-' mean?"
+      },
+      "correctAnswer": "nerve; nervous system",
+      "options": [
+        "blood",
+        "nerve; nervous system",
+        "bone",
+        "milk"
+      ],
+      "explanation": {
+        "en": "neur- relates to nerves. (p.22)"
+      }
+    },
+    {
+      "cardId": "s3-3012",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'ecto- / ectopia' mean?"
+      },
+      "correctAnswer": "abnormal position; displacement",
+      "options": [
+        "pain",
+        "abnormal position; displacement",
+        "inflammation",
+        "together"
+      ],
+      "explanation": {
+        "en": "ectopia = malposition/displacement. (p.22 & p.26)"
+      }
+    },
+    {
+      "cardId": "s3-3013",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'exo-' mean?"
+      },
+      "correctAnswer": "outside; outward",
+      "options": [
+        "outside; outward",
+        "under",
+        "slow",
+        "around"
+      ],
+      "explanation": {
+        "en": "exo- = out/outside. (p.22)"
+      }
+    },
+    {
+      "cardId": "s3-3014",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'acro-' mean?"
+      },
+      "correctAnswer": "extremity; topmost",
+      "options": [
+        "extremity; topmost",
+        "heart",
+        "stomach",
+        "jaw"
+      ],
+      "explanation": {
+        "en": "acro- = extremity/tip. (p.22)"
+      }
+    },
+    {
+      "cardId": "s3-3015",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part '-osis / -iasis' mean?"
+      },
+      "correctAnswer": "abnormal process/condition",
+      "options": [
+        "abnormal process/condition",
+        "study of",
+        "suture",
+        "milk"
+      ],
+      "explanation": {
+        "en": "-osis/-iasis denote pathological condition. (p.22)"
+      }
+    },
+    {
+      "cardId": "s3-3016",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'geni- / -genia' mean?"
+      },
+      "correctAnswer": "chin; jaw; mandible",
+      "options": [
+        "chin; jaw; mandible",
+        "tongue",
+        "liver",
+        "uterus"
+      ],
+      "explanation": {
+        "en": "geni-/genio- refer to chin/jaw. (p.26)"
+      }
+    },
+    {
+      "cardId": "s3-3017",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part '-aemia (US -emia)' mean?"
+      },
+      "correctAnswer": "blood condition",
+      "options": [
+        "tumor",
+        "blood condition",
+        "inflammation",
+        "toward"
+      ],
+      "explanation": {
+        "en": "-aemia relates to blood. (p.26)"
+      }
+    },
+    {
+      "cardId": "s3-3018",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part '-plegia' mean?"
+      },
+      "correctAnswer": "paralysis",
+      "options": [
+        "pain",
+        "paralysis",
+        "bleeding",
+        "suture"
+      ],
+      "explanation": {
+        "en": "-plegia = paralysis. (p.26)"
+      }
+    },
+    {
+      "cardId": "s3-3019",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'ectro-' mean?"
+      },
+      "correctAnswer": "absence of a limb",
+      "options": [
+        "absence of a limb",
+        "toward head",
+        "many",
+        "outside"
+      ],
+      "explanation": {
+        "en": "ectro- indicates absence (esp. limb). (p.26)"
+      }
+    },
+    {
+      "cardId": "s3-3020",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'mel- / -melia' mean?"
+      },
+      "correctAnswer": "limb; extremity",
+      "options": [
+        "limb; extremity",
+        "skin",
+        "gland",
+        "rib"
+      ],
+      "explanation": {
+        "en": "mel- relates to limbs. (p.26)"
+      }
+    },
+    {
+      "cardId": "s3-3021",
+      "type": "mcq",
+      "question": {
+        "en": "What does the word part 'tox- / toxi-' mean?"
+      },
+      "correctAnswer": "poison",
+      "options": [
+        "poison",
+        "bone",
+        "blood",
+        "joint"
+      ],
+      "explanation": {
+        "en": "tox- relates to poison. (p.26)"
+      }
+    },
+    {
+      "cardId": "s3-3022",
+      "type": "mcq",
+      "question": {
+        "en": "Define 'acephalia' from word parts."
+      },
+      "correctAnswer": "condition of absence of the head",
+      "options": [
+        "inflammation of head",
+        "condition of absence of the head",
+        "tumor of head",
+        "repair of head"
+      ],
+      "explanation": {
+        "en": "a- (without) + cephal- (head) + -ia (condition). (Exercise III, p.12)"
+      }
+    },
+    {
+      "cardId": "s3-3023",
+      "type": "mcq",
+      "question": {
+        "en": "Define 'gastritis' from word parts."
+      },
+      "correctAnswer": "inflammation of the stomach",
+      "options": [
+        "pain of stomach",
+        "tumor of stomach",
+        "inflammation of the stomach",
+        "removal of stomach"
+      ],
+      "explanation": {
+        "en": "gastr- (stomach) + -itis (inflammation). (Exercise III, p.12)"
+      }
+    },
+    {
+      "cardId": "s3-3024",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'gastricus' mean?"
+      },
+      "correctAnswer": "pertaining to the stomach",
+      "options": [
+        "pertaining to the stomach",
+        "inflammation",
+        "toward the stomach",
+        "stomach tumor"
+      ],
+      "explanation": {
+        "en": "gastr- + -icus (pertaining to). (Exercise III, p.13)"
+      }
+    },
+    {
+      "cardId": "s3-3025",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'cephalad' mean?"
+      },
+      "correctAnswer": "toward the head",
+      "options": [
+        "toward the head",
+        "without head",
+        "head inflammation",
+        "head tumor"
+      ],
+      "explanation": {
+        "en": "cephal- (head) + -ad (toward). (Exercise III, p.13)"
+      }
+    },
+    {
+      "cardId": "s3-3026",
+      "type": "mcq",
+      "question": {
+        "en": "When joining Greek root to root and the second begins with a consonant, you typically insert:"
+      },
+      "correctAnswer": "-o-",
+      "options": [
+        "-a-",
+        "-e-",
+        "-i-",
+        "-o-"
+      ],
+      "explanation": {
+        "en": "Combining vowel -o- is used between Greek roots. (Exercise III, p.11 & p.15)"
+      }
+    },
+    {
+      "cardId": "s3-3027",
+      "type": "mcq",
+      "question": {
+        "en": "Rule: To interpret a complex medical term, you typically read meaning:"
+      },
+      "correctAnswer": "from suffix → to the beginning → across",
+      "options": [
+        "from left to right only",
+        "from suffix → to the beginning → across",
+        "from prefix only",
+        "from the middle first"
+      ],
+      "explanation": {
+        "en": "Handout advises reading from suffix backward then across. (Exercise III, p.16)"
+      }
+    },
+    {
+      "cardId": "s3-3028",
+      "type": "mcq",
+      "question": {
+        "en": "In 'hepatocholangiocystoduodenostomia', what does 'stom-' mean?"
+      },
+      "correctAnswer": "opening / mouth / passage",
+      "options": [
+        "liver",
+        "bile",
+        "opening / mouth / passage",
+        "duodenum"
+      ],
+      "explanation": {
+        "en": "stom- = mouth/opening/passage. (Example breakdown, p.13)"
+      }
+    },
+    {
+      "cardId": "s3-3029",
+      "type": "mcq",
+      "question": {
+        "en": "In the same term, what does 'duodeno-' refer to?"
+      },
+      "correctAnswer": "duodenum",
+      "options": [
+        "stomach",
+        "duodenum",
+        "gallbladder",
+        "liver"
+      ],
+      "explanation": {
+        "en": "duodeno- = duodenum. (p.13)"
+      }
+    },
+    {
+      "cardId": "s3-3030",
+      "type": "mcq",
+      "question": {
+        "en": "In the same term, what does 'cysto-' refer to?"
+      },
+      "correctAnswer": "gallbladder (here) / sac",
+      "options": [
+        "bone",
+        "gallbladder (here) / sac",
+        "nerve",
+        "jaw"
+      ],
+      "explanation": {
+        "en": "cysto- here: gallbladder/sac. (p.13-14)"
+      }
+    },
+    {
+      "cardId": "s3-3031",
+      "type": "mcq",
+      "question": {
+        "en": "In the same term, what does '-ia' at the end generally indicate?"
+      },
+      "correctAnswer": "condition/state",
+      "options": [
+        "condition/state",
+        "bleeding",
+        "tumor",
+        "study"
+      ],
+      "explanation": {
+        "en": "-ia = condition/state. (p.13)"
+      }
+    },
+    {
+      "cardId": "s3-3032",
+      "type": "mcq",
+      "question": {
+        "en": "A 'combining form' is:"
+      },
+      "correctAnswer": "a root + a combining vowel (e.g., haemato-)",
+      "options": [
+        "a prefix only",
+        "a suffix only",
+        "a root + a combining vowel (e.g., haemato-)",
+        "a full word"
+      ],
+      "explanation": {
+        "en": "Combining form = root plus combining vowel. (Exercise III, p.11-12)"
+      }
+    },
+    {
+      "cardId": "s3-3033",
+      "type": "mcq",
+      "question": {
+        "en": "Which statement is true about roots?"
+      },
+      "correctAnswer": "They keep their meaning throughout and form the base of terms",
+      "options": [
+        "They change meaning depending on suffix",
+        "They are only used alone",
+        "They keep their meaning throughout and form the base of terms",
+        "They indicate tense"
+      ],
+      "explanation": {
+        "en": "Roots are foundational and stable in meaning. (Exercise III, p.11)"
+      }
+    },
+    {
+      "cardId": "s3-3034",
+      "type": "mcq",
+      "question": {
+        "en": "Prefixes typically indicate:"
+      },
+      "correctAnswer": "number/time/position/location/direction/negation",
+      "options": [
+        "only inflammation",
+        "only anatomy",
+        "number/time/position/location/direction/negation",
+        "only plural"
+      ],
+      "explanation": {
+        "en": "Prefixes modify meaning with location/number/etc. (Exercise III, p.12)"
+      }
+    },
+    {
+      "cardId": "s3-3035",
+      "type": "mcq",
+      "question": {
+        "en": "Most medical words have at least:"
+      },
+      "correctAnswer": "one word root",
+      "options": [
+        "one prefix",
+        "one suffix",
+        "one word root",
+        "two combining vowels"
+      ],
+      "explanation": {
+        "en": "All medical words have at least one root. (Exercise III, p.11)"
+      }
+    },
+    {
+      "cardId": "s3-3036",
+      "type": "mcq",
+      "question": {
+        "en": "When the second root begins with a vowel, Greek roots may:"
+      },
+      "correctAnswer": "combine without the combining vowel in some cases",
+      "options": [
+        "never combine",
+        "always require -o-",
+        "combine without the combining vowel in some cases",
+        "drop the first root"
+      ],
+      "explanation": {
+        "en": "Handout notes exceptions when roots end/begin with vowels. (Exercise III, p.15)"
+      }
+    },
+    {
+      "cardId": "s3-3037",
+      "type": "mcq",
+      "question": {
+        "en": "In words of Latin origin, the usual combining vowel is:"
+      },
+      "correctAnswer": "-i-",
+      "options": [
+        "-o-",
+        "-i-",
+        "-e-",
+        "-u-"
+      ],
+      "explanation": {
+        "en": "Latin-origin combining vowel often -i-. (Exercise III, p.15)"
+      }
+    },
+    {
+      "cardId": "s3-3038",
+      "type": "mcq",
+      "question": {
+        "en": "Example of Latin combining vowel -i- as given:"
+      },
+      "correctAnswer": "lact-i-fer",
+      "options": [
+        "gastr-o-scopia",
+        "lact-i-fer",
+        "haemato-genesis",
+        "cephal-ad"
+      ],
+      "explanation": {
+        "en": "Handout example: lact-i-fer uses -i- in Latin-origin compounds. (Exercise III, p.15)"
+      }
+    },
+    {
+      "cardId": "s3-3039",
+      "type": "mcq",
+      "question": {
+        "en": "In the guideline 'Spelling is always important', why?"
+      },
+      "correctAnswer": "One-letter mistakes can change meaning completely",
+      "options": [
+        "Latin ignores spelling",
+        "Pronunciation doesn't matter",
+        "One-letter mistakes can change meaning completely",
+        "It only affects plural"
+      ],
+      "explanation": {
+        "en": "Explicit warning in the handout. (Exercise III, p.15)"
+      }
+    },
+    {
+      "cardId": "s3-3040",
+      "type": "mcq",
+      "question": {
+        "en": "Which is a suffix (word ending) that often forms a noun in medical terms?"
+      },
+      "correctAnswer": "-itis",
+      "options": [
+        "hyper-",
+        "gastr-",
+        "-itis",
+        "haemato-"
+      ],
+      "explanation": {
+        "en": "Suffixes appear at the end like -itis. (Exercise III, p.12)"
+      }
+    },
+    {
+      "cardId": "s3-3041",
+      "type": "mcq",
+      "question": {
+        "en": "Which is a prefix?"
+      },
+      "correctAnswer": "hyper-",
+      "options": [
+        "hyper-",
+        "gastr-",
+        "-itis",
+        "-icus"
+      ],
+      "explanation": {
+        "en": "Prefixes appear at the beginning and often shown with trailing dash. (Exercise III, p.13)"
+      }
+    },
+    {
+      "cardId": "s3-3042",
+      "type": "mcq",
+      "question": {
+        "en": "Which is a root/combining form?"
+      },
+      "correctAnswer": "glosso-",
+      "options": [
+        "-itis",
+        "hyper-",
+        "glosso-",
+        "-ia"
+      ],
+      "explanation": {
+        "en": "Roots/combining forms often shown with trailing dash. (Exercise III, p.13)"
+      }
+    },
+    {
+      "cardId": "s3-3043",
+      "type": "mcq",
+      "question": {
+        "en": "In defining a term, step 1 is usually to define:"
+      },
+      "correctAnswer": "the suffix (last part)",
+      "options": [
+        "the prefix",
+        "the root",
+        "the suffix (last part)",
+        "the middle first"
+      ],
+      "explanation": {
+        "en": "Handout 3-step defining method. (Exercise III, p.16)"
+      }
+    },
+    {
+      "cardId": "s3-3044",
+      "type": "mcq",
+      "question": {
+        "en": "In defining a term, step 2 is usually to define:"
+      },
+      "correctAnswer": "the first part (prefix/root/combining form)",
+      "options": [
+        "the last part again",
+        "the first part (prefix/root/combining form)",
+        "the middle only",
+        "the translation"
+      ],
+      "explanation": {
+        "en": "Handout method. (Exercise III, p.16)"
+      }
+    },
+    {
+      "cardId": "s3-3045",
+      "type": "mcq",
+      "question": {
+        "en": "In defining a term, step 3 is usually to define:"
+      },
+      "correctAnswer": "the middle parts (remaining roots)",
+      "options": [
+        "the middle parts (remaining roots)",
+        "only the vowels",
+        "only the suffix",
+        "only the prefix"
+      ],
+      "explanation": {
+        "en": "Handout method. (Exercise III, p.16)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1737 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-exam-final-sample-100",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Final Integrative Sample Exam",
+      "de": "Medizinisches Latein — Integratives Abschluss-Prüfungsset"
+    },
+    "description": {
+      "en": "Capstone mixed-review deck for first-year Medical Latin exam preparation. Integrates pronunciation, accent placement, word-part analysis, term-formation rules, phrase interpretation, and core grammatical patterns in a broad exam-style format. Designed to consolidate previously studied material, test cross-domain recall under mixed conditions, and prepare the student for final-stage self-assessment before the examination.",
+      "de": "Abschließendes gemischtes Wiederholungsdeck zur Vorbereitung auf die Prüfung in Medizinischem Latein im ersten Studienjahr. Es verbindet Aussprache, Akzentsetzung, Analyse von Wortbestandteilen, Regeln der Terminologiebildung, Phrasenverständnis und zentrale grammatische Muster in einem breit angelegten prüfungsnahen Format. Das Deck dient der Konsolidierung bereits erarbeiteter Inhalte, der Überprüfung bereichsübergreifender Abrufbarkeit und der abschließenden Selbsteinschätzung vor der Prüfung."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "exam",
+      "final",
+      "sample-exam",
+      "mixed-review",
+      "pronunciation",
+      "accent",
+      "word-parts",
+      "phrases",
+      "grammar"
+    ],
+    "difficulty": "advanced",
+    "estimatedMinutes": 75,
+    "cardCount": 100,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "card-001",
+      "type": "mcq",
+      "question": {
+        "en": "In medical Latin, how is 'ae' pronounced?"
+      },
+      "correctAnswer": "[e]",
+      "options": [
+        "[ai]",
+        "[aː]",
+        "[e]",
+        "[ə]"
+      ],
+      "explanation": {
+        "en": "The diphthong 'ae' is simplified to a single [e] sound in medical Latin. Example: 'anaemia' is pronounced [a-NE-mi-a], not [a-NAI-mi-a]. The 'ae' in 'caecum' likewise sounds like a plain [e]: [TSE-kum]."
+      }
+    },
+    {
+      "cardId": "card-002",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'oe' pronounced in medical Latin?"
+      },
+      "correctAnswer": "[e]",
+      "options": [
+        "[oː]",
+        "[e]",
+        "[we]",
+        "[oi]"
+      ],
+      "explanation": {
+        "en": "The diphthong 'oe' collapses to [e] in medical Latin. Example: 'oedema' is pronounced [e-DE-ma], not [oe-DE-ma]. Similarly, 'oesophagus' begins with the [e] sound: [e-SO-fa-gus]."
+      }
+    },
+    {
+      "cardId": "card-003",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'ph' pronounced?"
+      },
+      "correctAnswer": "[f]",
+      "options": [
+        "[pʰ]",
+        "[f]",
+        "[v]",
+        "[b]"
+      ],
+      "explanation": {
+        "en": "'ph' is always pronounced [f] in medical Latin — it comes from Greek phi (φ). Example: 'pharynx' → [FA-rinks]; 'diaphragma' → [di-a-FRAG-ma]; 'phlebitis' (vein inflammation) → [fle-BI-tis]."
+      }
+    },
+    {
+      "cardId": "card-004",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'th' pronounced?"
+      },
+      "correctAnswer": "[t]",
+      "options": [
+        "[θ]",
+        "[t]",
+        "[ð]",
+        "[d]"
+      ],
+      "explanation": {
+        "en": "In medical Latin, 'th' is pronounced as a plain [t], never as the English 'th' sounds [θ] or [ð]. Example: 'thorax' → [TO-raks]; 'thrombus' → [TROM-bus]; 'thymus' → [TÜ-mus]."
+      }
+    },
+    {
+      "cardId": "card-005",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'ch' pronounced?"
+      },
+      "correctAnswer": "[k]",
+      "options": [
+        "[tʃ]",
+        "[ʃ]",
+        "[k]",
+        "[x]"
+      ],
+      "explanation": {
+        "en": "In medical Latin, 'ch' (from Greek chi χ) is pronounced [k], not [tʃ] as in English 'church'. Example: 'chorda' → [KOR-da]; 'bronchus' → [BRON-kus]; 'chondritis' (cartilage inflammation) → [kon-DRI-tis]."
+      }
+    },
+    {
+      "cardId": "card-006",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'rh' pronounced at the beginning of a word?"
+      },
+      "correctAnswer": "[r]",
+      "options": [
+        "[h]",
+        "[r]",
+        "[rh]",
+        "silent"
+      ],
+      "explanation": {
+        "en": "Initial 'rh' (from Greek rho ρ) is pronounced as a simple [r]. Example: 'rhizoma' → [ri-ZO-ma]; 'rhabdomyolysis' (muscle-fibre breakdown) → [rab-do-mü-O-li-sis]. The 'h' adds no extra sound."
+      }
+    },
+    {
+      "cardId": "card-007",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'qu' pronounced?"
+      },
+      "correctAnswer": "[kv]",
+      "options": [
+        "[kw]",
+        "[kv]",
+        "[k]",
+        "[gv]"
+      ],
+      "explanation": {
+        "en": "'qu' is pronounced [kv] in medical Latin (not [kw] as in English). Example: 'aqua' (water) → [AK-va]; 'squama' (scale/plate of bone) → [SKVA-ma]. Remember: the 'u' after 'q' sounds like [v]."
+      }
+    },
+    {
+      "cardId": "card-008",
+      "type": "mcq",
+      "question": {
+        "en": "How is the letter 'c' pronounced before e/i/ae/oe?"
+      },
+      "correctAnswer": "[ts]",
+      "options": [
+        "[k]",
+        "[ts]",
+        "[g]",
+        "[s]"
+      ],
+      "explanation": {
+        "en": "Before the soft vowels e, i and the diphthongs ae, oe, the letter 'c' is pronounced [ts]. Example: 'cerebrum' → [TSE-re-brum]; 'cisterna' → [tsis-TER-na]; 'caecum' → [TSE-kum]. Before hard vowels (a, o, u) it remains [k]."
+      }
+    },
+    {
+      "cardId": "card-009",
+      "type": "mcq",
+      "question": {
+        "en": "How is the letter 'c' pronounced before a/o/u?"
+      },
+      "correctAnswer": "[k]",
+      "options": [
+        "[ts]",
+        "[s]",
+        "[k]",
+        "[g]"
+      ],
+      "explanation": {
+        "en": "Before hard vowels a, o, u, the letter 'c' is pronounced [k]. Example: 'caput' (head) → [KA-put]; 'corpus' (body) → [KOR-pus]; 'cubitum' (elbow) → [KU-bi-tum]. Contrast with 'cerebrum' where c → [ts]."
+      }
+    },
+    {
+      "cardId": "card-010",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'ti' pronounced before a vowel (e.g., natio) in medical Latin?"
+      },
+      "correctAnswer": "[tsi]",
+      "options": [
+        "[ti]",
+        "[tsi]",
+        "[si]",
+        "[ki]"
+      ],
+      "explanation": {
+        "en": "When 'ti' appears directly before another vowel, it is pronounced [tsi]. Example: 'articulatio' (joint) → [ar-ti-ku-LA-tsio]; 'natio' → [NA-tsio]; 'palpitatio' (palpitation) → [pal-pi-TA-tsio]."
+      }
+    },
+    {
+      "cardId": "card-011",
+      "type": "mcq",
+      "question": {
+        "en": "How is the letter 's' pronounced between two vowels?"
+      },
+      "correctAnswer": "[z]",
+      "options": [
+        "[s]",
+        "[z]",
+        "[ʃ]",
+        "[ts]"
+      ],
+      "explanation": {
+        "en": "Between two vowels, 's' is voiced to [z]. Example: 'nasus' (nose) → [NA-zus]; 'basis' (base) → [BA-zis]; 'rosacea' → [ro-ZA-tse-a]. At the start of a word or next to a consonant, 's' stays [s]."
+      }
+    },
+    {
+      "cardId": "card-012",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'x' pronounced?"
+      },
+      "correctAnswer": "[ks]",
+      "options": [
+        "[gz]",
+        "[ks]",
+        "[k]",
+        "[s]"
+      ],
+      "explanation": {
+        "en": "'x' is always the double sound [ks] in medical Latin. Example: 'cortex' (bark/outer layer) → [KOR-teks]; 'plexus' (network) → [PLEK-sus]; 'larynx' → [LA-rinks]."
+      }
+    },
+    {
+      "cardId": "card-013",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'y' pronounced in medical Latin?"
+      },
+      "correctAnswer": "[ü]",
+      "options": [
+        "[i]",
+        "[u]",
+        "[ü]",
+        "[e]"
+      ],
+      "explanation": {
+        "en": "'y' represents the Greek upsilon (υ) and is pronounced like German 'ü' (rounded front vowel). Example: 'gyrus' (brain fold) → [GÜ-rus]; 'myelin' → [MÜ-e-lin]; 'tympanum' (eardrum) → [TÜM-pa-num]."
+      }
+    },
+    {
+      "cardId": "card-014",
+      "type": "mcq",
+      "question": {
+        "en": "How is the double consonant 'll' pronounced?"
+      },
+      "correctAnswer": "double/long consonant",
+      "options": [
+        "single consonant",
+        "silent",
+        "double/long consonant",
+        "as [j]"
+      ],
+      "explanation": {
+        "en": "Double consonants are articulated as a prolonged (geminate) consonant — both sounds are fully pronounced. Example: 'medulla' (marrow/medulla) → [me-DUL-la]; 'capillaris' (capillary) → [ka-pil-LA-ris]. The double-l is held slightly longer than a single l."
+      }
+    },
+    {
+      "cardId": "card-015",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'gn' pronounced?"
+      },
+      "correctAnswer": "[gn] (both)",
+      "options": [
+        "[ŋ]",
+        "[n]",
+        "[gn] (both)",
+        "[g] only"
+      ],
+      "explanation": {
+        "en": "Both consonants are pronounced: [g] followed immediately by [n]. Example: 'lignum' → [LIG-num]; 'stagnare' → [STAG-na-re]. This differs from Italian, where 'gn' becomes [ɲ]. In medical Latin, always articulate both letters."
+      }
+    },
+    {
+      "cardId": "card-016",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'pt' at the start of a word (e.g., ptosis) pronounced?"
+      },
+      "correctAnswer": "[pt] (both)",
+      "options": [
+        "[t] only",
+        "[p] only",
+        "[pt] (both)",
+        "[f]"
+      ],
+      "explanation": {
+        "en": "Both consonants are pronounced: [p] + [t]. Example: 'ptosis' (drooping of the eyelid) → [PTO-sis]; 'pterygoid' (wing-shaped) → [PTE-rü-goid]. In everyday English the 'p' is often silent, but medical Latin retains it."
+      }
+    },
+    {
+      "cardId": "card-017",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'mn' at the start of a word (e.g., mnemon-) pronounced?"
+      },
+      "correctAnswer": "[mn] (both)",
+      "options": [
+        "[n] only",
+        "[m] only",
+        "[mn] (both)",
+        "silent"
+      ],
+      "explanation": {
+        "en": "Both consonants are pronounced in medical Latin: [m] + [n]. Example: 'mnemon-' → [MNE-mon-], as in 'mnemonic' (memory aid). Medical students use mnemonics constantly — and the word itself begins with both sounds fully articulated."
+      }
+    },
+    {
+      "cardId": "card-018",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'z' pronounced?"
+      },
+      "correctAnswer": "[ts]",
+      "options": [
+        "[z]",
+        "[s]",
+        "[ts]",
+        "[ʒ]"
+      ],
+      "explanation": {
+        "en": "'z' is pronounced [ts] in medical Latin, not [z] as in English. Example: 'zygoma' (cheekbone) → [tsü-GO-ma]; 'zona' (zone/band) → [TSO-na]; 'herpes zoster' → [HER-pes TSOS-ter]. Think of the German 'z'."
+      }
+    },
+    {
+      "cardId": "card-019",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'v' pronounced in medical Latin?"
+      },
+      "correctAnswer": "[v]",
+      "options": [
+        "[w]",
+        "[f]",
+        "[v]",
+        "[b]"
+      ],
+      "explanation": {
+        "en": "'v' is pronounced [v] in medical (Neo-Latin) pronunciation. Example: 'vena' (vein) → [VE-na]; 'vertebra' → [VER-te-bra]; 'ventriculus' (ventricle/stomach) → [ven-TRI-ku-lus]. Classical Latin used [w], but medical Latin uses the modern [v]."
+      }
+    },
+    {
+      "cardId": "card-020",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'j' (if used) pronounced?"
+      },
+      "correctAnswer": "[j]",
+      "options": [
+        "[dʒ]",
+        "[j]",
+        "[ʒ]",
+        "[g]"
+      ],
+      "explanation": {
+        "en": "'j' is pronounced like English 'y' — the palatal approximant [j]. Example: 'jejunum' (middle section of small intestine) → [je-JU-num]; 'jugularis' (jugular) → [ju-gu-LA-ris]. Never pronounce it as [dʒ] (as in English 'jam')."
+      }
+    },
+    {
+      "cardId": "card-021",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'eu' pronounced in medical Latin?"
+      },
+      "correctAnswer": "[eu]",
+      "options": [
+        "[eː]",
+        "[eu]",
+        "[ü]",
+        "[au]"
+      ],
+      "explanation": {
+        "en": "'eu' is pronounced as a diphthong [eu] — both vowels are sounded in quick succession. Example: 'neuron' → [NEU-ron]; 'neurologia' → [neu-ro-LO-gi-a]; 'eupnoea' (normal breathing) → [eu-PNE-a]. Do not reduce it to a single long vowel."
+      }
+    },
+    {
+      "cardId": "card-022",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'au' pronounced?"
+      },
+      "correctAnswer": "[au]",
+      "options": [
+        "[oː]",
+        "[au]",
+        "[a]",
+        "[u]"
+      ],
+      "explanation": {
+        "en": "'au' is a diphthong pronounced [au] — like the 'ou' in English 'out'. Example: 'auris' (ear) → [AU-ris]; 'fauces' (throat/isthmus) → [FAU-tses]; 'trauma' contains the related sound. Both vowels must be heard."
+      }
+    },
+    {
+      "cardId": "card-023",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'gu' before a vowel typically pronounced?"
+      },
+      "correctAnswer": "[gu]",
+      "options": [
+        "[gw]",
+        "[gu]",
+        "[g]",
+        "[kv]"
+      ],
+      "explanation": {
+        "en": "'gu' before a vowel is pronounced [g] + [u] as two separate sounds. Example: 'lingua' (tongue) → [LIN-gu-a]; 'sanguis' (blood) → [SAN-gu-is]; 'unguentum' (ointment) → [un-GUEN-tum]. The [u] is always articulated."
+      }
+    },
+    {
+      "cardId": "card-024",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'sc' before e/i (e.g., sciatica) pronounced?"
+      },
+      "correctAnswer": "[sts]",
+      "options": [
+        "[sk]",
+        "[sts]",
+        "[ʃ]",
+        "[s]"
+      ],
+      "explanation": {
+        "en": "In medical Latin, 'sc' before e/i is pronounced [sts] — s + the [ts] value of c. Example: 'sciatica' → [STSIA-ti-ka] (pain along the sciatic nerve); 'sclerosis' → [stsle-RO-sis] (hardening of tissue)."
+      }
+    },
+    {
+      "cardId": "card-025",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'h' pronounced in most medical Latin words?"
+      },
+      "correctAnswer": "usually silent",
+      "options": [
+        "always [h]",
+        "usually silent",
+        "as [x]",
+        "as [ɦ]"
+      ],
+      "explanation": {
+        "en": "'h' is usually silent in medical Latin. Example: 'haemorrhage' → [e-MOR-a-ge]; 'hernia' → [ER-ni-a]; 'humerus' → [U-me-rus]. The word begins on the vowel sound — the 'h' carries no phonetic value."
+      }
+    },
+    {
+      "cardId": "card-026",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stress rule for 3+ syllable Latin words?"
+      },
+      "correctAnswer": "Stress the penult if long; otherwise the antepenult",
+      "options": [
+        "Always first syllable",
+        "Always penult",
+        "Stress the penult if long; otherwise the antepenult",
+        "Always last syllable"
+      ],
+      "explanation": {
+        "en": "Latin accent law: in words of three or more syllables, stress falls on the penult (second-to-last syllable) if it is long; if the penult is short, stress shifts back to the antepenult (third-to-last). Example: 'ligaMENtum' (long penult -men-) vs. 'MUSculus' (short penult -cu-)."
+      }
+    },
+    {
+      "cardId": "card-027",
+      "type": "mcq",
+      "question": {
+        "en": "In 'forāmen', where is the stress?"
+      },
+      "correctAnswer": "fo-RĀ-men",
+      "options": [
+        "FO-ra-men",
+        "fo-RA-men",
+        "fo-RĀ-men",
+        "fo-ra-MEN"
+      ],
+      "explanation": {
+        "en": "The penult -rā- is long by nature (marked ā), so stress falls on the penult. Example: 'foramen magnum' (the great opening at the base of the skull through which the spinal cord passes) is pronounced [fo-RĀ-men MAG-num]."
+      }
+    },
+    {
+      "cardId": "card-028",
+      "type": "mcq",
+      "question": {
+        "en": "In 'ūrēter', where is the stress?"
+      },
+      "correctAnswer": "u-RĒ-ter",
+      "options": [
+        "Ū-re-ter",
+        "u-RĒ-ter",
+        "u-re-TER",
+        "u-RE-ter"
+      ],
+      "explanation": {
+        "en": "The penult -rē- is long by nature (marked ē), so stress falls on the penult. Example: The 'urēter' carries urine from the kidney to the bladder — inflammation is called 'ureteritis' [u-rē-ter-I-tis]."
+      }
+    },
+    {
+      "cardId": "card-029",
+      "type": "mcq",
+      "question": {
+        "en": "If the penult is short in a 3+ syllable word, where is the stress?"
+      },
+      "correctAnswer": "on the antepenult",
+      "options": [
+        "on the last syllable",
+        "on the penult",
+        "on the antepenult",
+        "on the first syllable"
+      ],
+      "explanation": {
+        "en": "A short penult pushes the stress back to the antepenult (third-from-last syllable). Example: 'musculus' — the penult -cu- is short, so stress falls on the antepenult MUS-: MUS-cu-lus. Same applies to 'cerebrum' → CE-re-brum and 'vertebra' → VER-te-bra."
+      }
+    },
+    {
+      "cardId": "card-030",
+      "type": "mcq",
+      "question": {
+        "en": "In a 2-syllable Latin word, where is the stress?"
+      },
+      "correctAnswer": "on the first syllable",
+      "options": [
+        "on the last syllable",
+        "on the first syllable",
+        "on the longer syllable",
+        "no stress"
+      ],
+      "explanation": {
+        "en": "Two-syllable (dissyllable) Latin words almost universally stress the first syllable. Example: 'costa' (rib) → COS-ta; 'vena' (vein) → VE-na; 'femur' (thigh bone) → FE-mur; 'cutis' (skin) → CU-tis."
+      }
+    },
+    {
+      "cardId": "card-031",
+      "type": "mcq",
+      "question": {
+        "en": "Which feature makes a syllable long by position?"
+      },
+      "correctAnswer": "a vowel followed by two consonants",
+      "options": [
+        "a short vowel",
+        "a vowel followed by two consonants",
+        "a diphthong only",
+        "a final consonant only"
+      ],
+      "explanation": {
+        "en": "A syllable is long by position when its vowel is followed by two or more consonants (regardless of the vowel's own length). Example: In 'ligamentum', the penult vowel -e- is followed by -nt-, two consonants → the penult is long by position → stress on penult: li-ga-MEN-tum."
+      }
+    },
+    {
+      "cardId": "card-032",
+      "type": "mcq",
+      "question": {
+        "en": "Which is a diphthong (long by nature)?"
+      },
+      "correctAnswer": "ae",
+      "options": [
+        "a",
+        "e",
+        "ae",
+        "i"
+      ],
+      "explanation": {
+        "en": "Diphthongs (ae, oe, au, eu) are always long by nature — they count as one long syllable. Example: In 'caecum', the opening syllable 'cae-' is long because 'ae' is a diphthong → stress falls on the first syllable: CAE-cum. Single vowels like a, e, i can be either short or long."
+      }
+    },
+    {
+      "cardId": "card-033",
+      "type": "mcq",
+      "question": {
+        "en": "In 'lacrima', where is the stress?"
+      },
+      "correctAnswer": "LA-cri-ma",
+      "options": [
+        "la-CRI-ma",
+        "LA-cri-ma",
+        "la-cri-MA",
+        "la-CRI-MA"
+      ],
+      "explanation": {
+        "en": "The penult -cri- is short (followed by a single consonant -m), so stress shifts back to the antepenult. Example: 'lacrima' means 'tear' (as in teardrop). The glandula lacrimalis (tear gland) and ductus nasolacrimalis (tear duct) both derive from this word: LA-cri-ma."
+      }
+    },
+    {
+      "cardId": "card-034",
+      "type": "mcq",
+      "question": {
+        "en": "In 'fascia', where is the stress?"
+      },
+      "correctAnswer": "FA-sci-a",
+      "options": [
+        "fa-SCI-a",
+        "FA-sci-a",
+        "fa-sci-A",
+        "fa-SCI-A"
+      ],
+      "explanation": {
+        "en": "The penult -sci- is short, so stress falls on the antepenult FA-. Example: 'Fascia' is the fibrous connective tissue enveloping muscles. The 'fascia lata' (broad fascia of the thigh) and 'fascia thoracolumbalis' are important anatomical structures: FA-sci-a."
+      }
+    },
+    {
+      "cardId": "card-035",
+      "type": "mcq",
+      "question": {
+        "en": "In 'coccyx', where is the stress?"
+      },
+      "correctAnswer": "COC-cyx",
+      "options": [
+        "coc-CYX",
+        "COC-cyx",
+        "co-CCYX",
+        "CO-cyx"
+      ],
+      "explanation": {
+        "en": "Two syllables → stress always falls on the first syllable. Example: The 'coccyx' (tailbone) is the small triangular bone at the very base of the vertebral column, formed by 3–5 fused vertebrae. A fall on the buttocks can fracture it: COC-cyx."
+      }
+    },
+    {
+      "cardId": "card-036",
+      "type": "mcq",
+      "question": {
+        "en": "In 'cutis', where is the stress?"
+      },
+      "correctAnswer": "CU-tis",
+      "options": [
+        "cu-TIS",
+        "CU-tis",
+        "CUT-is",
+        "cu-TI-s"
+      ],
+      "explanation": {
+        "en": "Two syllables → stress on the first. Example: 'Cutis' = skin. Hence the clinical term 'subcutaneous' (below the skin) for injections given under the skin layer: CU-tis → sub-cu-TA-ne-us."
+      }
+    },
+    {
+      "cardId": "card-037",
+      "type": "mcq",
+      "question": {
+        "en": "In 'costae' (pl.), where is the stress?"
+      },
+      "correctAnswer": "COS-tae",
+      "options": [
+        "cos-TAE",
+        "COS-tae",
+        "co-STAE",
+        "cos-ta-E"
+      ],
+      "explanation": {
+        "en": "Two syllables → stress on the first. Example: 'Costae' are the ribs. The intercostal spaces (spatia intercostalia) lie between adjacent costae and contain the intercostal nerves, arteries, and veins: COS-tae."
+      }
+    },
+    {
+      "cardId": "card-038",
+      "type": "mcq",
+      "question": {
+        "en": "In 'periosteum', where is the stress (medical Latin)?"
+      },
+      "correctAnswer": "pe-ri-OS-te-um",
+      "options": [
+        "PE-ri-os-te-um",
+        "pe-RI-os-te-um",
+        "pe-ri-OS-te-um",
+        "pe-ri-os-TE-um"
+      ],
+      "explanation": {
+        "en": "The syllable -OS- is long by position (followed by -st-), so stress falls on it. Example: The 'periosteum' is the fibrous membrane covering all bone surfaces (except articular cartilage). It contains osteoblasts for bone repair: pe-ri-OS-te-um."
+      }
+    },
+    {
+      "cardId": "card-039",
+      "type": "mcq",
+      "question": {
+        "en": "In 'trachea', where is the stress?"
+      },
+      "correctAnswer": "TRA-che-a",
+      "options": [
+        "tra-CHE-a",
+        "TRA-che-a",
+        "tra-che-A",
+        "TRA-che-A"
+      ],
+      "explanation": {
+        "en": "The penult -che- is short, so stress shifts to the antepenult TRA-. Example: The 'trachea' (windpipe) runs from the larynx and divides at the carina into the left and right main bronchi. A 'tracheotomy' opens the trachea surgically: TRA-che-a."
+      }
+    },
+    {
+      "cardId": "card-040",
+      "type": "mcq",
+      "question": {
+        "en": "In 'oesophagus', where is the stress?"
+      },
+      "correctAnswer": "oe-SO-pha-gus",
+      "options": [
+        "OE-so-pha-gus",
+        "oe-SO-pha-gus",
+        "oe-so-PHA-gus",
+        "oe-so-pha-GUS"
+      ],
+      "explanation": {
+        "en": "The penult -pha- is short, so stress falls on the antepenult -SO-. Example: The 'oesophagus' passes through the diaphragm at the hiatus oesophageus to reach the stomach. Inflammation is oesophagitis: oe-SO-pha-gus."
+      }
+    },
+    {
+      "cardId": "card-041",
+      "type": "mcq",
+      "question": {
+        "en": "In 'arteria', where is the stress?"
+      },
+      "correctAnswer": "ar-TE-ri-a",
+      "options": [
+        "AR-te-ri-a",
+        "ar-TE-ri-a",
+        "ar-te-RI-a",
+        "ar-te-ri-A"
+      ],
+      "explanation": {
+        "en": "The penult -ri- is short, so stress falls on the antepenult -TE-. Example: The 'arteria carotis communis' (common carotid artery) supplies the head and neck. 'Arteriosclerosis' is hardening of the arteries: ar-TE-ri-a."
+      }
+    },
+    {
+      "cardId": "card-042",
+      "type": "mcq",
+      "question": {
+        "en": "In 'femur', where is the stress?"
+      },
+      "correctAnswer": "FE-mur",
+      "options": [
+        "fe-MUR",
+        "FE-mur",
+        "FEM-ur",
+        "fe-MU-r"
+      ],
+      "explanation": {
+        "en": "Two syllables → stress on the first. Example: The 'femur' (thigh bone) is the longest and strongest bone in the body, articulating with the pelvis at the hip joint and with the tibia at the knee: FE-mur."
+      }
+    },
+    {
+      "cardId": "card-043",
+      "type": "mcq",
+      "question": {
+        "en": "In 'humerus', where is the stress?"
+      },
+      "correctAnswer": "HU-me-rus",
+      "options": [
+        "hu-ME-rus",
+        "HU-me-rus",
+        "hu-me-RUS",
+        "HU-me-RUS"
+      ],
+      "explanation": {
+        "en": "The penult -me- is short, so stress falls on the antepenult HU-. Example: The 'humerus' (upper arm bone) articulates with the scapula superiorly and with the radius and ulna at the elbow joint inferiorly: HU-me-rus."
+      }
+    },
+    {
+      "cardId": "card-044",
+      "type": "mcq",
+      "question": {
+        "en": "In 'vertebra', where is the stress?"
+      },
+      "correctAnswer": "VER-te-bra",
+      "options": [
+        "ver-TE-bra",
+        "VER-te-bra",
+        "ver-te-BRA",
+        "VER-te-BRA"
+      ],
+      "explanation": {
+        "en": "The penult -te- is short, so stress falls on the antepenult VER-. Example: The 'columna vertebralis' (vertebral column) consists of 33 vertebrae total: 7 cervical, 12 thoracic, 5 lumbar, 5 sacral (fused), and 4 coccygeal (fused): VER-te-bra."
+      }
+    },
+    {
+      "cardId": "card-045",
+      "type": "mcq",
+      "question": {
+        "en": "In 'cerebrum', where is the stress?"
+      },
+      "correctAnswer": "CE-re-brum",
+      "options": [
+        "ce-RE-brum",
+        "CE-re-brum",
+        "ce-re-BRUM",
+        "CE-re-BRUM"
+      ],
+      "explanation": {
+        "en": "The penult -re- is short, so stress falls on the antepenult CE-. Example: The 'cerebrum' is the largest part of the brain, divided into left and right hemispheres by the fissura longitudinalis. It governs voluntary movement, speech, and cognition: CE-re-brum."
+      }
+    },
+    {
+      "cardId": "card-046",
+      "type": "mcq",
+      "question": {
+        "en": "In 'musculus', where is the stress?"
+      },
+      "correctAnswer": "MUS-cu-lus",
+      "options": [
+        "mus-CU-lus",
+        "MUS-cu-lus",
+        "mus-cu-LUS",
+        "MUS-cu-LUS"
+      ],
+      "explanation": {
+        "en": "The penult -cu- is short, so stress falls on the antepenult MUS-. Example: 'Musculus biceps brachii' (the biceps muscle of the arm) flexes the forearm and supinates the hand. 'Musculus' literally means 'little mouse' — ancient anatomists thought contracting muscles resembled a mouse moving under skin: MUS-cu-lus."
+      }
+    },
+    {
+      "cardId": "card-047",
+      "type": "mcq",
+      "question": {
+        "en": "In 'ligamentum', where is the stress?"
+      },
+      "correctAnswer": "li-ga-MEN-tum",
+      "options": [
+        "LI-ga-men-tum",
+        "li-GA-men-tum",
+        "li-ga-MEN-tum",
+        "li-ga-men-TUM"
+      ],
+      "explanation": {
+        "en": "The penult -men- is long by position (followed by -t-), so stress falls on the penult. Example: 'Ligamentum cruciatum anterius' (anterior cruciate ligament, ACL) is a key stabilizer of the knee — its rupture is a common sports injury: li-ga-MEN-tum."
+      }
+    },
+    {
+      "cardId": "card-048",
+      "type": "mcq",
+      "question": {
+        "en": "In 'carcinoma', where is the stress?"
+      },
+      "correctAnswer": "car-ci-NO-ma",
+      "options": [
+        "CAR-ci-no-ma",
+        "car-CI-no-ma",
+        "car-ci-NO-ma",
+        "car-ci-no-MA"
+      ],
+      "explanation": {
+        "en": "The penult -NO- is long by nature (long ō), so stress falls on the penult. Example: 'Carcinoma hepatocellulare' is the primary malignant tumour of the liver, arising from hepatocytes — it is the most common type of primary liver cancer: car-ci-NO-ma."
+      }
+    },
+    {
+      "cardId": "card-049",
+      "type": "mcq",
+      "question": {
+        "en": "In 'metastasis', where is the stress?"
+      },
+      "correctAnswer": "me-ta-STA-sis",
+      "options": [
+        "ME-ta-sta-sis",
+        "me-TA-sta-sis",
+        "me-ta-STA-sis",
+        "me-ta-sta-SIS"
+      ],
+      "explanation": {
+        "en": "The penult -STA- is long by nature (long ā from the Greek root stasis), so stress falls on the penult. Example: 'Metastasis' = spread of malignant cells from a primary tumour to distant organs via blood or lymph — e.g., axillary lymph node metastasis in breast carcinoma: me-ta-STA-sis."
+      }
+    },
+    {
+      "cardId": "card-050",
+      "type": "mcq",
+      "question": {
+        "en": "In 'cranium', where is the stress?"
+      },
+      "correctAnswer": "CRA-ni-um",
+      "options": [
+        "CRA-ni-um",
+        "cra-NI-um",
+        "cra-ni-UM",
+        "CRA-NI-um"
+      ],
+      "explanation": {
+        "en": "The penult -ni- is short (followed by a single consonant -m), so stress falls on the antepenult CRA-. Example: The 'cranium' is the bony vault of the skull that encloses and protects the brain. Compare: 'humerus' → HU-me-rus; 'cerebrum' → CE-re-brum — same pattern of short penult → antepenult stress."
+      }
+    },
+    {
+      "cardId": "card-051",
+      "type": "mcq",
+      "question": {
+        "en": "What does the suffix '-itis' mean?"
+      },
+      "correctAnswer": "inflammation",
+      "options": [
+        "tumour",
+        "inflammation",
+        "pain",
+        "surgical removal"
+      ],
+      "explanation": {
+        "en": "'-itis' denotes inflammation of a tissue or organ. Example: 'appendicitis' = inflammation of the appendix; 'hepatitis' = inflammation of the liver; 'arthritis' = inflammation of a joint."
+      }
+    },
+    {
+      "cardId": "card-052",
+      "type": "mcq",
+      "question": {
+        "en": "What does '-osis' usually indicate?"
+      },
+      "correctAnswer": "pathological condition",
+      "options": [
+        "inflammation",
+        "pathological condition",
+        "bleeding",
+        "surgical repair"
+      ],
+      "explanation": {
+        "en": "'-osis' indicates a disease process or pathological condition, often chronic or degenerative. Example: 'arthrosis' = degenerative joint disease (without primary inflammation); 'fibrosis' = abnormal thickening/scarring of tissue; 'nephrosis' = non-inflammatory kidney disease."
+      }
+    },
+    {
+      "cardId": "card-053",
+      "type": "mcq",
+      "question": {
+        "en": "What does '-algia' mean?"
+      },
+      "correctAnswer": "pain",
+      "options": [
+        "pain",
+        "inflammation",
+        "tumour",
+        "stone"
+      ],
+      "explanation": {
+        "en": "'-algia' means pain (from Greek algos = pain). Example: 'neuralgia' = nerve pain, often burning or shooting; 'myalgia' = muscle pain (e.g., after flu); 'cephalgia' = headache. Distinguish from '-itis' (inflammation) — pain and inflammation often coexist but are not synonymous."
+      }
+    },
+    {
+      "cardId": "card-054",
+      "type": "mcq",
+      "question": {
+        "en": "What does '-ectomy' mean?"
+      },
+      "correctAnswer": "surgical removal",
+      "options": [
+        "incision into",
+        "surgical removal",
+        "surgical suturing",
+        "visual examination"
+      ],
+      "explanation": {
+        "en": "'-ectomy' means surgical excision (complete removal) of a structure. Example: 'appendectomy' = removal of the appendix; 'cholecystectomy' = removal of the gallbladder; 'thyroidectomy' = removal of the thyroid gland. Contrast with '-otomy' (merely cutting into, not removing)."
+      }
+    },
+    {
+      "cardId": "card-055",
+      "type": "mcq",
+      "question": {
+        "en": "What does '-otomy' mean?"
+      },
+      "correctAnswer": "incision",
+      "options": [
+        "incision",
+        "surgical repair",
+        "inflammation",
+        "measurement"
+      ],
+      "explanation": {
+        "en": "'-otomy' means cutting into a structure (an incision), not removing it. Example: 'craniotomy' = cutting into the skull to access the brain; 'tracheotomy' = incision into the trachea to secure an airway. Compare: if the organ is removed, use '-ectomy'."
+      }
+    },
+    {
+      "cardId": "card-056",
+      "type": "mcq",
+      "question": {
+        "en": "What does '-scopy' mean?"
+      },
+      "correctAnswer": "visual examination",
+      "options": [
+        "visual examination",
+        "imaging recording",
+        "surgical removal",
+        "pain measurement"
+      ],
+      "explanation": {
+        "en": "'-scopy' denotes visual examination, typically with an endoscope or similar instrument. Example: 'colonoscopy' = visual examination of the colon; 'arthroscopy' = examination inside a joint; 'bronchoscopy' = examination of the bronchi. The instrument itself ends in '-scope'."
+      }
+    },
+    {
+      "cardId": "card-057",
+      "type": "mcq",
+      "question": {
+        "en": "What does '-graphy' mean?"
+      },
+      "correctAnswer": "recording/imaging procedure",
+      "options": [
+        "recording/imaging procedure",
+        "pain condition",
+        "surgical suture",
+        "tumour growth"
+      ],
+      "explanation": {
+        "en": "'-graphy' refers to the technique or procedure of making a recording or image. Example: 'cardiography' = recording heart activity; 'radiography' = X-ray imaging; 'mammography' = breast X-ray. The result (the actual image) ends in '-gram'. The device ends in '-graph'."
+      }
+    },
+    {
+      "cardId": "card-058",
+      "type": "mcq",
+      "question": {
+        "en": "What does '-gram' mean?"
+      },
+      "correctAnswer": "the record/image",
+      "options": [
+        "the imaging instrument",
+        "the record/image",
+        "inflammation",
+        "surgical repair"
+      ],
+      "explanation": {
+        "en": "'-gram' is the actual record or image produced by the '-graphy' procedure. Example: A 'cardiogram' (ECG tracing) is the record produced by cardiography; a 'mammogram' is the X-ray image of the breast; an 'encephalogram' records brain electrical activity. The machine is the '-graph'."
+      }
+    },
+    {
+      "cardId": "card-059",
+      "type": "mcq",
+      "question": {
+        "en": "What does the prefix 'hyper-' mean?"
+      },
+      "correctAnswer": "excessive/above normal",
+      "options": [
+        "below normal",
+        "excessive/above normal",
+        "abnormally slow",
+        "together/joined"
+      ],
+      "explanation": {
+        "en": "'hyper-' means above, excessive, or greater than normal. Example: 'hypertension' = excessively high blood pressure (>140/90 mmHg); 'hyperglycaemia' = high blood glucose; 'hyperthyroidism' = overactive thyroid gland. Opposite: 'hypo-' (below normal)."
+      }
+    },
+    {
+      "cardId": "card-060",
+      "type": "mcq",
+      "question": {
+        "en": "What does the prefix 'hypo-' mean?"
+      },
+      "correctAnswer": "below/under",
+      "options": [
+        "above normal",
+        "below/under",
+        "around",
+        "the same as normal"
+      ],
+      "explanation": {
+        "en": "'hypo-' means below, under, or less than normal. Example: 'hypotension' = abnormally low blood pressure; 'hypoglycaemia' = low blood glucose (may cause fainting); 'hypothyroidism' = underactive thyroid. Anatomically: 'hypogastric' = below the stomach region."
+      }
+    },
+    {
+      "cardId": "card-061",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'brady-' mean?"
+      },
+      "correctAnswer": "slow",
+      "options": [
+        "fast",
+        "slow",
+        "irregular",
+        "excessive"
+      ],
+      "explanation": {
+        "en": "'brady-' means slow (from Greek bradys). Example: 'bradycardia' = slow heart rate, below 60 bpm in an adult; 'bradypnoea' = abnormally slow breathing. Contrast with 'tachy-' (fast)."
+      }
+    },
+    {
+      "cardId": "card-062",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'tachy-' mean?"
+      },
+      "correctAnswer": "fast",
+      "options": [
+        "fast",
+        "slow",
+        "irregular",
+        "excessive"
+      ],
+      "explanation": {
+        "en": "'tachy-' means fast (from Greek tachys). Example: 'tachycardia' = fast heart rate, defined as more than 100 beats per minute in an adult; 'tachypnoea' = rapid breathing rate. Contrast with 'brady-' (slow). Together they form the key rate descriptors in clinical cardiology and respiratory medicine."
+      }
+    },
+    {
+      "cardId": "card-063",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'peri-' mean?"
+      },
+      "correctAnswer": "around",
+      "options": [
+        "inside",
+        "around",
+        "below",
+        "across"
+      ],
+      "explanation": {
+        "en": "'peri-' means around or surrounding (from Greek peri). Example: 'pericardium' = the double-layered sac surrounding the heart; 'periosteum' = the membrane around bone; 'peritoneum' = the serous membrane lining the abdominal cavity and covering the abdominal organs."
+      }
+    },
+    {
+      "cardId": "card-064",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'endo-' mean?"
+      },
+      "correctAnswer": "inside",
+      "options": [
+        "inside",
+        "outside",
+        "around",
+        "under"
+      ],
+      "explanation": {
+        "en": "'endo-' means inside or within (from Greek endon). Example: 'endocardium' = the inner lining of the heart chambers; 'endoscopy' = looking inside a body cavity with a camera; 'endometrium' = the inner lining of the uterus. Contrast with 'ecto-' (outside)."
+      }
+    },
+    {
+      "cardId": "card-065",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'ecto-' mean?"
+      },
+      "correctAnswer": "outside",
+      "options": [
+        "inside",
+        "outside",
+        "around",
+        "under"
+      ],
+      "explanation": {
+        "en": "'ecto-' means outside or outer (from Greek ektos). Example: 'ectoderm' = the outer embryonic germ layer (gives rise to skin and nervous system); 'ectopic' = located outside the normal site (e.g., an ectopic pregnancy in the fallopian tube instead of the uterus)."
+      }
+    },
+    {
+      "cardId": "card-066",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'dys-' mean?"
+      },
+      "correctAnswer": "bad/difficult/abnormal",
+      "options": [
+        "good/normal",
+        "bad/difficult/abnormal",
+        "new/recent",
+        "self/own"
+      ],
+      "explanation": {
+        "en": "'dys-' indicates something bad, difficult, or abnormal (from Greek dys). Example: 'dyspnoea' = difficulty breathing; 'dysphagia' = difficulty swallowing; 'dysuria' = painful/difficult urination. Contrast with 'eu-' (good/normal) — dyspnoea vs eupnoea."
+      }
+    },
+    {
+      "cardId": "card-067",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'eu-' mean?"
+      },
+      "correctAnswer": "good/normal",
+      "options": [
+        "good/normal",
+        "bad/difficult",
+        "slow",
+        "painful"
+      ],
+      "explanation": {
+        "en": "'eu-' means good or normal (from Greek eu). Example: 'eupnoea' = normal, quiet breathing at rest; 'euthyroid' = normal thyroid function; 'euthanasia' = literally 'good death'. Contrast with 'dys-' (bad/difficult)."
+      }
+    },
+    {
+      "cardId": "card-068",
+      "type": "mcq",
+      "question": {
+        "en": "What does the root 'neur-' refer to?"
+      },
+      "correctAnswer": "nerve",
+      "options": [
+        "kidney",
+        "nerve",
+        "bone",
+        "skin"
+      ],
+      "explanation": {
+        "en": "'neur-' refers to nerves (from Greek neuron = sinew/nerve). Example: 'neurology' = the study of the nervous system; 'neuralgia' = nerve pain; 'neuroma' = a benign tumour of nerve tissue; 'polyneuropathy' = disease of many peripheral nerves (common in diabetes)."
+      }
+    },
+    {
+      "cardId": "card-069",
+      "type": "mcq",
+      "question": {
+        "en": "What does the root 'derm-/cut-' refer to?"
+      },
+      "correctAnswer": "skin",
+      "options": [
+        "muscle",
+        "skin",
+        "vein",
+        "lung"
+      ],
+      "explanation": {
+        "en": "'derm-' (Greek) and 'cut-' (Latin) both refer to skin. Example: 'dermatitis' = inflammation of the skin; 'dermatology' = the specialty studying skin diseases; 'subcutaneous' = beneath the skin (as in a subcutaneous injection); 'cutaneous' = relating to the skin."
+      }
+    },
+    {
+      "cardId": "card-070",
+      "type": "mcq",
+      "question": {
+        "en": "What does the root 'oste-' refer to?"
+      },
+      "correctAnswer": "bone",
+      "options": [
+        "bone",
+        "blood",
+        "heart",
+        "brain"
+      ],
+      "explanation": {
+        "en": "'oste-' refers to bone (from Greek osteon). Example: 'osteoporosis' = porous, fragile bones (common in postmenopausal women); 'osteosarcoma' = malignant tumour of bone; 'osteoarthritis' = degenerative joint disease involving bone and cartilage."
+      }
+    },
+    {
+      "cardId": "card-071",
+      "type": "mcq",
+      "question": {
+        "en": "What does the root 'cardi-' refer to?"
+      },
+      "correctAnswer": "heart",
+      "options": [
+        "heart",
+        "liver",
+        "lung",
+        "intestine"
+      ],
+      "explanation": {
+        "en": "'cardi-' refers to the heart (from Greek kardia). Example: 'cardiomegaly' = enlarged heart; 'cardiology' = the medical specialty of the heart; 'cardiomyopathy' = disease of the heart muscle; 'cardiac arrest' = sudden cessation of heart function."
+      }
+    },
+    {
+      "cardId": "card-072",
+      "type": "mcq",
+      "question": {
+        "en": "What does the root 'hepat-' refer to?"
+      },
+      "correctAnswer": "liver",
+      "options": [
+        "liver",
+        "kidney",
+        "heart",
+        "skin"
+      ],
+      "explanation": {
+        "en": "'hepat-' refers to the liver (from Greek hepar). Example: 'hepatitis' = inflammation of the liver (e.g., hepatitis B, C); 'hepatomegaly' = enlarged liver (palpable below the right costal margin); 'hepatocellular carcinoma' = primary liver cancer."
+      }
+    },
+    {
+      "cardId": "card-073",
+      "type": "mcq",
+      "question": {
+        "en": "What does the root 'nephr-' refer to?"
+      },
+      "correctAnswer": "kidney",
+      "options": [
+        "kidney",
+        "nerve",
+        "stomach",
+        "spleen"
+      ],
+      "explanation": {
+        "en": "'nephr-' refers to the kidney (from Greek nephros). Example: 'nephritis' = inflammation of the kidney (glomerulonephritis is the most common form); 'nephrolithiasis' = kidney stones; 'nephrectomy' = surgical removal of a kidney. Distinguish from 'ren-' (the Latin root for kidney)."
+      }
+    },
+    {
+      "cardId": "card-074",
+      "type": "mcq",
+      "question": {
+        "en": "What does the root 'gastr-' refer to?"
+      },
+      "correctAnswer": "stomach",
+      "options": [
+        "stomach",
+        "brain",
+        "bone",
+        "skin"
+      ],
+      "explanation": {
+        "en": "'gastr-' refers to the stomach (from Greek gaster). Example: 'gastritis' = inflammation of the stomach lining (often caused by H. pylori or NSAIDs); 'gastrectomy' = surgical removal of all or part of the stomach; 'gastroenterology' = the specialty of the GI tract."
+      }
+    },
+    {
+      "cardId": "card-075",
+      "type": "mcq",
+      "question": {
+        "en": "What does '-plegia' mean?"
+      },
+      "correctAnswer": "paralysis",
+      "options": [
+        "weakness",
+        "paralysis",
+        "pain",
+        "spasm"
+      ],
+      "explanation": {
+        "en": "'-plegia' means complete paralysis of a muscle group or body region (from Greek plessein = to strike). Example: 'hemiplegia' = paralysis of one entire side of the body (e.g., after a stroke); 'paraplegia' = paralysis of both legs; 'quadriplegia' = paralysis of all four limbs. Distinguish from '-paresis' (weakness, not complete paralysis)."
+      }
+    },
+    {
+      "cardId": "card-076",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'substantia grisea'"
+      },
+      "correctAnswer": "gray matter",
+      "options": [
+        "gray matter",
+        "white matter",
+        "hard bony tissue",
+        "bone marrow"
+      ],
+      "explanation": {
+        "en": "'Substantia grisea' = gray matter. Example: Gray matter contains the cell bodies of neurons and is found in the cortex cerebri (outer layer of the brain) and in the central H-shaped region of the spinal cord. It appears gray because it lacks myelin."
+      }
+    },
+    {
+      "cardId": "card-077",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'substantia alba'"
+      },
+      "correctAnswer": "white matter",
+      "options": [
+        "gray matter",
+        "white matter",
+        "muscle tissue",
+        "connective tissue"
+      ],
+      "explanation": {
+        "en": "'Substantia alba' = white matter. Example: White matter consists primarily of myelinated axons that transmit signals between regions. The corpus callosum — the great commissural tract connecting the two cerebral hemispheres — is composed of substantia alba."
+      }
+    },
+    {
+      "cardId": "card-078",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'striae gravidarum'"
+      },
+      "correctAnswer": "stretch marks of pregnancy",
+      "options": [
+        "stretch marks of pregnancy",
+        "striations of skeletal muscle",
+        "costal rib grooves",
+        "skin folds of the abdomen"
+      ],
+      "explanation": {
+        "en": "'Striae gravidarum' = stretch marks of pregnancy. Example: These linear streaks appear on the abdomen, breasts, and thighs as rapid skin stretching during pregnancy tears the collagen fibres of the dermis. 'Gravidarum' is the genitive plural of 'gravida' (pregnant woman)."
+      }
+    },
+    {
+      "cardId": "card-079",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'facies articularis'"
+      },
+      "correctAnswer": "articular surface",
+      "options": [
+        "articular surface",
+        "muscle fascia",
+        "joint capsule",
+        "bone marrow cavity"
+      ],
+      "explanation": {
+        "en": "'Facies articularis' = articular surface (the smooth, cartilage-covered contact area of a bone at a joint). Example: The 'facies articularis' of the femoral head fits into the acetabulum of the pelvis to form the hip joint (articulatio coxae)."
+      }
+    },
+    {
+      "cardId": "card-080",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'margo inferior'"
+      },
+      "correctAnswer": "inferior border",
+      "options": [
+        "inferior border",
+        "superior margin",
+        "medial line",
+        "lateral surface"
+      ],
+      "explanation": {
+        "en": "'Margo inferior' = inferior border (the lower edge of a structure). Example: The 'margo inferior pulmonis' (inferior border of the lung) lies at the level of the 6th rib in the midclavicular line and rests on the diaphragm. 'Margo' means border or margin."
+      }
+    },
+    {
+      "cardId": "card-081",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'primum non nocere' mean?"
+      },
+      "correctAnswer": "first, do no harm",
+      "options": [
+        "first, do no harm",
+        "think before you act",
+        "always act quickly",
+        "never give up on a patient"
+      ],
+      "explanation": {
+        "en": "'Primum non nocere' = first, do no harm — the foundational ethical principle of medicine. Example: Before prescribing a powerful drug or performing surgery, a physician asks: 'Could this intervention cause more harm than the disease itself?' This maxim guides risk-benefit analysis in every clinical decision."
+      }
+    },
+    {
+      "cardId": "card-082",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'in dubio pro reo' mean?"
+      },
+      "correctAnswer": "when in doubt, for the accused",
+      "options": [
+        "when in doubt, for the accused",
+        "doubt favours the diagnosis",
+        "certainty is required for treatment",
+        "never act without full information"
+      ],
+      "explanation": {
+        "en": "'In dubio pro reo' = when in doubt, decide in favour of the accused (innocent until proven guilty). Example: This legal maxim is cited in medical ethics when the evidence for a diagnosis is uncertain — doubt should protect the patient from unnecessary or harmful treatment, just as it protects an accused person from unjust conviction."
+      }
+    },
+    {
+      "cardId": "card-083",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'per aspera ad astra' mean?"
+      },
+      "correctAnswer": "through hardships to the stars",
+      "options": [
+        "through hardships to the stars",
+        "from bones to distant places",
+        "always moving forward in science",
+        "no pain, no clinical gain"
+      ],
+      "explanation": {
+        "en": "'Per aspera ad astra' = through hardships to the stars (per = through; aspera = hardships; ad = to; astra = stars). A classical motivational maxim applied in medical education to acknowledge the difficulty of the path to qualification."
+      }
+    },
+    {
+      "cardId": "card-084",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'carpe diem' mean?"
+      },
+      "correctAnswer": "seize the day",
+      "options": [
+        "seize the day",
+        "grasp the wrist (pulse)",
+        "work without rest",
+        "time heals all wounds"
+      ],
+      "explanation": {
+        "en": "'Carpe diem' = seize the day (from Horace, Odes I.11). Example: Clinicians apply this maxim when choosing the optimal moment for intervention — e.g., a surgeon must 'carpe diem' and operate promptly when a patient's ruptured aortic aneurysm is caught early, before haemodynamic collapse."
+      }
+    },
+    {
+      "cardId": "card-085",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'status quo' mean?"
+      },
+      "correctAnswer": "the existing state",
+      "options": [
+        "the existing state",
+        "a healthy baseline",
+        "an improved condition",
+        "the same diagnosis"
+      ],
+      "explanation": {
+        "en": "'Status quo' = the existing state of affairs. Example: In clinical notes, a physician may write: 'Patient's status quo is unchanged since yesterday' — meaning the current clinical condition is as it was, with no improvement or deterioration. 'Status' also appears in 'status asthmaticus' (a prolonged asthma attack)."
+      }
+    },
+    {
+      "cardId": "card-086",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'post mortem' mean?"
+      },
+      "correctAnswer": "after death",
+      "options": [
+        "after death",
+        "before birth",
+        "during critical illness",
+        "without pain"
+      ],
+      "explanation": {
+        "en": "'Post mortem' = after death (post = after; mortem = accusative of mors, death). Example: A 'post mortem examination' (autopsy) is performed by a pathologist after death to determine the cause and manner of death. The findings may reveal undiagnosed conditions or confirm a clinical diagnosis."
+      }
+    },
+    {
+      "cardId": "card-087",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'cavitas nasi'"
+      },
+      "correctAnswer": "nasal cavity",
+      "options": [
+        "nasal cavity",
+        "oral cavity",
+        "cranial cavity",
+        "thoracic cavity"
+      ],
+      "explanation": {
+        "en": "'Cavitas nasi' = nasal cavity. Example: The 'cavitas nasi' is divided by the septum nasi (nasal septum) into right and left chambers lined with mucosa. It warms, humidifies, and filters inspired air before it passes into the pharynx."
+      }
+    },
+    {
+      "cardId": "card-088",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'cavitas oris'"
+      },
+      "correctAnswer": "oral cavity",
+      "options": [
+        "oral cavity",
+        "nasal cavity",
+        "abdominal cavity",
+        "pelvic cavity"
+      ],
+      "explanation": {
+        "en": "'Cavitas oris' = oral cavity (the mouth). Example: The 'cavitas oris' contains the teeth (dentes), tongue (lingua), and the openings of the three pairs of major salivary glands. It is the entry point of the digestive tract and begins the mechanical and chemical digestion of food."
+      }
+    },
+    {
+      "cardId": "card-089",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'corpus callosum'"
+      },
+      "correctAnswer": "tough/callous body",
+      "options": [
+        "tough/callous body",
+        "heart muscle",
+        "skin callus",
+        "brain stem"
+      ],
+      "explanation": {
+        "en": "'Corpus callosum' = literally 'tough body' (corpus = body; callosum = tough, callous). Example: The corpus callosum is the largest white matter commissure connecting the left and right cerebral hemispheres, allowing them to share sensory, motor, and cognitive information. Severing it (corpus callosotomy) can reduce severe epileptic seizures."
+      }
+    },
+    {
+      "cardId": "card-090",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'ramus communicans'"
+      },
+      "correctAnswer": "communicating branch",
+      "options": [
+        "communicating branch",
+        "common arterial trunk",
+        "joint capsule branch",
+        "communicating vein"
+      ],
+      "explanation": {
+        "en": "'Ramus communicans' = communicating branch (ramus = branch; communicans = communicating). Example: 'Rami communicantes' are the short nerve branches connecting the spinal (somatic) nerves to the sympathetic chain ganglia. They are classified as grey or white depending on whether they contain myelinated fibres."
+      }
+    },
+    {
+      "cardId": "card-091",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'musculus levator'"
+      },
+      "correctAnswer": "lifting muscle",
+      "options": [
+        "lifting muscle",
+        "flexor muscle",
+        "extensor muscle",
+        "rotator muscle"
+      ],
+      "explanation": {
+        "en": "'Musculus levator' = lifting/elevator muscle (levare = to lift). Example: The 'musculus levator palpebrae superioris' lifts the upper eyelid. Its paralysis (e.g., from an oculomotor nerve lesion) causes ptosis — drooping of the eyelid. Another key example: 'levator ani' supports the pelvic floor."
+      }
+    },
+    {
+      "cardId": "card-092",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'arteria carotis'"
+      },
+      "correctAnswer": "carotid artery",
+      "options": [
+        "carotid artery",
+        "coronary artery",
+        "renal artery",
+        "femoral artery"
+      ],
+      "explanation": {
+        "en": "'Arteria carotis' = carotid artery (from Greek karos = deep sleep — compression causes unconsciousness). Example: The 'arteria carotis communis' divides at the level of C4 into the internal carotid (supplying the brain) and external carotid (supplying the face). Its pulse is palpable at the neck — a key landmark in CPR."
+      }
+    },
+    {
+      "cardId": "card-093",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'vena cava'"
+      },
+      "correctAnswer": "hollow/great vein",
+      "options": [
+        "hollow/great vein",
+        "cavernous venous sinus",
+        "portal vein",
+        "aorta"
+      ],
+      "explanation": {
+        "en": "'Vena cava' = hollow vein or great vein (cava = hollow/cave). Example: The 'vena cava superior' returns deoxygenated blood from the upper body to the right atrium; the 'vena cava inferior' returns blood from the lower body. Together they are the two largest veins in the body."
+      }
+    },
+    {
+      "cardId": "card-094",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'ductus choledochus'"
+      },
+      "correctAnswer": "common bile duct",
+      "options": [
+        "common bile duct",
+        "pancreatic duct",
+        "hepatic vein",
+        "cystic duct"
+      ],
+      "explanation": {
+        "en": "'Ductus choledochus' = common bile duct (from Greek chole = bile + dochos = receptacle/carrier). Example: A gallstone obstructing the 'ductus choledochus' causes obstructive jaundice — the patient turns yellow because conjugated bilirubin cannot drain into the duodenum and backs up into the bloodstream."
+      }
+    },
+    {
+      "cardId": "card-095",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'foramen magnum'"
+      },
+      "correctAnswer": "great foramen",
+      "options": [
+        "great foramen",
+        "small opening",
+        "inferior nasal concha",
+        "optic canal"
+      ],
+      "explanation": {
+        "en": "'Foramen magnum' = great foramen/opening (magnum = great, large). Example: The 'foramen magnum' is the large opening at the base of the occipital bone through which the medulla oblongata continues as the spinal cord. In raised intracranial pressure, the brainstem can herniate downward through it — a life-threatening 'coning'."
+      }
+    },
+    {
+      "cardId": "card-096",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'ligamentum latum'"
+      },
+      "correctAnswer": "broad ligament",
+      "options": [
+        "broad ligament",
+        "long muscle tendon",
+        "thin fascial sheet",
+        "short round ligament"
+      ],
+      "explanation": {
+        "en": "'Ligamentum latum' = broad ligament (latum = broad, wide). Example: The 'ligamentum latum uteri' is the wide peritoneal fold draped over the uterus and broad enough to enclose the uterine tubes (Fallopian tubes) and ovaries, supporting them within the pelvic cavity."
+      }
+    },
+    {
+      "cardId": "card-097",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'tuberculum majus'"
+      },
+      "correctAnswer": "greater tubercle",
+      "options": [
+        "greater tubercle",
+        "lesser tubercle",
+        "major arterial vessel",
+        "minor nerve ganglion"
+      ],
+      "explanation": {
+        "en": "'Tuberculum majus' = greater tubercle (majus = greater/larger). Example: The 'tuberculum majus humeri' (greater tubercle of the humerus) is the attachment site of the supraspinatus, infraspinatus, and teres minor muscles — three of the four rotator cuff muscles. Its fracture or impingement causes shoulder pain."
+      }
+    },
+    {
+      "cardId": "card-098",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'tuberculum minus'"
+      },
+      "correctAnswer": "lesser tubercle",
+      "options": [
+        "lesser tubercle",
+        "greater tubercle",
+        "major arterial process",
+        "minor bony spur"
+      ],
+      "explanation": {
+        "en": "'Tuberculum minus' = lesser tubercle (minus = lesser/smaller). Example: The 'tuberculum minus humeri' (lesser tubercle of the humerus) is the insertion point of the subscapularis muscle, the fourth rotator cuff muscle. It is separated from the greater tubercle by the intertubercular (bicipital) groove."
+      }
+    },
+    {
+      "cardId": "card-099",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'linea alba'"
+      },
+      "correctAnswer": "white line",
+      "options": [
+        "white line",
+        "gray matter band",
+        "bone periosteum",
+        "red marrow stripe"
+      ],
+      "explanation": {
+        "en": "'Linea alba' = white line (linea = line; alba = white). Example: The 'linea alba' is the fibrous midline band running vertically from the xiphoid process to the pubic symphysis on the anterior abdominal wall. It forms where the aponeuroses of the flat abdominal muscles interdigitate and appears white due to its dense, avascular collagen."
+      }
+    },
+    {
+      "cardId": "card-100",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'dura mater'"
+      },
+      "correctAnswer": "tough mother (outermost meningeal layer)",
+      "options": [
+        "tough mother (outermost meningeal layer)",
+        "soft mother (innermost meningeal layer)",
+        "spidery middle meningeal layer",
+        "delicate inner brain lining"
+      ],
+      "explanation": {
+        "en": "'Dura mater' = tough mother (dura = tough/hard; mater = mother — ancient anatomists called the meninges 'mothers' of the brain). Example: A subdural haematoma — bleeding between the dura mater and the arachnoid mater — is a neurosurgical emergency seen after head trauma. The dura is the outermost, toughest of the three meningeal layers (dura, arachnoid, pia)."
+      }
+    }
+  ]
+}

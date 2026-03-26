@@ -1,0 +1,637 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "la-third-declension-is-clinical-35",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Third Declension Clinical Core Exam Deck",
+      "de": "Medizinisches Latein — Prüfungsdeck zum klinischen Kernwortschatz der 3. Deklination"
+    },
+    "description": {
+      "en": "Refactored 35-card exam deck built from the teacher's third-declension core list. Includes clinically framed multiple-choice questions, coherent answer options, and concise explanations with usage examples. Example: 'auris' means ear; Example: otitis media affects the middle ear.",
+      "de": "Überarbeitetes Prüfungsdeck mit 35 Karten auf Basis der Kernliste der 3. Deklination aus dem Dozentendeck. Enthält klinisch gerahmte Multiple-Choice-Fragen, kohärente Antwortoptionen und knappe Erklärungen mit Beispielen. Example: 'auris' bedeutet Ohr; Example: otitis media betrifft das Mittelohr."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "third-declension",
+      "clinical-core",
+      "anatomy",
+      "pathology",
+      "dental",
+      "ENT",
+      "pharmacology",
+      "learncards",
+      "exam",
+      "premium"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 30,
+    "cardCount": 35,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    },
+    "source": {
+      "file": "user-provided 35-term list",
+      "exam": "Medical Latin terminology"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "is-clinical-001",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'axis, is, m'?"
+      },
+      "correctAnswer": "axis; central line / C2 vertebra",
+      "options": [
+        "death",
+        "axis; central line / C2 vertebra",
+        "lens",
+        "tooth"
+      ],
+      "explanation": {
+        "en": "axis, is, m means 'axis; central line / C2 vertebra'. Example: In anatomy, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-002",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'canalis, is, m'?"
+      },
+      "correctAnswer": "canal",
+      "options": [
+        "canal",
+        "foxglove",
+        "nostril",
+        "stem"
+      ],
+      "explanation": {
+        "en": "canalis, is, m means 'canal'. Example: In anatomy, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-003",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'penis, is, m'?"
+      },
+      "correctAnswer": "penis",
+      "options": [
+        "bridge (brainstem structure)",
+        "nail",
+        "plague",
+        "penis"
+      ],
+      "explanation": {
+        "en": "penis, is, m means 'penis'. Example: In anatomy, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-004",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'testis, is, m'?"
+      },
+      "correctAnswer": "testis",
+      "options": [
+        "lime",
+        "sepsis",
+        "testis",
+        "bridge (brainstem structure)"
+      ],
+      "explanation": {
+        "en": "testis, is, m means 'testis'. Example: In anatomy, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-005",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'unguis, is, m'?"
+      },
+      "correctAnswer": "nail",
+      "options": [
+        "base",
+        "worm",
+        "nail",
+        "foxglove"
+      ],
+      "explanation": {
+        "en": "unguis, is, m means 'nail'. Example: In dermatology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-006",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'vermis, is, m'?"
+      },
+      "correctAnswer": "worm",
+      "options": [
+        "base",
+        "worm",
+        "stem",
+        "plague"
+      ],
+      "explanation": {
+        "en": "vermis, is, m means 'worm'. Example: In anatomy, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-007",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'mensis, is, m'?"
+      },
+      "correctAnswer": "month",
+      "options": [
+        "lime",
+        "penis",
+        "month",
+        "death"
+      ],
+      "explanation": {
+        "en": "mensis, is, m means 'month'. Example: In general, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-008",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'menses, ium, m (pl.)'?"
+      },
+      "correctAnswer": "menstrual period",
+      "options": [
+        "part",
+        "bridge (brainstem structure)",
+        "menstrual period",
+        "month"
+      ],
+      "explanation": {
+        "en": "menses, ium, m (pl.) means 'menstrual period'. Example: In gynecology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-009",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'cutis, is, f'?"
+      },
+      "correctAnswer": "skin",
+      "options": [
+        "skin",
+        "bile",
+        "hemp plant",
+        "menstrual period"
+      ],
+      "explanation": {
+        "en": "cutis, is, f means 'skin'. Example: In dermatology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-010",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'bilis, is, f'?"
+      },
+      "correctAnswer": "bile",
+      "options": [
+        "tooth",
+        "bile",
+        "syphilis",
+        "ear"
+      ],
+      "explanation": {
+        "en": "bilis, is, f means 'bile'. Example: In hepatology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-011",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'naris, is, f'?"
+      },
+      "correctAnswer": "nostril",
+      "options": [
+        "mustard",
+        "nostril",
+        "hemp plant",
+        "testis"
+      ],
+      "explanation": {
+        "en": "naris, is, f means 'nostril'. Example: In ENT, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-012",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'lues, is, f'?"
+      },
+      "correctAnswer": "syphilis",
+      "options": [
+        "worm",
+        "menstrual period",
+        "night",
+        "syphilis"
+      ],
+      "explanation": {
+        "en": "lues, is, f means 'syphilis'. Example: In infectious disease, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-013",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'pestis, is, f'?"
+      },
+      "correctAnswer": "plague",
+      "options": [
+        "stem",
+        "plague",
+        "lens",
+        "part"
+      ],
+      "explanation": {
+        "en": "pestis, is, f means 'plague'. Example: In infectious disease, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-014",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'pubes, is, f'?"
+      },
+      "correctAnswer": "pubic hair",
+      "options": [
+        "axis; central line / C2 vertebra",
+        "pubic hair",
+        "skin",
+        "nail"
+      ],
+      "explanation": {
+        "en": "pubes, is, f means 'pubic hair'. Example: In anatomy, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-015",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'sepsis, is, f'?"
+      },
+      "correctAnswer": "sepsis",
+      "options": [
+        "nail",
+        "sepsis",
+        "mind",
+        "worm"
+      ],
+      "explanation": {
+        "en": "sepsis, is, f means 'sepsis'. Example: In infectious disease, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-016",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'tabes, is, f'?"
+      },
+      "correctAnswer": "progressive wasting disease",
+      "options": [
+        "progressive wasting disease",
+        "tooth",
+        "ear",
+        "bee glue"
+      ],
+      "explanation": {
+        "en": "tabes, is, f means 'progressive wasting disease'. Example: In pathology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-017",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'dens, dentis, m'?"
+      },
+      "correctAnswer": "tooth",
+      "options": [
+        "tooth",
+        "pubic hair",
+        "nostril",
+        "dose"
+      ],
+      "explanation": {
+        "en": "dens, dentis, m means 'tooth'. Example: In dental, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-018",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'lens, lentis, f'?"
+      },
+      "correctAnswer": "lens",
+      "options": [
+        "lens",
+        "nostril",
+        "force",
+        "night"
+      ],
+      "explanation": {
+        "en": "lens, lentis, f means 'lens'. Example: In ophthalmology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-019",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'mens, mentis, f'?"
+      },
+      "correctAnswer": "mind",
+      "options": [
+        "canal",
+        "mind",
+        "nostril",
+        "dose"
+      ],
+      "explanation": {
+        "en": "mens, mentis, f means 'mind'. Example: In psychiatry, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-020",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'mors, mortis, f'?"
+      },
+      "correctAnswer": "death",
+      "options": [
+        "month",
+        "death",
+        "axis; central line / C2 vertebra",
+        "canal"
+      ],
+      "explanation": {
+        "en": "mors, mortis, f means 'death'. Example: In pathology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-021",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'pars, partis, f'?"
+      },
+      "correctAnswer": "part",
+      "options": [
+        "part",
+        "progressive wasting disease",
+        "foxglove",
+        "sepsis"
+      ],
+      "explanation": {
+        "en": "pars, partis, f means 'part'. Example: In general, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-022",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'pons, pontis, m'?"
+      },
+      "correctAnswer": "bridge (brainstem structure)",
+      "options": [
+        "foxglove",
+        "hemp plant",
+        "force",
+        "bridge (brainstem structure)"
+      ],
+      "explanation": {
+        "en": "pons, pontis, m means 'bridge (brainstem structure)'. Example: In neuro, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-023",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'caulis, is, m'?"
+      },
+      "correctAnswer": "stem",
+      "options": [
+        "nostril",
+        "skin",
+        "stem",
+        "death"
+      ],
+      "explanation": {
+        "en": "caulis, is, m means 'stem'. Example: In botany, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-024",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'basis, is, f'?"
+      },
+      "correctAnswer": "base",
+      "options": [
+        "testis",
+        "progressive wasting disease",
+        "syphilis",
+        "base"
+      ],
+      "explanation": {
+        "en": "basis, is, f means 'base'. Example: In anatomy, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-025",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'dosis, is, f'?"
+      },
+      "correctAnswer": "dose",
+      "options": [
+        "dose",
+        "force",
+        "ear",
+        "skin"
+      ],
+      "explanation": {
+        "en": "dosis, is, f means 'dose'. Example: In pharmacology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-026",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'fons, fontis, m'?"
+      },
+      "correctAnswer": "spring / source",
+      "options": [
+        "penis",
+        "canal",
+        "spring / source",
+        "mustard"
+      ],
+      "explanation": {
+        "en": "fons, fontis, m means 'spring / source'. Example: In general, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-027",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'propolis, is, f'?"
+      },
+      "correctAnswer": "bee glue",
+      "options": [
+        "lime",
+        "foxglove",
+        "testis",
+        "bee glue"
+      ],
+      "explanation": {
+        "en": "propolis, is, f means 'bee glue'. Example: In pharmacy, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-028",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'calx, calcis, f'?"
+      },
+      "correctAnswer": "lime",
+      "options": [
+        "tooth",
+        "lime",
+        "mind",
+        "hemp plant"
+      ],
+      "explanation": {
+        "en": "calx, calcis, f means 'lime'. Example: In chemistry, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-029",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'nox, noctis, f'?"
+      },
+      "correctAnswer": "night",
+      "options": [
+        "ear",
+        "night",
+        "lime",
+        "spring / source"
+      ],
+      "explanation": {
+        "en": "nox, noctis, f means 'night'. Example: In general, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-030",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'vis, vires, f'?"
+      },
+      "correctAnswer": "force",
+      "options": [
+        "hemp plant",
+        "night",
+        "force",
+        "base"
+      ],
+      "explanation": {
+        "en": "vis, vires, f means 'force'. Example: In general, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-031",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'Cannabis, is, f'?"
+      },
+      "correctAnswer": "hemp plant",
+      "options": [
+        "worm",
+        "hemp plant",
+        "mustard",
+        "testis"
+      ],
+      "explanation": {
+        "en": "Cannabis, is, f means 'hemp plant'. Example: In pharmacology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-032",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'Digitalis, is, f'?"
+      },
+      "correctAnswer": "foxglove",
+      "options": [
+        "canal",
+        "foxglove",
+        "bee glue",
+        "bridge (brainstem structure)"
+      ],
+      "explanation": {
+        "en": "Digitalis, is, f means 'foxglove'. Example: In pharmacology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-033",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'Sinapis, is, f'?"
+      },
+      "correctAnswer": "mustard",
+      "options": [
+        "base",
+        "dose",
+        "ear",
+        "mustard"
+      ],
+      "explanation": {
+        "en": "Sinapis, is, f means 'mustard'. Example: In pharmacology, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-034",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'infans, infantis, mf'?"
+      },
+      "correctAnswer": "infant",
+      "options": [
+        "menstrual period",
+        "mustard",
+        "infant",
+        "pubic hair"
+      ],
+      "explanation": {
+        "en": "infans, infantis, mf means 'infant'. Example: In pediatrics, this term is commonly used clinically."
+      }
+    },
+    {
+      "cardId": "is-clinical-035",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct meaning of 'auris, is, f'?"
+      },
+      "correctAnswer": "ear",
+      "options": [
+        "menstrual period",
+        "progressive wasting disease",
+        "ear",
+        "force"
+      ],
+      "explanation": {
+        "en": "auris, is, f means 'ear'. Example: In ENT, this term is commonly used clinically."
+      }
+    }
+  ]
+}

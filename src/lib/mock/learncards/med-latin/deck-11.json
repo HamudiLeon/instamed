@@ -1,0 +1,1261 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-adjectives-first-second-declensions-supplement-extra",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Adjectives of the 1st and 2nd Declensions: Supplemental Practice",
+      "de": "Medizinisches Latein — Adjektive der 1. und 2. Deklination: Ergänzende Übung"
+    },
+    "description": {
+      "en": "Supplemental practice deck for first-year Medical Latin. It extends the core deck on 1st- and 2nd-declension adjectives with additional high-yield vocabulary, pattern recognition, concord practice, and clinically relevant meanings. Designed as reinforcement beyond the essential core set.",
+      "de": "Ergänzendes Übungsdeck für Medizinisches Latein im ersten Studienjahr. Es erweitert das Kerndeck zu den Adjektiven der 1. und 2. Deklination durch zusätzlichen prüfungsrelevanten Wortschatz, Mustererkennung, Kongruenztraining und klinisch relevante Bedeutungen. Es dient der Vertiefung über das essentielle Kernset hinaus."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "adjectives",
+      "first-declension",
+      "second-declension",
+      "supplement",
+      "agreement",
+      "grammar",
+      "anatomy",
+      "clinical",
+      "exam"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 110,
+    "cardCount": 72,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "adj12x-001",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'flavus, a, um' mean?"
+      },
+      "correctAnswer": "yellow",
+      "options": [
+        "yellow",
+        "gray",
+        "bitter",
+        "deep"
+      ],
+      "explanation": {
+        "en": "flavus means yellow or golden-yellow. Do not confuse it with luteus; both can denote yellow, but each must be memorized as a separate lexical item."
+      }
+    },
+    {
+      "cardId": "adj12x-002",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'luteus, a, um' mean?"
+      },
+      "correctAnswer": "yellow",
+      "options": [
+        "yellow",
+        "red",
+        "gray",
+        "milky"
+      ],
+      "explanation": {
+        "en": "luteus means yellow. Learn it separately from flavus even though both can refer to yellow coloration."
+      }
+    },
+    {
+      "cardId": "adj12x-003",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'griseus, a, um' mean?"
+      },
+      "correctAnswer": "gray",
+      "options": [
+        "gray",
+        "green",
+        "solid",
+        "white"
+      ],
+      "explanation": {
+        "en": "griseus means gray. Color adjectives are easy to confuse, so they are worth drilling separately."
+      }
+    },
+    {
+      "cardId": "adj12x-004",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'alimentarius, a, um' mean?"
+      },
+      "correctAnswer": "pertaining to food or nutrition",
+      "options": [
+        "pertaining to food or nutrition",
+        "digestive only in the enzymatic sense",
+        "related to bone",
+        "blind or invisible"
+      ],
+      "explanation": {
+        "en": "alimentarius means alimentary, relating to food, nutrition, or the digestive tract. It is broader than a purely biochemical sense of digestion."
+      }
+    },
+    {
+      "cardId": "adj12x-005",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'caecus, a, um' mean?"
+      },
+      "correctAnswer": "blind",
+      "options": [
+        "blind",
+        "hidden",
+        "left-sided",
+        "hollow"
+      ],
+      "explanation": {
+        "en": "caecus means blind. In anatomy it can describe a blind pouch or cul-de-sac type structure."
+      }
+    },
+    {
+      "cardId": "adj12x-006",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'caninus, a, um' mean?"
+      },
+      "correctAnswer": "canine",
+      "options": [
+        "canine",
+        "masticatory",
+        "thoracic",
+        "spurious"
+      ],
+      "explanation": {
+        "en": "caninus means canine. In medical context it often refers specifically to the canine tooth."
+      }
+    },
+    {
+      "cardId": "adj12x-007",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'cavus, a, um' mean?"
+      },
+      "correctAnswer": "hollow",
+      "options": [
+        "hollow",
+        "dense",
+        "wide",
+        "oblique"
+      ],
+      "explanation": {
+        "en": "cavus means hollow. A classic fixed association is vena cava."
+      }
+    },
+    {
+      "cardId": "adj12x-008",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'crassus, a, um' mean?"
+      },
+      "correctAnswer": "thick, dense, solid, gross",
+      "options": [
+        "thick, dense, solid, gross",
+        "thin and delicate",
+        "sweet",
+        "dry"
+      ],
+      "explanation": {
+        "en": "crassus means thick, dense, or gross. It is useful in descriptive anatomy and pathology."
+      }
+    },
+    {
+      "cardId": "adj12x-009",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'cruciatus, a, um' mean?"
+      },
+      "correctAnswer": "cross-shaped",
+      "options": [
+        "cross-shaped",
+        "toothed",
+        "wing-shaped",
+        "triangular"
+      ],
+      "explanation": {
+        "en": "cruciatus means cruciate, shaped like a cross. High-yield because of ligament terminology."
+      }
+    },
+    {
+      "cardId": "adj12x-010",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'digestivus, a, um' mean?"
+      },
+      "correctAnswer": "digestive",
+      "options": [
+        "digestive",
+        "gustatory",
+        "urinary",
+        "nervous"
+      ],
+      "explanation": {
+        "en": "digestivus means digestive. Keep it distinct from digestorius, even though the meanings overlap."
+      }
+    },
+    {
+      "cardId": "adj12x-011",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'digestorius, a, um' mean?"
+      },
+      "correctAnswer": "digestive",
+      "options": [
+        "digestive",
+        "olfactory",
+        "thoracic",
+        "hereditary"
+      ],
+      "explanation": {
+        "en": "digestorius also means digestive. Learn both forms separately if both are given in the course material."
+      }
+    },
+    {
+      "cardId": "adj12x-012",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'durus, a, um' mean?"
+      },
+      "correctAnswer": "hard",
+      "options": [
+        "hard",
+        "humid",
+        "bitter",
+        "alive"
+      ],
+      "explanation": {
+        "en": "durus means hard. It is a basic but important descriptive adjective in anatomy and pathology."
+      }
+    },
+    {
+      "cardId": "adj12x-013",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'felleus, a, um' mean?"
+      },
+      "correctAnswer": "relating to bile or gall",
+      "options": [
+        "relating to bile or gall",
+        "relating to fat",
+        "relating to blood",
+        "relating to smell"
+      ],
+      "explanation": {
+        "en": "felleus means relating to bile or gall. Anchor it to the semantic field of bile."
+      }
+    },
+    {
+      "cardId": "adj12x-014",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'lacteus, a, um' mean?"
+      },
+      "correctAnswer": "milky",
+      "options": [
+        "milky",
+        "gelatinous",
+        "liquid",
+        "false"
+      ],
+      "explanation": {
+        "en": "lacteus means milky or lacteal. It is useful in lymphatic and secretion-related terminology."
+      }
+    },
+    {
+      "cardId": "adj12x-015",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'latus, a, um' mean?"
+      },
+      "correctAnswer": "broad, wide",
+      "options": [
+        "broad, wide",
+        "deep",
+        "transverse",
+        "middle"
+      ],
+      "explanation": {
+        "en": "latus means broad or wide. Do not confuse it with English laterality terms."
+      }
+    },
+    {
+      "cardId": "adj12x-016",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'longus, a, um' mean?"
+      },
+      "correctAnswer": "long",
+      "options": [
+        "long",
+        "large",
+        "small",
+        "slow"
+      ],
+      "explanation": {
+        "en": "longus means long. It is common in anatomical naming and should be recalled automatically."
+      }
+    },
+    {
+      "cardId": "adj12x-017",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'magnus, a, um' mean?"
+      },
+      "correctAnswer": "large, great",
+      "options": [
+        "large, great",
+        "middle",
+        "premature",
+        "cold"
+      ],
+      "explanation": {
+        "en": "magnus means large or great. Keep it distinct from latus, which refers to width."
+      }
+    },
+    {
+      "cardId": "adj12x-018",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'parvus, a, um' mean?"
+      },
+      "correctAnswer": "small, little",
+      "options": [
+        "small, little",
+        "many, a lot",
+        "young",
+        "left"
+      ],
+      "explanation": {
+        "en": "parvus means small or little. It often functions as the contrast term to magnus."
+      }
+    },
+    {
+      "cardId": "adj12x-019",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'medianus, a, um' mean?"
+      },
+      "correctAnswer": "median, situated in the middle",
+      "options": [
+        "median, situated in the middle",
+        "middle in a general nontechnical sense only",
+        "oblique",
+        "straight"
+      ],
+      "explanation": {
+        "en": "medianus means median, especially situated in the middle of a body or structure. Differentiate it from medius."
+      }
+    },
+    {
+      "cardId": "adj12x-020",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'medius, a, um' mean?"
+      },
+      "correctAnswer": "middle",
+      "options": [
+        "middle",
+        "median line only",
+        "transverse",
+        "deep"
+      ],
+      "explanation": {
+        "en": "medius means middle. It is broader than the more technical anatomical adjective medianus."
+      }
+    },
+    {
+      "cardId": "adj12x-021",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'nervosus, a, um' mean?"
+      },
+      "correctAnswer": "nervous, relating to nerves",
+      "options": [
+        "nervous, relating to nerves",
+        "contagious",
+        "digestive",
+        "acquired"
+      ],
+      "explanation": {
+        "en": "nervosus means nervous, relating to nerves or the nervous system. Do not confuse it with modern psychological English usage."
+      }
+    },
+    {
+      "cardId": "adj12x-022",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'obliquus, a, um' mean?"
+      },
+      "correctAnswer": "at an angle",
+      "options": [
+        "at an angle",
+        "straight",
+        "cross-shaped",
+        "toothed"
+      ],
+      "explanation": {
+        "en": "obliquus means oblique, at an angle or slanting. High-yield because of the abdominal oblique muscles."
+      }
+    },
+    {
+      "cardId": "adj12x-023",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'profundus, a, um' mean?"
+      },
+      "correctAnswer": "deep",
+      "options": [
+        "deep",
+        "superficial",
+        "broad",
+        "compact"
+      ],
+      "explanation": {
+        "en": "profundus means deep. It is a common anatomical contrast term."
+      }
+    },
+    {
+      "cardId": "adj12x-024",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'proprius, a, um' mean?"
+      },
+      "correctAnswer": "one's own",
+      "options": [
+        "one's own",
+        "foreign",
+        "false",
+        "incomplete"
+      ],
+      "explanation": {
+        "en": "proprius means proper or one's own. It often marks an intrinsic relation of a structure."
+      }
+    },
+    {
+      "cardId": "adj12x-025",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'rectus, a, um' mean?"
+      },
+      "correctAnswer": "straight",
+      "options": [
+        "straight",
+        "left-sided",
+        "broad",
+        "humid"
+      ],
+      "explanation": {
+        "en": "rectus means straight. It is a major anatomical adjective, especially in muscle terminology."
+      }
+    },
+    {
+      "cardId": "adj12x-026",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'sanguineus, a, um' mean?"
+      },
+      "correctAnswer": "relating to blood, bloody",
+      "options": [
+        "relating to blood, bloody",
+        "relating to bile",
+        "relating to bone",
+        "relating to smell"
+      ],
+      "explanation": {
+        "en": "sanguineus means sanguineous, relating to blood. This is an important semantic field in anatomy and pathology."
+      }
+    },
+    {
+      "cardId": "adj12x-027",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'serratus, a, um' mean?"
+      },
+      "correctAnswer": "saw-shaped",
+      "options": [
+        "saw-shaped",
+        "triangular",
+        "egg-shaped",
+        "spider-web-like"
+      ],
+      "explanation": {
+        "en": "serratus means serrated or saw-shaped. It is high-yield because of muscle nomenclature."
+      }
+    },
+    {
+      "cardId": "adj12x-028",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'dentatus, a, um' mean?"
+      },
+      "correctAnswer": "toothed",
+      "options": [
+        "toothed",
+        "hooked",
+        "milky",
+        "compact"
+      ],
+      "explanation": {
+        "en": "dentatus means dentate or toothed. The main recall anchor is the image of teeth."
+      }
+    },
+    {
+      "cardId": "adj12x-029",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'novus, a, um' mean?"
+      },
+      "correctAnswer": "new, fresh, recent",
+      "options": [
+        "new, fresh, recent",
+        "old",
+        "true",
+        "chronic"
+      ],
+      "explanation": {
+        "en": "novus means new, fresh, or recent. It is a straightforward but useful temporal adjective."
+      }
+    },
+    {
+      "cardId": "adj12x-030",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'spurius, a, um' mean?"
+      },
+      "correctAnswer": "false, not genuine",
+      "options": [
+        "false, not genuine",
+        "proper, one's own",
+        "true, genuine",
+        "acquired"
+      ],
+      "explanation": {
+        "en": "spurius means spurious or false. It is a useful contrast term against verus."
+      }
+    },
+    {
+      "cardId": "adj12x-031",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'verus, a, um' mean?"
+      },
+      "correctAnswer": "true, real, genuine",
+      "options": [
+        "true, real, genuine",
+        "false, not genuine",
+        "many",
+        "alive"
+      ],
+      "explanation": {
+        "en": "verus means true or genuine. Learn it as the contrast term to spurius."
+      }
+    },
+    {
+      "cardId": "adj12x-032",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'transversus, a, um' mean?"
+      },
+      "correctAnswer": "lying across",
+      "options": [
+        "lying across",
+        "vertical",
+        "right-sided",
+        "broad"
+      ],
+      "explanation": {
+        "en": "transversus means transverse, lying across an axis. It is important in anatomy and imaging orientation."
+      }
+    },
+    {
+      "cardId": "adj12x-033",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'trigeminus, a, um' mean?"
+      },
+      "correctAnswer": "literally threefold",
+      "options": [
+        "literally threefold",
+        "double",
+        "one-formed",
+        "left-sided"
+      ],
+      "explanation": {
+        "en": "trigeminus underlies trigeminal. The key recall point is threefold branching."
+      }
+    },
+    {
+      "cardId": "adj12x-034",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'acusticus, a, um' mean?"
+      },
+      "correctAnswer": "relating to sound or hearing",
+      "options": [
+        "relating to sound or hearing",
+        "olfactory",
+        "gustatory",
+        "visual"
+      ],
+      "explanation": {
+        "en": "acusticus means acoustic, relating to sound or hearing. The suffix -icus is a useful structural clue."
+      }
+    },
+    {
+      "cardId": "adj12x-035",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'monomorphicus, a, um' mean?"
+      },
+      "correctAnswer": "having one form",
+      "options": [
+        "having one form",
+        "many-formed",
+        "wing-shaped",
+        "triangular"
+      ],
+      "explanation": {
+        "en": "monomorphicus means monomorphic, having one form or shape. The memory anchor is mono- plus morph-."
+      }
+    },
+    {
+      "cardId": "adj12x-036",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'pleomorphicus, a, um' mean?"
+      },
+      "correctAnswer": "occurring in more than one form",
+      "options": [
+        "occurring in more than one form",
+        "single-formed",
+        "toothed",
+        "compact"
+      ],
+      "explanation": {
+        "en": "pleomorphicus means pleomorphic, occurring in more than one form. It is clinically useful in pathology."
+      }
+    },
+    {
+      "cardId": "adj12x-037",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'zygomaticus, a, um' mean?"
+      },
+      "correctAnswer": "relating to the cheekbone",
+      "options": [
+        "relating to the cheekbone",
+        "relating to the temple bone",
+        "relating to the jawbone",
+        "relating to the cheek soft tissue"
+      ],
+      "explanation": {
+        "en": "zygomaticus means zygomatic, relating to the cheekbone. It is important in craniofacial anatomy."
+      }
+    },
+    {
+      "cardId": "adj12x-038",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'arachnoideus, a, um' mean?"
+      },
+      "correctAnswer": "spider-web-like",
+      "options": [
+        "spider-web-like",
+        "egg-shaped",
+        "sword-shaped",
+        "crow-beak-shaped"
+      ],
+      "explanation": {
+        "en": "arachnoideus means arachnoid, resembling a spider's web. Very high-yield in neuroanatomy."
+      }
+    },
+    {
+      "cardId": "adj12x-039",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'coracoideus, a, um' mean?"
+      },
+      "correctAnswer": "crow-beak-shaped",
+      "options": [
+        "crow-beak-shaped",
+        "wing-shaped",
+        "delta-shaped",
+        "lambda-shaped"
+      ],
+      "explanation": {
+        "en": "coracoideus means coracoid, resembling a crow's beak. Shape imagery is the best memory anchor."
+      }
+    },
+    {
+      "cardId": "adj12x-040",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'deltoideus, a, um' mean?"
+      },
+      "correctAnswer": "triangular",
+      "options": [
+        "triangular",
+        "egg-shaped",
+        "saw-shaped",
+        "oblique"
+      ],
+      "explanation": {
+        "en": "deltoideus means deltoid, shaped like the Greek letter delta. The shape logic is preserved in the modern anatomical term."
+      }
+    },
+    {
+      "cardId": "adj12x-041",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'lambdoideus, a, um' mean?"
+      },
+      "correctAnswer": "lambda-shaped",
+      "options": [
+        "lambda-shaped",
+        "sword-shaped",
+        "wing-shaped",
+        "toothed"
+      ],
+      "explanation": {
+        "en": "lambdoideus means lambdoid, shaped like the Greek letter lambda. A useful skull-suture association."
+      }
+    },
+    {
+      "cardId": "adj12x-042",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'pterygoideus, a, um' mean?"
+      },
+      "correctAnswer": "wing-shaped",
+      "options": [
+        "wing-shaped",
+        "triangular",
+        "honey-sweet",
+        "deep"
+      ],
+      "explanation": {
+        "en": "pterygoideus means pterygoid, wing-shaped. This is a core cranial anatomy adjective."
+      }
+    },
+    {
+      "cardId": "adj12x-043",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'xiphoideus, a, um' mean?"
+      },
+      "correctAnswer": "sword-shaped",
+      "options": [
+        "sword-shaped",
+        "egg-shaped",
+        "saw-shaped",
+        "compact"
+      ],
+      "explanation": {
+        "en": "xiphoideus means xiphoid, sword-shaped. Tie it directly to the xiphoid process."
+      }
+    },
+    {
+      "cardId": "adj12x-044",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'acutus, a, um' mean?"
+      },
+      "correctAnswer": "acute, sharp",
+      "options": [
+        "acute, sharp",
+        "chronic",
+        "benign",
+        "premature"
+      ],
+      "explanation": {
+        "en": "acutus means acute or sharp. Clinically it often describes abrupt onset and contrasts with chronicus."
+      }
+    },
+    {
+      "cardId": "adj12x-045",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'chronicus, a, um' mean?"
+      },
+      "correctAnswer": "long-lasting or recurrent",
+      "options": [
+        "long-lasting or recurrent",
+        "acute, sharp",
+        "hereditary",
+        "contagious"
+      ],
+      "explanation": {
+        "en": "chronicus means chronic, long-lasting, or recurrent. It is a clinically essential contrast with acutus."
+      }
+    },
+    {
+      "cardId": "adj12x-046",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'hereditarius, a, um' mean?"
+      },
+      "correctAnswer": "hereditary",
+      "options": [
+        "hereditary",
+        "acquired",
+        "idiopathic",
+        "contagious"
+      ],
+      "explanation": {
+        "en": "hereditarius means hereditary, transmitted from parents to offspring. It is an important contrast term with acquisitus."
+      }
+    },
+    {
+      "cardId": "adj12x-047",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'contagiosus, a, um' mean?"
+      },
+      "correctAnswer": "contagious",
+      "options": [
+        "contagious",
+        "benign",
+        "dry",
+        "solid"
+      ],
+      "explanation": {
+        "en": "contagiosus means contagious. Clinically it refers to transmissibility by contact."
+      }
+    },
+    {
+      "cardId": "adj12x-048",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'idiopathicus, a, um' mean?"
+      },
+      "correctAnswer": "of unknown cause",
+      "options": [
+        "of unknown cause",
+        "hereditary",
+        "purulent",
+        "premature"
+      ],
+      "explanation": {
+        "en": "idiopathicus means idiopathic, of unknown cause. This is a core clinical adjective."
+      }
+    },
+    {
+      "cardId": "adj12x-049",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'malus, a, um' mean?"
+      },
+      "correctAnswer": "bad",
+      "options": [
+        "bad",
+        "good",
+        "sweet",
+        "true"
+      ],
+      "explanation": {
+        "en": "malus means bad or harmful. It is the direct conceptual counterpart to bonus."
+      }
+    },
+    {
+      "cardId": "adj12x-050",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'mortuus, a, um' mean?"
+      },
+      "correctAnswer": "dead",
+      "options": [
+        "dead",
+        "alive",
+        "tardy",
+        "cold"
+      ],
+      "explanation": {
+        "en": "mortuus means dead. It is useful in fixed expressions and derivative recognition."
+      }
+    },
+    {
+      "cardId": "adj12x-051",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'multus, a, um' mean?"
+      },
+      "correctAnswer": "many",
+      "options": [
+        "many",
+        "few",
+        "small",
+        "new"
+      ],
+      "explanation": {
+        "en": "multus means many or much. It is a basic quantitative adjective that deserves fast recall."
+      }
+    },
+    {
+      "cardId": "adj12x-052",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'perniciosus, a, um' mean?"
+      },
+      "correctAnswer": "harmful, destructive",
+      "options": [
+        "harmful, destructive",
+        "benign, mild",
+        "contagious",
+        "true"
+      ],
+      "explanation": {
+        "en": "perniciosus means pernicious, harmful, or destructive. It is a clinically loaded descriptor."
+      }
+    },
+    {
+      "cardId": "adj12x-053",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'praematurus, a, um' mean?"
+      },
+      "correctAnswer": "occurring before the expected time",
+      "options": [
+        "occurring before the expected time",
+        "delayed, occurring after the expected time",
+        "accelerated, developing faster than normal",
+        "deficient, lacking full development"
+      ],
+      "explanation": {
+        "en": "praematurus means premature, occurring before the expected or natural time. The key recall point is the prefix prae-, meaning before."
+      }
+    },
+    {
+      "cardId": "adj12x-054",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'sebaceus, a, um' mean?"
+      },
+      "correctAnswer": "relating to sebum (fatty secretion of the skin)",
+      "options": [
+        "relating to sebum (fatty secretion of the skin)",
+        "relating to sweat (sudoriferous secretion)",
+        "relating to mucus (mucosal secretion)",
+        "relating to bile (biliary secretion)"
+      ],
+      "explanation": {
+        "en": "sebaceus means sebaceous, relating to sebum and sebaceous glands. Distinguish it from adjectives referring to sweat, mucus, or bile."
+      }
+    },
+    {
+      "cardId": "adj12x-055",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'siccus, a, um' mean?"
+      },
+      "correctAnswer": "dry",
+      "options": [
+        "dry",
+        "humid",
+        "liquid",
+        "solid"
+      ],
+      "explanation": {
+        "en": "siccus means dry. It is a useful contrast term against humidus and fluidus/liquidus."
+      }
+    },
+    {
+      "cardId": "adj12x-056",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'tardus, a, um' mean?"
+      },
+      "correctAnswer": "slow, late",
+      "options": [
+        "slow, late",
+        "early",
+        "deep",
+        "sharp"
+      ],
+      "explanation": {
+        "en": "tardus means slow or late. The meaning is temporal or functional slowness, not size."
+      }
+    },
+    {
+      "cardId": "adj12x-057",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'vivus, a, um' mean?"
+      },
+      "correctAnswer": "living, alive",
+      "options": [
+        "living, alive",
+        "dead",
+        "solid",
+        "false"
+      ],
+      "explanation": {
+        "en": "vivus means alive or living. Learn it as the direct opposite of mortuus."
+      }
+    },
+    {
+      "cardId": "adj12x-058",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'amarus, a, um' mean?"
+      },
+      "correctAnswer": "bitter",
+      "options": [
+        "bitter",
+        "sweet",
+        "tasteless",
+        "warm"
+      ],
+      "explanation": {
+        "en": "amarus means bitter. It is a useful sensory adjective."
+      }
+    },
+    {
+      "cardId": "adj12x-059",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'amylaceus, a, um' mean?"
+      },
+      "correctAnswer": "starchy",
+      "options": [
+        "starchy",
+        "gelatinous",
+        "liquid",
+        "milky"
+      ],
+      "explanation": {
+        "en": "amylaceus means amylaceous or starchy. It is less common clinically but worth keeping if present in the source set."
+      }
+    },
+    {
+      "cardId": "adj12x-060",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'gelatinosus, a, um' mean?"
+      },
+      "correctAnswer": "gelatinous",
+      "options": [
+        "gelatinous",
+        "solid",
+        "dry",
+        "sharp"
+      ],
+      "explanation": {
+        "en": "gelatinosus means gelatinous. Texture adjectives like this often appear in pathology descriptions."
+      }
+    },
+    {
+      "cardId": "adj12x-061",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'analgeticus, a, um' mean?"
+      },
+      "correctAnswer": "pain-relieving",
+      "options": [
+        "pain-relieving",
+        "anti-inflammatory",
+        "contagious",
+        "gustatory"
+      ],
+      "explanation": {
+        "en": "analgeticus means analgesic or pain-relieving. It is a clinically important pharmacologic adjective."
+      }
+    },
+    {
+      "cardId": "adj12x-062",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'calidus, a, um' mean?"
+      },
+      "correctAnswer": "warm",
+      "options": [
+        "warm",
+        "cold",
+        "humid",
+        "bitter"
+      ],
+      "explanation": {
+        "en": "calidus means warm. It is a basic physical descriptor and contrasts with frigidus."
+      }
+    },
+    {
+      "cardId": "adj12x-063",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'fluidus, a, um' mean?"
+      },
+      "correctAnswer": "liquid",
+      "options": [
+        "liquid",
+        "solid",
+        "dry",
+        "compact"
+      ],
+      "explanation": {
+        "en": "fluidus means fluid or liquid. Keep it distinct from solidus and note its overlap with liquidus."
+      }
+    },
+    {
+      "cardId": "adj12x-064",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'liquidus, a, um' mean?"
+      },
+      "correctAnswer": "fluid",
+      "options": [
+        "fluid",
+        "solid, firm",
+        "humid",
+        "premature"
+      ],
+      "explanation": {
+        "en": "liquidus means liquid or fluid. It is close in meaning to fluidus."
+      }
+    },
+    {
+      "cardId": "adj12x-065",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'succedaneus, a, um' mean?"
+      },
+      "correctAnswer": "substitute",
+      "options": [
+        "substitute",
+        "hereditary",
+        "premature",
+        "left-sided"
+      ],
+      "explanation": {
+        "en": "succedaneus means serving as a substitute or replacement. This can be clinically useful in dentistry and therapeutics."
+      }
+    },
+    {
+      "cardId": "adj12x-066",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'frigidus, a, um' mean?"
+      },
+      "correctAnswer": "cold",
+      "options": [
+        "cold",
+        "warm",
+        "dry",
+        "alive"
+      ],
+      "explanation": {
+        "en": "frigidus means cold or frigid. It is the clear contrast term to calidus."
+      }
+    },
+    {
+      "cardId": "adj12x-067",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'solidus, a, um' mean?"
+      },
+      "correctAnswer": "solid",
+      "options": [
+        "solid",
+        "liquid",
+        "humid",
+        "wide"
+      ],
+      "explanation": {
+        "en": "solidus means solid, firm, or compact. It contrasts strongly with fluidus and liquidus."
+      }
+    },
+    {
+      "cardId": "adj12x-068",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'humidus, a, um' mean?"
+      },
+      "correctAnswer": "moist",
+      "options": [
+        "moist",
+        "dry",
+        "cold",
+        "many"
+      ],
+      "explanation": {
+        "en": "humidus means humid or moist. It is a good contrast item with siccus."
+      }
+    },
+    {
+      "cardId": "adj12x-069",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'ruber, bra, brum' mean?"
+      },
+      "correctAnswer": "red",
+      "options": [
+        "red",
+        "black",
+        "yellow",
+        "gray"
+      ],
+      "explanation": {
+        "en": "ruber means red. This is an -er adjective, so the masculine nominative differs from the feminine and neuter forms."
+      }
+    },
+    {
+      "cardId": "adj12x-070",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'sinister, tra, trum' mean?"
+      },
+      "correctAnswer": "left, left-sided",
+      "options": [
+        "left, left-sided",
+        "right, right-sided",
+        "middle",
+        "oblique"
+      ],
+      "explanation": {
+        "en": "sinister means left or left-sided. It pairs naturally with dexter in anatomical laterality."
+      }
+    },
+    {
+      "cardId": "adj12x-071",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'biventer, tra, trum' mean?"
+      },
+      "correctAnswer": "having two bellies",
+      "options": [
+        "having two bellies",
+        "threefold",
+        "double-jointed",
+        "cross-shaped"
+      ],
+      "explanation": {
+        "en": "biventer means two-bellied. It is best remembered through muscle terminology."
+      }
+    },
+    {
+      "cardId": "adj12x-072",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'circumflexus, a, um' mean?"
+      },
+      "correctAnswer": "curved",
+      "options": [
+        "curved",
+        "straight",
+        "transverse",
+        "deep"
+      ],
+      "explanation": {
+        "en": "circumflexus means circumflex or curved. Several arteries, veins, nerves, and muscles may carry this descriptor."
+      }
+    }
+  ]
+}

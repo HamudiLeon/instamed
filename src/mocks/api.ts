@@ -1,6 +1,9 @@
 import dayjs from "dayjs";
+import { loadMixedSessionReels, loadSessionReelsForDeck } from "@/lib/mock/sessionDeckAdapter";
+import { learnDeckRepo } from "@/lib/mock/learnDeckRepo";
 import { channels, creators } from "@/mocks/channels";
 import { reels } from "@/mocks/reels";
+import { useChannelsStore } from "@/stores/channelsStore";
 import type { Channel, CreatorProfile, Reel } from "@/types/domain";
 
 const latency = async (ms = 220) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -15,12 +18,10 @@ const shuffle = <T,>(items: T[]) => {
 };
 
 const sortForYou = () => {
-  const imported = reels.filter((reel) => reel.tags.includes("studywithme-import"));
-  const remainder = reels.filter((reel) => !reel.tags.includes("studywithme-import"));
-  const byFreshness = [...remainder].sort(
+  const byFreshness = [...reels].sort(
     (left, right) => dayjs(right.createdAt).valueOf() - dayjs(left.createdAt).valueOf(),
   );
-  return [...shuffle(imported), ...shuffle(byFreshness.slice(0, 4)), ...byFreshness.slice(4)];
+  return [...shuffle(byFreshness.slice(0, 4)), ...byFreshness.slice(4)];
 };
 
 export const fetchChannels = async (): Promise<Channel[]> => {
@@ -47,13 +48,20 @@ export const fetchFeed = async ({
   if (channelId === "for-you") {
     source = sortForYou();
   } else if (channelId === "session:vocab") {
-    source = reels.filter((reel) => reel.tags.includes("session:vocab"));
+    const state = useChannelsStore.getState();
+    const ref = learnDeckRepo.getDeckRef(state.sessionTopicFolder, state.vocabDeckFileName);
+    source = ref ? await loadSessionReelsForDeck(ref) : [];
   } else if (channelId === "session:quiz") {
-    source = reels.filter((reel) => reel.tags.includes("session:quiz"));
+    const state = useChannelsStore.getState();
+    const ref = learnDeckRepo.getDeckRef(state.sessionTopicFolder, state.quizDeckFileName);
+    source = ref ? await loadSessionReelsForDeck(ref) : [];
   } else if (channelId === "session:mixed") {
-    const vocab = reels.filter((reel) => reel.tags.includes("session:vocab")).slice(0, 18);
-    const quiz = reels.filter((reel) => reel.tags.includes("session:quiz")).slice(0, 18);
-    source = [...vocab, ...quiz];
+    const state = useChannelsStore.getState();
+    source = await loadMixedSessionReels({
+      topicFolder: state.sessionTopicFolder,
+      vocabFileName: state.vocabDeckFileName,
+      quizFileName: state.quizDeckFileName,
+    });
   } else {
     source = reels.filter((reel) => reel.channels.includes(channelId));
   }

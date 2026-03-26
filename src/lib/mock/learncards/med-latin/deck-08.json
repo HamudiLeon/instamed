@@ -1,0 +1,1056 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-exam-traps-exceptions-core",
+  "meta": {
+    "title": {
+      "en": "Medical Latin & Greek — Exceptions and Traps",
+      "de": "Medizinisches Latein und Griechisch — Ausnahmen und Prüfungsfallen"
+    },
+    "description": {
+      "en": "High-yield discrimination deck for first-year Medical Latin and Greek. Focuses on exception forms, declension traps, hidden stems, Greek-versus-Latin confusions, and medically important look-alike terms that commonly produce exam errors. Designed to sharpen differential recognition, prevent predictable mistakes, and consolidate the distinctions most likely to fail under time pressure.",
+      "de": "Prüfungsorientiertes Hochrisiko-Deck für Medizinisches Latein und Griechisch im ersten Studienjahr. Im Mittelpunkt stehen Ausnahmeformen, Deklinationsfallen, verdeckte Stämme, griechisch-lateinische Verwechslungen sowie medizinisch wichtige, leicht verwechselbare Termini, die besonders häufig zu Prüfungsfehlern führen. Das Deck dient der präzisen Unterscheidung, der Vermeidung typischer Fehler und der Festigung jener Differenzen, die unter Zeitdruck am ehesten verloren gehen."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "greek",
+      "exceptions",
+      "traps",
+      "declensions",
+      "stems",
+      "look-alikes",
+      "terminology",
+      "exam"
+    ],
+    "difficulty": "advanced",
+    "estimatedMinutes": 90,
+    "cardCount": 60,
+    "languages": {
+      "source": "la-gr",
+      "target": "en"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "trap-001",
+      "type": "mcq",
+      "question": {
+        "en": "Why is a noun ending in nominative singular -es dangerous on the exam?"
+      },
+      "correctAnswer": "Because it may belong to 1st, 3rd, or 5th declension, so you must know the genitive.",
+      "options": [
+        "Because it is always 5th declension",
+        "Because it may belong to 1st, 3rd, or 5th declension, so you must know the genitive.",
+        "Because all -es nouns are Greek neuters",
+        "Because -es always marks plural"
+      ],
+      "explanation": {
+        "en": "Trap rule: nominative singular alone is not enough. Words ending in -es can belong to different declensions. You must memorize nominative + genitive + gender. Example: ascites, ae m (1st), paries, etis m (3rd), species, ei f (5th)."
+      }
+    },
+    {
+      "cardId": "trap-002",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'ascites'?"
+      },
+      "correctAnswer": "ascites, ae m",
+      "options": [
+        "ascites, ae m",
+        "ascites, is m",
+        "ascites, ei m",
+        "ascites, us m"
+      ],
+      "explanation": {
+        "en": "Exception trap: ascites looks like a 5th-declension -es noun, but it is 1st declension masculine: ascites, ae m. Meaning: ascites, abdominal fluid accumulation."
+      }
+    },
+    {
+      "cardId": "trap-003",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'paries'?"
+      },
+      "correctAnswer": "paries, etis m",
+      "options": [
+        "paries, etis m",
+        "paries, ei m",
+        "paries, ae m",
+        "paries, is f"
+      ],
+      "explanation": {
+        "en": "Trap: paries ends in -es but is not 5th declension. Correct entry: paries, etis m, 3rd declension. Meaning: wall."
+      }
+    },
+    {
+      "cardId": "trap-004",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'pes'?"
+      },
+      "correctAnswer": "pes, pedis m",
+      "options": [
+        "pes, pedis m",
+        "pes, ei m",
+        "pes, ae m",
+        "pes, us m"
+      ],
+      "explanation": {
+        "en": "Trap: pes does not look like it hides the stem ped-. Correct entry: pes, pedis m, 3rd declension. Meaning: foot. This is a classic hidden-stem noun."
+      }
+    },
+    {
+      "cardId": "trap-005",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'species'?"
+      },
+      "correctAnswer": "species, ei f",
+      "options": [
+        "species, ei f",
+        "species, etis f",
+        "species, ae f",
+        "species, is f"
+      ],
+      "explanation": {
+        "en": "species is truly 5th declension: species, ei f. Meaning: appearance, kind. Trap: do not confuse with 3rd-declension -es nouns."
+      }
+    },
+    {
+      "cardId": "trap-006",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'series'?"
+      },
+      "correctAnswer": "series, ei f",
+      "options": [
+        "series, ei f",
+        "series, etis f",
+        "series, ae f",
+        "series, is f"
+      ],
+      "explanation": {
+        "en": "series is 5th declension feminine: series, ei f. Meaning: series, row. Same trap class as species."
+      }
+    },
+    {
+      "cardId": "trap-007",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'rhaphe'?"
+      },
+      "correctAnswer": "rhaphe, es f",
+      "options": [
+        "rhaphe, es f",
+        "rhaphe, ae f",
+        "rhaphe, is f",
+        "rhaphe, i f"
+      ],
+      "explanation": {
+        "en": "Exception in the 1st declension list: rhaphe is Greek in origin. Correct entry: rhaphe, es f. Meaning: suture, seam. Trap: it sits with 1st-declension exceptions, so memorize the full entry exactly."
+      }
+    },
+    {
+      "cardId": "trap-008",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'diabetes'?"
+      },
+      "correctAnswer": "diabetes, ae m",
+      "options": [
+        "diabetes, ae m",
+        "diabetes, ei m",
+        "diabetes, is m",
+        "diabetes, us m"
+      ],
+      "explanation": {
+        "en": "Major exception word: diabetes, ae m. Meaning: diabetes. Trap: the form looks Greek and deceptive, but you must memorize the exact dictionary entry."
+      }
+    },
+    {
+      "cardId": "trap-009",
+      "type": "mcq",
+      "question": {
+        "en": "What is the safest way to determine a noun's declension?"
+      },
+      "correctAnswer": "Use the genitive singular ending.",
+      "options": [
+        "Use the nominative singular ending only",
+        "Use the genitive singular ending.",
+        "Use the English meaning only",
+        "Use whether it sounds Greek"
+      ],
+      "explanation": {
+        "en": "Core exam rule: the genitive singular is the reliable declension marker. \u2014ae = 1st, \u2014i = 2nd, \u2014is = 3rd, \u2014us = 4th, \u2014ei = 5th."
+      }
+    },
+    {
+      "cardId": "trap-010",
+      "type": "mcq",
+      "question": {
+        "en": "Which genitive ending marks 5th declension?"
+      },
+      "correctAnswer": "-ei",
+      "options": [
+        "-ae",
+        "-i",
+        "-is",
+        "-ei"
+      ],
+      "explanation": {
+        "en": "5th declension trap anchor: nominative may mislead, but genitive -ei identifies the declension. Example: species, ei f."
+      }
+    },
+    {
+      "cardId": "trap-011",
+      "type": "mcq",
+      "question": {
+        "en": "Which pair is correctly matched?"
+      },
+      "correctAnswer": "os, oris = mouth",
+      "options": [
+        "os, oris = mouth",
+        "os, oris = bone",
+        "os, ossis = mouth",
+        "os, ossis = ear"
+      ],
+      "explanation": {
+        "en": "Critical trap pair: os, oris n = mouth; os, ossis n = bone. Same nominative, different genitive, different meaning. This is exactly why dictionary entries matter."
+      }
+    },
+    {
+      "cardId": "trap-012",
+      "type": "mcq",
+      "question": {
+        "en": "Which pair is correctly matched?"
+      },
+      "correctAnswer": "os, ossis = bone",
+      "options": [
+        "os, ossis = bone",
+        "os, ossis = mouth",
+        "os, oris = bone",
+        "os, oris = vessel"
+      ],
+      "explanation": {
+        "en": "os, ossis n = bone. Meaning in English: bone. Trap versus os, oris n = mouth."
+      }
+    },
+    {
+      "cardId": "trap-013",
+      "type": "mcq",
+      "question": {
+        "en": "In the phrase 'Claude os, aperi oculos', what does 'os' mean?"
+      },
+      "correctAnswer": "mouth",
+      "options": [
+        "mouth",
+        "bone",
+        "face",
+        "ear"
+      ],
+      "explanation": {
+        "en": "Context trap: here os means mouth, not bone. Translation: 'Close your mouth, open your eyes.' This is a good context-based discriminator."
+      }
+    },
+    {
+      "cardId": "trap-014",
+      "type": "mcq",
+      "question": {
+        "en": "Which English adjective belongs to 'auris' and not to 'os, oris'?"
+      },
+      "correctAnswer": "aural",
+      "options": [
+        "aural",
+        "oral",
+        "osseous",
+        "ungual"
+      ],
+      "explanation": {
+        "en": "Near-sound trap: aural = relating to the ear (auris). oral = relating to the mouth (os, oris). The PDF explicitly warns that these sound alike in English."
+      }
+    },
+    {
+      "cardId": "trap-015",
+      "type": "mcq",
+      "question": {
+        "en": "Which English adjective belongs to 'os, oris' and not to 'auris'?"
+      },
+      "correctAnswer": "oral",
+      "options": [
+        "oral",
+        "aural",
+        "osseous",
+        "radicular"
+      ],
+      "explanation": {
+        "en": "oral = relating to the mouth (os, oris). Trap: oral and aural can sound similar, but they come from different Latin nouns."
+      }
+    },
+    {
+      "cardId": "trap-016",
+      "type": "mcq",
+      "question": {
+        "en": "Which pair is correctly distinguished?"
+      },
+      "correctAnswer": "dysphasia = speech disorder; dysphagia = difficulty swallowing",
+      "options": [
+        "dysphasia = speech disorder; dysphagia = difficulty swallowing",
+        "dysphasia = difficulty swallowing; dysphagia = speech disorder",
+        "Both mean difficulty swallowing",
+        "Both mean speech disorder"
+      ],
+      "explanation": {
+        "en": "Dangerous look-alike trap: dysphasia = disorder of speech; dysphagia = difficulty swallowing. One letter changes the system involved."
+      }
+    },
+    {
+      "cardId": "trap-017",
+      "type": "mcq",
+      "question": {
+        "en": "Which pair is correctly distinguished?"
+      },
+      "correctAnswer": "ileac relates to ileum/ileus; iliac relates to ilium",
+      "options": [
+        "ileac relates to ileum/ileus; iliac relates to ilium",
+        "ileac relates to ilium; iliac relates to ileum",
+        "Both relate to ilium only",
+        "Both relate to ileus only"
+      ],
+      "explanation": {
+        "en": "Spelling trap: ileac and iliac are not interchangeable. ileum = small intestine segment; ilium = pelvic bone. This matters clinically and anatomically."
+      }
+    },
+    {
+      "cardId": "trap-018",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'ilium' mean?"
+      },
+      "correctAnswer": "pelvic bone",
+      "options": [
+        "pelvic bone",
+        "last part of the small intestine",
+        "intestinal obstruction",
+        "jaw bone"
+      ],
+      "explanation": {
+        "en": "ilium = one of the pelvic bones. Trap with ileum. One letter changes anatomy completely."
+      }
+    },
+    {
+      "cardId": "trap-019",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'ileum' mean?"
+      },
+      "correctAnswer": "last part of the small intestine",
+      "options": [
+        "last part of the small intestine",
+        "pelvic bone",
+        "intestinal obstruction",
+        "common bile duct"
+      ],
+      "explanation": {
+        "en": "ileum = terminal part of the small intestine. Trap with ilium = pelvic bone."
+      }
+    },
+    {
+      "cardId": "trap-020",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'ileus' mean?"
+      },
+      "correctAnswer": "intestinal obstruction / loss of bowel motility",
+      "options": [
+        "intestinal obstruction / loss of bowel motility",
+        "pelvic bone",
+        "small intestine segment",
+        "mouth inflammation"
+      ],
+      "explanation": {
+        "en": "ileus = intestinal obstruction or loss of bowel motility. Triple trap set: ilium / ileum / ileus."
+      }
+    },
+    {
+      "cardId": "trap-021",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the Latin word for nail?"
+      },
+      "correctAnswer": "unguis",
+      "options": [
+        "unguis",
+        "onyx",
+        "dens",
+        "testis"
+      ],
+      "explanation": {
+        "en": "unguis = nail (Latin), dictionary entry: unguis, is m. Meaning: nail. Trap pair with Greek onyx, onychis m = nail."
+      }
+    },
+    {
+      "cardId": "trap-022",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the Greek word for nail?"
+      },
+      "correctAnswer": "onyx",
+      "options": [
+        "onyx",
+        "unguis",
+        "fel",
+        "testis"
+      ],
+      "explanation": {
+        "en": "onyx = nail (Greek), dictionary entry: onyx, onychis m. Meaning: nail. Trap: same meaning, different language root."
+      }
+    },
+    {
+      "cardId": "trap-023",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'fungal disease of the nails'?"
+      },
+      "correctAnswer": "onychomycosis",
+      "options": [
+        "onychomycosis",
+        "onychomalacia",
+        "pachyonychia",
+        "unguiculitis"
+      ],
+      "explanation": {
+        "en": "Greek-root trap family: onycho- = nail, myc- = fungus, -osis = abnormal condition. Meaning: fungal disease of the nails. Distinguish from pachyonychia = thick nails and onychomalacia = soft nails."
+      }
+    },
+    {
+      "cardId": "trap-024",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'abnormal thickening of the nails'?"
+      },
+      "correctAnswer": "pachyonychia",
+      "options": [
+        "pachyonychia",
+        "onychomycosis",
+        "onychomalacia",
+        "onychoptosis"
+      ],
+      "explanation": {
+        "en": "pachy- = thick, onych- = nail. Meaning: thick nails. Trap within the same nail family."
+      }
+    },
+    {
+      "cardId": "trap-025",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'abnormal softness of the nails'?"
+      },
+      "correctAnswer": "onychomalacia",
+      "options": [
+        "onychomalacia",
+        "pachyonychia",
+        "onychomycosis",
+        "onychia"
+      ],
+      "explanation": {
+        "en": "onycho- = nail, -malacia = softening. Meaning: softening of the nails. Trap against fungal disease and thickening."
+      }
+    },
+    {
+      "cardId": "trap-026",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'testis'?"
+      },
+      "correctAnswer": "testis, is m",
+      "options": [
+        "testis, is m",
+        "testis, ei m",
+        "testis, ae m",
+        "testis, us m"
+      ],
+      "explanation": {
+        "en": "testis, is m = testis. Meaning: male reproductive gland. Trap: another -is noun that must be memorized with genitive and gender."
+      }
+    },
+    {
+      "cardId": "trap-027",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'fel'?"
+      },
+      "correctAnswer": "fel, fellis n",
+      "options": [
+        "fel, fellis n",
+        "fel, is n",
+        "fel, ei n",
+        "fel, us n"
+      ],
+      "explanation": {
+        "en": "fel, fellis n = gall, bile. Trap: short nominative hides the stem fell-. Always check the genitive."
+      }
+    },
+    {
+      "cardId": "trap-028",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'mens' in the worksheet vocabulary group?"
+      },
+      "correctAnswer": "mens, mentis f",
+      "options": [
+        "mens, mentis f",
+        "mens, ei f",
+        "mens, is f",
+        "mens, us f"
+      ],
+      "explanation": {
+        "en": "mens, mentis f = mind. Meaning: mind. Trap: hidden stem ment-. Important because Greek phren/phrenia also relates to mind, making a Greek-vs-Latin semantic trap."
+      }
+    },
+    {
+      "cardId": "trap-029",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'phren' in Greek-based terminology?"
+      },
+      "correctAnswer": "phren/phrenia = mind",
+      "options": [
+        "phren/phrenia = mind",
+        "phren/phrenia = kidney",
+        "phren/phrenia = face",
+        "phren/phrenia = nail"
+      ],
+      "explanation": {
+        "en": "Greek root trap: phren-, phreno-, -phrenia means mind. Meaning in English: mind. Compare with Latin mens, mentis f."
+      }
+    },
+    {
+      "cardId": "trap-030",
+      "type": "mcq",
+      "question": {
+        "en": "Which term literally means 'split mind'?"
+      },
+      "correctAnswer": "schizophrenia",
+      "options": [
+        "schizophrenia",
+        "misanthropia",
+        "aphakia",
+        "hyperosmia"
+      ],
+      "explanation": {
+        "en": "schizo- = split, -phrenia = mind. Meaning: split mind / schizophrenia. Trap: know the root meaning, not just the modern clinical label."
+      }
+    },
+    {
+      "cardId": "trap-031",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'absence of the crystalline lens'?"
+      },
+      "correctAnswer": "aphakia",
+      "options": [
+        "aphakia",
+        "luxatio lentis",
+        "phacomalacia",
+        "diprosopus"
+      ],
+      "explanation": {
+        "en": "a- = without, phak-/phac- = lens. Meaning: absence of the crystalline lens. Trap against luxatio lentis = dislocation of the lens."
+      }
+    },
+    {
+      "cardId": "trap-032",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase means 'dislocation of the lens'?"
+      },
+      "correctAnswer": "luxatio lentis",
+      "options": [
+        "luxatio lentis",
+        "aphakia",
+        "phacitis",
+        "lensis luxa"
+      ],
+      "explanation": {
+        "en": "Latin phrase trap: luxatio = dislocation, lentis = of the lens. Meaning: dislocation of the lens. Distinguish from aphakia = absence of the lens."
+      }
+    },
+    {
+      "cardId": "trap-033",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the correct dictionary entry for 'emesis'?"
+      },
+      "correctAnswer": "emesis, is f",
+      "options": [
+        "emesis, is f",
+        "emesis, ei f",
+        "emesis, ae f",
+        "emesis, us f"
+      ],
+      "explanation": {
+        "en": "emesis = vomiting (Greek). Meaning: vomiting. Trap: Greek form, but still memorize the full Latinized dictionary entry."
+      }
+    },
+    {
+      "cardId": "trap-034",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'vomiting of blood'?"
+      },
+      "correctAnswer": "haematemesis",
+      "options": [
+        "haematemesis",
+        "hematuria",
+        "haemoptysis",
+        "emesis"
+      ],
+      "explanation": {
+        "en": "haemat- = blood, emesis = vomiting. Meaning: vomiting of blood. Trap against other blood-discharge terms from other systems."
+      }
+    },
+    {
+      "cardId": "trap-035",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'medical history'?"
+      },
+      "correctAnswer": "anamnesis",
+      "options": [
+        "anamnesis",
+        "necrosis",
+        "mycosis",
+        "lithiasis"
+      ],
+      "explanation": {
+        "en": "anamnesis = medical history (Greek). Meaning: medical history of a disease or illness. Trap because many students know the clinical concept but forget the exact term."
+      }
+    },
+    {
+      "cardId": "trap-036",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'disease caused by a fungus'?"
+      },
+      "correctAnswer": "mycosis",
+      "options": [
+        "mycosis",
+        "necrosis",
+        "sclerosis",
+        "scabies"
+      ],
+      "explanation": {
+        "en": "myc- = fungus, -osis = condition. Meaning: fungal disease. Trap: similar-looking -osis words mean very different things."
+      }
+    },
+    {
+      "cardId": "trap-037",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'hardening'?"
+      },
+      "correctAnswer": "sclerosis",
+      "options": [
+        "sclerosis",
+        "mycosis",
+        "necrosis",
+        "malacia"
+      ],
+      "explanation": {
+        "en": "scler- = hard. Meaning: hardening. Trap opposite with malacia = softening."
+      }
+    },
+    {
+      "cardId": "trap-038",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'death of cells, tissues, or organs'?"
+      },
+      "correctAnswer": "necrosis",
+      "options": [
+        "necrosis",
+        "sclerosis",
+        "mycosis",
+        "rabies"
+      ],
+      "explanation": {
+        "en": "necr- = death. Meaning: tissue death / necrosis. Trap: another Greek -osis term, but with a completely different mechanism."
+      }
+    },
+    {
+      "cardId": "trap-039",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'formation of calculi / stones'?"
+      },
+      "correctAnswer": "lithiasis",
+      "options": [
+        "lithiasis",
+        "sclerosis",
+        "mycosis",
+        "canities"
+      ],
+      "explanation": {
+        "en": "lith- = stone. Meaning: formation of calculi / stones. Trap within the -iasis / -osis pattern family."
+      }
+    },
+    {
+      "cardId": "trap-040",
+      "type": "mcq",
+      "question": {
+        "en": "Which suffix usually means 'softening' and therefore contrasts with sclerosis?"
+      },
+      "correctAnswer": "-malacia",
+      "options": [
+        "-malacia",
+        "-itis",
+        "-rrhaphia",
+        "-ptosis"
+      ],
+      "explanation": {
+        "en": "High-yield contrast trap: -malacia = softening, whereas sclerosis = hardening. This opposition is exam gold."
+      }
+    },
+    {
+      "cardId": "trap-041",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'softening of the skull bones'?"
+      },
+      "correctAnswer": "craniomalacia",
+      "options": [
+        "craniomalacia",
+        "onychomalacia",
+        "splenomalacia",
+        "angiomalacia"
+      ],
+      "explanation": {
+        "en": "cranio- = skull, -malacia = softening. Meaning: softening of the skull bones. Trap set: same suffix, different organ root."
+      }
+    },
+    {
+      "cardId": "trap-042",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'softening of vessels'?"
+      },
+      "correctAnswer": "angiomalacia",
+      "options": [
+        "angiomalacia",
+        "splenomalacia",
+        "onychomalacia",
+        "craniomalacia"
+      ],
+      "explanation": {
+        "en": "angio- = vessel, -malacia = softening. Meaning: softening of vessels. Trap: identify the first root correctly."
+      }
+    },
+    {
+      "cardId": "trap-043",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'softening of the spleen'?"
+      },
+      "correctAnswer": "splenomalacia",
+      "options": [
+        "splenomalacia",
+        "angiomalacia",
+        "onychomalacia",
+        "craniomalacia"
+      ],
+      "explanation": {
+        "en": "spleno- = spleen, -malacia = softening. Meaning: softening of the spleen."
+      }
+    },
+    {
+      "cardId": "trap-044",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'descent / prolapse of the viscera' using a Greek root?"
+      },
+      "correctAnswer": "splanchnoptosis",
+      "options": [
+        "splanchnoptosis",
+        "visceroptosis",
+        "splenomalacia",
+        "gonarthritis"
+      ],
+      "explanation": {
+        "en": "Greek-vs-Latin trap pair: splanchno- = viscera (Greek), -ptosis = prolapse. Meaning: prolapse of the viscera."
+      }
+    },
+    {
+      "cardId": "trap-045",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'descent / prolapse of the viscera' using a Latin root?"
+      },
+      "correctAnswer": "visceroptosis",
+      "options": [
+        "visceroptosis",
+        "splanchnoptosis",
+        "histogenesis",
+        "tocologia"
+      ],
+      "explanation": {
+        "en": "Latin-vs-Greek synonym trap: viscero- is the Latin-based equivalent of Greek splanchno-. Both terms mean prolapse of the viscera."
+      }
+    },
+    {
+      "cardId": "trap-046",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'study of childbirth'?"
+      },
+      "correctAnswer": "tocologia",
+      "options": [
+        "tocologia",
+        "sphygmologia",
+        "gerontologia",
+        "anthropologia"
+      ],
+      "explanation": {
+        "en": "toco- = childbirth, -logia = study. Meaning: study/science of childbirth. Trap against obstetricia, which is the Latin-based parallel clinical term."
+      }
+    },
+    {
+      "cardId": "trap-047",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'study of the pulse'?"
+      },
+      "correctAnswer": "sphygmologia",
+      "options": [
+        "sphygmologia",
+        "tocologia",
+        "hyperosmia",
+        "hypoacusia"
+      ],
+      "explanation": {
+        "en": "sphygmo- = pulse, -logia = study. Meaning: study of the pulse. Greek-root recognition trap."
+      }
+    },
+    {
+      "cardId": "trap-048",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'impaired hearing'?"
+      },
+      "correctAnswer": "hypoacusia",
+      "options": [
+        "hypoacusia",
+        "hyperosmia",
+        "chloropsia",
+        "aprosopia"
+      ],
+      "explanation": {
+        "en": "hypo- = reduced, -acusia = hearing. Meaning: reduced / impaired hearing. Trap with hypoacusis and related hearing variants."
+      }
+    },
+    {
+      "cardId": "trap-049",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'abnormally acute smell'?"
+      },
+      "correctAnswer": "hyperosmia",
+      "options": [
+        "hyperosmia",
+        "hypoacusia",
+        "chloropsia",
+        "diprosopus"
+      ],
+      "explanation": {
+        "en": "hyper- = excessive, -osmia = smell. Meaning: unusually acute sense of smell. Trap: sensory suffixes differ by system."
+      }
+    },
+    {
+      "cardId": "trap-050",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'green vision'?"
+      },
+      "correctAnswer": "chloropsia",
+      "options": [
+        "chloropsia",
+        "chloropia",
+        "hyperosmia",
+        "hypoacusia"
+      ],
+      "explanation": {
+        "en": "chloro- = green, -opsia = vision. Meaning: green vision. Trap: chloropsia and chloropia are parallel forms."
+      }
+    },
+    {
+      "cardId": "trap-051",
+      "type": "mcq",
+      "question": {
+        "en": "Which term is the parallel synonym of 'chloropsia' in the worksheet?"
+      },
+      "correctAnswer": "chloropia",
+      "options": [
+        "chloropia",
+        "chloromycosis",
+        "chloracusia",
+        "chlororrhaphia"
+      ],
+      "explanation": {
+        "en": "Worksheet synonym trap: chloropsia and chloropia both refer to green vision. The difference is the vision suffix form."
+      }
+    },
+    {
+      "cardId": "trap-052",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective type is 'celer, celeris, celere'?"
+      },
+      "correctAnswer": "3rd declension adjective of three terminations",
+      "options": [
+        "3rd declension adjective of three terminations",
+        "3rd declension adjective of two terminations",
+        "3rd declension adjective of one termination",
+        "1st/2nd declension adjective"
+      ],
+      "explanation": {
+        "en": "Trap category: celer has separate masculine, feminine, and neuter nominative singular forms. Meaning: swift, quick."
+      }
+    },
+    {
+      "cardId": "trap-053",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective type is 'mollis, molle'?"
+      },
+      "correctAnswer": "3rd declension adjective of two terminations",
+      "options": [
+        "3rd declension adjective of two terminations",
+        "3rd declension adjective of three terminations",
+        "3rd declension adjective of one termination",
+        "indeclinable adjective"
+      ],
+      "explanation": {
+        "en": "Trap category: mollis, molle has one form for masculine/feminine and one for neuter. Meaning: soft."
+      }
+    },
+    {
+      "cardId": "trap-054",
+      "type": "mcq",
+      "question": {
+        "en": "Which adjective type is 'biceps, bicipitis'?"
+      },
+      "correctAnswer": "3rd declension adjective of one termination",
+      "options": [
+        "3rd declension adjective of one termination",
+        "3rd declension adjective of two terminations",
+        "3rd declension adjective of three terminations",
+        "4th declension adjective"
+      ],
+      "explanation": {
+        "en": "Trap category: one nominative singular form for all genders. Meaning: two-headed / bicipital in the worksheet example."
+      }
+    },
+    {
+      "cardId": "trap-055",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'biceps, bicipitis'?"
+      },
+      "correctAnswer": "bicipit-",
+      "options": [
+        "bicipit-",
+        "bicep-",
+        "bicip-",
+        "biceps-"
+      ],
+      "explanation": {
+        "en": "Stem trap: use the genitive, not the nominative shape. bicipitis -> bicipit-. This is the exact hidden-stem logic the worksheet keeps reinforcing."
+      }
+    },
+    {
+      "cardId": "trap-056",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'communicans, communicantis'?"
+      },
+      "correctAnswer": "communicant-",
+      "options": [
+        "communicant-",
+        "communicans-",
+        "communic-",
+        "communican-"
+      ],
+      "explanation": {
+        "en": "Present participle trap: communicans is one-termination, but the stem comes from communicantis. Meaning: communicating."
+      }
+    },
+    {
+      "cardId": "trap-057",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase means 'permanent tooth'?"
+      },
+      "correctAnswer": "dens permanens",
+      "options": [
+        "dens permanens",
+        "dens secundus",
+        "dens deciduus",
+        "dens recurrens"
+      ],
+      "explanation": {
+        "en": "Trap pair from phrase work: dens permanens = permanent tooth. dens secundus = second tooth / succedaneous tooth. Related, but not identical wording."
+      }
+    },
+    {
+      "cardId": "trap-058",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase means 'second tooth'?"
+      },
+      "correctAnswer": "dens secundus",
+      "options": [
+        "dens secundus",
+        "dens permanens",
+        "dens tertius",
+        "dens primarius"
+      ],
+      "explanation": {
+        "en": "Exam phrasing trap: dens secundus literally means second tooth. In context it can overlap semantically with permanent/succedaneous tooth, but the Latin wording is different."
+      }
+    },
+    {
+      "cardId": "trap-059",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'absence of most or all of the face'?"
+      },
+      "correctAnswer": "aprosopia",
+      "options": [
+        "aprosopia",
+        "diprosopus",
+        "leptoprosopia",
+        "prosopalgia"
+      ],
+      "explanation": {
+        "en": "a- = without, prosop- = face. Meaning: absence of the face. Trap in the face-malformation family."
+      }
+    },
+    {
+      "cardId": "trap-060",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'double face'?"
+      },
+      "correctAnswer": "diprosopus",
+      "options": [
+        "diprosopus",
+        "aprosopia",
+        "leptoprosopia",
+        "chloropsia"
+      ],
+      "explanation": {
+        "en": "di- = double, prosop- = face. Meaning: double face / two-faced malformed fetus. Trap against aprosopia = absence of face and leptoprosopia = narrow face."
+      }
+    }
+  ]
+}

@@ -1,0 +1,4680 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "la-medical-firstyear-exam-complete-273",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Complete First-Year Exam Learn Deck",
+      "de": "Medizinisches Latein — Komplettes Lernkarten-Deck für die Erstsemesterprüfung"
+    },
+    "description": {
+      "en": "Comprehensive first-year Medical Latin learn deck covering the full 273-term exam vocabulary list. Each card tests recognition of the Latin term with exam-style multiple choice and concise explanatory feedback.",
+      "de": "Umfassendes Lernkarten-Deck für Medizinisches Latein im ersten Studienjahr mit dem vollständigen Prüfungswortschatz von 273 Begriffen. Jede Karte prüft die Bedeutung des lateinischen Begriffs per Multiple Choice mit knapper Erklärung."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "anatomy",
+      "pathology",
+      "pharmacy",
+      "first-year",
+      "exam",
+      "terminology",
+      "learncards"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 180,
+    "cardCount": 273,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    },
+    "source": {
+      "file": "user-provided vocabulary list",
+      "exam": "Medical Latin first-year exam vocabulary"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "la-exam-0001",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'costa vera'?"
+      },
+      "correctAnswer": "true rib",
+      "options": [
+        "true rib",
+        "the part of the history of a case describing the condition of the patient at initial observation",
+        "costal surface / the surface of certain structures that face the ribs",
+        "false rib"
+      ],
+      "explanation": {
+        "en": "costa vera means 'true rib'. True rib. Anchor: rib anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0002",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'costae verae'?"
+      },
+      "correctAnswer": "true ribs, the seven upper pairs of ribs whose cartilages articulate directly with the sternum [I-VII]",
+      "options": [
+        "false rib",
+        "the part of the history of a case describing the condition of the patient at initial observation",
+        "true ribs, the seven upper pairs of ribs whose cartilages articulate directly with the sternum [I-VII]",
+        "costal surface / the surface of certain structures that face the ribs"
+      ],
+      "explanation": {
+        "en": "costae verae means 'true ribs, the seven upper pairs of ribs whose cartilages articulate directly with the sternum [I-VII]'. True ribs, the seven upper pairs of ribs whose cartilages articulate directly with the sternum [i-vii]. Anchor: rib anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0003",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'costa spuria'?"
+      },
+      "correctAnswer": "false rib",
+      "options": [
+        "costal surface / the surface of certain structures that face the ribs",
+        "false rib",
+        "the part of the history of a case describing the condition of the patient at initial observation",
+        "true rib"
+      ],
+      "explanation": {
+        "en": "costa spuria means 'false rib'. False rib. Anchor: rib anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0004",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'vena cava'?"
+      },
+      "correctAnswer": "largest vein in the body / vena cava",
+      "options": [
+        "bulb of an eye / the ball of an eye",
+        "saphenous vein",
+        "largest vein in the body / vena cava",
+        "tenth cranial nerve / vagus nerve / pneumogastric nerve"
+      ],
+      "explanation": {
+        "en": "vena cava means 'largest vein in the body / vena cava'. Largest vein in the body; alt. vena cava. Anchor: vein."
+      }
+    },
+    {
+      "cardId": "la-exam-0005",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'vena saphena'?"
+      },
+      "correctAnswer": "saphenous vein",
+      "options": [
+        "saphenous vein",
+        "biceps (muscle)",
+        "organ of smell",
+        "largest vein in the body / vena cava"
+      ],
+      "explanation": {
+        "en": "vena saphena means 'saphenous vein'. Saphenous vein. Anchor: vein."
+      }
+    },
+    {
+      "cardId": "la-exam-0006",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'arteria profunda'?"
+      },
+      "correctAnswer": "profund artery",
+      "options": [
+        "coronary artery",
+        "maxillary artery",
+        "profund artery",
+        "ascending aorta"
+      ],
+      "explanation": {
+        "en": "arteria profunda means 'profund artery'. Profund artery. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0007",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'arteria coronaria'?"
+      },
+      "correctAnswer": "coronary artery",
+      "options": [
+        "aortic valve",
+        "profund artery",
+        "maxillary artery",
+        "coronary artery"
+      ],
+      "explanation": {
+        "en": "arteria coronaria means 'coronary artery'. Coronary artery. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0008",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'arteria gastrica'?"
+      },
+      "correctAnswer": "gastric artery",
+      "options": [
+        "right gastric artery",
+        "gastric artery",
+        "arterial plexus",
+        "occipital groove / a narrow grove of the temporal bone that lodges the occipital artery"
+      ],
+      "explanation": {
+        "en": "arteria gastrica means 'gastric artery'. Gastric artery. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0009",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'clavicula dextra'?"
+      },
+      "correctAnswer": "right clavicle",
+      "options": [
+        "optic axis",
+        "ophthalmic ointment, eye ointment",
+        "right clavicle",
+        "external auditory meatus"
+      ],
+      "explanation": {
+        "en": "clavicula dextra means 'right clavicle'. Right clavicle. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0010",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'clavicula sinistra'?"
+      },
+      "correctAnswer": "left clavicle",
+      "options": [
+        "compact substance",
+        "cerebral cranium",
+        "left clavicle",
+        "commissure of lips"
+      ],
+      "explanation": {
+        "en": "clavicula sinistra means 'left clavicle'. Left clavicle. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0011",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ulna dextra'?"
+      },
+      "correctAnswer": "right ulna",
+      "options": [
+        "cystic diathesis / a condition in which multiple cysts form in the liver / kidneys",
+        "internal ear",
+        "right ulna",
+        "paralytic rabies / dumb rabies"
+      ],
+      "explanation": {
+        "en": "ulna dextra means 'right ulna'. Right ulna. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0012",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'chorda umbilicalis'?"
+      },
+      "correctAnswer": "the attachment connecting the embryo or fetus with the placenta / umbilical chord",
+      "options": [
+        "paralytic rabies / dumb rabies",
+        "bulb of an eye / the ball of an eye",
+        "the attachment connecting the embryo or fetus with the placenta / umbilical chord",
+        "myasthenic crisis / severe life-threating exacerbation of the manifestations of myasthenic gravis"
+      ],
+      "explanation": {
+        "en": "chorda umbilicalis means 'the attachment connecting the embryo or fetus with the placenta / umbilical chord'. The attachment connecting the embryo or fetus with the placenta; alt. umbilical chord. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0013",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'glandula mammaria'?"
+      },
+      "correctAnswer": "glandular organ located on the chest / mammary gland",
+      "options": [
+        "glandular organ located on the chest / mammary gland",
+        "cancer of the thyroid gland",
+        "sublingual folds / created by the sublingual gland; extend horizontally to right and left of lingual frenum where it attaches to the floor of the mouth; openings of ducts form small underlying glands",
+        "salivary gland"
+      ],
+      "explanation": {
+        "en": "glandula mammaria means 'glandular organ located on the chest / mammary gland'. Glandular organ located on the chest; alt. mammary gland. Anchor: gland."
+      }
+    },
+    {
+      "cardId": "la-exam-0014",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tuba uterina'?"
+      },
+      "correctAnswer": "uterine tube / fallopian tube",
+      "options": [
+        "prolapse of the uterus",
+        "uterine tube / fallopian tube",
+        "uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy",
+        "isthmus of uterus / an elongated construction of the body of the uterus just above the cervix"
+      ],
+      "explanation": {
+        "en": "tuba uterina means 'uterine tube / fallopian tube'. Uterine tube; alt. fallopian tube. Anchor: uterus."
+      }
+    },
+    {
+      "cardId": "la-exam-0015",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'plica palatina'?"
+      },
+      "correctAnswer": "palatine fold",
+      "options": [
+        "palatine bone",
+        "hard palate",
+        "palatine fold",
+        "uvula of soft palate"
+      ],
+      "explanation": {
+        "en": "plica palatina means 'palatine fold'. Palatine fold. Anchor: palate."
+      }
+    },
+    {
+      "cardId": "la-exam-0016",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'uvula palatina'?"
+      },
+      "correctAnswer": "uvula of soft palate",
+      "options": [
+        "soft palate",
+        "uvula of soft palate",
+        "glossopalatine arch",
+        "hard palate"
+      ],
+      "explanation": {
+        "en": "uvula palatina means 'uvula of soft palate'. Uvula of soft palate. Anchor: palate."
+      }
+    },
+    {
+      "cardId": "la-exam-0017",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'substantia spongiosa'?"
+      },
+      "correctAnswer": "spongy bone / spongy substance",
+      "options": [
+        "spongy bone / spongy substance",
+        "short bone",
+        "zygomatic bone",
+        "facial plexus / autonomic plexus of the facial artery which sends a branch to the submandibular ganglion"
+      ],
+      "explanation": {
+        "en": "substantia spongiosa means 'spongy bone / spongy substance'. Spongy bone; alt. spongy substance. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0018",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'substantia adamantina'?"
+      },
+      "correctAnswer": "enamel / substantia vitrea",
+      "options": [
+        "hard pulse / a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension",
+        "enamel / substantia vitrea",
+        "external ear",
+        "cystic diathesis / a condition in which multiple cysts form in the liver / kidneys"
+      ],
+      "explanation": {
+        "en": "substantia adamantina means 'enamel / substantia vitrea'. Enamel; alt. substantia vitrea. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0019",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'substantia eburnea'?"
+      },
+      "correctAnswer": "dentine",
+      "options": [
+        "wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible",
+        "alveolar process / of the ridge on the surfaces of the upper and lower jaws containing the tooth socket",
+        "dentine",
+        "clinical crown / that part of the crown of a tooth that is visible in the oral cavity"
+      ],
+      "explanation": {
+        "en": "substantia eburnea means 'dentine'. Dentine. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0020",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tunica mucosa'?"
+      },
+      "correctAnswer": "mucosa layer",
+      "options": [
+        "mucosa layer",
+        "headache",
+        "peppermint",
+        "a transient network of cells in the developing ovary"
+      ],
+      "explanation": {
+        "en": "tunica mucosa means 'mucosa layer'. Mucosa layer. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0021",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tunica serosa'?"
+      },
+      "correctAnswer": "outer layer of uterine tissue",
+      "options": [
+        "outer layer of uterine tissue",
+        "prolapse of the uterus",
+        "uterine tube / fallopian tube",
+        "uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy"
+      ],
+      "explanation": {
+        "en": "tunica serosa means 'outer layer of uterine tissue'. Outer layer of uterine tissue. Anchor: uterus."
+      }
+    },
+    {
+      "cardId": "la-exam-0022",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'membrana interossea'?"
+      },
+      "correctAnswer": "interosseous membrane",
+      "options": [
+        "interosseous margin",
+        "interosseous membrane",
+        "white wax / the purified form in making ointments and to stop bleeding from bones during surgery",
+        "thoracic vertebrae"
+      ],
+      "explanation": {
+        "en": "membrana interossea means 'interosseous membrane'. Interosseous membrane. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0023",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'anaemia perniciosa'?"
+      },
+      "correctAnswer": "pernicious anemia / an inability to absorb vitamin B12",
+      "options": [
+        "sublingual folds / created by the sublingual gland; extend horizontally to right and left of lingual frenum where it attaches to the floor of the mouth; openings of ducts form small underlying glands",
+        "valerian tincture",
+        "pernicious anemia / an inability to absorb vitamin B12",
+        "posthemorrhagic anemia / an acute anemia caused by sudden loss of blood"
+      ],
+      "explanation": {
+        "en": "anaemia perniciosa means 'pernicious anemia / an inability to absorb vitamin B12'. Pernicious anemia; alt. an inability to absorb vitamin b12. Anchor: anemia."
+      }
+    },
+    {
+      "cardId": "la-exam-0024",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'anaemia posthaemorrhagica'?"
+      },
+      "correctAnswer": "posthemorrhagic anemia / an acute anemia caused by sudden loss of blood",
+      "options": [
+        "sesamoid bone / a bone formed after birth in the tendon where it passes over a joint",
+        "posthemorrhagic anemia / an acute anemia caused by sudden loss of blood",
+        "salivary gland",
+        "pernicious anemia / an inability to absorb vitamin B12"
+      ],
+      "explanation": {
+        "en": "anaemia posthaemorrhagica means 'posthemorrhagic anemia / an acute anemia caused by sudden loss of blood'. Posthemorrhagic anemia; alt. an acute anemia caused by sudden loss of blood. Anchor: anemia."
+      }
+    },
+    {
+      "cardId": "la-exam-0025",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'fractura aperta'?"
+      },
+      "correctAnswer": "open fracture / fragments of bone protrude through the skin",
+      "options": [
+        "1. fracture of two or more places in a bone / 2. fracture of several bones occurring simultaneously",
+        "febrile crisis / the stage in a febrile disease when spontaneous decrease in a fever occurs",
+        "clinical crown / that part of the crown of a tooth that is visible in the oral cavity",
+        "open fracture / fragments of bone protrude through the skin"
+      ],
+      "explanation": {
+        "en": "fractura aperta means 'open fracture / fragments of bone protrude through the skin'. Open fracture; alt. fragments of bone protrude through the skin. Anchor: fracture."
+      }
+    },
+    {
+      "cardId": "la-exam-0026",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'corona clinica'?"
+      },
+      "correctAnswer": "clinical crown / that part of the crown of a tooth that is visible in the oral cavity",
+      "options": [
+        "dentine",
+        "clinical crown / that part of the crown of a tooth that is visible in the oral cavity",
+        "secondary dentition",
+        "milk tooth"
+      ],
+      "explanation": {
+        "en": "corona clinica means 'clinical crown / that part of the crown of a tooth that is visible in the oral cavity'. Clinical crown; alt. that part of the crown of a tooth that is visible in the oral cavity. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0027",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'aqua pura'?"
+      },
+      "correctAnswer": "pure water",
+      "options": [
+        "gelatinous capsule",
+        "fine powder",
+        "pure water",
+        "valerian tincture"
+      ],
+      "explanation": {
+        "en": "aqua pura means 'pure water'. Pure water. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0028",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'capsula amylacea'?"
+      },
+      "correctAnswer": "cachet / seal-shaped capsule or wafer made of flour for enclosing powders",
+      "options": [
+        "waxed paper",
+        "cachet / seal-shaped capsule or wafer made of flour for enclosing powders",
+        "hard paraffin",
+        "fine powder"
+      ],
+      "explanation": {
+        "en": "capsula amylacea means 'cachet / seal-shaped capsule or wafer made of flour for enclosing powders'. Cachet; alt. seal-shaped capsule or wafer made of flour for enclosing powders. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0029",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'capsula gelatinosa'?"
+      },
+      "correctAnswer": "gelatinous capsule",
+      "options": [
+        "rose water",
+        "pure water",
+        "gelatinous capsule",
+        "compound syrup / containing several ingredients"
+      ],
+      "explanation": {
+        "en": "capsula gelatinosa means 'gelatinous capsule'. Gelatinous capsule. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0030",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cera alba'?"
+      },
+      "correctAnswer": "white wax / the purified form in making ointments and to stop bleeding from bones during surgery",
+      "options": [
+        "facial plexus / autonomic plexus of the facial artery which sends a branch to the submandibular ganglion",
+        "softness of bones",
+        "white wax / the purified form in making ointments and to stop bleeding from bones during surgery",
+        "the structures between the bones of the skull"
+      ],
+      "explanation": {
+        "en": "cera alba means 'white wax / the purified form in making ointments and to stop bleeding from bones during surgery'. White wax; alt. the purified form in making ointments and to stop bleeding from bones during surgery. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0031",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'Mentha piperita'?"
+      },
+      "correctAnswer": "peppermint",
+      "options": [
+        "maximum dose",
+        "peppermint",
+        "spongy urethra",
+        "left clavicle"
+      ],
+      "explanation": {
+        "en": "Mentha piperita means 'peppermint'. Peppermint. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0032",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'glandula linguae'?"
+      },
+      "correctAnswer": "lingual gland",
+      "options": [
+        "lingual gland",
+        "salivary gland",
+        "cancer of the thyroid gland",
+        "mammary gland"
+      ],
+      "explanation": {
+        "en": "glandula linguae means 'lingual gland'. Lingual gland. Anchor: gland."
+      }
+    },
+    {
+      "cardId": "la-exam-0033",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'valvula aortae'?"
+      },
+      "correctAnswer": "aortic valve",
+      "options": [
+        "occipital groove / a narrow grove of the temporal bone that lodges the occipital artery",
+        "ascending aorta",
+        "gastric artery",
+        "aortic valve"
+      ],
+      "explanation": {
+        "en": "valvula aortae means 'aortic valve'. Aortic valve. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0034",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'papilla mammae'?"
+      },
+      "correctAnswer": "nipple",
+      "options": [
+        "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+        "cystic rupture",
+        "nipple",
+        "bile duct"
+      ],
+      "explanation": {
+        "en": "papilla mammae means 'nipple'. Nipple. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0035",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ruptura cystae'?"
+      },
+      "correctAnswer": "cystic rupture",
+      "options": [
+        "cystic rupture",
+        "bulb of an eye / the ball of an eye",
+        "bile duct",
+        "Knock-knee, a deformity in which the legs are curved inward at the knee"
+      ],
+      "explanation": {
+        "en": "ruptura cystae means 'cystic rupture'. Cystic rupture. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0036",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'rhaphe linguae'?"
+      },
+      "correctAnswer": "median sulcus of tongue",
+      "options": [
+        "the back of a tongue",
+        "a pointed tongue of bone overlapping the mandibular foramen / lingula of mandible",
+        "root of tongue",
+        "median sulcus of tongue"
+      ],
+      "explanation": {
+        "en": "rhaphe linguae means 'median sulcus of tongue'. Median sulcus of tongue. Anchor: tongue."
+      }
+    },
+    {
+      "cardId": "la-exam-0037",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'lingula mandibulae'?"
+      },
+      "correctAnswer": "a pointed tongue of bone overlapping the mandibular foramen / lingula of mandible",
+      "options": [
+        "the back of a tongue",
+        "a pointed tongue of bone overlapping the mandibular foramen / lingula of mandible",
+        "root of tongue",
+        "black pigmentation of the dorsum of the tongue / black tongue"
+      ],
+      "explanation": {
+        "en": "lingula mandibulae means 'a pointed tongue of bone overlapping the mandibular foramen / lingula of mandible'. A pointed tongue of bone overlapping the mandibular foramen; alt. lingula of mandible. Anchor: tongue."
+      }
+    },
+    {
+      "cardId": "la-exam-0038",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'spina scapulae'?"
+      },
+      "correctAnswer": "spine of scapula",
+      "options": [
+        "spongy bone / spongy substance",
+        "softness of bones",
+        "spine of scapula",
+        "vertebral foramen / the large foramen between the neural arch and the body of the vertebra that contains the spinal cord"
+      ],
+      "explanation": {
+        "en": "spina scapulae means 'spine of scapula'. Spine of scapula. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0039",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dens sapientiae'?"
+      },
+      "correctAnswer": "wisdom tooth / third-year molar tooth",
+      "options": [
+        "secondary dentition",
+        "accessory root of tooth",
+        "wisdom tooth / third-year molar tooth",
+        "dental arch / the arch formed by the alveolar process and teeth in each jaw"
+      ],
+      "explanation": {
+        "en": "dens sapientiae means 'wisdom tooth / third-year molar tooth'. Wisdom tooth; alt. third-year molar tooth. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0040",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tinctura Valeriana'?"
+      },
+      "correctAnswer": "valerian tincture",
+      "options": [
+        "waxed paper",
+        "sunflower seed oil",
+        "simple syrup / syrupus albus / syrupus sacchari",
+        "valerian tincture"
+      ],
+      "explanation": {
+        "en": "tinctura Valeriana means 'valerian tincture'. Valerian tincture. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0041",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'aqua Rosae'?"
+      },
+      "correctAnswer": "rose water",
+      "options": [
+        "purified water",
+        "fine powder",
+        "rose water",
+        "compound syrup / containing several ingredients"
+      ],
+      "explanation": {
+        "en": "aqua Rosae means 'rose water'. Rose water. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0042",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'placenta praevia'?"
+      },
+      "correctAnswer": "a condition in which the placenta partially or wholly blocks the neck of the uterus",
+      "options": [
+        "isthmus of uterus / an elongated construction of the body of the uterus just above the cervix",
+        "appendages of the uterine / the accessory structures to the uterus",
+        "a condition in which the placenta partially or wholly blocks the neck of the uterus",
+        "uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy"
+      ],
+      "explanation": {
+        "en": "placenta praevia means 'a condition in which the placenta partially or wholly blocks the neck of the uterus'. A condition in which the placenta partially or wholly blocks the neck of the uterus. Anchor: uterus."
+      }
+    },
+    {
+      "cardId": "la-exam-0043",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'insufficientia valvulae'?"
+      },
+      "correctAnswer": "valvular insufficiency / failure of the cardiac valves to close perfectly",
+      "options": [
+        "valvular insufficiency / failure of the cardiac valves to close perfectly",
+        "hemorrhagic infarct",
+        "headache",
+        "sleep-bringing poppy"
+      ],
+      "explanation": {
+        "en": "insufficientia valvulae means 'valvular insufficiency / failure of the cardiac valves to close perfectly'. Valvular insufficiency; alt. failure of the cardiac valves to close perfectly. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0044",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'struma maligna'?"
+      },
+      "correctAnswer": "cancer of the thyroid gland",
+      "options": [
+        "mammary gland",
+        "cancer of the thyroid gland",
+        "sublingual folds / created by the sublingual gland; extend horizontally to right and left of lingual frenum where it attaches to the floor of the mouth; openings of ducts form small underlying glands",
+        "glandular organ located on the chest / mammary gland"
+      ],
+      "explanation": {
+        "en": "struma maligna means 'cancer of the thyroid gland'. Cancer of the thyroid gland. Anchor: gland."
+      }
+    },
+    {
+      "cardId": "la-exam-0045",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculus rectus'?"
+      },
+      "correctAnswer": "straight muscle / members of a group of muscles that proceed either in amore direct or more nearly vertical or horizontal direction",
+      "options": [
+        "biceps (muscle)",
+        "straight muscle / members of a group of muscles that proceed either in amore direct or more nearly vertical or horizontal direction",
+        "muscles of neck",
+        "the muscle of the upper arm that flexes the elbow and supinates the forearm"
+      ],
+      "explanation": {
+        "en": "musculus rectus means 'straight muscle / members of a group of muscles that proceed either in amore direct or more nearly vertical or horizontal direction'. Straight muscle; alt. members of a group of muscles that proceed either in amore direct or more nearly vertical or horizontal direction. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0046",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'Nervus opticus (CN II)'?"
+      },
+      "correctAnswer": "second cranial nerve",
+      "options": [
+        "tenth cranial nerve / vagus nerve / pneumogastric nerve",
+        "spinal nerves",
+        "dorsal nerve of scapula",
+        "second cranial nerve"
+      ],
+      "explanation": {
+        "en": "Nervus opticus (CN II) means 'second cranial nerve'. Second cranial nerve. Anchor: nerve."
+      }
+    },
+    {
+      "cardId": "la-exam-0047",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'Nervus vagus (CN X)'?"
+      },
+      "correctAnswer": "tenth cranial nerve / vagus nerve / pneumogastric nerve",
+      "options": [
+        "fifth cranial nerve",
+        "cervical branch of facial nerve",
+        "spinal nerves",
+        "tenth cranial nerve / vagus nerve / pneumogastric nerve"
+      ],
+      "explanation": {
+        "en": "Nervus vagus (CN X) means 'tenth cranial nerve / vagus nerve / pneumogastric nerve'. Tenth cranial nerve; alt. vagus nerve. Anchor: nerve."
+      }
+    },
+    {
+      "cardId": "la-exam-0048",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'nodus lymphaticus'?"
+      },
+      "correctAnswer": "lymph node",
+      "options": [
+        "stiffness of the jaw muscles in neonates",
+        "piebald eyelash / an isolated bundle of white eyelashes among normally pigmented eyelashes",
+        "lymph node",
+        "fibrous layer, the fibrous capsule of an organ"
+      ],
+      "explanation": {
+        "en": "nodus lymphaticus means 'lymph node'. Lymph node. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0049",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ventriculus dexter'?"
+      },
+      "correctAnswer": "right ventricle",
+      "options": [
+        "right ventricle",
+        "heart beat",
+        "left ventricle",
+        "the atrium of the right side of the heart"
+      ],
+      "explanation": {
+        "en": "ventriculus dexter means 'right ventricle'. Right ventricle. Anchor: heart."
+      }
+    },
+    {
+      "cardId": "la-exam-0050",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ventriculus sinister'?"
+      },
+      "correctAnswer": "left ventricle",
+      "options": [
+        "heart beat",
+        "the atrium of the right side of the heart",
+        "right ventricle",
+        "left ventricle"
+      ],
+      "explanation": {
+        "en": "ventriculus sinister means 'left ventricle'. Left ventricle. Anchor: heart."
+      }
+    },
+    {
+      "cardId": "la-exam-0051",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'morbus acutus'?"
+      },
+      "correctAnswer": "acute disease",
+      "options": [
+        "curative dose / the quantity of any substance required to heal an illness or disease",
+        "epidemic disease",
+        "intermittent fever / a disease with fever which recurs at certain intervals, symptoms disappear completely between paroxysms",
+        "acute disease"
+      ],
+      "explanation": {
+        "en": "morbus acutus means 'acute disease'. Acute disease. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0052",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'morbus chronicus'?"
+      },
+      "correctAnswer": "chronic disease",
+      "options": [
+        "febrile crisis / the stage in a febrile disease when spontaneous decrease in a fever occurs",
+        "disease of tongue",
+        "chronic disease",
+        "acute disease"
+      ],
+      "explanation": {
+        "en": "morbus chronicus means 'chronic disease'. Chronic disease. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0053",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'morbus epidemicus'?"
+      },
+      "correctAnswer": "epidemic disease",
+      "options": [
+        "epidemic disease",
+        "febrile crisis / the stage in a febrile disease when spontaneous decrease in a fever occurs",
+        "contagious disease / spreads by direct or indirect contact of people",
+        "intermittent fever / a disease with fever which recurs at certain intervals, symptoms disappear completely between paroxysms"
+      ],
+      "explanation": {
+        "en": "morbus epidemicus means 'epidemic disease'. Epidemic disease. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0054",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'morbus contagiosus'?"
+      },
+      "correctAnswer": "contagious disease / spreads by direct or indirect contact of people",
+      "options": [
+        "epidemic disease",
+        "febrile crisis / the stage in a febrile disease when spontaneous decrease in a fever occurs",
+        "contagious disease / spreads by direct or indirect contact of people",
+        "infectious diseases"
+      ],
+      "explanation": {
+        "en": "morbus contagiosus means 'contagious disease / spreads by direct or indirect contact of people'. Contagious disease; alt. spreads by direct or indirect contact of people. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0055",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'morbi infectiosi'?"
+      },
+      "correctAnswer": "infectious diseases",
+      "options": [
+        "infectious diseases",
+        "diseases of glands",
+        "acute disease",
+        "therapeutic dose / the quantity of any substance required to heal an illness or disease"
+      ],
+      "explanation": {
+        "en": "morbi infectiosi means 'infectious diseases'. Infectious diseases. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0056",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dens incisivus'?"
+      },
+      "correctAnswer": "incisor tooth / canine tooth",
+      "options": [
+        "clinical crown / that part of the crown of a tooth that is visible in the oral cavity",
+        "canine tooth / cuspid tooth",
+        "dentine",
+        "incisor tooth / canine tooth"
+      ],
+      "explanation": {
+        "en": "dens incisivus means 'incisor tooth / canine tooth'. Incisor tooth; alt. canine tooth. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0057",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dens lacteus'?"
+      },
+      "correctAnswer": "milk tooth",
+      "options": [
+        "the area about the root end of a tooth",
+        "masticatory system",
+        "milk tooth",
+        "accessory root of tooth"
+      ],
+      "explanation": {
+        "en": "dens lacteus means 'milk tooth'. Milk tooth. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0058",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dens deciduus'?"
+      },
+      "correctAnswer": "a tooth of the first set of teeth comprising 20 in all",
+      "options": [
+        "incisor tooth / canine tooth",
+        "a tooth of the first set of teeth comprising 20 in all",
+        "oral cavity proper / the space between the dental arches, limited by the isthmus of the fauces",
+        "primary dentition"
+      ],
+      "explanation": {
+        "en": "dens deciduus means 'a tooth of the first set of teeth comprising 20 in all'. A tooth of the first set of teeth comprising 20 in all. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0059",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dens serotinus'?"
+      },
+      "correctAnswer": "wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible",
+      "options": [
+        "clinical crown / that part of the crown of a tooth that is visible in the oral cavity",
+        "alveolar process / of the ridge on the surfaces of the upper and lower jaws containing the tooth socket",
+        "wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible",
+        "canine tooth / cuspid tooth"
+      ],
+      "explanation": {
+        "en": "dens serotinus means 'wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible'. Wisdom tooth; alt. third molar. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0060",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'syrupus compositus'?"
+      },
+      "correctAnswer": "compound syrup / containing several ingredients",
+      "options": [
+        "fine powder",
+        "compound syrup / containing several ingredients",
+        "valerian tincture",
+        "purified water"
+      ],
+      "explanation": {
+        "en": "syrupus compositus means 'compound syrup / containing several ingredients'. Compound syrup; alt. containing several ingredients. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0061",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'atrophia musculorum'?"
+      },
+      "correctAnswer": "atrophy of muscles / decrease in size and number of muscle fibers",
+      "options": [
+        "atrophy of muscles / decrease in size and number of muscle fibers",
+        "optic axis",
+        "stiffness of the jaw muscles in neonates",
+        "small intestine"
+      ],
+      "explanation": {
+        "en": "atrophia musculorum means 'atrophy of muscles / decrease in size and number of muscle fibers'. Atrophy of muscles; alt. decrease in size and number of muscle fibers. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0062",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'folliculus pili'?"
+      },
+      "correctAnswer": "hair follicle",
+      "options": [
+        "hair follicle",
+        "incisive suture",
+        "urinary calculus / stone in the kidney, ureter, bladder or urethra",
+        "internal ear"
+      ],
+      "explanation": {
+        "en": "folliculus pili means 'hair follicle'. Hair follicle. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0063",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'fundus oculi'?"
+      },
+      "correctAnswer": "eyeground",
+      "options": [
+        "lymph node",
+        "eyeground",
+        "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+        "the attachment connecting the embryo or fetus with the placenta / umbilical chord"
+      ],
+      "explanation": {
+        "en": "fundus oculi means 'eyeground'. Eyeground. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0064",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'bulbus oculi'?"
+      },
+      "correctAnswer": "bulb of an eye / the ball of an eye",
+      "options": [
+        "cystic rupture",
+        "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+        "cerebral cranium",
+        "bulb of an eye / the ball of an eye"
+      ],
+      "explanation": {
+        "en": "bulbus oculi means 'bulb of an eye / the ball of an eye'. Bulb of an eye; alt. the ball of an eye. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0065",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'morbi linguae'?"
+      },
+      "correctAnswer": "disease of tongue",
+      "options": [
+        "intermittent fever / a disease with fever which recurs at certain intervals, symptoms disappear completely between paroxysms",
+        "diseases of glands",
+        "disease of tongue",
+        "epidemic disease"
+      ],
+      "explanation": {
+        "en": "morbi linguae means 'disease of tongue'. Disease of tongue. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0066",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'morbi glandularum'?"
+      },
+      "correctAnswer": "diseases of glands",
+      "options": [
+        "chronic disease",
+        "diseases of glands",
+        "acute disease",
+        "epidemic disease"
+      ],
+      "explanation": {
+        "en": "morbi glandularum means 'diseases of glands'. Diseases of glands. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0067",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'isthmus uteri'?"
+      },
+      "correctAnswer": "isthmus of uterus / an elongated construction of the body of the uterus just above the cervix",
+      "options": [
+        "appendages of the uterine / the accessory structures to the uterus",
+        "isthmus of uterus / an elongated construction of the body of the uterus just above the cervix",
+        "uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy",
+        "prolapse of the uterus"
+      ],
+      "explanation": {
+        "en": "isthmus uteri means 'isthmus of uterus / an elongated construction of the body of the uterus just above the cervix'. Isthmus of uterus; alt. an elongated construction of the body of the uterus just above the cervix. Anchor: uterus."
+      }
+    },
+    {
+      "cardId": "la-exam-0068",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ramus mandibulae'?"
+      },
+      "correctAnswer": "ramus of mandible",
+      "options": [
+        "interosseous margin",
+        "ramus of mandible",
+        "coracoid process / from the neck of the scapula",
+        "spongy bone / spongy substance"
+      ],
+      "explanation": {
+        "en": "ramus mandibulae means 'ramus of mandible'. Ramus of mandible. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0069",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ileus mechanicus'?"
+      },
+      "correctAnswer": "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+      "options": [
+        "organ of smell",
+        "small stature / frail underweight appearance",
+        "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+        "gray or white patches, streaks or spots in the nails"
+      ],
+      "explanation": {
+        "en": "ileus mechanicus means 'mechanical ileus / physical obstruction of the bowel due to some mechanical cause'. Mechanical ileus; alt. physical obstruction of the bowel due to some mechanical cause. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0070",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'trismus neonatorum'?"
+      },
+      "correctAnswer": "stiffness of the jaw muscles in neonates",
+      "options": [
+        "stiffness of the jaw muscles in neonates",
+        "kidney insufficiency",
+        "perforating / perforated ulcus",
+        "remedies which prevent nausea and vomiting"
+      ],
+      "explanation": {
+        "en": "trismus neonatorum means 'stiffness of the jaw muscles in neonates'. Stiffness of the jaw muscles in neonates. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0071",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'asphyxia neonatorum'?"
+      },
+      "correctAnswer": "asphyxia occurring in newborn",
+      "options": [
+        "multiple sclerosis / destruction of the myelin within several regions of the brain and spinal cord at different time",
+        "maximum dose",
+        "organ of smell",
+        "asphyxia occurring in newborn"
+      ],
+      "explanation": {
+        "en": "asphyxia neonatorum means 'asphyxia occurring in newborn'. Asphyxia occurring in newborn. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0072",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ligamentum latum'?"
+      },
+      "correctAnswer": "broad ligament (of uterus)",
+      "options": [
+        "longitudinal ligaments / the wide fibrous bands running along the front of the entire vertebral column",
+        "round ligament (of femur, of liver, of uterus)",
+        "broad ligament (of uterus)",
+        "round ligament (of elbow joint / femur / liver / uterus)"
+      ],
+      "explanation": {
+        "en": "ligamentum latum means 'broad ligament (of uterus)'. Broad ligament (of uterus). Anchor: ligament."
+      }
+    },
+    {
+      "cardId": "la-exam-0073",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ligamentum rotundum'?"
+      },
+      "correctAnswer": "round ligament (of elbow joint / femur / liver / uterus)",
+      "options": [
+        "round ligament (of elbow joint / femur / liver / uterus)",
+        "broad ligament of the uterus",
+        "longitudinal ligaments / the wide fibrous bands running along the front of the entire vertebral column",
+        "round ligament (of femur, of liver, of uterus)"
+      ],
+      "explanation": {
+        "en": "ligamentum rotundum means 'round ligament (of elbow joint / femur / liver / uterus)'. Round ligament (of elbow joint; alt. femur. Anchor: ligament."
+      }
+    },
+    {
+      "cardId": "la-exam-0074",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'palatum durum'?"
+      },
+      "correctAnswer": "hard palate",
+      "options": [
+        "palatine fold",
+        "soft palate",
+        "uvula of soft palate",
+        "hard palate"
+      ],
+      "explanation": {
+        "en": "palatum durum means 'hard palate'. Hard palate. Anchor: palate."
+      }
+    },
+    {
+      "cardId": "la-exam-0075",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'velum palatinum'?"
+      },
+      "correctAnswer": "soft palate",
+      "options": [
+        "uvula of soft palate",
+        "palatine raphe",
+        "soft palate",
+        "hard palate"
+      ],
+      "explanation": {
+        "en": "velum palatinum means 'soft palate'. Soft palate. Anchor: palate."
+      }
+    },
+    {
+      "cardId": "la-exam-0076",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'stratum corneum'?"
+      },
+      "correctAnswer": "corneal layer of epidermis",
+      "options": [
+        "corneal layer of epidermis",
+        "peppermint",
+        "asphyxia occurring in newborn",
+        "gray or white patches, streaks or spots in the nails"
+      ],
+      "explanation": {
+        "en": "stratum corneum means 'corneal layer of epidermis'. Corneal layer of epidermis. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0077",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'stratum fibrosum'?"
+      },
+      "correctAnswer": "fibrous layer, the fibrous capsule of an organ",
+      "options": [
+        "downward displacement of the stomach",
+        "vertical vertigo / produced by standing or looking up and down",
+        "fibrous layer, the fibrous capsule of an organ",
+        "small stature / frail underweight appearance"
+      ],
+      "explanation": {
+        "en": "stratum fibrosum means 'fibrous layer, the fibrous capsule of an organ'. Fibrous layer, the fibrous capsule of an organ. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0078",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'unguentum ophthalmicum'?"
+      },
+      "correctAnswer": "ophthalmic ointment, eye ointment",
+      "options": [
+        "eyeground",
+        "ophthalmic ointment, eye ointment",
+        "compact substance",
+        "genital organs / the organs of the reproduction"
+      ],
+      "explanation": {
+        "en": "unguentum ophthalmicum means 'ophthalmic ointment, eye ointment'. Ophthalmic ointment, eye ointment. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0079",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'acidum lacticum'?"
+      },
+      "correctAnswer": "lactic acid",
+      "options": [
+        "waxed paper",
+        "lactic acid",
+        "compound syrup / containing several ingredients",
+        "rose water"
+      ],
+      "explanation": {
+        "en": "acidum lacticum means 'lactic acid'. Lactic acid. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0080",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of '(remedia) analgetica'?"
+      },
+      "correctAnswer": "analgesics / painkillers",
+      "options": [
+        "traumatic brain injury, a clinical syndrome due to mechanical, usually traumatic injury",
+        "herpes simplex",
+        "analgesics / painkillers",
+        "cerebral cranium"
+      ],
+      "explanation": {
+        "en": "(remedia) analgetica means 'analgesics / painkillers'. Analgesics; alt. painkillers. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0081",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of '(remedia) antiemetica'?"
+      },
+      "correctAnswer": "remedies which prevent nausea and vomiting",
+      "options": [
+        "remedies which prevent nausea and vomiting",
+        "stiffness of the jaw muscles in neonates",
+        "small intestine",
+        "optic axis"
+      ],
+      "explanation": {
+        "en": "(remedia) antiemetica means 'remedies which prevent nausea and vomiting'. Remedies which prevent nausea and vomiting. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0082",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of '(remedia) sedativa'?"
+      },
+      "correctAnswer": "drugs or other substances that exert a soothing effect / sedatives",
+      "options": [
+        "downward displacement of the stomach",
+        "drugs or other substances that exert a soothing effect / sedatives",
+        "bow-legged (knee bowed out)",
+        "fundus of stomach"
+      ],
+      "explanation": {
+        "en": "(remedia) sedativa means 'drugs or other substances that exert a soothing effect / sedatives'. Drugs or other substances that exert a soothing effect; alt. sedatives. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0083",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of '(remedia) ptarmica'?"
+      },
+      "correctAnswer": "chemical substances that provoke sneezing",
+      "options": [
+        "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+        "chemical substances that provoke sneezing",
+        "headache",
+        "urinary calculus / stone in the kidney, ureter, bladder or urethra"
+      ],
+      "explanation": {
+        "en": "(remedia) ptarmica means 'chemical substances that provoke sneezing'. Chemical substances that provoke sneezing. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0084",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of '(remedia) antimycotica'?"
+      },
+      "correctAnswer": "agents that destroy or prevent the growth of fungi",
+      "options": [
+        "maximum dose",
+        "eyeground",
+        "traumatic brain injury, a clinical syndrome due to mechanical, usually traumatic injury",
+        "agents that destroy or prevent the growth of fungi"
+      ],
+      "explanation": {
+        "en": "(remedia) antimycotica means 'agents that destroy or prevent the growth of fungi'. Agents that destroy or prevent the growth of fungi. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0085",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cavum nasi'?"
+      },
+      "correctAnswer": "the cavity on either side of the nasal septum / nasal cavity",
+      "options": [
+        "thoracic cavity / the space within the thoracic walls, bounded below the diaphragm and above by the neck",
+        "lacrimal apparatus",
+        "the cavity on either side of the nasal septum / nasal cavity",
+        "nasal cavity"
+      ],
+      "explanation": {
+        "en": "cavum nasi means 'the cavity on either side of the nasal septum / nasal cavity'. The cavity on either side of the nasal septum; alt. nasal cavity. Anchor: cavity."
+      }
+    },
+    {
+      "cardId": "la-exam-0086",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'vestibulum vaginae'?"
+      },
+      "correctAnswer": "vestibule of vagina",
+      "options": [
+        "vestibule of vagina",
+        "lacrimal bone",
+        "vestibule of mouth",
+        "nasal cavity"
+      ],
+      "explanation": {
+        "en": "vestibulum vaginae means 'vestibule of vagina'. Vestibule of vagina. Anchor: cavity."
+      }
+    },
+    {
+      "cardId": "la-exam-0087",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dorsum linguae'?"
+      },
+      "correctAnswer": "the back of a tongue",
+      "options": [
+        "the back of a tongue",
+        "root of tongue",
+        "black pigmentation of the dorsum of the tongue / black tongue",
+        "median sulcus of tongue"
+      ],
+      "explanation": {
+        "en": "dorsum linguae means 'the back of a tongue'. The back of a tongue. Anchor: tongue."
+      }
+    },
+    {
+      "cardId": "la-exam-0088",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'haemorrhagia cerebri'?"
+      },
+      "correctAnswer": "cerebral hemorrhage",
+      "options": [
+        "acute disease",
+        "cerebral hemorrhage",
+        "the structures between the bones of the skull",
+        "left ventricle"
+      ],
+      "explanation": {
+        "en": "haemorrhagia cerebri means 'cerebral hemorrhage'. Cerebral hemorrhage. Anchor: hemorrhage."
+      }
+    },
+    {
+      "cardId": "la-exam-0089",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculi colli'?"
+      },
+      "correctAnswer": "muscles of neck",
+      "options": [
+        "muscles of neck",
+        "transverse muscles of chin",
+        "muscles of facial expression",
+        "orbicular muscle of mouth"
+      ],
+      "explanation": {
+        "en": "musculi colli means 'muscles of neck'. Muscles of neck. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0090",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculi dorsi'?"
+      },
+      "correctAnswer": "muscles of back",
+      "options": [
+        "the muscle of the upper arm that flexes the elbow and supinates the forearm",
+        "dorsal interosseous muscles of foot",
+        "muscles of neck",
+        "muscles of back"
+      ],
+      "explanation": {
+        "en": "musculi dorsi means 'muscles of back'. Muscles of back. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0091",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ligamentum latum uteri'?"
+      },
+      "correctAnswer": "broad ligament of the uterus",
+      "options": [
+        "longitudinal ligaments / the wide fibrous bands running along the front of the entire vertebral column",
+        "broad ligament (of uterus)",
+        "round ligament (of elbow joint / femur / liver / uterus)",
+        "broad ligament of the uterus"
+      ],
+      "explanation": {
+        "en": "ligamentum latum uteri means 'broad ligament of the uterus'. Broad ligament of the uterus. Anchor: ligament."
+      }
+    },
+    {
+      "cardId": "la-exam-0092",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'adnexa uteri'?"
+      },
+      "correctAnswer": "appendages of the uterine / the accessory structures to the uterus",
+      "options": [
+        "uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy",
+        "appendages of the uterine / the accessory structures to the uterus",
+        "uterine tube / fallopian tube",
+        "isthmus of uterus / an elongated construction of the body of the uterus just above the cervix"
+      ],
+      "explanation": {
+        "en": "adnexa uteri means 'appendages of the uterine / the accessory structures to the uterus'. Appendages of the uterine; alt. the accessory structures to the uterus. Anchor: uterus."
+      }
+    },
+    {
+      "cardId": "la-exam-0093",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'raphe palati'?"
+      },
+      "correctAnswer": "palatine raphe",
+      "options": [
+        "palatine fold",
+        "glossopalatine arch",
+        "palatine raphe",
+        "hard palate"
+      ],
+      "explanation": {
+        "en": "raphe palati means 'palatine raphe'. Palatine raphe. Anchor: palate."
+      }
+    },
+    {
+      "cardId": "la-exam-0094",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'suturae cranii'?"
+      },
+      "correctAnswer": "the structures between the bones of the skull",
+      "options": [
+        "bones of digits",
+        "sesamoid bones",
+        "the structures between the bones of the skull",
+        "short bone"
+      ],
+      "explanation": {
+        "en": "suturae cranii means 'the structures between the bones of the skull'. The structures between the bones of the skull. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0095",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'commissura labiorum'?"
+      },
+      "correctAnswer": "commissure of lips",
+      "options": [
+        "hair follicle",
+        "headache",
+        "eyeground",
+        "commissure of lips"
+      ],
+      "explanation": {
+        "en": "commissura labiorum means 'commissure of lips'. Commissure of lips. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0096",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculus transversus menti'?"
+      },
+      "correctAnswer": "transverse muscles of chin",
+      "options": [
+        "orbicular muscle of mouth",
+        "circular muscle of the eye",
+        "muscles of abdomen",
+        "transverse muscles of chin"
+      ],
+      "explanation": {
+        "en": "musculus transversus menti means 'transverse muscles of chin'. Transverse muscles of chin. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0097",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'oleum Olivarum'?"
+      },
+      "correctAnswer": "olive oil",
+      "options": [
+        "syrup of Poppy",
+        "rose water",
+        "lactic acid",
+        "olive oil"
+      ],
+      "explanation": {
+        "en": "oleum Olivarum means 'olive oil'. Olive oil. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0098",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'oleum Helianthi'?"
+      },
+      "correctAnswer": "sunflower seed oil",
+      "options": [
+        "hard paraffin",
+        "fine powder",
+        "sunflower seed oil",
+        "pure water"
+      ],
+      "explanation": {
+        "en": "oleum Helianthi means 'sunflower seed oil'. Sunflower seed oil. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0099",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'arteria ophthalmica'?"
+      },
+      "correctAnswer": "ophthalmic artery",
+      "options": [
+        "profund artery",
+        "ophthalmic artery",
+        "coronary artery",
+        "right gastric artery"
+      ],
+      "explanation": {
+        "en": "arteria ophthalmica means 'ophthalmic artery'. Ophthalmic artery. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0100",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'arteria gastrica dextra'?"
+      },
+      "correctAnswer": "right gastric artery",
+      "options": [
+        "aortic valve",
+        "occipital groove / a narrow grove of the temporal bone that lodges the occipital artery",
+        "coronary artery",
+        "right gastric artery"
+      ],
+      "explanation": {
+        "en": "arteria gastrica dextra means 'right gastric artery'. Right gastric artery. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0101",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tunica externa'?"
+      },
+      "correctAnswer": "the outer of two or more enveloping layers of any structures",
+      "options": [
+        "the outer of two or more enveloping layers of any structures",
+        "hard pulse / a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension",
+        "left clavicle",
+        "hair follicle"
+      ],
+      "explanation": {
+        "en": "tunica externa means 'the outer of two or more enveloping layers of any structures'. The outer of two or more enveloping layers of any structures. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0102",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'vesica fellea'?"
+      },
+      "correctAnswer": "gallbladder",
+      "options": [
+        "gallbladder",
+        "traumatic brain injury, a clinical syndrome due to mechanical, usually traumatic injury",
+        "small stature / frail underweight appearance",
+        "urinary calculus / stone in the kidney, ureter, bladder or urethra"
+      ],
+      "explanation": {
+        "en": "vesica fellea means 'gallbladder'. Gallbladder. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0103",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'vesica urinaria'?"
+      },
+      "correctAnswer": "urinary bladder",
+      "options": [
+        "myasthenic crisis / severe life-threating exacerbation of the manifestations of myasthenic gravis",
+        "enamel / substantia vitrea",
+        "cystic diathesis / a condition in which multiple cysts form in the liver / kidneys",
+        "urinary bladder"
+      ],
+      "explanation": {
+        "en": "vesica urinaria means 'urinary bladder'. Urinary bladder. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0104",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'linea obliqua'?"
+      },
+      "correctAnswer": "oblique line",
+      "options": [
+        "round foramen",
+        "olfactory sulcus / groove",
+        "oblique line",
+        "lateral surface / the surface of a part of the body that faces away from the midline"
+      ],
+      "explanation": {
+        "en": "linea obliqua means 'oblique line'. Oblique line. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0105",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'linea arcuata'?"
+      },
+      "correctAnswer": "arcuate line",
+      "options": [
+        "olfactory sulcus / groove",
+        "arcuate line",
+        "fat body",
+        "oblique line"
+      ],
+      "explanation": {
+        "en": "linea arcuata means 'arcuate line'. Arcuate line. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0106",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sutura serrata'?"
+      },
+      "correctAnswer": "serrate suture",
+      "options": [
+        "commissure of lips",
+        "analgesics / painkillers",
+        "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+        "serrate suture"
+      ],
+      "explanation": {
+        "en": "sutura serrata means 'serrate suture'. Serrate suture. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0107",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sutura incisiva'?"
+      },
+      "correctAnswer": "incisive suture",
+      "options": [
+        "nipple",
+        "incisive suture",
+        "agents that destroy or prevent the growth of fungi",
+        "herpes simplex"
+      ],
+      "explanation": {
+        "en": "sutura incisiva means 'incisive suture'. Incisive suture. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0108",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'substantia compacta'?"
+      },
+      "correctAnswer": "compact substance",
+      "options": [
+        "compact substance",
+        "agents that destroy or prevent the growth of fungi",
+        "downward displacement of the stomach",
+        "pyogenic infection / usually with pus formation"
+      ],
+      "explanation": {
+        "en": "substantia compacta means 'compact substance'. Compact substance. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0109",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'glandula mammaria'?"
+      },
+      "correctAnswer": "mammary gland",
+      "options": [
+        "lingual gland",
+        "olfactory glands",
+        "salivary gland",
+        "mammary gland"
+      ],
+      "explanation": {
+        "en": "glandula mammaria means 'mammary gland'. Mammary gland. Anchor: gland."
+      }
+    },
+    {
+      "cardId": "la-exam-0110",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'glandulae olfactoriae'?"
+      },
+      "correctAnswer": "olfactory glands",
+      "options": [
+        "olfactory glands",
+        "salivary gland",
+        "mammary gland",
+        "cancer of the thyroid gland"
+      ],
+      "explanation": {
+        "en": "glandulae olfactoriae means 'olfactory glands'. Olfactory glands. Anchor: gland."
+      }
+    },
+    {
+      "cardId": "la-exam-0111",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sulcus olfactorius'?"
+      },
+      "correctAnswer": "olfactory sulcus / groove",
+      "options": [
+        "arcuate line",
+        "round foramen",
+        "used in the nervous system: a bundle of nerve fibers passing from one named nerve to join another / communicating branch",
+        "olfactory sulcus / groove"
+      ],
+      "explanation": {
+        "en": "sulcus olfactorius means 'olfactory sulcus / groove'. Olfactory sulcus; alt. groove. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0112",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'vertebrae thoracicae'?"
+      },
+      "correctAnswer": "thoracic vertebrae",
+      "options": [
+        "thoracic vertebrae",
+        "base of metacarpal",
+        "white wax / the purified form in making ointments and to stop bleeding from bones during surgery",
+        "sesamoid bone / a bone formed after birth in the tendon where it passes over a joint"
+      ],
+      "explanation": {
+        "en": "vertebrae thoracicae means 'thoracic vertebrae'. Thoracic vertebrae. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0113",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'nervus hypoglossus'?"
+      },
+      "correctAnswer": "hypoglossal nerve",
+      "options": [
+        "cervical branch of facial nerve",
+        "hypoglossal nerve",
+        "dorsal nerve of scapula",
+        "tenth cranial nerve / vagus nerve / pneumogastric nerve"
+      ],
+      "explanation": {
+        "en": "nervus hypoglossus means 'hypoglossal nerve'. Hypoglossal nerve. Anchor: nerve."
+      }
+    },
+    {
+      "cardId": "la-exam-0114",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'Nervus trigeminus (CN V)'?"
+      },
+      "correctAnswer": "fifth cranial nerve",
+      "options": [
+        "tenth cranial nerve / vagus nerve / pneumogastric nerve",
+        "cervical branch of facial nerve",
+        "hypoglossal nerve",
+        "fifth cranial nerve"
+      ],
+      "explanation": {
+        "en": "Nervus trigeminus (CN V) means 'fifth cranial nerve'. Fifth cranial nerve. Anchor: nerve."
+      }
+    },
+    {
+      "cardId": "la-exam-0115",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'fundus gastricus'?"
+      },
+      "correctAnswer": "fundus of stomach",
+      "options": [
+        "left clavicle",
+        "analgesics / painkillers",
+        "middle ear",
+        "fundus of stomach"
+      ],
+      "explanation": {
+        "en": "fundus gastricus means 'fundus of stomach'. Fundus of stomach. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0116",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'calculus urinarius'?"
+      },
+      "correctAnswer": "urinary calculus / stone in the kidney, ureter, bladder or urethra",
+      "options": [
+        "sense organs",
+        "atrophy of muscles / decrease in size and number of muscle fibers",
+        "analgesics / painkillers",
+        "urinary calculus / stone in the kidney, ureter, bladder or urethra"
+      ],
+      "explanation": {
+        "en": "calculus urinarius means 'urinary calculus / stone in the kidney, ureter, bladder or urethra'. Urinary calculus; alt. stone in the kidney, ureter, bladder or urethra. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0117",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculus risorius'?"
+      },
+      "correctAnswer": "facial muscle of mouth / risorius muscle",
+      "options": [
+        "muscles of abdomen",
+        "facial muscle of mouth / risorius muscle",
+        "biceps (muscle)",
+        "muscles of facial expression"
+      ],
+      "explanation": {
+        "en": "musculus risorius means 'facial muscle of mouth / risorius muscle'. Facial muscle of mouth; alt. risorius muscle. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0118",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'charta cerata'?"
+      },
+      "correctAnswer": "waxed paper",
+      "options": [
+        "olive oil",
+        "fine powder",
+        "lactic acid",
+        "waxed paper"
+      ],
+      "explanation": {
+        "en": "charta cerata means 'waxed paper'. Waxed paper. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0119",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'aqua purificata'?"
+      },
+      "correctAnswer": "purified water",
+      "options": [
+        "pure water",
+        "purified water",
+        "syrup of Poppy",
+        "sunflower seed oil"
+      ],
+      "explanation": {
+        "en": "aqua purificata means 'purified water'. Purified water. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0120",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'paraffinum solidum'?"
+      },
+      "correctAnswer": "hard paraffin",
+      "options": [
+        "compound syrup / containing several ingredients",
+        "simple syrup / syrupus albus / syrupus sacchari",
+        "waxed paper",
+        "hard paraffin"
+      ],
+      "explanation": {
+        "en": "paraffinum solidum means 'hard paraffin'. Hard paraffin. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0121",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tumor adiposus'?"
+      },
+      "correctAnswer": "adipose tumor / a benign neoplasm of adipose tissue",
+      "options": [
+        "hard paraffin",
+        "heterologous tumor / composed of a tissue unlike that from which it springs",
+        "homologous tumor / a tumor composed of tissue of the same sort as that from which it springs",
+        "adipose tumor / a benign neoplasm of adipose tissue"
+      ],
+      "explanation": {
+        "en": "tumor adiposus means 'adipose tumor / a benign neoplasm of adipose tissue'. Adipose tumor; alt. a benign neoplasm of adipose tissue. Anchor: tumor."
+      }
+    },
+    {
+      "cardId": "la-exam-0122",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tumor homologus'?"
+      },
+      "correctAnswer": "homologous tumor / a tumor composed of tissue of the same sort as that from which it springs",
+      "options": [
+        "heterologous tumor / composed of a tissue unlike that from which it springs",
+        "adipose tumor / a benign neoplasm of adipose tissue",
+        "homologous tumor / a tumor composed of tissue of the same sort as that from which it springs",
+        "soft palate"
+      ],
+      "explanation": {
+        "en": "tumor homologus means 'homologous tumor / a tumor composed of tissue of the same sort as that from which it springs'. Homologous tumor; alt. a tumor composed of tissue of the same sort as that from which it springs. Anchor: tumor."
+      }
+    },
+    {
+      "cardId": "la-exam-0123",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'tumor heterologus'?"
+      },
+      "correctAnswer": "heterologous tumor / composed of a tissue unlike that from which it springs",
+      "options": [
+        "adipose tumor / a benign neoplasm of adipose tissue",
+        "heterologous tumor / composed of a tissue unlike that from which it springs",
+        "homologous tumor / a tumor composed of tissue of the same sort as that from which it springs",
+        "intermittent fever / a disease with fever which recurs at certain intervals, symptoms disappear completely between paroxysms"
+      ],
+      "explanation": {
+        "en": "tumor heterologus means 'heterologous tumor / composed of a tissue unlike that from which it springs'. Heterologous tumor; alt. composed of a tissue unlike that from which it springs. Anchor: tumor."
+      }
+    },
+    {
+      "cardId": "la-exam-0124",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'margo interosseus'?"
+      },
+      "correctAnswer": "interosseous margin",
+      "options": [
+        "interosseous margin",
+        "sacral vertebrae (S1-S5)",
+        "sesamoid bone / a bone formed after birth in the tendon where it passes over a joint",
+        "long bone"
+      ],
+      "explanation": {
+        "en": "margo interosseus means 'interosseous margin'. Interosseous margin. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0125",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dentitio primaria'?"
+      },
+      "correctAnswer": "primary dentition",
+      "options": [
+        "dentine",
+        "canine tooth / cuspid tooth",
+        "primary dentition",
+        "incisor tooth / canine tooth"
+      ],
+      "explanation": {
+        "en": "dentitio primaria means 'primary dentition'. Primary dentition. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0126",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dentitio secundaria'?"
+      },
+      "correctAnswer": "secondary dentition",
+      "options": [
+        "secondary dentition",
+        "the area about the root end of a tooth",
+        "accessory root of tooth",
+        "oral cavity proper / the space between the dental arches, limited by the isthmus of the fauces"
+      ],
+      "explanation": {
+        "en": "dentitio secundaria means 'secondary dentition'. Secondary dentition. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0127",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'radix accessoria'?"
+      },
+      "correctAnswer": "accessory root of tooth",
+      "options": [
+        "accessory root of tooth",
+        "alveolar process / of the ridge on the surfaces of the upper and lower jaws containing the tooth socket",
+        "wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible",
+        "canine tooth / cuspid tooth"
+      ],
+      "explanation": {
+        "en": "radix accessoria means 'accessory root of tooth'. Accessory root of tooth. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0128",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'corpus adiposum'?"
+      },
+      "correctAnswer": "fat body",
+      "options": [
+        "facial expression of an unhappy person or one sick or in pain",
+        "olfactory sulcus / groove",
+        "articular surface",
+        "fat body"
+      ],
+      "explanation": {
+        "en": "corpus adiposum means 'fat body'. Fat body. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0129",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'foramen rotundum'?"
+      },
+      "correctAnswer": "round foramen",
+      "options": [
+        "arcuate line",
+        "head of the radius",
+        "olfactory sulcus / groove",
+        "round foramen"
+      ],
+      "explanation": {
+        "en": "foramen rotundum means 'round foramen'. Round foramen. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0130",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'systema alimentarium'?"
+      },
+      "correctAnswer": "digestive system",
+      "options": [
+        "respiratory system",
+        "nervous system",
+        "lymphatic system",
+        "digestive system"
+      ],
+      "explanation": {
+        "en": "systema alimentarium means 'digestive system'. Digestive system. Anchor: system."
+      }
+    },
+    {
+      "cardId": "la-exam-0131",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'systema lymphaticum'?"
+      },
+      "correctAnswer": "lymphatic system",
+      "options": [
+        "lymphatic system",
+        "respiratory system",
+        "nervous system",
+        "digestive system"
+      ],
+      "explanation": {
+        "en": "systema lymphaticum means 'lymphatic system'. Lymphatic system. Anchor: system."
+      }
+    },
+    {
+      "cardId": "la-exam-0132",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'systema nervosum'?"
+      },
+      "correctAnswer": "nervous system",
+      "options": [
+        "respiratory system",
+        "digestive system",
+        "lymphatic system",
+        "nervous system"
+      ],
+      "explanation": {
+        "en": "systema nervosum means 'nervous system'. Nervous system. Anchor: system."
+      }
+    },
+    {
+      "cardId": "la-exam-0133",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'systema respiratorium'?"
+      },
+      "correctAnswer": "respiratory system",
+      "options": [
+        "nervous system",
+        "digestive system",
+        "lymphatic system",
+        "respiratory system"
+      ],
+      "explanation": {
+        "en": "systema respiratorium means 'respiratory system'. Respiratory system. Anchor: system."
+      }
+    },
+    {
+      "cardId": "la-exam-0134",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'Papaver somniferum'?"
+      },
+      "correctAnswer": "sleep-bringing poppy",
+      "options": [
+        "hard pulse / a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension",
+        "sleep-bringing poppy",
+        "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+        "bow-legged (knee bowed out)"
+      ],
+      "explanation": {
+        "en": "Papaver somniferum means 'sleep-bringing poppy'. Sleep-bringing poppy. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0135",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'capsula cordis'?"
+      },
+      "correctAnswer": "heart sac/ the fibroserous membrane covering the heart",
+      "options": [
+        "the atrium of the right side of the heart",
+        "heart sac/ the fibroserous membrane covering the heart",
+        "left ventricle",
+        "right ventricle"
+      ],
+      "explanation": {
+        "en": "capsula cordis means 'heart sac/ the fibroserous membrane covering the heart'. Heart sac/ the fibroserous membrane covering the heart. Anchor: heart."
+      }
+    },
+    {
+      "cardId": "la-exam-0136",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'atrium cordis dextrum'?"
+      },
+      "correctAnswer": "the atrium of the right side of the heart",
+      "options": [
+        "the atrium of the right side of the heart",
+        "heart sac/ the fibroserous membrane covering the heart",
+        "right ventricle",
+        "heart beat"
+      ],
+      "explanation": {
+        "en": "atrium cordis dextrum means 'the atrium of the right side of the heart'. The atrium of the right side of the heart. Anchor: heart."
+      }
+    },
+    {
+      "cardId": "la-exam-0137",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'alveoli pulmonis'?"
+      },
+      "correctAnswer": "pulmonary alveoli / air sacs",
+      "options": [
+        "sesamoid bone / a bone formed after birth in the tendon where it passes over a joint",
+        "pulmonary alveoli / air sacs",
+        "thoracic vertebrae",
+        "base of lung"
+      ],
+      "explanation": {
+        "en": "alveoli pulmonis means 'pulmonary alveoli / air sacs'. Pulmonary alveoli; alt. air sacs. Anchor: lung."
+      }
+    },
+    {
+      "cardId": "la-exam-0138",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cervix uteri'?"
+      },
+      "correctAnswer": "cervix of uterus / neck of uterus",
+      "options": [
+        "uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy",
+        "cervix of uterus / neck of uterus",
+        "outer layer of uterine tissue",
+        "a condition in which the placenta partially or wholly blocks the neck of the uterus"
+      ],
+      "explanation": {
+        "en": "cervix uteri means 'cervix of uterus / neck of uterus'. Cervix of uterus; alt. neck of uterus. Anchor: uterus."
+      }
+    },
+    {
+      "cardId": "la-exam-0139",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cavitas nasi'?"
+      },
+      "correctAnswer": "nasal cavity",
+      "options": [
+        "vestibule of mouth",
+        "vestibule of vagina",
+        "the cavity on either side of the nasal septum / nasal cavity",
+        "nasal cavity"
+      ],
+      "explanation": {
+        "en": "cavitas nasi means 'nasal cavity'. Nasal cavity. Anchor: cavity."
+      }
+    },
+    {
+      "cardId": "la-exam-0140",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cavitas thoracis'?"
+      },
+      "correctAnswer": "thoracic cavity / the space within the thoracic walls, bounded below the diaphragm and above by the neck",
+      "options": [
+        "vestibule of vagina",
+        "oral fissure / the aperture of the mouth",
+        "nasal cavity",
+        "thoracic cavity / the space within the thoracic walls, bounded below the diaphragm and above by the neck"
+      ],
+      "explanation": {
+        "en": "cavitas thoracis means 'thoracic cavity / the space within the thoracic walls, bounded below the diaphragm and above by the neck'. Thoracic cavity; alt. the space within the thoracic walls, bounded below the diaphragm and above by the neck. Anchor: cavity."
+      }
+    },
+    {
+      "cardId": "la-exam-0141",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'radix linguae'?"
+      },
+      "correctAnswer": "root of tongue",
+      "options": [
+        "root of tongue",
+        "the back of a tongue",
+        "black pigmentation of the dorsum of the tongue / black tongue",
+        "median sulcus of tongue"
+      ],
+      "explanation": {
+        "en": "radix linguae means 'root of tongue'. Root of tongue. Anchor: tongue."
+      }
+    },
+    {
+      "cardId": "la-exam-0142",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculi abdominis'?"
+      },
+      "correctAnswer": "muscles of abdomen",
+      "options": [
+        "facial muscle of mouth / risorius muscle",
+        "muscles of back",
+        "muscles of neck",
+        "muscles of abdomen"
+      ],
+      "explanation": {
+        "en": "musculi abdominis means 'muscles of abdomen'. Muscles of abdomen. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0143",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'corpus maxillae'?"
+      },
+      "correctAnswer": "body of maxilla",
+      "options": [
+        "myocardial infarct / heart attack / the loss of living heart muscle as a result of occlusion of a coronary artery",
+        "body of maxilla",
+        "coccygeal bone / tail bone",
+        "spongy bone / spongy substance"
+      ],
+      "explanation": {
+        "en": "corpus maxillae means 'body of maxilla'. Body of maxilla. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0144",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dolor capitis'?"
+      },
+      "correctAnswer": "headache",
+      "options": [
+        "small stature / frail underweight appearance",
+        "nipple",
+        "headache",
+        "pyogenic infection / usually with pus formation"
+      ],
+      "explanation": {
+        "en": "dolor capitis means 'headache'. Headache. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0145",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'digitus pedis'?"
+      },
+      "correctAnswer": "toe",
+      "options": [
+        "toe",
+        "lymph node",
+        "peppermint",
+        "agents that destroy or prevent the growth of fungi"
+      ],
+      "explanation": {
+        "en": "digitus pedis means 'toe'. Toe. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0146",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'vestibulum oris'?"
+      },
+      "correctAnswer": "vestibule of mouth",
+      "options": [
+        "thoracic cavity / the space within the thoracic walls, bounded below the diaphragm and above by the neck",
+        "lacrimal apparatus",
+        "vestibule of vagina",
+        "vestibule of mouth"
+      ],
+      "explanation": {
+        "en": "vestibulum oris means 'vestibule of mouth'. Vestibule of mouth. Anchor: cavity."
+      }
+    },
+    {
+      "cardId": "la-exam-0147",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cavitas oris propria'?"
+      },
+      "correctAnswer": "oral cavity proper / the space between the dental arches, limited by the isthmus of the fauces",
+      "options": [
+        "primary dentition",
+        "wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible",
+        "oral cavity proper / the space between the dental arches, limited by the isthmus of the fauces",
+        "dental arch / the arch formed by the alveolar process and teeth in each jaw"
+      ],
+      "explanation": {
+        "en": "cavitas oris propria means 'oral cavity proper / the space between the dental arches, limited by the isthmus of the fauces'. Oral cavity proper; alt. the space between the dental arches, limited by the isthmus of the fauces. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0148",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'crisis myasthenia'?"
+      },
+      "correctAnswer": "myasthenic crisis /",
+      "options": [
+        "traumatic brain injury, a clinical syndrome due to mechanical, usually traumatic injury",
+        "myasthenic crisis /",
+        "a condition of severe, prolonged asthma",
+        "paralytic rabies / dumb rabies"
+      ],
+      "explanation": {
+        "en": "crisis myasthenia means 'myasthenic crisis /'. Myasthenic crisis . Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0149",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'thrombosis coronaria'?"
+      },
+      "correctAnswer": "coronary thrombosis / a blood clot in a coronary artery",
+      "options": [
+        "beginning caries or decay",
+        "masticatory system",
+        "drugs or other substances that exert a soothing effect / sedatives",
+        "coronary thrombosis / a blood clot in a coronary artery"
+      ],
+      "explanation": {
+        "en": "thrombosis coronaria means 'coronary thrombosis / a blood clot in a coronary artery'. Coronary thrombosis; alt. a blood clot in a coronary artery. Anchor: thrombosis."
+      }
+    },
+    {
+      "cardId": "la-exam-0150",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dosis curativa'?"
+      },
+      "correctAnswer": "therapeutic dose / the quantity of any substance required to heal an illness or disease",
+      "options": [
+        "therapeutic dose / the quantity of any substance required to heal an illness or disease",
+        "infectious diseases",
+        "diseases of glands",
+        "acute disease"
+      ],
+      "explanation": {
+        "en": "dosis curativa means 'therapeutic dose / the quantity of any substance required to heal an illness or disease'. Therapeutic dose; alt. the quantity of any substance required to heal an illness or disease. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0151",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dosis maxima'?"
+      },
+      "correctAnswer": "maximum dose",
+      "options": [
+        "finger of the hand",
+        "maximum dose",
+        "remedies which prevent nausea and vomiting",
+        "enamel / substantia vitrea"
+      ],
+      "explanation": {
+        "en": "dosis maxima means 'maximum dose'. Maximum dose. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0152",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'basis cranii interna'?"
+      },
+      "correctAnswer": "internal surface of cranial base",
+      "options": [
+        "coccygeal bone / tail bone",
+        "interosseous margin",
+        "internal surface of cranial base",
+        "interosseous membrane"
+      ],
+      "explanation": {
+        "en": "basis cranii interna means 'internal surface of cranial base'. Internal surface of cranial base. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0153",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'basis pulmonis'?"
+      },
+      "correctAnswer": "base of lung",
+      "options": [
+        "pisiform bone, a small wrist bone resembling a pea in size and shape that articulates only with the triquetral",
+        "base of lung",
+        "heart beat",
+        "pulmonary alveoli / air sacs"
+      ],
+      "explanation": {
+        "en": "basis pulmonis means 'base of lung'. Base of lung. Anchor: lung."
+      }
+    },
+    {
+      "cardId": "la-exam-0154",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'rete ovarii'?"
+      },
+      "correctAnswer": "a transient network of cells in the developing ovary",
+      "options": [
+        "analgesics / painkillers",
+        "a transient network of cells in the developing ovary",
+        "serrate suture",
+        "urinary bladder"
+      ],
+      "explanation": {
+        "en": "rete ovarii means 'a transient network of cells in the developing ovary'. A transient network of cells in the developing ovary. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0155",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'auris externa'?"
+      },
+      "correctAnswer": "external ear",
+      "options": [
+        "external ear",
+        "external auditory meatus",
+        "ophthalmic ointment, eye ointment",
+        "hard pulse / a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension"
+      ],
+      "explanation": {
+        "en": "auris externa means 'external ear'. External ear. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0156",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'auris interna'?"
+      },
+      "correctAnswer": "internal ear",
+      "options": [
+        "perforating / perforated ulcus",
+        "internal ear",
+        "stiffness of the jaw muscles in neonates",
+        "myasthenic crisis /"
+      ],
+      "explanation": {
+        "en": "auris interna means 'internal ear'. Internal ear. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0157",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'auris media'?"
+      },
+      "correctAnswer": "middle ear",
+      "options": [
+        "middle ear",
+        "umbilical chord",
+        "headache",
+        "mucosa layer"
+      ],
+      "explanation": {
+        "en": "auris media means 'middle ear'. Middle ear. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0158",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'axis opticus'?"
+      },
+      "correctAnswer": "optic axis",
+      "options": [
+        "headache",
+        "fibrous layer, the fibrous capsule of an organ",
+        "optic axis",
+        "Knock-knee, a deformity in which the legs are curved inward at the knee"
+      ],
+      "explanation": {
+        "en": "axis opticus means 'optic axis'. Optic axis. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0159",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pars cavernosa'?"
+      },
+      "correctAnswer": "spongy urethra",
+      "options": [
+        "spongy urethra",
+        "valvular insufficiency / failure of the cardiac valves to close perfectly",
+        "downward displacement of the stomach",
+        "lactiferous ducts"
+      ],
+      "explanation": {
+        "en": "pars cavernosa means 'spongy urethra'. Spongy urethra. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0160",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dens caninus'?"
+      },
+      "correctAnswer": "canine tooth / cuspid tooth",
+      "options": [
+        "masticatory system",
+        "alveolar process / of the ridge on the surfaces of the upper and lower jaws containing the tooth socket",
+        "dental arch / the arch formed by the alveolar process and teeth in each jaw",
+        "canine tooth / cuspid tooth"
+      ],
+      "explanation": {
+        "en": "dens caninus means 'canine tooth / cuspid tooth'. Canine tooth; alt. cuspid tooth. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0161",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'radix clinica'?"
+      },
+      "correctAnswer": "clinical root of tooth",
+      "options": [
+        "ascending colon / the portion of the colon between the ileocecal orifice and the right colic flexure",
+        "dentine",
+        "clinical root of tooth",
+        "canine tooth / cuspid tooth"
+      ],
+      "explanation": {
+        "en": "radix clinica means 'clinical root of tooth'. Clinical root of tooth. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0162",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'commotio cerebri'?"
+      },
+      "correctAnswer": "traumatic brain injury, a clinical syndrome due to mechanical, usually traumatic injury",
+      "options": [
+        "bulb of an eye / the ball of an eye",
+        "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+        "toe",
+        "traumatic brain injury, a clinical syndrome due to mechanical, usually traumatic injury"
+      ],
+      "explanation": {
+        "en": "commotio cerebri means 'traumatic brain injury, a clinical syndrome due to mechanical, usually traumatic injury'. Traumatic brain injury, a clinical syndrome due to mechanical, usually traumatic injury. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0163",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dolor capitis'?"
+      },
+      "correctAnswer": "headache",
+      "options": [
+        "multiple sclerosis / destruction of the myelin within several regions of the brain and spinal cord at different time",
+        "headache",
+        "right clavicle",
+        "finger of the hand"
+      ],
+      "explanation": {
+        "en": "dolor capitis means 'headache'. Headache. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0164",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'caput radii'?"
+      },
+      "correctAnswer": "head of the radius",
+      "options": [
+        "facial expression of an unhappy person or one sick or in pain",
+        "arcuate line",
+        "fat body",
+        "head of the radius"
+      ],
+      "explanation": {
+        "en": "caput radii means 'head of the radius'. Head of the radius. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0165",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'rima oris'?"
+      },
+      "correctAnswer": "oral fissure / the aperture of the mouth",
+      "options": [
+        "lacrimal apparatus",
+        "oral fissure / the aperture of the mouth",
+        "vestibule of mouth",
+        "vestibule of vagina"
+      ],
+      "explanation": {
+        "en": "rima oris means 'oral fissure / the aperture of the mouth'. Oral fissure; alt. the aperture of the mouth. Anchor: cavity."
+      }
+    },
+    {
+      "cardId": "la-exam-0166",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'syrupus Papaveris'?"
+      },
+      "correctAnswer": "syrup of Poppy",
+      "options": [
+        "olive oil",
+        "gelatinous capsule",
+        "syrup of Poppy",
+        "waxed paper"
+      ],
+      "explanation": {
+        "en": "syrupus Papaveris means 'syrup of Poppy'. Syrup of poppy. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0167",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'infectio pyogenica'?"
+      },
+      "correctAnswer": "pyogenic infection / usually with pus formation",
+      "options": [
+        "pyogenic infection / usually with pus formation",
+        "vertical vertigo / produced by standing or looking up and down",
+        "analgesics / painkillers",
+        "downward displacement of the stomach"
+      ],
+      "explanation": {
+        "en": "infectio pyogenica means 'pyogenic infection / usually with pus formation'. Pyogenic infection; alt. usually with pus formation. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0168",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'inflamatio purulenta'?"
+      },
+      "correctAnswer": "purulent inflammation / a form of infection in which pus is formed",
+      "options": [
+        "cerebral cranium",
+        "spongy urethra",
+        "purulent inflammation / a form of infection in which pus is formed",
+        "finger of the hand"
+      ],
+      "explanation": {
+        "en": "inflamatio purulenta means 'purulent inflammation / a form of infection in which pus is formed'. Purulent inflammation; alt. a form of infection in which pus is formed. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0169",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'contractio uteri'?"
+      },
+      "correctAnswer": "uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy",
+      "options": [
+        "cervix of uterus / neck of uterus",
+        "appendages of the uterine / the accessory structures to the uterus",
+        "prolapse of the uterus",
+        "uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy"
+      ],
+      "explanation": {
+        "en": "contractio uteri means 'uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy'. Uterine contraction; alt. rhythmic activity of the myometrium associated with menstruation. Anchor: uterus."
+      }
+    },
+    {
+      "cardId": "la-exam-0170",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'crisis myasthenica'?"
+      },
+      "correctAnswer": "myasthenic crisis / severe life-threating exacerbation of the manifestations of myasthenic gravis",
+      "options": [
+        "urinary calculus / stone in the kidney, ureter, bladder or urethra",
+        "purulent inflammation / a form of infection in which pus is formed",
+        "myasthenic crisis / severe life-threating exacerbation of the manifestations of myasthenic gravis",
+        "external auditory meatus"
+      ],
+      "explanation": {
+        "en": "crisis myasthenica means 'myasthenic crisis / severe life-threating exacerbation of the manifestations of myasthenic gravis'. Myasthenic crisis; alt. severe life-threating exacerbation of the manifestations of myasthenic gravis. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0171",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'diathesis cystica'?"
+      },
+      "correctAnswer": "cystic diathesis / a condition in which multiple cysts form in the liver / kidneys",
+      "options": [
+        "analgesics / painkillers",
+        "cystic diathesis / a condition in which multiple cysts form in the liver / kidneys",
+        "cerebral cranium",
+        "internal ear"
+      ],
+      "explanation": {
+        "en": "diathesis cystica means 'cystic diathesis / a condition in which multiple cysts form in the liver / kidneys'. Cystic diathesis; alt. a condition in which multiple cysts form in the liver. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0172",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'thrombosis coronaria'?"
+      },
+      "correctAnswer": "coronary thrombosis / a blood clot in the coronary artery",
+      "options": [
+        "wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible",
+        "costal surface / the surface of certain structures that face the ribs",
+        "coronary thrombosis / a blood clot in the coronary artery",
+        "dental caries"
+      ],
+      "explanation": {
+        "en": "thrombosis coronaria means 'coronary thrombosis / a blood clot in the coronary artery'. Coronary thrombosis; alt. a blood clot in the coronary artery. Anchor: thrombosis."
+      }
+    },
+    {
+      "cardId": "la-exam-0173",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'rete arteriosum'?"
+      },
+      "correctAnswer": "arterial plexus",
+      "options": [
+        "arterial plexus",
+        "right gastric artery",
+        "ascending aorta",
+        "occipital groove / a narrow grove of the temporal bone that lodges the occipital artery"
+      ],
+      "explanation": {
+        "en": "rete arteriosum means 'arterial plexus'. Arterial plexus. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0174",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dosis curativa'?"
+      },
+      "correctAnswer": "curative dose / the quantity of any substance required to heal an illness or disease",
+      "options": [
+        "epidemic disease",
+        "curative dose / the quantity of any substance required to heal an illness or disease",
+        "acute disease",
+        "contagious disease / spreads by direct or indirect contact of people"
+      ],
+      "explanation": {
+        "en": "dosis curativa means 'curative dose / the quantity of any substance required to heal an illness or disease'. Curative dose; alt. the quantity of any substance required to heal an illness or disease. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0175",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'os longum'?"
+      },
+      "correctAnswer": "long bone",
+      "options": [
+        "spine of scapula",
+        "short bone",
+        "bones of foot",
+        "long bone"
+      ],
+      "explanation": {
+        "en": "os longum means 'long bone'. Long bone. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0176",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'os breve'?"
+      },
+      "correctAnswer": "short bone",
+      "options": [
+        "zygomatic bone",
+        "bones of foot",
+        "spine of scapula",
+        "short bone"
+      ],
+      "explanation": {
+        "en": "os breve means 'short bone'. Short bone. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0177",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'os sesamoideum'?"
+      },
+      "correctAnswer": "sesamoid bone / a bone formed after birth in the tendon where it passes over a joint",
+      "options": [
+        "short bone",
+        "interosseous membrane",
+        "sesamoid bone / a bone formed after birth in the tendon where it passes over a joint",
+        "interosseous margin"
+      ],
+      "explanation": {
+        "en": "os sesamoideum means 'sesamoid bone / a bone formed after birth in the tendon where it passes over a joint'. Sesamoid bone; alt. a bone formed after birth in the tendon where it passes over a joint. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0178",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ossa sesamoidea'?"
+      },
+      "correctAnswer": "sesamoid bones",
+      "options": [
+        "bones of skull",
+        "the structures between the bones of the skull",
+        "sesamoid bones",
+        "body of maxilla"
+      ],
+      "explanation": {
+        "en": "ossa sesamoidea means 'sesamoid bones'. Sesamoid bones. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0179",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'os palatinum'?"
+      },
+      "correctAnswer": "palatine bone",
+      "options": [
+        "soft palate",
+        "hard palate",
+        "palatine bone",
+        "uvula of soft palate"
+      ],
+      "explanation": {
+        "en": "os palatinum means 'palatine bone'. Palatine bone. Anchor: palate."
+      }
+    },
+    {
+      "cardId": "la-exam-0180",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'os zygomaticum'?"
+      },
+      "correctAnswer": "zygomatic bone",
+      "options": [
+        "the structures between the bones of the skull",
+        "spongy bone / spongy substance",
+        "zygomatic bone",
+        "softness of bones"
+      ],
+      "explanation": {
+        "en": "os zygomaticum means 'zygomatic bone'. Zygomatic bone. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0181",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'os lacrimale'?"
+      },
+      "correctAnswer": "lacrimal bone",
+      "options": [
+        "lacrimal apparatus",
+        "vestibule of mouth",
+        "lacrimal bone",
+        "thoracic cavity / the space within the thoracic walls, bounded below the diaphragm and above by the neck"
+      ],
+      "explanation": {
+        "en": "os lacrimale means 'lacrimal bone'. Lacrimal bone. Anchor: cavity."
+      }
+    },
+    {
+      "cardId": "la-exam-0182",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'os pisiforme'?"
+      },
+      "correctAnswer": "pisiform bone, a small wrist bone resembling a pea in size and shape that articulates only with the triquetral",
+      "options": [
+        "long bone",
+        "pisiform bone, a small wrist bone resembling a pea in size and shape that articulates only with the triquetral",
+        "interosseous margin",
+        "body of maxilla"
+      ],
+      "explanation": {
+        "en": "os pisiforme means 'pisiform bone, a small wrist bone resembling a pea in size and shape that articulates only with the triquetral'. Pisiform bone, a small wrist bone resembling a pea in size and shape that articulates only with the triquetral. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0183",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'os coccygis'?"
+      },
+      "correctAnswer": "coccygeal bone / tail bone",
+      "options": [
+        "facial plexus / autonomic plexus of the facial artery which sends a branch to the submandibular ganglion",
+        "spongy bone / spongy substance",
+        "bones of skull",
+        "coccygeal bone / tail bone"
+      ],
+      "explanation": {
+        "en": "os coccygis means 'coccygeal bone / tail bone'. Coccygeal bone; alt. tail bone. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0184",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ossa cranii'?"
+      },
+      "correctAnswer": "bones of skull",
+      "options": [
+        "pisiform bone, a small wrist bone resembling a pea in size and shape that articulates only with the triquetral",
+        "bones of skull",
+        "coccygeal bone / tail bone",
+        "long bone"
+      ],
+      "explanation": {
+        "en": "ossa cranii means 'bones of skull'. Bones of skull. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0185",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ossa digitorum'?"
+      },
+      "correctAnswer": "bones of digits",
+      "options": [
+        "spine of scapula",
+        "zygomatic bone",
+        "bones of digits",
+        "coccygeal bone / tail bone"
+      ],
+      "explanation": {
+        "en": "ossa digitorum means 'bones of digits'. Bones of digits. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0186",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ossa pedis'?"
+      },
+      "correctAnswer": "bones of foot",
+      "options": [
+        "spine of scapula",
+        "short bone",
+        "body of maxilla",
+        "bones of foot"
+      ],
+      "explanation": {
+        "en": "ossa pedis means 'bones of foot'. Bones of foot. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0187",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'area apicalis'?"
+      },
+      "correctAnswer": "the area about the root end of a tooth",
+      "options": [
+        "the area about the root end of a tooth",
+        "accessory root of tooth",
+        "dental arch / the arch formed by the alveolar process and teeth in each jaw",
+        "milk tooth"
+      ],
+      "explanation": {
+        "en": "area apicalis means 'the area about the root end of a tooth'. The area about the root end of a tooth. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0188",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'arteria maxillaris'?"
+      },
+      "correctAnswer": "maxillary artery",
+      "options": [
+        "right gastric artery",
+        "maxillary artery",
+        "gastric artery",
+        "ascending aorta"
+      ],
+      "explanation": {
+        "en": "arteria maxillaris means 'maxillary artery'. Maxillary artery. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0189",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'aorta ascendens'?"
+      },
+      "correctAnswer": "ascending aorta",
+      "options": [
+        "ophthalmic artery",
+        "right gastric artery",
+        "ascending aorta",
+        "coronary artery"
+      ],
+      "explanation": {
+        "en": "aorta ascendens means 'ascending aorta'. Ascending aorta. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0190",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'colon ascendens'?"
+      },
+      "correctAnswer": "ascending colon / the portion of the colon between the ileocecal orifice and the right colic flexure",
+      "options": [
+        "canine tooth / cuspid tooth",
+        "wisdom tooth / third-year molar tooth",
+        "wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible",
+        "ascending colon / the portion of the colon between the ileocecal orifice and the right colic flexure"
+      ],
+      "explanation": {
+        "en": "colon ascendens means 'ascending colon / the portion of the colon between the ileocecal orifice and the right colic flexure'. Ascending colon; alt. the portion of the colon between the ileocecal orifice and the right colic flexure. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0191",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'chorda umbilicalis'?"
+      },
+      "correctAnswer": "umbilical chord",
+      "options": [
+        "asphyxia occurring in newborn",
+        "hemorrhagic infarct",
+        "umbilical chord",
+        "kidney insufficiency"
+      ],
+      "explanation": {
+        "en": "chorda umbilicalis means 'umbilical chord'. Umbilical chord. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0192",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'plica sublingualis'?"
+      },
+      "correctAnswer": "sublingual folds / created by the sublingual gland; extend horizontally to right and left of lingual frenum where it attaches to the floor of the mouth; openings of ducts form small underlying glands",
+      "options": [
+        "sublingual folds / created by the sublingual gland; extend horizontally to right and left of lingual frenum where it attaches to the floor of the mouth; openings of ducts form small underlying glands",
+        "salivary gland",
+        "lingual gland",
+        "olfactory glands"
+      ],
+      "explanation": {
+        "en": "plica sublingualis means 'sublingual folds / created by the sublingual gland; extend horizontally to right and left of lingual frenum where it attaches to the floor of the mouth; openings of ducts form small underlying glands'. Sublingual folds; alt. created by the sublingual gland; extend horizontally to right and left of lingual frenum where it attaches to the flo. Anchor: gland."
+      }
+    },
+    {
+      "cardId": "la-exam-0193",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'vertebrae sacrales'?"
+      },
+      "correctAnswer": "sacral vertebrae (S1-S5)",
+      "options": [
+        "coracoid process / from the neck of the scapula",
+        "vertebral foramen / the large foramen between the neural arch and the body of the vertebra that contains the spinal cord",
+        "interosseous membrane",
+        "sacral vertebrae (S1-S5)"
+      ],
+      "explanation": {
+        "en": "vertebrae sacrales means 'sacral vertebrae (S1-S5)'. Sacral vertebrae (s1-s5). Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0194",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ramus ascendens'?"
+      },
+      "correctAnswer": "ascendi8ng branch / a branch directed superiorly",
+      "options": [
+        "canine tooth / cuspid tooth",
+        "clinical root of tooth",
+        "alveolar process / of the ridge on the surfaces of the upper and lower jaws containing the tooth socket",
+        "ascendi8ng branch / a branch directed superiorly"
+      ],
+      "explanation": {
+        "en": "ramus ascendens means 'ascendi8ng branch / a branch directed superiorly'. Ascendi8ng branch; alt. a branch directed superiorly. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0195",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'nervus articularis'?"
+      },
+      "correctAnswer": "articular nerve",
+      "options": [
+        "articular nerve",
+        "ong buccal nerve",
+        "cervical branch of facial nerve",
+        "dorsal nerve of scapula"
+      ],
+      "explanation": {
+        "en": "nervus articularis means 'articular nerve'. Articular nerve. Anchor: nerve."
+      }
+    },
+    {
+      "cardId": "la-exam-0196",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'nervus buccalis'?"
+      },
+      "correctAnswer": "ong buccal nerve",
+      "options": [
+        "cervical branch of facial nerve",
+        "fifth cranial nerve",
+        "tenth cranial nerve / vagus nerve / pneumogastric nerve",
+        "ong buccal nerve"
+      ],
+      "explanation": {
+        "en": "nervus buccalis means 'ong buccal nerve'. Ong buccal nerve. Anchor: nerve."
+      }
+    },
+    {
+      "cardId": "la-exam-0197",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ramus communicans'?"
+      },
+      "correctAnswer": "used in the nervous system: a bundle of nerve fibers passing from one named nerve to join another / communicating branch",
+      "options": [
+        "arcuate line",
+        "lateral surface / the surface of a part of the body that faces away from the midline",
+        "used in the nervous system: a bundle of nerve fibers passing from one named nerve to join another / communicating branch",
+        "olfactory sulcus / groove"
+      ],
+      "explanation": {
+        "en": "ramus communicans means 'used in the nervous system: a bundle of nerve fibers passing from one named nerve to join another / communicating branch'. Used in the nervous system: a bundle of nerve fibers passing from one named nerve to join another; alt. communicating branch. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0198",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculus biceps'?"
+      },
+      "correctAnswer": "biceps (muscle)",
+      "options": [
+        "circular muscle of the eye",
+        "facial muscle of mouth / risorius muscle",
+        "muscles of back",
+        "biceps (muscle)"
+      ],
+      "explanation": {
+        "en": "musculus biceps means 'biceps (muscle)'. Biceps (muscle). Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0199",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'nervi spinales'?"
+      },
+      "correctAnswer": "spinal nerves",
+      "options": [
+        "ong buccal nerve",
+        "tenth cranial nerve / vagus nerve / pneumogastric nerve",
+        "dorsal nerve of scapula",
+        "spinal nerves"
+      ],
+      "explanation": {
+        "en": "nervi spinales means 'spinal nerves'. Spinal nerves. Anchor: nerve."
+      }
+    },
+    {
+      "cardId": "la-exam-0200",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculi faciales'?"
+      },
+      "correctAnswer": "muscles of facial expression",
+      "options": [
+        "muscles of neck",
+        "muscles of abdomen",
+        "transverse muscles of chin",
+        "muscles of facial expression"
+      ],
+      "explanation": {
+        "en": "musculi faciales means 'muscles of facial expression'. Muscles of facial expression. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0201",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ligamentum teres'?"
+      },
+      "correctAnswer": "round ligament (of femur, of liver, of uterus)",
+      "options": [
+        "broad ligament of the uterus",
+        "round ligament (of femur, of liver, of uterus)",
+        "broad ligament (of uterus)",
+        "longitudinal ligaments / the wide fibrous bands running along the front of the entire vertebral column"
+      ],
+      "explanation": {
+        "en": "ligamentum teres means 'round ligament (of femur, of liver, of uterus)'. Round ligament (of femur, of liver, of uterus). Anchor: ligament."
+      }
+    },
+    {
+      "cardId": "la-exam-0202",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'cranium cerebrale'?"
+      },
+      "correctAnswer": "cerebral cranium",
+      "options": [
+        "enamel / substantia vitrea",
+        "internal ear",
+        "cerebral cranium",
+        "bile duct"
+      ],
+      "explanation": {
+        "en": "cranium cerebrale means 'cerebral cranium'. Cerebral cranium. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0203",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'intestinum tenue'?"
+      },
+      "correctAnswer": "small intestine",
+      "options": [
+        "ophthalmic ointment, eye ointment",
+        "a condition of severe, prolonged asthma",
+        "external auditory meatus",
+        "small intestine"
+      ],
+      "explanation": {
+        "en": "intestinum tenue means 'small intestine'. Small intestine. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0204",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'palatum molle'?"
+      },
+      "correctAnswer": "soft palate",
+      "options": [
+        "palatine fold",
+        "glossopalatine arch",
+        "hard palate",
+        "soft palate"
+      ],
+      "explanation": {
+        "en": "palatum molle means 'soft palate'. Soft palate. Anchor: palate."
+      }
+    },
+    {
+      "cardId": "la-exam-0205",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ligamenta longitudinalia'?"
+      },
+      "correctAnswer": "longitudinal ligaments / the wide fibrous bands running along the front of the entire vertebral column",
+      "options": [
+        "broad ligament (of uterus)",
+        "broad ligament of the uterus",
+        "round ligament (of femur, of liver, of uterus)",
+        "longitudinal ligaments / the wide fibrous bands running along the front of the entire vertebral column"
+      ],
+      "explanation": {
+        "en": "ligamenta longitudinalia means 'longitudinal ligaments / the wide fibrous bands running along the front of the entire vertebral column'. Longitudinal ligaments; alt. the wide fibrous bands running along the front of the entire vertebral column. Anchor: ligament."
+      }
+    },
+    {
+      "cardId": "la-exam-0206",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'organa genitalia'?"
+      },
+      "correctAnswer": "genital organs / the organs of the reproduction",
+      "options": [
+        "genital organs / the organs of the reproduction",
+        "vertical vertigo / produced by standing or looking up and down",
+        "peppermint",
+        "external ear"
+      ],
+      "explanation": {
+        "en": "organa genitalia means 'genital organs / the organs of the reproduction'. Genital organs; alt. the organs of the reproduction. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0207",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'foramen vertebrale'?"
+      },
+      "correctAnswer": "vertebral foramen / the large foramen between the neural arch and the body of the vertebra that contains the spinal cord",
+      "options": [
+        "vertebral foramen / the large foramen between the neural arch and the body of the vertebra that contains the spinal cord",
+        "the structures between the bones of the skull",
+        "pisiform bone, a small wrist bone resembling a pea in size and shape that articulates only with the triquetral",
+        "bones of digits"
+      ],
+      "explanation": {
+        "en": "foramen vertebrale means 'vertebral foramen / the large foramen between the neural arch and the body of the vertebra that contains the spinal cord'. Vertebral foramen; alt. the large foramen between the neural arch and the body of the vertebra that contains the spinal cord. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0208",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'crisis febrilis'?"
+      },
+      "correctAnswer": "febrile crisis / the stage in a febrile disease when spontaneous decrease in a fever occurs",
+      "options": [
+        "therapeutic dose / the quantity of any substance required to heal an illness or disease",
+        "epidemic disease",
+        "febrile crisis / the stage in a febrile disease when spontaneous decrease in a fever occurs",
+        "infectious diseases"
+      ],
+      "explanation": {
+        "en": "crisis febrilis means 'febrile crisis / the stage in a febrile disease when spontaneous decrease in a fever occurs'. Febrile crisis; alt. the stage in a febrile disease when spontaneous decrease in a fever occurs. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0209",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'dosis letalis'?"
+      },
+      "correctAnswer": "lethal dose",
+      "options": [
+        "remedies which prevent nausea and vomiting",
+        "lethal dose",
+        "mechanical ileus / physical obstruction of the bowel due to some mechanical cause",
+        "a condition of severe, prolonged asthma"
+      ],
+      "explanation": {
+        "en": "dosis letalis means 'lethal dose'. Lethal dose. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0210",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pulvis subtilis'?"
+      },
+      "correctAnswer": "fine powder",
+      "options": [
+        "gelatinous capsule",
+        "hard paraffin",
+        "fine powder",
+        "compound syrup / containing several ingredients"
+      ],
+      "explanation": {
+        "en": "pulvis subtilis means 'fine powder'. Fine powder. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0211",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'syrupus simplex'?"
+      },
+      "correctAnswer": "simple syrup / syrupus albus / syrupus sacchari",
+      "options": [
+        "purified water",
+        "sunflower seed oil",
+        "hard paraffin",
+        "simple syrup / syrupus albus / syrupus sacchari"
+      ],
+      "explanation": {
+        "en": "syrupus simplex means 'simple syrup / syrupus albus / syrupus sacchari'. Simple syrup; alt. syrupus albus. Anchor: pharmacy."
+      }
+    },
+    {
+      "cardId": "la-exam-0212",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'nervus dorsalis scapulae'?"
+      },
+      "correctAnswer": "dorsal nerve of scapula",
+      "options": [
+        "articular nerve",
+        "dorsal nerve of scapula",
+        "hypoglossal nerve",
+        "ong buccal nerve"
+      ],
+      "explanation": {
+        "en": "nervus dorsalis scapulae means 'dorsal nerve of scapula'. Dorsal nerve of scapula. Anchor: nerve."
+      }
+    },
+    {
+      "cardId": "la-exam-0213",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ramus colli nervi facialis'?"
+      },
+      "correctAnswer": "cervical branch of facial nerve",
+      "options": [
+        "spinal nerves",
+        "cervical branch of facial nerve",
+        "hypoglossal nerve",
+        "dorsal nerve of scapula"
+      ],
+      "explanation": {
+        "en": "ramus colli nervi facialis means 'cervical branch of facial nerve'. Cervical branch of facial nerve. Anchor: nerve."
+      }
+    },
+    {
+      "cardId": "la-exam-0214",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculus biceps brachii'?"
+      },
+      "correctAnswer": "the muscle of the upper arm that flexes the elbow and supinates the forearm",
+      "options": [
+        "the muscle of the upper arm that flexes the elbow and supinates the forearm",
+        "transverse muscles of chin",
+        "facial muscle of mouth / risorius muscle",
+        "orbicular muscle of mouth"
+      ],
+      "explanation": {
+        "en": "musculus biceps brachii means 'the muscle of the upper arm that flexes the elbow and supinates the forearm'. The muscle of the upper arm that flexes the elbow and supinates the forearm. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0215",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculus orbicularis oculi'?"
+      },
+      "correctAnswer": "circular muscle of the eye",
+      "options": [
+        "muscles of neck",
+        "the muscle of the upper arm that flexes the elbow and supinates the forearm",
+        "circular muscle of the eye",
+        "facial muscle of mouth / risorius muscle"
+      ],
+      "explanation": {
+        "en": "musculus orbicularis oculi means 'circular muscle of the eye'. Circular muscle of the eye. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0216",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculus orbicularis oris'?"
+      },
+      "correctAnswer": "orbicular muscle of mouth",
+      "options": [
+        "biceps (muscle)",
+        "orbicular muscle of mouth",
+        "muscles of back",
+        "straight muscle / members of a group of muscles that proceed either in amore direct or more nearly vertical or horizontal direction"
+      ],
+      "explanation": {
+        "en": "musculus orbicularis oris means 'orbicular muscle of mouth'. Orbicular muscle of mouth. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0217",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'musculi interossei dorsales pedis'?"
+      },
+      "correctAnswer": "dorsal interosseous muscles of foot",
+      "options": [
+        "dorsal interosseous muscles of foot",
+        "biceps (muscle)",
+        "muscles of abdomen",
+        "the muscle of the upper arm that flexes the elbow and supinates the forearm"
+      ],
+      "explanation": {
+        "en": "musculi interossei dorsales pedis means 'dorsal interosseous muscles of foot'. Dorsal interosseous muscles of foot. Anchor: muscle."
+      }
+    },
+    {
+      "cardId": "la-exam-0218",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sulcus arteriae occipitalis'?"
+      },
+      "correctAnswer": "occipital groove / a narrow grove of the temporal bone that lodges the occipital artery",
+      "options": [
+        "aortic valve",
+        "ophthalmic artery",
+        "arterial plexus",
+        "occipital groove / a narrow grove of the temporal bone that lodges the occipital artery"
+      ],
+      "explanation": {
+        "en": "sulcus arteriae occipitalis means 'occipital groove / a narrow grove of the temporal bone that lodges the occipital artery'. Occipital groove; alt. a narrow grove of the temporal bone that lodges the occipital artery. Anchor: artery."
+      }
+    },
+    {
+      "cardId": "la-exam-0219",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'basis ossis metacarpalis'?"
+      },
+      "correctAnswer": "base of metacarpal",
+      "options": [
+        "base of metacarpal",
+        "white wax / the purified form in making ointments and to stop bleeding from bones during surgery",
+        "ramus of mandible",
+        "coracoid process / from the neck of the scapula"
+      ],
+      "explanation": {
+        "en": "basis ossis metacarpalis means 'base of metacarpal'. Base of metacarpal. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0220",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'alopecia totalis'?"
+      },
+      "correctAnswer": "meaning not provided",
+      "options": [
+        "meaning not provided",
+        "nipple",
+        "lethal dose",
+        "left clavicle"
+      ],
+      "explanation": {
+        "en": "alopecia totalis means 'meaning not provided'. Meaning not provided. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0221",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'fractura multiplex'?"
+      },
+      "correctAnswer": "1. fracture of two or more places in a bone / 2. fracture of several bones occurring simultaneously",
+      "options": [
+        "used in the nervous system: a bundle of nerve fibers passing from one named nerve to join another / communicating branch",
+        "wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible",
+        "open fracture / fragments of bone protrude through the skin",
+        "1. fracture of two or more places in a bone / 2. fracture of several bones occurring simultaneously"
+      ],
+      "explanation": {
+        "en": "fractura multiplex means '1. fracture of two or more places in a bone / 2. fracture of several bones occurring simultaneously'. 1. fracture of two or more places in a bone; alt. 2. fracture of several bones occurring simultaneously. Anchor: fracture."
+      }
+    },
+    {
+      "cardId": "la-exam-0222",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sclerosis multiplex'?"
+      },
+      "correctAnswer": "multiple sclerosis / destruction of the myelin within several regions of the brain and spinal cord at different time",
+      "options": [
+        "right ulna",
+        "herpes simplex",
+        "compact substance",
+        "multiple sclerosis / destruction of the myelin within several regions of the brain and spinal cord at different time"
+      ],
+      "explanation": {
+        "en": "sclerosis multiplex means 'multiple sclerosis / destruction of the myelin within several regions of the brain and spinal cord at different time'. Multiple sclerosis; alt. destruction of the myelin within several regions of the brain and spinal cord at different time. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0223",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'herpes simplex'?"
+      },
+      "correctAnswer": "herpes simplex",
+      "options": [
+        "fibrous layer, the fibrous capsule of an organ",
+        "cystic diathesis / a condition in which multiple cysts form in the liver / kidneys",
+        "herpes simplex",
+        "fundus of stomach"
+      ],
+      "explanation": {
+        "en": "herpes simplex means 'herpes simplex'. Herpes simplex. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0224",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ulcus perforans'?"
+      },
+      "correctAnswer": "perforating / perforated ulcus",
+      "options": [
+        "genital organs / the organs of the reproduction",
+        "commissure of lips",
+        "finger of the hand",
+        "perforating / perforated ulcus"
+      ],
+      "explanation": {
+        "en": "ulcus perforans means 'perforating / perforated ulcus'. Perforating; alt. perforated ulcus. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0225",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'insufficientia renalis'?"
+      },
+      "correctAnswer": "kidney insufficiency",
+      "options": [
+        "sleep-bringing poppy",
+        "jaundice associated with high fever and delirium",
+        "lactiferous ducts",
+        "kidney insufficiency"
+      ],
+      "explanation": {
+        "en": "insufficientia renalis means 'kidney insufficiency'. Kidney insufficiency. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0226",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'vertigo verticalis'?"
+      },
+      "correctAnswer": "vertical vertigo / produced by standing or looking up and down",
+      "options": [
+        "bulb of an eye / the ball of an eye",
+        "spongy urethra",
+        "vertical vertigo / produced by standing or looking up and down",
+        "agents that destroy or prevent the growth of fungi"
+      ],
+      "explanation": {
+        "en": "vertigo verticalis means 'vertical vertigo / produced by standing or looking up and down'. Vertical vertigo; alt. produced by standing or looking up and down. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0227",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'icterus gravis'?"
+      },
+      "correctAnswer": "jaundice associated with high fever and delirium",
+      "options": [
+        "the outer of two or more enveloping layers of any structures",
+        "jaundice associated with high fever and delirium",
+        "myasthenic crisis /",
+        "a condition of severe, prolonged asthma"
+      ],
+      "explanation": {
+        "en": "icterus gravis means 'jaundice associated with high fever and delirium'. Jaundice associated with high fever and delirium. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0228",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'febris intermittens'?"
+      },
+      "correctAnswer": "intermittent fever / a disease with fever which recurs at certain intervals, symptoms disappear completely between paroxysms",
+      "options": [
+        "chronic disease",
+        "acute disease",
+        "intermittent fever / a disease with fever which recurs at certain intervals, symptoms disappear completely between paroxysms",
+        "disease of tongue"
+      ],
+      "explanation": {
+        "en": "febris intermittens means 'intermittent fever / a disease with fever which recurs at certain intervals, symptoms disappear completely between paroxysms'. Intermittent fever; alt. a disease with fever which recurs at certain intervals, symptoms disappear completely between paroxysms. Anchor: disease."
+      }
+    },
+    {
+      "cardId": "la-exam-0229",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'febris puerperalis'?"
+      },
+      "correctAnswer": "puerperal fever / septicemia following child birth",
+      "options": [
+        "analgesics / painkillers",
+        "fine powder",
+        "incisive suture",
+        "puerperal fever / septicemia following child birth"
+      ],
+      "explanation": {
+        "en": "febris puerperalis means 'puerperal fever / septicemia following child birth'. Puerperal fever; alt. septicemia following child birth. Anchor: fever."
+      }
+    },
+    {
+      "cardId": "la-exam-0230",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'apparatus lacrimalis'?"
+      },
+      "correctAnswer": "lacrimal apparatus",
+      "options": [
+        "vestibule of mouth",
+        "lacrimal apparatus",
+        "the cavity on either side of the nasal septum / nasal cavity",
+        "oral fissure / the aperture of the mouth"
+      ],
+      "explanation": {
+        "en": "apparatus lacrimalis means 'lacrimal apparatus'. Lacrimal apparatus. Anchor: cavity."
+      }
+    },
+    {
+      "cardId": "la-exam-0231",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'apparatus digestorius'?"
+      },
+      "correctAnswer": "digestive system",
+      "options": [
+        "nervous system",
+        "respiratory system",
+        "digestive system",
+        "lymphatic system"
+      ],
+      "explanation": {
+        "en": "apparatus digestorius means 'digestive system'. Digestive system. Anchor: system."
+      }
+    },
+    {
+      "cardId": "la-exam-0232",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'apparatus dentalis'?"
+      },
+      "correctAnswer": "masticatory system",
+      "options": [
+        "the area about the root end of a tooth",
+        "masticatory system",
+        "ascendi8ng branch / a branch directed superiorly",
+        "wisdom tooth / third-year molar tooth"
+      ],
+      "explanation": {
+        "en": "apparatus dentalis means 'masticatory system'. Masticatory system. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0233",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'processus alveolaris'?"
+      },
+      "correctAnswer": "alveolar process / of the ridge on the surfaces of the upper and lower jaws containing the tooth socket",
+      "options": [
+        "alveolar process / of the ridge on the surfaces of the upper and lower jaws containing the tooth socket",
+        "ascendi8ng branch / a branch directed superiorly",
+        "wisdom tooth / third molar / the eight permanent tooth in the maxilla or mandible",
+        "a tooth of the first set of teeth comprising 20 in all"
+      ],
+      "explanation": {
+        "en": "processus alveolaris means 'alveolar process / of the ridge on the surfaces of the upper and lower jaws containing the tooth socket'. Alveolar process; alt. of the ridge on the surfaces of the upper and lower jaws containing the tooth socket. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0234",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'arcus dentalis'?"
+      },
+      "correctAnswer": "dental arch / the arch formed by the alveolar process and teeth in each jaw",
+      "options": [
+        "ascending colon / the portion of the colon between the ileocecal orifice and the right colic flexure",
+        "clinical crown / that part of the crown of a tooth that is visible in the oral cavity",
+        "incisor tooth / canine tooth",
+        "dental arch / the arch formed by the alveolar process and teeth in each jaw"
+      ],
+      "explanation": {
+        "en": "arcus dentalis means 'dental arch / the arch formed by the alveolar process and teeth in each jaw'. Dental arch; alt. the arch formed by the alveolar process and teeth in each jaw. Anchor: dentition."
+      }
+    },
+    {
+      "cardId": "la-exam-0235",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'arcus palatoglossus'?"
+      },
+      "correctAnswer": "glossopalatine arch",
+      "options": [
+        "palatine fold",
+        "soft palate",
+        "hard palate",
+        "glossopalatine arch"
+      ],
+      "explanation": {
+        "en": "arcus palatoglossus means 'glossopalatine arch'. Glossopalatine arch. Anchor: palate."
+      }
+    },
+    {
+      "cardId": "la-exam-0236",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ductus biliaris'?"
+      },
+      "correctAnswer": "bile duct",
+      "options": [
+        "analgesics / painkillers",
+        "bile duct",
+        "fibrous layer, the fibrous capsule of an organ",
+        "enamel / substantia vitrea"
+      ],
+      "explanation": {
+        "en": "ductus biliaris means 'bile duct'. Bile duct. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0237",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ductus lactiferi'?"
+      },
+      "correctAnswer": "lactiferous ducts",
+      "options": [
+        "lactiferous ducts",
+        "paralytic rabies / dumb rabies",
+        "gray or white patches, streaks or spots in the nails",
+        "eyeground"
+      ],
+      "explanation": {
+        "en": "ductus lactiferi means 'lactiferous ducts'. Lactiferous ducts. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0238",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ductus salivarii'?"
+      },
+      "correctAnswer": "salivary gland",
+      "options": [
+        "cancer of the thyroid gland",
+        "sublingual folds / created by the sublingual gland; extend horizontally to right and left of lingual frenum where it attaches to the floor of the mouth; openings of ducts form small underlying glands",
+        "salivary gland",
+        "olfactory glands"
+      ],
+      "explanation": {
+        "en": "ductus salivarii means 'salivary gland'. Salivary gland. Anchor: gland."
+      }
+    },
+    {
+      "cardId": "la-exam-0239",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'sinus maxillaris'?"
+      },
+      "correctAnswer": "maxillary sinus / a cavity in the maxillary bone communicating with the middle meatus of the nasal cavity",
+      "options": [
+        "bones of skull",
+        "maxillary sinus / a cavity in the maxillary bone communicating with the middle meatus of the nasal cavity",
+        "white wax / the purified form in making ointments and to stop bleeding from bones during surgery",
+        "thoracic vertebrae"
+      ],
+      "explanation": {
+        "en": "sinus maxillaris means 'maxillary sinus / a cavity in the maxillary bone communicating with the middle meatus of the nasal cavity'. Maxillary sinus; alt. a cavity in the maxillary bone communicating with the middle meatus of the nasal cavity. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0240",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'plexus facialis'?"
+      },
+      "correctAnswer": "facial plexus / autonomic plexus of the facial artery which sends a branch to the submandibular ganglion",
+      "options": [
+        "thoracic vertebrae",
+        "bones of skull",
+        "long bone",
+        "facial plexus / autonomic plexus of the facial artery which sends a branch to the submandibular ganglion"
+      ],
+      "explanation": {
+        "en": "plexus facialis means 'facial plexus / autonomic plexus of the facial artery which sends a branch to the submandibular ganglion'. Facial plexus; alt. autonomic plexus of the facial artery which sends a branch to the submandibular ganglion. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0241",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'meatus acusticus externus'?"
+      },
+      "correctAnswer": "external auditory meatus",
+      "options": [
+        "myasthenic crisis / severe life-threating exacerbation of the manifestations of myasthenic gravis",
+        "compact substance",
+        "external auditory meatus",
+        "hair follicle"
+      ],
+      "explanation": {
+        "en": "meatus acusticus externus means 'external auditory meatus'. External auditory meatus. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0242",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'status asthmaticus'?"
+      },
+      "correctAnswer": "a condition of severe, prolonged asthma",
+      "options": [
+        "vertical vertigo / produced by standing or looking up and down",
+        "a condition of severe, prolonged asthma",
+        "cystic rupture",
+        "small intestine"
+      ],
+      "explanation": {
+        "en": "status asthmaticus means 'a condition of severe, prolonged asthma'. A condition of severe, prolonged asthma. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0243",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'status praesens'?"
+      },
+      "correctAnswer": "the part of the history of a case describing the condition of the patient at initial observation",
+      "options": [
+        "true rib",
+        "the facial expression classically described in those dying from long-continued illness",
+        "the part of the history of a case describing the condition of the patient at initial observation",
+        "costal surface / the surface of certain structures that face the ribs"
+      ],
+      "explanation": {
+        "en": "status praesens means 'the part of the history of a case describing the condition of the patient at initial observation'. The part of the history of a case describing the condition of the patient at initial observation. Anchor: rib anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0244",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'processus coracoideus'?"
+      },
+      "correctAnswer": "coracoid process / from the neck of the scapula",
+      "options": [
+        "coracoid process / from the neck of the scapula",
+        "myocardial infarct / heart attack / the loss of living heart muscle as a result of occlusion of a coronary artery",
+        "bones of digits",
+        "base of metacarpal"
+      ],
+      "explanation": {
+        "en": "processus coracoideus means 'coracoid process / from the neck of the scapula'. Coracoid process; alt. from the neck of the scapula. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0245",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pulsus durus'?"
+      },
+      "correctAnswer": "hard pulse / a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension",
+      "options": [
+        "hard pulse / a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension",
+        "lactiferous ducts",
+        "a condition of severe, prolonged asthma",
+        "urinary calculus / stone in the kidney, ureter, bladder or urethra"
+      ],
+      "explanation": {
+        "en": "pulsus durus means 'hard pulse / a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension'. Hard pulse; alt. a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0246",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'habitus gracilis'?"
+      },
+      "correctAnswer": "small stature / frail underweight appearance",
+      "options": [
+        "serrate suture",
+        "asphyxia occurring in newborn",
+        "left clavicle",
+        "small stature / frail underweight appearance"
+      ],
+      "explanation": {
+        "en": "habitus gracilis means 'small stature / frail underweight appearance'. Small stature; alt. frail underweight appearance. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0247",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'genu valgum'?"
+      },
+      "correctAnswer": "Knock-knee, a deformity in which the legs are curved inward at the knee",
+      "options": [
+        "Knock-knee, a deformity in which the legs are curved inward at the knee",
+        "herpes simplex",
+        "hemorrhagic infarct",
+        "incisive suture"
+      ],
+      "explanation": {
+        "en": "genu valgum means 'Knock-knee, a deformity in which the legs are curved inward at the knee'. Knock-knee, a deformity in which the legs are curved inward at the knee. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0248",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'genu varum'?"
+      },
+      "correctAnswer": "bow-legged (knee bowed out)",
+      "options": [
+        "hard pulse / a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension",
+        "bow-legged (knee bowed out)",
+        "vertical vertigo / produced by standing or looking up and down",
+        "agents that destroy or prevent the growth of fungi"
+      ],
+      "explanation": {
+        "en": "genu varum means 'bow-legged (knee bowed out)'. Bow-legged (knee bowed out). Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0249",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'ictus cordis'?"
+      },
+      "correctAnswer": "heart beat",
+      "options": [
+        "left ventricle",
+        "the atrium of the right side of the heart",
+        "heart beat",
+        "heart sac/ the fibroserous membrane covering the heart"
+      ],
+      "explanation": {
+        "en": "ictus cordis means 'heart beat'. Heart beat. Anchor: heart."
+      }
+    },
+    {
+      "cardId": "la-exam-0250",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'descensus uteri'?"
+      },
+      "correctAnswer": "prolapse of the uterus",
+      "options": [
+        "uterine contraction / rhythmic activity of the myometrium associated with menstruation / pregnancy",
+        "prolapse of the uterus",
+        "uterine tube / fallopian tube",
+        "cervix of uterus / neck of uterus"
+      ],
+      "explanation": {
+        "en": "descensus uteri means 'prolapse of the uterus'. Prolapse of the uterus. Anchor: uterus."
+      }
+    },
+    {
+      "cardId": "la-exam-0251",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'descensus ventriculi'?"
+      },
+      "correctAnswer": "downward displacement of the stomach",
+      "options": [
+        "herpes simplex",
+        "perforating / perforated ulcus",
+        "compact substance",
+        "downward displacement of the stomach"
+      ],
+      "explanation": {
+        "en": "descensus ventriculi means 'downward displacement of the stomach'. Downward displacement of the stomach. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0252",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'digitus manus'?"
+      },
+      "correctAnswer": "finger of the hand",
+      "options": [
+        "finger of the hand",
+        "genital organs / the organs of the reproduction",
+        "kidney insufficiency",
+        "optic axis"
+      ],
+      "explanation": {
+        "en": "digitus manus means 'finger of the hand'. Finger of the hand. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0253",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'organa sensuum'?"
+      },
+      "correctAnswer": "sense organs",
+      "options": [
+        "commissure of lips",
+        "vertical vertigo / produced by standing or looking up and down",
+        "mucosa layer",
+        "sense organs"
+      ],
+      "explanation": {
+        "en": "organa sensuum means 'sense organs'. Sense organs. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0254",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'organum olfactus'?"
+      },
+      "correctAnswer": "organ of smell",
+      "options": [
+        "sense organs",
+        "organ of smell",
+        "internal ear",
+        "lymph node"
+      ],
+      "explanation": {
+        "en": "organum olfactus means 'organ of smell'. Organ of smell. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0255",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'infarctus hemorrhagicus'?"
+      },
+      "correctAnswer": "hemorrhagic infarct",
+      "options": [
+        "bow-legged (knee bowed out)",
+        "myasthenic crisis /",
+        "hemorrhagic infarct",
+        "organ of smell"
+      ],
+      "explanation": {
+        "en": "infarctus hemorrhagicus means 'hemorrhagic infarct'. Hemorrhagic infarct. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0256",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'infarctus myocardii'?"
+      },
+      "correctAnswer": "myocardial infarct / heart attack / the loss of living heart muscle as a result of occlusion of a coronary artery",
+      "options": [
+        "internal surface of cranial base",
+        "interosseous membrane",
+        "sacral vertebrae (S1-S5)",
+        "myocardial infarct / heart attack / the loss of living heart muscle as a result of occlusion of a coronary artery"
+      ],
+      "explanation": {
+        "en": "infarctus myocardii means 'myocardial infarct / heart attack / the loss of living heart muscle as a result of occlusion of a coronary artery'. Myocardial infarct; alt. heart attack. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0257",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pruritus gravidarum'?"
+      },
+      "correctAnswer": "intense itching occurring during pregnancy",
+      "options": [
+        "nasal cavity",
+        "intense itching occurring during pregnancy",
+        "digestive system",
+        "senile pruritus"
+      ],
+      "explanation": {
+        "en": "pruritus gravidarum means 'intense itching occurring during pregnancy'. Intense itching occurring during pregnancy. Anchor: itching."
+      }
+    },
+    {
+      "cardId": "la-exam-0258",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'pruritus senilis'?"
+      },
+      "correctAnswer": "senile pruritus",
+      "options": [
+        "intense itching occurring during pregnancy",
+        "tenth cranial nerve / vagus nerve / pneumogastric nerve",
+        "herpes simplex",
+        "senile pruritus"
+      ],
+      "explanation": {
+        "en": "pruritus senilis means 'senile pruritus'. Senile pruritus. Anchor: itching."
+      }
+    },
+    {
+      "cardId": "la-exam-0259",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'facies costalis'?"
+      },
+      "correctAnswer": "costal surface / the surface of certain structures that face the ribs",
+      "options": [
+        "the facial expression classically described in those dying from long-continued illness",
+        "the part of the history of a case describing the condition of the patient at initial observation",
+        "true rib",
+        "costal surface / the surface of certain structures that face the ribs"
+      ],
+      "explanation": {
+        "en": "facies costalis means 'costal surface / the surface of certain structures that face the ribs'. Costal surface; alt. the surface of certain structures that face the ribs. Anchor: rib anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0260",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'facies lateralis'?"
+      },
+      "correctAnswer": "lateral surface / the surface of a part of the body that faces away from the midline",
+      "options": [
+        "fat body",
+        "lateral surface / the surface of a part of the body that faces away from the midline",
+        "head of the radius",
+        "articular surface"
+      ],
+      "explanation": {
+        "en": "facies lateralis means 'lateral surface / the surface of a part of the body that faces away from the midline'. Lateral surface; alt. the surface of a part of the body that faces away from the midline. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0261",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'facies posterior'?"
+      },
+      "correctAnswer": "posterior surface / the surface of the part of the body that faces toward the posterior part of the body",
+      "options": [
+        "lateral surface / the surface of a part of the body that faces away from the midline",
+        "posterior surface / the surface of the part of the body that faces toward the posterior part of the body",
+        "arcuate line",
+        "facial expression of an unhappy person or one sick or in pain"
+      ],
+      "explanation": {
+        "en": "facies posterior means 'posterior surface / the surface of the part of the body that faces toward the posterior part of the body'. Posterior surface; alt. the surface of the part of the body that faces toward the posterior part of the body. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0262",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'facies articularis'?"
+      },
+      "correctAnswer": "articular surface",
+      "options": [
+        "arcuate line",
+        "used in the nervous system: a bundle of nerve fibers passing from one named nerve to join another / communicating branch",
+        "articular surface",
+        "olfactory sulcus / groove"
+      ],
+      "explanation": {
+        "en": "facies articularis means 'articular surface'. Articular surface. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0263",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'facies dolorosa'?"
+      },
+      "correctAnswer": "facial expression of an unhappy person or one sick or in pain",
+      "options": [
+        "round foramen",
+        "posterior surface / the surface of the part of the body that faces toward the posterior part of the body",
+        "facial expression of an unhappy person or one sick or in pain",
+        "fat body"
+      ],
+      "explanation": {
+        "en": "facies dolorosa means 'facial expression of an unhappy person or one sick or in pain'. Facial expression of an unhappy person or one sick or in pain. Anchor: anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0264",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'facies hippocratica'?"
+      },
+      "correctAnswer": "the facial expression classically described in those dying from long-continued illness",
+      "options": [
+        "the facial expression classically described in those dying from long-continued illness",
+        "false rib",
+        "costal surface / the surface of certain structures that face the ribs",
+        "true rib"
+      ],
+      "explanation": {
+        "en": "facies hippocratica means 'the facial expression classically described in those dying from long-continued illness'. The facial expression classically described in those dying from long-continued illness. Anchor: rib anatomy."
+      }
+    },
+    {
+      "cardId": "la-exam-0265",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'canities unguium'?"
+      },
+      "correctAnswer": "gray or white patches, streaks or spots in the nails",
+      "options": [
+        "headache",
+        "valvular insufficiency / failure of the cardiac valves to close perfectly",
+        "external auditory meatus",
+        "gray or white patches, streaks or spots in the nails"
+      ],
+      "explanation": {
+        "en": "canities unguium means 'gray or white patches, streaks or spots in the nails'. Gray or white patches, streaks or spots in the nails. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0266",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'mollities ossium'?"
+      },
+      "correctAnswer": "softness of bones",
+      "options": [
+        "facial plexus / autonomic plexus of the facial artery which sends a branch to the submandibular ganglion",
+        "interosseous membrane",
+        "sacral vertebrae (S1-S5)",
+        "softness of bones"
+      ],
+      "explanation": {
+        "en": "mollities ossium means 'softness of bones'. Softness of bones. Anchor: bone."
+      }
+    },
+    {
+      "cardId": "la-exam-0267",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'caries dentis'?"
+      },
+      "correctAnswer": "dental caries",
+      "options": [
+        "dental caries",
+        "primary caries / initial lesions produced by direct extension from an external surface",
+        "proximal caries / caries occurring in the proximal surface",
+        "beginning caries or decay"
+      ],
+      "explanation": {
+        "en": "caries dentis means 'dental caries'. Dental caries. Anchor: caries."
+      }
+    },
+    {
+      "cardId": "la-exam-0268",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'rabies paralytica'?"
+      },
+      "correctAnswer": "paralytic rabies / dumb rabies",
+      "options": [
+        "pyogenic infection / usually with pus formation",
+        "agents that destroy or prevent the growth of fungi",
+        "paralytic rabies / dumb rabies",
+        "fundus of stomach"
+      ],
+      "explanation": {
+        "en": "rabies paralytica means 'paralytic rabies / dumb rabies'. Paralytic rabies; alt. dumb rabies. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0269",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'nigrities linguae'?"
+      },
+      "correctAnswer": "black pigmentation of the dorsum of the tongue / black tongue",
+      "options": [
+        "black pigmentation of the dorsum of the tongue / black tongue",
+        "a pointed tongue of bone overlapping the mandibular foramen / lingula of mandible",
+        "root of tongue",
+        "median sulcus of tongue"
+      ],
+      "explanation": {
+        "en": "nigrities linguae means 'black pigmentation of the dorsum of the tongue / black tongue'. Black pigmentation of the dorsum of the tongue; alt. black tongue. Anchor: tongue."
+      }
+    },
+    {
+      "cardId": "la-exam-0270",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'canities circumscripta'?"
+      },
+      "correctAnswer": "piebald eyelash / an isolated bundle of white eyelashes among normally pigmented eyelashes",
+      "options": [
+        "genital organs / the organs of the reproduction",
+        "hemorrhagic infarct",
+        "hair follicle",
+        "piebald eyelash / an isolated bundle of white eyelashes among normally pigmented eyelashes"
+      ],
+      "explanation": {
+        "en": "canities circumscripta means 'piebald eyelash / an isolated bundle of white eyelashes among normally pigmented eyelashes'. Piebald eyelash; alt. an isolated bundle of white eyelashes among normally pigmented eyelashes. Anchor: medical latin."
+      }
+    },
+    {
+      "cardId": "la-exam-0271",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'caries incipiens'?"
+      },
+      "correctAnswer": "beginning caries or decay",
+      "options": [
+        "beginning caries or decay",
+        "primary caries / initial lesions produced by direct extension from an external surface",
+        "dental caries",
+        "proximal caries / caries occurring in the proximal surface"
+      ],
+      "explanation": {
+        "en": "caries incipiens means 'beginning caries or decay'. Beginning caries or decay. Anchor: caries."
+      }
+    },
+    {
+      "cardId": "la-exam-0272",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'caries primaria'?"
+      },
+      "correctAnswer": "primary caries / initial lesions produced by direct extension from an external surface",
+      "options": [
+        "dental caries",
+        "primary caries / initial lesions produced by direct extension from an external surface",
+        "proximal caries / caries occurring in the proximal surface",
+        "beginning caries or decay"
+      ],
+      "explanation": {
+        "en": "caries primaria means 'primary caries / initial lesions produced by direct extension from an external surface'. Primary caries; alt. initial lesions produced by direct extension from an external surface. Anchor: caries."
+      }
+    },
+    {
+      "cardId": "la-exam-0273",
+      "type": "mcq",
+      "question": {
+        "en": "What is the best English meaning of 'caries proximalis'?"
+      },
+      "correctAnswer": "proximal caries / caries occurring in the proximal surface",
+      "options": [
+        "primary caries / initial lesions produced by direct extension from an external surface",
+        "beginning caries or decay",
+        "proximal caries / caries occurring in the proximal surface",
+        "dental caries"
+      ],
+      "explanation": {
+        "en": "caries proximalis means 'proximal caries / caries occurring in the proximal surface'. Proximal caries; alt. caries occurring in the proximal surface. Anchor: caries."
+      }
+    }
+  ]
+}

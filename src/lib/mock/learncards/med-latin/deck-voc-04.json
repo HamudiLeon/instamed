@@ -1,0 +1,302 @@
+{
+  "schemaId": "studywithme-bg.vocab.v2",
+  "bookKey": "la-anatomy-core-nouns-systems",
+  "chapterKey": "ch-01-deduplicated-core",
+  "title": "Medical Latin Anatomy Core - Bones",
+  "items": [
+    {
+      "word": "os, ossis",
+      "translation": "bone",
+      "hint": "neuter; 3rd declension dictionary form",
+      "examCue": "skeletal basic noun"
+    },
+    {
+      "word": "cranium, cranii",
+      "translation": "skull; cranium",
+      "hint": "neuter; 2nd declension",
+      "examCue": "head skeleton"
+    },
+    {
+      "word": "vertebra, vertebrae",
+      "translation": "vertebra",
+      "hint": "feminine; 1st declension",
+      "examCue": "spine"
+    },
+    {
+      "word": "costa, costae",
+      "translation": "rib",
+      "hint": "feminine; 1st declension",
+      "examCue": "thoracic cage"
+    },
+    {
+      "word": "sternum, sterni",
+      "translation": "breastbone; sternum",
+      "hint": "neuter; 2nd declension",
+      "examCue": "thoracic cage"
+    },
+    {
+      "word": "clavicula, claviculae",
+      "translation": "clavicle; collarbone",
+      "hint": "feminine; 1st declension",
+      "examCue": "shoulder girdle"
+    },
+    {
+      "word": "scapula, scapulae",
+      "translation": "scapula; shoulder blade",
+      "hint": "feminine; 1st declension",
+      "examCue": "shoulder girdle"
+    },
+    {
+      "word": "humerus, humeri",
+      "translation": "humerus; upper arm bone",
+      "hint": "masculine; 2nd declension",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "radius, radii",
+      "translation": "radius",
+      "hint": "masculine; 2nd declension",
+      "examCue": "forearm"
+    },
+    {
+      "word": "ulna, ulnae",
+      "translation": "ulna",
+      "hint": "feminine; 1st declension",
+      "examCue": "forearm"
+    },
+    {
+      "word": "ossa carpi",
+      "translation": "carpal bones; wrist bones",
+      "hint": "plural anatomical phrase; os + carpus",
+      "examCue": "hand skeleton"
+    },
+    {
+      "word": "metacarpus, metacarpi",
+      "translation": "metacarpus; hand bones",
+      "hint": "masculine; 2nd declension",
+      "examCue": "hand skeleton"
+    },
+    {
+      "word": "phalanx, phalangis",
+      "translation": "phalanx",
+      "hint": "feminine; 3rd declension",
+      "examCue": "fingers and toes"
+    },
+    {
+      "word": "pelvis, pelvis",
+      "translation": "pelvis; hip",
+      "hint": "feminine; 3rd declension",
+      "examCue": "pelvic skeleton"
+    },
+    {
+      "word": "femur, femoris",
+      "translation": "femur; thigh bone",
+      "hint": "neuter; 3rd declension",
+      "examCue": "lower limb"
+    },
+    {
+      "word": "patella, patellae",
+      "translation": "patella; kneecap",
+      "hint": "feminine; 1st declension",
+      "examCue": "knee"
+    },
+    {
+      "word": "tibia, tibiae",
+      "translation": "tibia; shinbone",
+      "hint": "feminine; 1st declension",
+      "examCue": "lower limb"
+    },
+    {
+      "word": "fibula, fibulae",
+      "translation": "fibula; calf bone",
+      "hint": "feminine; 1st declension",
+      "examCue": "lower limb"
+    },
+    {
+      "word": "talus, tali",
+      "translation": "talus; ankle bone",
+      "hint": "masculine; 2nd declension",
+      "examCue": "foot"
+    },
+    {
+      "word": "calcaneus, calcanei",
+      "translation": "calcaneus; heel bone",
+      "hint": "masculine; 2nd declension",
+      "examCue": "foot"
+    },
+    {
+      "word": "systema nervosum",
+      "translation": "nervous system",
+      "hint": "systema = 3rd declension neuter; nervosum agrees in neuter singular",
+      "examCue": "body systems"
+    },
+    {
+      "word": "systema skeletale",
+      "translation": "skeletal system",
+      "hint": "systema = 3rd declension neuter; skeletale = 3rd-declension adjective",
+      "examCue": "body systems"
+    },
+    {
+      "word": "systema musculare",
+      "translation": "muscular system",
+      "hint": "systema = 3rd declension neuter; musculare = 3rd-declension adjective",
+      "examCue": "body systems"
+    },
+    {
+      "word": "systema cardiovasculare",
+      "translation": "cardiovascular system",
+      "hint": "neuter anatomical system term",
+      "examCue": "body systems"
+    },
+    {
+      "word": "systema respiratorium",
+      "translation": "respiratory system",
+      "hint": "neuter system phrase with 2nd/1st adjective",
+      "examCue": "body systems"
+    },
+    {
+      "word": "systema digestorium",
+      "translation": "digestive system",
+      "hint": "neuter system phrase with 2nd/1st adjective",
+      "examCue": "body systems"
+    },
+    {
+      "word": "systema urogenitale",
+      "translation": "urogenital system",
+      "hint": "neuter system phrase",
+      "examCue": "body systems"
+    },
+    {
+      "word": "systema endocrinum",
+      "translation": "endocrine system",
+      "hint": "neuter system phrase",
+      "examCue": "body systems"
+    },
+    {
+      "word": "systema lymphoideum",
+      "translation": "lymphoid; immune system",
+      "hint": "neuter system phrase",
+      "examCue": "body systems"
+    },
+    {
+      "word": "systema integumentarium",
+      "translation": "integumentary system; skin system",
+      "hint": "neuter system phrase",
+      "examCue": "body systems"
+    },
+    {
+      "word": "vena, venae",
+      "translation": "vein",
+      "hint": "feminine; 1st declension",
+      "examCue": "vessels"
+    },
+    {
+      "word": "arteria, arteriae",
+      "translation": "artery",
+      "hint": "feminine; 1st declension",
+      "examCue": "vessels"
+    },
+    {
+      "word": "mandibula, mandibulae",
+      "translation": "mandible; lower jaw",
+      "hint": "feminine; 1st declension",
+      "examCue": "skull"
+    },
+    {
+      "word": "musculus, musculi",
+      "translation": "muscle",
+      "hint": "masculine; 2nd declension",
+      "examCue": "soft tissue"
+    },
+    {
+      "word": "nervus, nervi",
+      "translation": "nerve",
+      "hint": "masculine; 2nd declension",
+      "examCue": "neuroanatomy"
+    },
+    {
+      "word": "ligamentum, ligamenti",
+      "translation": "ligament",
+      "hint": "neuter; 2nd declension",
+      "examCue": "joints"
+    },
+    {
+      "word": "cerebrum, cerebri",
+      "translation": "brain",
+      "hint": "neuter; 2nd declension",
+      "examCue": "CNS"
+    },
+    {
+      "word": "cor, cordis",
+      "translation": "heart",
+      "hint": "neuter; 3rd declension",
+      "examCue": "cardiovascular"
+    },
+    {
+      "word": "pulmo, pulmonis",
+      "translation": "lung",
+      "hint": "masculine; 3rd declension",
+      "examCue": "respiratory"
+    },
+    {
+      "word": "foramen, foraminis",
+      "translation": "foramen; opening",
+      "hint": "neuter; 3rd declension",
+      "examCue": "osteology"
+    },
+    {
+      "word": "caput, capitis",
+      "translation": "head",
+      "hint": "neuter; 3rd declension",
+      "examCue": "regional anatomy"
+    },
+    {
+      "word": "corpus, corporis",
+      "translation": "body",
+      "hint": "neuter; 3rd declension",
+      "examCue": "general anatomy"
+    },
+    {
+      "word": "radix, radicis",
+      "translation": "root",
+      "hint": "feminine; 3rd declension",
+      "examCue": "anatomical root"
+    },
+    {
+      "word": "articulatio, articulationis",
+      "translation": "joint; articulation",
+      "hint": "feminine; 3rd declension",
+      "examCue": "joints"
+    },
+    {
+      "word": "sinus, sinus",
+      "translation": "sinus; cavity",
+      "hint": "masculine; 4th declension",
+      "examCue": "head anatomy"
+    },
+    {
+      "word": "processus, processus",
+      "translation": "process; projection",
+      "hint": "masculine; 4th declension",
+      "examCue": "bone landmarks"
+    },
+    {
+      "word": "genu, genus",
+      "translation": "knee",
+      "hint": "neuter; 4th declension",
+      "examCue": "lower limb"
+    },
+    {
+      "word": "manus, manus",
+      "translation": "hand",
+      "hint": "feminine exception; 4th declension",
+      "examCue": "upper limb"
+    },
+    {
+      "word": "cornu, cornus",
+      "translation": "horn; horn-like structure",
+      "hint": "neuter; 4th declension",
+      "examCue": "anatomical shape"
+    }
+  ]
+}

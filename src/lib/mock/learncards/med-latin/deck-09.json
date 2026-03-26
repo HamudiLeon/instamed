@@ -1,0 +1,800 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-principles-core-declensions-1-3",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Core Principles of Declensions I–III",
+      "de": "Medizinisches Latein — Grundprinzipien der 1. bis 3. Deklination"
+    },
+    "description": {
+      "en": "Concept-focused foundation deck for first-year Medical Latin. Covers the core principles of the 1st, 2nd, and 3rd declensions through dictionary-entry structure, genitive-based declension recognition, stem formation, gender patterns, and basic phrase logic. Designed to establish grammatical understanding before intensive exam drilling and to provide the structural framework required for accurate terminology analysis.",
+      "de": "Konzeptorientiertes Grundlagen-Deck für Medizinisches Latein im ersten Studienjahr. Behandelt die Grundprinzipien der 1., 2. und 3. Deklination anhand von Wörterbucheinträgen, genitivgestützter Deklinationsbestimmung, Stammbildung, Genusmustern und grundlegender Phrasenlogik. Das Deck schafft grammatisches Verständnis vor dem intensiven Prüfungsdrill und vermittelt den strukturellen Rahmen für eine präzise Analyse medizinischer Terminologie."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "declensions",
+      "principles",
+      "core",
+      "dictionary-entry",
+      "stems",
+      "grammar",
+      "exam"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 70,
+    "cardCount": 45,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "pcore-001",
+      "type": "mcq",
+      "question": {
+        "en": "Which part of the dictionary entry is the most reliable indicator of declension?"
+      },
+      "correctAnswer": "The genitive singular ending",
+      "options": [
+        "The nominative singular ending",
+        "The English meaning",
+        "The genitive singular ending",
+        "The gender only"
+      ],
+      "explanation": {
+        "en": "The genitive singular ending is the safest diagnostic clue because declension is a pattern of inflection, and the genitive exposes that pattern more consistently than the nominative. The nominative can be deceptive, especially in the 3rd declension, where surface form often hides the true stem. The English meaning tells you semantics, not morphology, and gender alone cannot identify declension because the same declension may contain different genders. Practical exam rule: identify declension from the genitive first, then use gender and meaning to complete the entry."
+      }
+    },
+    {
+      "cardId": "pcore-002",
+      "type": "mcq",
+      "question": {
+        "en": "Which genitive singular ending marks the 1st declension?"
+      },
+      "correctAnswer": "-ae",
+      "options": [
+        "-ae",
+        "-i",
+        "-is",
+        "-us"
+      ],
+      "explanation": {
+        "en": "The marker of the 1st declension is genitive singular -ae. That is the structural clue that tells you how the noun behaves across cases. Do not over-rely on nominative -a, because although many 1st-declension nouns do look that way, the declension is formally recognized from the genitive. In medical Latin, this matters because correct phrase-building depends on knowing the paradigm, not just the dictionary gloss."
+      }
+    },
+    {
+      "cardId": "pcore-003",
+      "type": "mcq",
+      "question": {
+        "en": "Which genitive singular ending marks the 2nd declension?"
+      },
+      "correctAnswer": "-i",
+      "options": [
+        "-ae",
+        "-i",
+        "-is",
+        "-ei"
+      ],
+      "explanation": {
+        "en": "The 2nd declension is identified by genitive singular -i. This is why entries such as fundus, i m or signum, i n immediately classify as 2nd declension. -ae belongs to the 1st declension, -is to the 3rd, and -ei is a hallmark of the 5th declension, so each wrong option points to a different inflectional system. For exam work, train yourself to map genitive ending to declension automatically."
+      }
+    },
+    {
+      "cardId": "pcore-004",
+      "type": "mcq",
+      "question": {
+        "en": "Which genitive singular ending marks the 3rd declension?"
+      },
+      "correctAnswer": "-is",
+      "options": [
+        "-ae",
+        "-i",
+        "-is",
+        "-us"
+      ],
+      "explanation": {
+        "en": "The 3rd declension is recognized by genitive singular -is. This is especially important because the 3rd declension has highly variable nominatives, so you often cannot classify the noun correctly from the nominative alone. -ae and -i would send you to the 1st or 2nd declension, while -us is not the defining genitive marker here. Mechanistically: the genitive gives both declension identity and access to the usable stem."
+      }
+    },
+    {
+      "cardId": "pcore-005",
+      "type": "mcq",
+      "question": {
+        "en": "A full Latin noun entry must include which four elements?"
+      },
+      "correctAnswer": "Nominative singular, genitive singular, gender, and English meaning",
+      "options": [
+        "Nominative singular, plural, gender, and English meaning",
+        "Nominative singular, genitive singular, gender, and English meaning",
+        "Nominative singular, declension number, stem, and plural",
+        "Stem, gender, adjective, and English derivative"
+      ],
+      "explanation": {
+        "en": "A complete working entry gives you nominative singular, genitive singular, gender, and meaning because each part answers a different question. The nominative tells you the citation form, the genitive identifies declension and often reveals the stem, gender controls agreement, and meaning anchors semantics. A plural form is not enough to reconstruct the paradigm, and declension number alone is less useful than the actual genitive ending because medical Latin is learned through real lexical entries, not abstract labels."
+      }
+    },
+    {
+      "cardId": "pcore-006",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 1st declension?"
+      },
+      "correctAnswer": "camera, ae f",
+      "options": [
+        "camera, ae f",
+        "fundus, i m",
+        "corpus, oris n",
+        "pars, partis f"
+      ],
+      "explanation": {
+        "en": "camera, ae f is 1st declension because its genitive singular is -ae. That is the decisive feature. fundus, i m is 2nd declension because of -i, while corpus, oris n and pars, partis f are 3rd declension because their genitives point to -is. The point is not just to spot the correct noun, but to learn the elimination logic: always classify by the genitive before reading gender or meaning."
+      }
+    },
+    {
+      "cardId": "pcore-007",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 2nd declension?"
+      },
+      "correctAnswer": "fundus, i m",
+      "options": [
+        "fundus, i m",
+        "forma, ae f",
+        "margo, inis m",
+        "radix, icis f"
+      ],
+      "explanation": {
+        "en": "fundus, i m is 2nd declension because the genitive singular is -i. forma, ae f belongs to the 1st declension, while margo, inis m and radix, icis f belong to the 3rd. Notice that nominative endings alone can tempt you into guessing, but the genitive resolves the question cleanly. In phrase construction, this matters because only the correct declension allows you to generate correct case forms later."
+      }
+    },
+    {
+      "cardId": "pcore-008",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 3rd declension?"
+      },
+      "correctAnswer": "corpus, oris n",
+      "options": [
+        "corpus, oris n",
+        "persona, ae f",
+        "remedium, i n",
+        "radius, i m"
+      ],
+      "explanation": {
+        "en": "corpus, oris n is 3rd declension because its full genitive is corporis, ending in -is. persona, ae f is 1st declension, and remedium, i n plus radius, i m are 2nd declension. This card also reinforces a subtle trap: nominative corpus does not transparently show the stem corpor-, so 3rd-declension recognition depends on the genitive, not on visual intuition."
+      }
+    },
+    {
+      "cardId": "pcore-009",
+      "type": "mcq",
+      "question": {
+        "en": "Which statement is true about the nominative singular in the 3rd declension?"
+      },
+      "correctAnswer": "It often hides the stem, so the genitive must be used to find the stem",
+      "options": [
+        "It always shows the full stem clearly",
+        "It always ends in -us",
+        "It often hides the stem, so the genitive must be used to find the stem",
+        "It is enough by itself to classify every noun"
+      ],
+      "explanation": {
+        "en": "This is the central operational rule of the 3rd declension. The nominative is often historically reduced or irregular-looking, so it may not display the stem used in the oblique cases. corpus gives corpor-, radix gives radic-, and pars gives part-. That is why the nominative alone is insufficient. You move to the genitive to recover the stem and classify the noun correctly."
+      }
+    },
+    {
+      "cardId": "pcore-010",
+      "type": "mcq",
+      "question": {
+        "en": "From which form do you derive the stem of a 3rd-declension noun?"
+      },
+      "correctAnswer": "From the genitive singular",
+      "options": [
+        "From the nominative singular only",
+        "From the English meaning",
+        "From the genitive singular",
+        "From the plural"
+      ],
+      "explanation": {
+        "en": "You derive the stem of a 3rd-declension noun from the genitive singular because that form reveals the regular inflectional base. The nominative may be morphologically opaque, the English meaning is irrelevant to stem formation, and a plural form is not the standard diagnostic starting point. Workflow: take the genitive singular, remove its ending, and you obtain the stem used for further forms."
+      }
+    },
+    {
+      "cardId": "pcore-011",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'margo, inis m'?"
+      },
+      "correctAnswer": "margin-",
+      "options": [
+        "marg-",
+        "margin-",
+        "margo-",
+        "margen-"
+      ],
+      "explanation": {
+        "en": "The full genitive is marginis, not just the shortened dictionary fragment inis. Removing -is gives the stem margin-. That is why marg- and margo- are incorrect: they are guesses from the nominative, not derivations from the genitive. This is a classic 3rd-declension pattern. The English family margin, marginal is useful because it preserves the hidden stem and makes recall easier."
+      }
+    },
+    {
+      "cardId": "pcore-012",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'radix, icis f'?"
+      },
+      "correctAnswer": "radic-",
+      "options": [
+        "radi-",
+        "radix-",
+        "radic-",
+        "rad-"
+      ],
+      "explanation": {
+        "en": "The genitive is radicis. Remove -is and the stem is radic-. This shows exactly why 3rd-declension nouns must be handled through the genitive: nominative radix misleads you if you try to build the stem directly from surface appearance. radi- would belong to a different lexical logic, radix- incorrectly leaves the nominative ending in place, and rad- overtruncates the stem."
+      }
+    },
+    {
+      "cardId": "pcore-013",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'pars, partis f'?"
+      },
+      "correctAnswer": "part-",
+      "options": [
+        "pars-",
+        "par-",
+        "part-",
+        "partis-"
+      ],
+      "explanation": {
+        "en": "The genitive is partis. Remove -is and you get part-. The wrong answers reflect common student errors: pars- simply copies the nominative, par- cuts too much away, and partis- fails to remove the genitive ending. This is exactly the reasoning sequence you need in anatomy terms built from pars: first identify the genitive, then extract the stem, then form the required case."
+      }
+    },
+    {
+      "cardId": "pcore-014",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'corpus, oris n'?"
+      },
+      "correctAnswer": "corpor-",
+      "options": [
+        "corp-",
+        "corpus-",
+        "corpor-",
+        "corpr-"
+      ],
+      "explanation": {
+        "en": "The full genitive is corporis. Removing -is gives corpor-. This is an excellent example of a hidden 3rd-declension stem because nothing in the nominative corpus alone guarantees the stem corpor-. corp- is incomplete, corpus- wrongly keeps the nominative ending, and corpr- is a malformed contraction. English derivatives such as corporal and corporation help because they preserve the same stem logic."
+      }
+    },
+    {
+      "cardId": "pcore-015",
+      "type": "mcq",
+      "question": {
+        "en": "Which of these is a 1st-declension exception listed in the worksheet summary?"
+      },
+      "correctAnswer": "diabetes, ae m",
+      "options": [
+        "diabetes, ae m",
+        "radius, i m",
+        "margo, inis m",
+        "corpus, oris n"
+      ],
+      "explanation": {
+        "en": "diabetes, ae m is the exception because it carries a 1st-declension genitive -ae but masculine gender. That is the teaching point: declension and gender are related categories, but they are not identical. A beginner may overgeneralize that 1st declension equals feminine, but exceptions force you back to the full dictionary entry. radius is 2nd declension, and margo plus corpus are 3rd declension, so none of them illustrate that specific mismatch."
+      }
+    },
+    {
+      "cardId": "pcore-016",
+      "type": "mcq",
+      "question": {
+        "en": "Which of these is a Greek-origin 1st-declension-type exception in the summary list?"
+      },
+      "correctAnswer": "rhaphe, es f",
+      "options": [
+        "rhaphe, es f",
+        "forma, ae f",
+        "persona, ae f",
+        "camera, ae f"
+      ],
+      "explanation": {
+        "en": "rhaphe is the Greek-origin medical exception. It is important not because it behaves like the basic classroom model, but because it reminds you that medical Latin contains many Hellenic loans whose morphology must be memorized as lexical facts. forma, persona, and camera are ordinary core-model nouns. Exam lesson: standard patterns get you far, but exception terms must be learned as complete entries rather than normalized by guesswork."
+      }
+    },
+    {
+      "cardId": "pcore-017",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 2nd declension neuter?"
+      },
+      "correctAnswer": "signum, i n",
+      "options": [
+        "signum, i n",
+        "radius, i m",
+        "fundus, i m",
+        "margo, inis m"
+      ],
+      "explanation": {
+        "en": "signum, i n is 2nd declension because of genitive -i and neuter because of gender n. The distractors show why both pieces matter: radius and fundus are also 2nd declension, but masculine, not neuter; margo is 3rd declension. This card tests whether you understand that declension tells you the inflectional family, while gender is an additional attribute needed for agreement."
+      }
+    },
+    {
+      "cardId": "pcore-018",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 2nd declension neuter and means 'remedy'?"
+      },
+      "correctAnswer": "remedium, i n",
+      "options": [
+        "remedium, i n",
+        "radius, i m",
+        "persona, ae f",
+        "pars, partis f"
+      ],
+      "explanation": {
+        "en": "remedium, i n is correct because it satisfies all three filters simultaneously: 2nd declension, neuter gender, and the meaning 'remedy'. radius fails on gender, persona fails on declension, and pars fails on both declension and meaning. This is good exam training because real identification tasks are often compound: you must combine morphology and vocabulary, not treat them separately."
+      }
+    },
+    {
+      "cardId": "pcore-019",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 2nd declension neuter of Greek origin in the worksheet summary?"
+      },
+      "correctAnswer": "colon, i n",
+      "options": [
+        "colon, i n",
+        "corpus, oris n",
+        "camera, ae f",
+        "radix, icis f"
+      ],
+      "explanation": {
+        "en": "colon, i n is the Greek-origin neuter noun listed in the 2nd declension summary. It is useful precisely because its nominative shape is less stereotypical than a classic -um noun, yet the genitive -i still classifies it as 2nd declension. corpus is neuter but 3rd declension, camera is 1st declension, and radix is 3rd declension feminine. The broader lesson is that genitive outranks superficial appearance."
+      }
+    },
+    {
+      "cardId": "pcore-020",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 3rd declension masculine?"
+      },
+      "correctAnswer": "margo, inis m",
+      "options": [
+        "margo, inis m",
+        "radix, icis f",
+        "pars, partis f",
+        "corpus, oris n"
+      ],
+      "explanation": {
+        "en": "margo, inis m is 3rd declension masculine. The distractors are deliberately chosen from the same declension family but with different genders: radix and pars are feminine, corpus is neuter. So this card is not only about declension recognition; it tests whether you can separate declension from gender. In Latin, one declension can host multiple genders, especially the 3rd."
+      }
+    },
+    {
+      "cardId": "pcore-021",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 3rd declension feminine?"
+      },
+      "correctAnswer": "radix, icis f",
+      "options": [
+        "radix, icis f",
+        "fundus, i m",
+        "signum, i n",
+        "corpus, oris n"
+      ],
+      "explanation": {
+        "en": "radix, icis f is 3rd declension feminine. fundus is 2nd masculine, signum is 2nd neuter, and corpus is 3rd but neuter. This card targets a common confusion: students often recognize declension correctly but miss gender, which then causes adjective agreement errors later. Always read the entire entry, not just the case ending."
+      }
+    },
+    {
+      "cardId": "pcore-022",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 3rd declension neuter?"
+      },
+      "correctAnswer": "corpus, oris n",
+      "options": [
+        "corpus, oris n",
+        "margo, inis m",
+        "forma, ae f",
+        "radius, i m"
+      ],
+      "explanation": {
+        "en": "corpus, oris n is the 3rd-declension neuter noun here. margo is 3rd but masculine, forma is 1st feminine, and radius is 2nd masculine. The diagnostic sequence is therefore: first genitive for declension, then gender marking for agreement class. Neuter nouns are especially important because they often behave differently in paradigms and agreement patterns."
+      }
+    },
+    {
+      "cardId": "pcore-023",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'forma, ae f' mean?"
+      },
+      "correctAnswer": "shape, form",
+      "options": [
+        "shape, form",
+        "body",
+        "root",
+        "bottom"
+      ],
+      "explanation": {
+        "en": "forma, ae f means 'shape, form'. The distractors correspond to other core nouns in the deck: corpus is body, radix is root, and fundus is bottom or base. This is not mere vocabulary trivia. In medical terminology, semantic precision matters because morphology and meaning work together when you parse compound phrases and anatomical labels."
+      }
+    },
+    {
+      "cardId": "pcore-024",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'persona, ae f' mean?"
+      },
+      "correctAnswer": "mask, role, person",
+      "options": [
+        "mask, role, person",
+        "remedy",
+        "edge",
+        "root"
+      ],
+      "explanation": {
+        "en": "persona, ae f means 'mask, role, person'. The wrong options point to other nouns: remedium means remedy, margo means edge, and radix means root. This kind of lexical discrimination is useful because medical Latin is dense with semantically related terms, and guessing from vague familiarity leads to mistakes. Learn the noun as a full unit: form, declension clue, gender, and meaning."
+      }
+    },
+    {
+      "cardId": "pcore-025",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'radius, i m' mean in the worksheet summary?"
+      },
+      "correctAnswer": "spoke, rod / radius",
+      "options": [
+        "spoke, rod / radius",
+        "mark",
+        "body",
+        "part"
+      ],
+      "explanation": {
+        "en": "radius, i m means 'spoke, rod' and by extension the anatomical radius. The distractors again belong to other nouns in the deck: signum is mark, corpus is body, and pars is part. This matters because many medical terms retain older concrete meanings that illuminate later anatomical usage. Understanding that semantic history helps make the vocabulary more memorable."
+      }
+    },
+    {
+      "cardId": "pcore-026",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'signum, i n' mean?"
+      },
+      "correctAnswer": "sign, mark",
+      "options": [
+        "sign, mark",
+        "body",
+        "part",
+        "suture"
+      ],
+      "explanation": {
+        "en": "signum, i n means 'sign, mark'. body corresponds to corpus, part to pars, and suture to rhaphe. This card reinforces a pattern you should automate: when you see signum, do not only recall the translation but also its grammatical profile, 2nd declension neuter, because vocabulary in Latin is operational only when tied to morphology."
+      }
+    },
+    {
+      "cardId": "pcore-027",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'margo, inis m' mean?"
+      },
+      "correctAnswer": "border, edge",
+      "options": [
+        "border, edge",
+        "part",
+        "mouth",
+        "joint"
+      ],
+      "explanation": {
+        "en": "margo, inis m means 'border, edge'. The stem margin- explains why English derivative clues such as margin and marginal are so useful. The wrong options are semantically plausible enough to test whether you truly know the lexical item rather than relying on context. In anatomy, edge or border is a common descriptive concept, so precise recall matters."
+      }
+    },
+    {
+      "cardId": "pcore-028",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'pars, partis f' mean?"
+      },
+      "correctAnswer": "part",
+      "options": [
+        "part",
+        "body",
+        "mark",
+        "neck"
+      ],
+      "explanation": {
+        "en": "pars, partis f means 'part'. That deceptively simple meaning becomes highly productive in anatomical nomenclature, where many structures are divided into named parts. The distractors correspond to other common anatomical ideas, which is why this word must be recalled accurately. Also remember its 3rd-declension stem part-, since the word appears in many phrase patterns."
+      }
+    },
+    {
+      "cardId": "pcore-029",
+      "type": "mcq",
+      "question": {
+        "en": "If a noun has genitive singular -ae, which declension is it?"
+      },
+      "correctAnswer": "1st declension",
+      "options": [
+        "1st declension",
+        "2nd declension",
+        "3rd declension",
+        "Cannot be determined"
+      ],
+      "explanation": {
+        "en": "A genitive singular ending in -ae identifies the 1st declension. This is one of the first pattern-recognition rules you should make automatic. The answer is not 'cannot be determined' because the genitive is precisely the form that determines the declension most reliably. Once declension is known, you can then ask separate questions about gender and stem behavior."
+      }
+    },
+    {
+      "cardId": "pcore-030",
+      "type": "mcq",
+      "question": {
+        "en": "If a noun has genitive singular -i, which declension is it?"
+      },
+      "correctAnswer": "2nd declension",
+      "options": [
+        "1st declension",
+        "2nd declension",
+        "3rd declension",
+        "5th declension"
+      ],
+      "explanation": {
+        "en": "Genitive singular -i marks the 2nd declension. This applies across masculine and neuter nouns, so it classifies the inflectional family without yet telling you gender. 1st declension would require -ae, 3rd would require -is, and 5th commonly uses -ei. The practical value is speed: the moment you see -i, you should already be activating the 2nd-declension paradigm."
+      }
+    },
+    {
+      "cardId": "pcore-031",
+      "type": "mcq",
+      "question": {
+        "en": "If a noun has genitive singular -is, which declension is it?"
+      },
+      "correctAnswer": "3rd declension",
+      "options": [
+        "1st declension",
+        "2nd declension",
+        "3rd declension",
+        "Always 5th declension"
+      ],
+      "explanation": {
+        "en": "Genitive singular -is identifies the 3rd declension. That cue is crucial because the 3rd declension has the most variable nominative appearances in this deck. 'Always 5th declension' is not just wrong but conceptually dangerous, because it teaches the opposite of the real diagnostic method. When you see -is, think: 3rd declension, possible hidden stem, check gender next."
+      }
+    },
+    {
+      "cardId": "pcore-032",
+      "type": "mcq",
+      "question": {
+        "en": "Which statement best describes the 1st declension in this core deck?"
+      },
+      "correctAnswer": "Usually feminine in the common basic models, identified by genitive -ae",
+      "options": [
+        "Always neuter and identified by -i",
+        "Usually feminine in the common basic models, identified by genitive -ae",
+        "Always masculine and identified by -is",
+        "Defined only by nominative -a"
+      ],
+      "explanation": {
+        "en": "This is the best description because it captures both the dominant pattern and the necessary caution. In beginner medical Latin, many 1st-declension nouns are feminine and are recognized by genitive -ae. But 'usually' matters: not every 1st-declension noun is feminine, and nominative -a is not sufficient as a formal definition. The good habit is pattern first, exceptions remembered through full entries."
+      }
+    },
+    {
+      "cardId": "pcore-033",
+      "type": "mcq",
+      "question": {
+        "en": "Which statement best describes the 2nd declension in this core deck?"
+      },
+      "correctAnswer": "It includes masculine and neuter nouns, identified by genitive -i",
+      "options": [
+        "It includes only feminine nouns",
+        "It includes masculine and neuter nouns, identified by genitive -i",
+        "It is identified by genitive -is",
+        "It has no useful gender patterns"
+      ],
+      "explanation": {
+        "en": "The 2nd declension in this deck includes both masculine and neuter nouns, and the common identifying marker is genitive -i. That is why fundus and radius sit beside signum and remedium within the same declension. The wrong options fail either on the declension marker or on the gender distribution. Mechanistically, declension governs endings, while gender determines agreement behavior."
+      }
+    },
+    {
+      "cardId": "pcore-034",
+      "type": "mcq",
+      "question": {
+        "en": "Which statement best describes the 3rd declension in this core deck?"
+      },
+      "correctAnswer": "It has varied nominatives, is identified by genitive -is, and often hides the stem",
+      "options": [
+        "It always ends in -us",
+        "It is identified only by gender",
+        "It has varied nominatives, is identified by genitive -is, and often hides the stem",
+        "It uses the same stem as the nominative in every case"
+      ],
+      "explanation": {
+        "en": "This is the defining profile of the 3rd declension in basic medical Latin. Its nominatives are diverse, its genitive singular reliably points to -is, and the nominative often conceals the stem needed for other forms. The other options fail because they either overgeneralize from a surface ending or ignore the role of the genitive. If you master this one idea, much of declension confusion disappears."
+      }
+    },
+    {
+      "cardId": "pcore-035",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun-adjective rule is stated in the worksheet?"
+      },
+      "correctAnswer": "The adjective must agree with the noun in number, gender, and case",
+      "options": [
+        "The adjective must always come first",
+        "The adjective must agree with the noun in number, gender, and case",
+        "The adjective must always be 1st declension",
+        "The adjective changes only in English"
+      ],
+      "explanation": {
+        "en": "Agreement means the adjective matches the noun in number, gender, and case, not necessarily in declension or position. That is the core syntactic rule for noun-adjective phrases in Latin. An adjective does not have to come first, it does not have to belong to the 1st declension, and its inflection is very much a Latin issue, not just an English translation matter. This rule is fundamental for reading anatomical terminology correctly."
+      }
+    },
+    {
+      "cardId": "pcore-036",
+      "type": "mcq",
+      "question": {
+        "en": "What does the genitive noun usually express in a two-noun medical phrase?"
+      },
+      "correctAnswer": "A relation usually translated with 'of'",
+      "options": [
+        "Future tense",
+        "A relation usually translated with 'of'",
+        "Plurality only",
+        "Adjective agreement"
+      ],
+      "explanation": {
+        "en": "In many medical Latin noun phrases, the genitive noun expresses a dependent relation commonly translated with 'of'. This is not tense, because nouns do not mark tense; it is not plurality only, because genitive can be singular or plural; and it is not adjective agreement, because agreement belongs to adjective-noun syntax. Think structurally: one noun names the main structure, the genitive specifies whose or of what."
+      }
+    },
+    {
+      "cardId": "pcore-037",
+      "type": "mcq",
+      "question": {
+        "en": "In the model phrase 'septum nasi', what does 'nasi' represent?"
+      },
+      "correctAnswer": "Genitive singular meaning 'of the nose'",
+      "options": [
+        "Nominative plural",
+        "Genitive singular meaning 'of the nose'",
+        "A 3rd-declension adjective",
+        "A verb"
+      ],
+      "explanation": {
+        "en": "nasi is the genitive singular of nasus, so septum nasi means 'septum of the nose'. This is a canonical noun + genitive structure. It is not nominative plural because the phrase is not naming multiple noses as subjects, not an adjective because it is a noun in dependent relation, and not a verb because there is no predication here. Learning to recognize this pattern is essential for medical phrase parsing."
+      }
+    },
+    {
+      "cardId": "pcore-038",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase pattern is being used in 'fundus gastricus'?"
+      },
+      "correctAnswer": "Noun + adjective agreement",
+      "options": [
+        "Noun + adjective agreement",
+        "Two nouns in apposition",
+        "Verb + object",
+        "Genitive absolute"
+      ],
+      "explanation": {
+        "en": "fundus gastricus is a noun plus adjective phrase: fundus is the noun and gastricus is the adjective agreeing with it. The adjective describes the noun, roughly 'gastric fundus'. This differs from a noun + genitive pattern such as fundus ventriculi, where the second word is another noun in a dependent case. Distinguishing these two phrase types is one of the most important reading skills in medical Latin."
+      }
+    },
+    {
+      "cardId": "pcore-039",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase pattern is being used in 'fundus ventriculi'?"
+      },
+      "correctAnswer": "Nominative noun + genitive noun",
+      "options": [
+        "Nominative noun + genitive noun",
+        "Two adjectives",
+        "Verb phrase",
+        "Ablative phrase"
+      ],
+      "explanation": {
+        "en": "fundus ventriculi means 'fundus of the stomach', so the structure is nominative noun plus genitive noun. The first noun names the main structure, the second restricts it by a genitive relation. This is different from fundus gastricus, where gastricus is an agreeing adjective. In exam questions, students often confuse adjective endings with genitive endings, so always ask: is the second word another noun, or is it describing the first noun adjectivally?"
+      }
+    },
+    {
+      "cardId": "pcore-040",
+      "type": "mcq",
+      "question": {
+        "en": "Why are English derivatives useful in learning 3rd-declension nouns?"
+      },
+      "correctAnswer": "They help you remember the hidden stem",
+      "options": [
+        "They replace the need to know Latin",
+        "They help you remember the hidden stem",
+        "They tell you the plural directly",
+        "They remove gender distinctions"
+      ],
+      "explanation": {
+        "en": "English derivatives are useful because they often preserve the stem that the Latin nominative hides. margin- appears in marginal, corpor- in corporal, radic- in radicular. They do not replace Latin grammar, but they act as memory scaffolds for difficult 3rd-declension forms. They also do not determine plural or erase gender; they simply help anchor the morphological base in long-term memory."
+      }
+    },
+    {
+      "cardId": "pcore-041",
+      "type": "mcq",
+      "question": {
+        "en": "Which English derivative best helps recall the stem of 'margo, inis m'?"
+      },
+      "correctAnswer": "marginal",
+      "options": [
+        "marginal",
+        "formal",
+        "remedial",
+        "personal"
+      ],
+      "explanation": {
+        "en": "marginal is the best cue because it transparently preserves the hidden stem margin-. The other options belong to unrelated lexical families: formal links to forma, remedial to remedium, and personal to persona. This is the exact retrieval method you want: use a familiar derivative to reconstruct the Latin stem, then work backward to the dictionary entry."
+      }
+    },
+    {
+      "cardId": "pcore-042",
+      "type": "mcq",
+      "question": {
+        "en": "Which English derivative best helps recall the stem of 'radix, icis f'?"
+      },
+      "correctAnswer": "radicular",
+      "options": [
+        "radicular",
+        "formal",
+        "colonic",
+        "fundic"
+      ],
+      "explanation": {
+        "en": "radicular is correct because it preserves the stem radic-. formal belongs with forma, colonic with colon, and fundic with fundus. This question is not only about English vocabulary; it tests whether you understand how derivatives can serve as bridges back to a 3rd-declension stem that is not obvious from the nominative radix."
+      }
+    },
+    {
+      "cardId": "pcore-043",
+      "type": "mcq",
+      "question": {
+        "en": "Which English derivative best helps recall the stem of 'corpus, oris n'?"
+      },
+      "correctAnswer": "corporal",
+      "options": [
+        "corporal",
+        "personal",
+        "remedial",
+        "diabetic"
+      ],
+      "explanation": {
+        "en": "corporal is the best mnemonic because it carries the stem corpor-. personal belongs to persona, remedial to remedium, and diabetic to diabetes. The learning strategy is deliberate: when the nominative corpus seems opaque, an English cognate that preserves corpor- can reactivate the correct Latin stem quickly."
+      }
+    },
+    {
+      "cardId": "pcore-044",
+      "type": "mcq",
+      "question": {
+        "en": "A student sees the nominative 'pars' and cannot tell the stem. What is the correct next step?"
+      },
+      "correctAnswer": "Check the genitive 'partis' and derive the stem part-",
+      "options": [
+        "Assume the stem is pars-",
+        "Ignore the stem",
+        "Check the genitive 'partis' and derive the stem part-",
+        "Treat it as 2nd declension"
+      ],
+      "explanation": {
+        "en": "The correct move is to go to the genitive partis and derive part-. That is the standard 3rd-declension repair algorithm when the nominative is not transparent. Assuming pars- is exactly the error this deck is trying to eliminate, ignoring the stem prevents correct inflection later, and treating it as 2nd declension disregards the actual genitive marker. In other words: uncertainty about the stem should trigger a return to the genitive, not a guess."
+      }
+    },
+    {
+      "cardId": "pcore-045",
+      "type": "mcq",
+      "question": {
+        "en": "What is the main exam mindset this deck teaches for declensions I–III?"
+      },
+      "correctAnswer": "Do not guess from appearance; use the full dictionary entry and derive the stem from the genitive when needed",
+      "options": [
+        "Guess from the last letter of the nominative",
+        "Memorize English only",
+        "Do not guess from appearance; use the full dictionary entry and derive the stem from the genitive when needed",
+        "Focus only on gender and ignore declension"
+      ],
+      "explanation": {
+        "en": "This is the deck's central discipline: morphology must be read, not guessed. The nominative may be helpful, but it is not enough, especially in the 3rd declension. The full dictionary entry gives you citation form, declension clue, gender, and meaning; the genitive then allows stem recovery when the nominative hides it. Students fail when they use appearance-based shortcuts. They succeed when they follow a reproducible workflow."
+      }
+    }
+  ]
+}

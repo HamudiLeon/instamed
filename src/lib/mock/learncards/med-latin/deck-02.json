@@ -1,0 +1,1736 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-exam-100-declensions-advanced-2",
+  "meta": {
+    "title": {
+      "en": "Medical Latin & Greek — Declensions, Stems, and Form Building",
+      "de": "Medizinisches Latein und Griechisch — Deklinationen, Stämme und Formenbildung"
+    },
+    "description": {
+      "en": "Core morphology deck for first-year Medical Latin and Greek. Focuses on declension recognition, dictionary-entry structure, stem derivation, adjective patterns, and the formation of correct medical word forms. Designed to move the student from lexical familiarity to active grammatical control required for exam questions, terminology analysis, and accurate phrase construction.",
+      "de": "Zentrales Morphologie-Deck für Medizinisches Latein und Griechisch im ersten Studienjahr. Im Mittelpunkt stehen Deklinationsbestimmung, Aufbau von Wörterbucheinträgen, Stammbildung, Adjektivmuster und die korrekte Bildung medizinischer Wortformen. Das Deck führt von der bloßen Worterkennung zur aktiven grammatischen Kontrolle, wie sie für Prüfungsfragen, Terminologieanalyse und präzise Phrasenbildung erforderlich ist."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "greek",
+      "morphology",
+      "declensions",
+      "dictionary-entry",
+      "stems",
+      "adjectives",
+      "exam"
+    ],
+    "difficulty": "advanced",
+    "estimatedMinutes": 120,
+    "cardCount": 100,
+    "languages": {
+      "source": "la-gr",
+      "target": "en"
+    }
+  }
+,
+  "cards": [
+    {
+      "cardId": "card-001",
+      "type": "mcq",
+      "question": {
+        "en": "Which genitive singular ending marks the 1st declension?"
+      },
+      "correctAnswer": "-ae",
+      "options": [
+        "-ae",
+        "-i",
+        "-is",
+        "-us"
+      ],
+      "explanation": {
+        "en": "1st declension nouns are identified by the genitive singular ending -ae. Example: camera, ae f. This is a declension-recognition card."
+      }
+    },
+    {
+      "cardId": "card-002",
+      "type": "mcq",
+      "question": {
+        "en": "Which genitive singular ending marks the 2nd declension?"
+      },
+      "correctAnswer": "-i",
+      "options": [
+        "-ei",
+        "-us",
+        "-i",
+        "-is"
+      ],
+      "explanation": {
+        "en": "2nd declension nouns are identified by the genitive singular ending -i. Example: fundus, i m."
+      }
+    },
+    {
+      "cardId": "card-003",
+      "type": "mcq",
+      "question": {
+        "en": "Which genitive singular ending marks the 3rd declension?"
+      },
+      "correctAnswer": "-is",
+      "options": [
+        "-ae",
+        "-is",
+        "-us",
+        "-ei"
+      ],
+      "explanation": {
+        "en": "3rd declension nouns are identified by the genitive singular ending -is. Example: radix, icis f."
+      }
+    },
+    {
+      "cardId": "card-004",
+      "type": "mcq",
+      "question": {
+        "en": "Which genitive singular ending marks the 4th declension?"
+      },
+      "correctAnswer": "-us",
+      "options": [
+        "-i",
+        "-ae",
+        "-us",
+        "-ei"
+      ],
+      "explanation": {
+        "en": "4th declension nouns are identified by the genitive singular ending -us. Example: manus, us f."
+      }
+    },
+    {
+      "cardId": "card-005",
+      "type": "mcq",
+      "question": {
+        "en": "Which genitive singular ending marks the 5th declension?"
+      },
+      "correctAnswer": "-ei",
+      "options": [
+        "-ei",
+        "-is",
+        "-i",
+        "-ae"
+      ],
+      "explanation": {
+        "en": "5th declension nouns are identified by the genitive singular ending -ei. Example: species, ei f."
+      }
+    },
+    {
+      "cardId": "card-006",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun belongs to the 1st declension?"
+      },
+      "correctAnswer": "camera",
+      "options": [
+        "camera",
+        "fundus",
+        "corpus",
+        "manus"
+      ],
+      "explanation": {
+        "en": "camera, ae f is 1st declension. Dictionary entry: camera, ae f. Example: camera anterior oculi."
+      }
+    },
+    {
+      "cardId": "card-007",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun belongs to the 2nd declension?"
+      },
+      "correctAnswer": "radius",
+      "options": [
+        "radix",
+        "radius",
+        "species",
+        "sinus"
+      ],
+      "explanation": {
+        "en": "radius, i m is 2nd declension. Do not confuse radius with radix, icis f, which is 3rd declension."
+      }
+    },
+    {
+      "cardId": "card-008",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun belongs to the 3rd declension?"
+      },
+      "correctAnswer": "margo",
+      "options": [
+        "margo",
+        "remedium",
+        "forma",
+        "genu"
+      ],
+      "explanation": {
+        "en": "margo, inis m is 3rd declension. The nominative can be misleading; the genitive shows the declension."
+      }
+    },
+    {
+      "cardId": "card-009",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun belongs to the 4th declension?"
+      },
+      "correctAnswer": "sinus",
+      "options": [
+        "sinus",
+        "series",
+        "colon",
+        "persona"
+      ],
+      "explanation": {
+        "en": "sinus, us m is 4th declension. Example: sinus maxillaris."
+      }
+    },
+    {
+      "cardId": "card-010",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun belongs to the 5th declension?"
+      },
+      "correctAnswer": "series",
+      "options": [
+        "series",
+        "pars",
+        "fundus",
+        "rhaphe"
+      ],
+      "explanation": {
+        "en": "series, ei f is 5th declension. The genitive ending -ei is the key marker."
+      }
+    },
+    {
+      "cardId": "card-011",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'forma'?"
+      },
+      "correctAnswer": "forma, ae f",
+      "options": [
+        "forma, ae f",
+        "forma, i f",
+        "forma, is f",
+        "forma, ei f"
+      ],
+      "explanation": {
+        "en": "forma = shape. 1st declension feminine: forma, ae f. Example derivative: formal."
+      }
+    },
+    {
+      "cardId": "card-012",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'persona'?"
+      },
+      "correctAnswer": "persona, ae f",
+      "options": [
+        "persona, ae f",
+        "persona, is f",
+        "persona, i m",
+        "persona, ei f"
+      ],
+      "explanation": {
+        "en": "persona = mask, role, person. 1st declension feminine: persona, ae f."
+      }
+    },
+    {
+      "cardId": "card-013",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'rhaphe'?"
+      },
+      "correctAnswer": "rhaphe, es f",
+      "options": [
+        "rhaphe, es f",
+        "rhaphe, ae f",
+        "rhaphe, is f",
+        "rhaphe, i f"
+      ],
+      "explanation": {
+        "en": "rhaphe is a Greek loanword used as a 1st declension feminine noun in medical terminology. Meaning: suture, seam."
+      }
+    },
+    {
+      "cardId": "card-014",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'diabetes'?"
+      },
+      "correctAnswer": "diabetes, ae m",
+      "options": [
+        "diabetes, ae m",
+        "diabetes, ei m",
+        "diabetes, is m",
+        "diabetes, i m"
+      ],
+      "explanation": {
+        "en": "diabetes is an important exception-like exam word: 1st declension masculine, diabetes, ae m."
+      }
+    },
+    {
+      "cardId": "card-015",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'fundus'?"
+      },
+      "correctAnswer": "fundus, i m",
+      "options": [
+        "fundus, i m",
+        "fundus, us m",
+        "fundus, is m",
+        "fundus, ei m"
+      ],
+      "explanation": {
+        "en": "fundus = bottom, base. 2nd declension masculine: fundus, i m. Example: fundus ventriculi."
+      }
+    },
+    {
+      "cardId": "card-016",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'radius'?"
+      },
+      "correctAnswer": "radius, i m",
+      "options": [
+        "radius, i m",
+        "radius, us m",
+        "radius, is m",
+        "radius, ei m"
+      ],
+      "explanation": {
+        "en": "radius = radius bone, spoke, rod. 2nd declension masculine: radius, i m."
+      }
+    },
+    {
+      "cardId": "card-017",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'signum'?"
+      },
+      "correctAnswer": "signum, i n",
+      "options": [
+        "signum, i n",
+        "signum, us n",
+        "signum, is n",
+        "signum, ae n"
+      ],
+      "explanation": {
+        "en": "signum = sign, mark. 2nd declension neuter: signum, i n."
+      }
+    },
+    {
+      "cardId": "card-018",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'remedium'?"
+      },
+      "correctAnswer": "remedium, i n",
+      "options": [
+        "remedium, i n",
+        "remedium, is n",
+        "remedium, us n",
+        "remedium, ae n"
+      ],
+    "explanation": {
+    "en": "remedium, -i n. is a 2nd-declension neuter noun meaning a remedy, cure, or medicine — something that heals or corrects a condition. The genitive singular -i confirms 2nd declension, and the neuter gender means adjectives modifying it must take neuter forms. This pattern is typical for 2nd-declension neuter nouns, which end in -um in nominative singular and -i in genitive singular. The word lives on in modern English through 'remedial' (corrective) and 'remedy' itself. Example: remedium efficax (an effective remedy, neut.) — compare with medicus efficax (an effective doctor, masc.) to see how the same adjective efficax, being a one-termination adjective, stays the same across genders, while a two-termination adjective would change."
+  }
+    },
+    {
+      "cardId": "card-019",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'colon'?"
+      },
+      "correctAnswer": "colon, i n",
+      "options": [
+        "colon, i n",
+        "colon, is n",
+        "colon, us n",
+        "colon, ei n"
+      ],
+      "explanation": {
+        "en": "colon = colon. Greek noun Latinized as 2nd declension neuter: colon, i n."
+      }
+    },
+    {
+      "cardId": "card-020",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'margo'?"
+      },
+      "correctAnswer": "margo, inis m",
+      "options": [
+        "margo, inis m",
+        "margo, is m",
+        "margo, us m",
+        "margo, i m"
+      ],
+      "explanation": {
+        "en": "margo = border, margin. 3rd declension masculine: margo, inis m. Stem: margin-."
+      }
+    },
+    {
+      "cardId": "card-021",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'radix'?"
+      },
+      "correctAnswer": "radix, icis f",
+      "options": [
+        "radix, icis f",
+        "radix, is f",
+        "radix, i f",
+        "radix, us f"
+      ],
+      "explanation": {
+        "en": "radix = root. 3rd declension feminine: radix, icis f. Stem: radic-. Example derivative: radicular."
+      }
+    },
+    {
+      "cardId": "card-022",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'pars'?"
+      },
+      "correctAnswer": "pars, partis f",
+      "options": [
+        "pars, partis f",
+        "pars, partis m",
+        "pars, is f",
+        "pars, us f"
+      ],
+      "explanation": {
+        "en": "pars = part. 3rd declension feminine: pars, partis f. Stem: part-."
+      }
+    },
+    {
+      "cardId": "card-023",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'corpus'?"
+      },
+      "correctAnswer": "corpus, oris n",
+      "options": [
+        "corpus, oris n",
+        "corpus, is n",
+        "corpus, us n",
+        "corpus, i n"
+      ],
+      "explanation": {
+        "en": "corpus = body. 3rd declension neuter: corpus, oris n. Stem: corpor-."
+      }
+    },
+    {
+      "cardId": "card-024",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'sinus'?"
+      },
+      "correctAnswer": "sinus, us m",
+      "options": [
+        "sinus, us m",
+        "sinus, i m",
+        "sinus, is m",
+        "sinus, ei m"
+      ],
+      "explanation": {
+        "en": "sinus = cavity, sinus. 4th declension masculine: sinus, us m."
+      }
+    },
+    {
+      "cardId": "card-025",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'manus'?"
+      },
+      "correctAnswer": "manus, us f",
+      "options": [
+        "manus, us f",
+        "manus, i f",
+        "manus, is f",
+        "manus, ei f"
+      ],
+      "explanation": {
+        "en": "manus = hand. 4th declension feminine: manus, us f."
+      }
+    },
+    {
+      "cardId": "card-026",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'genu'?"
+      },
+      "correctAnswer": "genu, us n",
+      "options": [
+        "genu, us n",
+        "genu, i n",
+        "genu, is n",
+        "genu, ei n"
+      ],
+      "explanation": {
+        "en": "genu = knee. 4th declension neuter: genu, us n. Neuter 4th declension is high-yield."
+      }
+    },
+    {
+      "cardId": "card-027",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'species'?"
+      },
+      "correctAnswer": "species, ei f",
+      "options": [
+        "species, ei f",
+        "species, is f",
+        "species, ae f",
+        "species, us f"
+      ],
+      "explanation": {
+        "en": "species = appearance, kind. 5th declension feminine: species, ei f."
+      }
+    },
+    {
+      "cardId": "card-028",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'series'?"
+      },
+      "correctAnswer": "series, ei f",
+      "options": [
+        "series, ei f",
+        "series, is f",
+        "series, ae f",
+        "series, i f"
+      ],
+      "explanation": {
+        "en": "series = row, series. 5th declension feminine: series, ei f."
+      }
+    },
+    {
+      "cardId": "card-029",
+      "type": "mcq",
+      "question": {
+        "en": "Which stem is correctly derived from 'margo, inis m'?"
+      },
+      "correctAnswer": "margin-",
+      "options": [
+        "marg-",
+        "margin-",
+        "margu-",
+        "margo-"
+      ],
+      "explanation": {
+        "en": "The stem is taken from the genitive singular: margin-is -> margin-. 3rd declension rule."
+      }
+    },
+    {
+      "cardId": "card-030",
+      "type": "mcq",
+      "question": {
+        "en": "Which stem is correctly derived from 'corpus, oris n'?"
+      },
+      "correctAnswer": "corpor-",
+      "options": [
+        "corp-",
+        "corpor-",
+        "corpu-",
+        "corpr-"
+      ],
+      "explanation": {
+        "en": "The genitive gives the stem: corp-or-is -> corpor-. Example derivative: corporal."
+      }
+    },
+    {
+      "cardId": "card-031",
+      "type": "mcq",
+      "question": {
+        "en": "Which stem is correctly derived from 'radix, icis f'?"
+      },
+      "correctAnswer": "radic-",
+      "options": [
+        "rad-",
+        "radic-",
+        "radix-",
+        "radi-"
+      ],
+      "explanation": {
+        "en": "The stem comes from the genitive radix, icis -> radic-. Example derivative: radicular."
+      }
+    },
+    {
+      "cardId": "card-032",
+      "type": "mcq",
+      "question": {
+        "en": "Which stem is correctly derived from 'pars, partis f'?"
+      },
+      "correctAnswer": "part-",
+      "options": [
+        "pars-",
+        "part-",
+        "parti-",
+        "par-"
+      ],
+      "explanation": {
+        "en": "pars, partis -> part-. 3rd declension stem formation is exam-basic."
+      }
+    },
+    {
+      "cardId": "card-033",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is a 5th declension feminine noun?"
+      },
+      "correctAnswer": "facies",
+      "options": [
+        "facies",
+        "fundus",
+        "collum",
+        "nervus"
+      ],
+      "explanation": {
+        "en": "facies, ei f = face/surface/appearance. 5th declension feminine."
+      }
+    },
+    {
+      "cardId": "card-034",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is a 3rd declension masculine noun?"
+      },
+      "correctAnswer": "pes",
+      "options": [
+        "pes",
+        "species",
+        "manus",
+        "camera"
+      ],
+      "explanation": {
+        "en": "pes, pedis m = foot. 3rd declension masculine. Important contrast with 5th declension nouns ending in -es."
+      }
+    },
+    {
+      "cardId": "card-035",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is a 1st declension masculine exception?"
+      },
+      "correctAnswer": "ascites",
+      "options": [
+        "ascites",
+        "species",
+        "pes",
+        "paries"
+      ],
+     "explanation": {
+    "en": "ascites, ae m. is a Greek-origin medical term meaning an abnormal accumulation of fluid in the abdominal cavity (dropsy of the abdomen). Although most 1st-declension nouns ending in -ae are feminine, ascites is a masculine exception — a pattern seen in several Greek loanwords in Latin such as nauta (sailor) and poeta (poet). The genitive singular -ae confirms it belongs to 1st declension despite its masculine gender. Example: ascites chylosus (chylous ascites, masc.) — notice the adjective takes masculine form chylosus, not feminine chylosa, because ascites is masculine even though it declines like a feminine 1st-declension noun."
+  }
+    },
+    {
+      "cardId": "card-036",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun is 3rd declension despite ending in -es?"
+      },
+      "correctAnswer": "paries",
+      "options": [
+        "paries",
+        "series",
+        "species",
+        "scabies"
+      ],
+      "explanation": {
+        "en": "paries, etis m is 3rd declension. This is exactly the kind of trap the worksheet warns about."
+      }
+    },
+    {
+      "cardId": "card-037",
+      "type": "mcq",
+      "question": {
+        "en": "What does the dictionary entry 'pes, pedis m' mean?"
+      },
+      "correctAnswer": "foot",
+      "options": [
+        "foot",
+        "wall",
+        "face",
+        "base"
+      ],
+      "explanation": {
+        "en": "pes, pedis m = foot. 3rd declension masculine. Example derivative: pedal."
+      }
+    },
+    {
+      "cardId": "card-038",
+      "type": "mcq",
+      "question": {
+        "en": "What does the dictionary entry 'paries, etis m' mean?"
+      },
+      "correctAnswer": "wall",
+      "options": [
+        "wall",
+        "surface",
+        "arch",
+        "leg"
+      ],
+      "explanation": {
+        "en": "paries, etis m = wall. 3rd declension masculine. A classic -es ending trap."
+      }
+    },
+    {
+      "cardId": "card-039",
+      "type": "mcq",
+      "question": {
+        "en": "What does the dictionary entry 'species, ei f' mean?"
+      },
+      "correctAnswer": "appearance / kind",
+      "options": [
+        "appearance / kind",
+        "row",
+        "body",
+        "hand"
+      ],
+      "explanation": {
+        "en": "species, ei f = appearance, kind. 5th declension feminine."
+      }
+    },
+    {
+      "cardId": "card-040",
+      "type": "mcq",
+      "question": {
+        "en": "What does the dictionary entry 'sinus, us m' mean?"
+      },
+      "correctAnswer": "cavity",
+      "options": [
+        "cavity",
+        "hand",
+        "spleen",
+        "nail"
+      ],
+      "explanation": {
+        "en": "sinus, us m = cavity, sinus. 4th declension masculine."
+      }
+    },
+    {
+      "cardId": "card-041",
+      "type": "mcq",
+      "question": {
+        "en": "What type of 3rd-declension adjective is 'celer, celeris, celere'?"
+      },
+      "correctAnswer": "three terminations",
+      "options": [
+        "three terminations",
+        "two terminations",
+        "one termination",
+        "indeclinable"
+      ],
+      "explanation": {
+        "en": "celer, celeris, celere has separate masculine, feminine, and neuter nominative singular forms. It is a 3rd-declension adjective of three terminations."
+      }
+    },
+    {
+      "cardId": "card-042",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of the adjective 'swift / quick'?"
+      },
+      "correctAnswer": "celer, eris, ere",
+      "options": [
+        "celer, eris, ere",
+        "celeris, e",
+        "celer, is",
+        "celer, e"
+      ],
+      "explanation": {
+        "en": "The worksheet gives celer, celeris, celere. Dictionary entry format: celer, eris, ere. 3rd declension adjective, three terminations."
+      }
+    },
+    {
+      "cardId": "card-043",
+      "type": "mcq",
+      "question": {
+        "en": "What type of 3rd-declension adjective is 'mollis, molle'?"
+      },
+      "correctAnswer": "two terminations",
+      "options": [
+        "two terminations",
+        "three terminations",
+        "one termination",
+        "indeclinable"
+      ],
+      "explanation": {
+        "en": "mollis, molle is a 3rd-declension adjective of two terminations: one form (mollis) is shared by masculine and feminine nouns, while neuter nouns use a separate form (molle). When declining, masculine and feminine follow the same pattern, but neuter differs in the nominative and accusative. Example: nervus mollis (soft nerve, masc.), via mollis (soft road, fem.), corpus molle (soft body, neut.)."
+      }
+    },
+    {
+      "cardId": "card-044",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of the adjective 'soft'?"
+      },
+      "correctAnswer": "mollis, e",
+      "options": [
+        "mollis, e",
+        "mollis, is",
+        "molle, is",
+        "mollis, eris, ere"
+      ],
+      "explanation": {
+        "en": "mollis, e is the dictionary entry. 3rd declension adjective, two terminations."
+      }
+    },
+    {
+      "cardId": "card-045",
+      "type": "mcq",
+      "question": {
+        "en": "What type of 3rd-declension adjective is 'biceps, bicipitis'?"
+      },
+      "correctAnswer": "one termination",
+      "options": [
+        "one termination",
+        "two terminations",
+        "three terminations",
+        "1st/2nd declension"
+      ],
+       "explanation": {
+    "en": "biceps, bicipitis is a 3rd-declension adjective of one termination, meaning all three genders share the exact same nominative singular form: biceps. It is built from Latin bi- (two) + caput, capitis (head), literally meaning 'two-headed' — referring to a muscle or structure with two points of origin. One termination adjectives only reveal gender through the noun they modify, not through their own ending. The genitive singular bicipitis confirms 3rd declension. Example: musculus biceps (two-headed muscle, masc.), caput biceps (two-headed head/origin, neut.) — notice biceps itself never changes in the nominative singular regardless of the noun's gender, unlike two- or three-termination adjectives which would show different endings."
+  }
+    },
+    {
+      "cardId": "card-046",
+      "type": "mcq",
+      "question": {
+        "en": "What is the stem of 'biceps, bicipitis'?"
+      },
+      "correctAnswer": "bicipit-",
+      "options": [
+        "bicep-",
+        "bicipit-",
+        "bicip-",
+        "biceps-"
+      ],
+      "explanation": {
+        "en": "The genitive bicipitis gives the stem bicipit-. One-termination adjective of the 3rd declension."
+      }
+    },
+    {
+      "cardId": "card-047",
+      "type": "mcq",
+      "question": {
+        "en": "What type of adjective is 'communicans, communicantis'?"
+      },
+      "correctAnswer": "one-termination present participle",
+      "options": [
+        "one-termination present participle",
+        "two-termination adjective",
+        "three-termination adjective",
+        "indeclinable form"
+      ],
+      "explanation": {
+        "en": "communicans is a present active participle ending in -ns in the nominative singular. It is treated as a 3rd-declension one-termination adjective."
+      }
+    },
+    {
+      "cardId": "card-048",
+      "type": "mcq",
+      "question": {
+        "en": "What is the dictionary entry of 'communicating'?"
+      },
+      "correctAnswer": "communicans, ntis",
+      "options": [
+        "communicans, ntis",
+        "communicans, is",
+        "communicans, tis",
+        "communicans, e"
+      ],
+      "explanation": {
+        "en": "For present participles, dictionary form is typically nominative singular + genitive ending: communicans, ntis."
+      }
+    },
+    {
+      "cardId": "card-049",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the conventional dictionary entry for 'sharp, pointed'?"
+      },
+      "correctAnswer": "acer, acris, acre",
+      "options": [
+        "acer, acris, acre",
+        "acris, e",
+        "acer, is",
+        "acutus, a, um"
+      ],
+      "explanation": {
+        "en": "acer, acris, acre is the standard 3rd-declension adjective of three terminations meaning sharp or pointed."
+      }
+    },
+    {
+      "cardId": "card-050",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the conventional dictionary entry for 'healthful, salubrious'?"
+      },
+      "correctAnswer": "saluber, bris, bre",
+      "options": [
+        "saluber, bris, bre",
+        "salubris, e",
+        "saluber, is",
+        "sanus, a, um"
+      ],
+      "explanation": {
+        "en": "saluber, salubris, salubre is a 3rd-declension adjective of three terminations, meaning each gender has its own distinct nominative singular form: saluber (masculine), salubris (feminine), salubre (neuter). In dictionaries it is abbreviated as saluber, bris, bre. The adjective must always agree with its noun in gender, case, and number. Example: aer saluber (healthy air, masc.), aqua salubris (healthy water, fem.), clima salubre (healthy climate, neut.)."
+      }
+    },
+    {
+      "cardId": "card-051",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the conventional dictionary entry for 'near the tip / apical'?"
+      },
+      "correctAnswer": "apicalis, e",
+      "options": [
+        "apicalis, e",
+        "apicalis, is",
+        "apex, icis",
+        "apicatus, a, um"
+      ],
+      "explanation": {
+        "en": "apicalis, e is a standard 3rd-declension adjective of two terminations meaning apical / near the tip."
+      }
+    },
+    {
+      "cardId": "card-052",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the conventional dictionary entry for 'cross-shaped'?"
+      },
+      "correctAnswer": "cruciformis, e",
+      "options": [
+        "cruciformis, e",
+        "cruciformis, is",
+        "cruciatus, a, um",
+        "cruciger, era, erum"
+      ],
+      "explanation": {
+        "en": "cruciformis, e is a standard 3rd-declension adjective of two terminations meaning cross-shaped."
+      }
+    },
+    {
+      "cardId": "card-053",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the conventional dictionary entry for 'pear-shaped'?"
+      },
+      "correctAnswer": "piriformis, e",
+      "options": [
+        "piriformis, e",
+        "piriformis, is",
+        "pirus, i f",
+        "piratus, a, um"
+      ],
+      "explanation": {
+        "en": "piriformis, e means pear-shaped. 3rd declension adjective, two terminations."
+      }
+    },
+    {
+      "cardId": "card-054",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the conventional dictionary entry for 'round'?"
+      },
+      "correctAnswer": "teres, etis",
+      "options": [
+        "teres, etis",
+        "teres, ei",
+        "teres, is",
+        "rotundus, a, um"
+      ],
+      "explanation": {
+        "en": "teres, etis is the standard 3rd-declension one-termination adjective meaning round. Example: ligamentum teres hepatis."
+      }
+    },
+    {
+      "cardId": "card-055",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the conventional dictionary entry for 'recurring / reappearing'?"
+      },
+      "correctAnswer": "recurrens, ntis",
+      "options": [
+        "recurrens, ntis",
+        "recurrens, tis",
+        "recurrens, e",
+        "recursivus, a, um"
+      ],
+      "explanation": {
+        "en": "recurrens, ntis is a present participle used adjectivally, 3rd declension, one termination."
+      }
+    },
+    {
+      "cardId": "card-056",
+      "type": "mcq",
+      "question": {
+        "en": "Which is the conventional dictionary entry for 'soothing / softening'?"
+      },
+      "correctAnswer": "emolliens, ntis",
+      "options": [
+        "emolliens, ntis",
+        "emolliens, tis",
+        "emollis, e",
+        "molliens, is"
+      ],
+      "explanation": {
+        "en": "emolliens, ntis is a present participle used adjectivally, 3rd declension, one termination."
+      }
+    },
+    {
+      "cardId": "card-057",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'visceroptosis' mean?"
+      },
+      "correctAnswer": "downward displacement of the viscera",
+      "options": [
+        "downward displacement of the viscera",
+        "inflammation of the viscera",
+        "surgical fixation of viscera",
+        "origin of the viscera"
+      ],
+      "explanation": {
+        "en": "visceroptosis is a compound term: viscero- (viscera) + -ptosis (downward displacement, prolapse). Greek/Latin hybrid compound."
+      }
+    },
+    {
+      "cardId": "card-058",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'splanchnoptosis' mean?"
+      },
+      "correctAnswer": "downward displacement of the viscera",
+      "options": [
+        "downward displacement of the viscera",
+        "softening of the spleen",
+        "study of the viscera",
+        "absence of viscera"
+      ],
+      "explanation": {
+        "en": "splanchnoptosis is the Greek-synonym form: splanchno- (viscera) + -ptosis. Compound Greek medical term."
+      }
+    },
+    {
+      "cardId": "card-059",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'histogenesis' mean?"
+      },
+      "correctAnswer": "origin and development of tissue",
+      "options": [
+        "origin and development of tissue",
+        "disease of tissue",
+        "inflammation of tissue",
+        "excision of tissue"
+      ],
+      "explanation": {
+        "en": "histogenesis = histo- (tissue) + -genesis (origin, development). Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-060",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'tocologia' mean?"
+      },
+      "correctAnswer": "study/science of childbirth",
+      "options": [
+        "study/science of childbirth",
+        "fear of childbirth",
+        "pain in childbirth",
+        "incision during childbirth"
+      ],
+      "explanation": {
+        "en": "tocologia = toco- (childbirth) + -logia (study). Greek compound noun, 1st declension in Latinized usage."
+      }
+    },
+    {
+      "cardId": "card-061",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'obstetricia' mean?"
+      },
+      "correctAnswer": "medical specialty of pregnancy and childbirth",
+      "options": [
+        "medical specialty of pregnancy and childbirth",
+        "study of pulse",
+        "study of bones",
+        "fear of labor"
+      ],
+      "explanation": {
+        "en": "obstetricia is the Latin-based parallel term for obstetrics. 1st declension noun in medical Latin."
+      }
+    },
+    {
+      "cardId": "card-062",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'sphygmologia' mean?"
+      },
+      "correctAnswer": "study of the pulse",
+      "options": [
+        "study of the pulse",
+        "study of the fetus",
+        "study of hearing",
+        "study of childbirth"
+      ],
+      "explanation": {
+        "en": "sphygmologia = sphygmo- (pulse) + -logia (study). Greek compound noun. Example: measure instrument: sphygmomanometer"
+      }
+    },
+    {
+      "cardId": "card-063",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'acephalocheiria' mean?"
+      },
+      "correctAnswer": "congenital absence of head and hands",
+      "options": [
+        "congenital absence of head and hands",
+        "two heads and one hand",
+        "absence of head only",
+        "absence of hands only"
+      ],
+      "explanation": {
+        "en": "acephalocheiria = a- (without) + cephalo- (head) + cheir- (hand). Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-064",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'acephalobrachia' mean?"
+      },
+      "correctAnswer": "congenital absence of head and arms/hands",
+      "options": [
+        "congenital absence of head and arms/hands",
+        "absence of head and feet",
+        "double head",
+        "narrow face"
+      ],
+      "explanation": {
+          "en": "acephalobrachia is a compound medical term built from three Greek roots: a- (without) + kephalē (head) + brachion (arm), meaning the congenital absence of both head and arms. This follows a common pattern in medical terminology where Greek privative prefix a- (or an- before vowels) negates the rest of the term. Example: a- + cephal- + brachia = acephalobrachia (without head and arms) — compare with acephalia (without head only) or abrachia (without arms only) to see how each root contributes independent meaning and can be combined freely."
+        }
+    },
+    {
+      "cardId": "card-065",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'gonarthritis' mean?"
+      },
+      "correctAnswer": "inflammation of the knee joint",
+      "options": [
+        "inflammation of the knee joint",
+        "softening of the knee",
+        "fracture of the knee",
+        "study of the knee"
+      ],
+      "explanation": {
+        "en": "gonarthritis = gon- (knee) + arthritis (joint inflammation). Greek compound."
+      }
+    },
+    {
+      "cardId": "card-066",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'choledocholithiasis' mean?"
+      },
+      "correctAnswer": "presence/formation of gallstones in the common bile duct",
+      "options": [
+        "presence/formation of gallstones in the common bile duct",
+        "inflammation of the gallbladder",
+        "softening of the bile duct",
+        "absence of bile"
+      ],
+      "explanation": {
+        "en": "choledocholithiasis = choledocho- (common bile duct) + lith- (stone) + -iasis (pathological condition). Greek compound."
+      }
+    },
+    {
+      "cardId": "card-067",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'hypoacusia' mean?"
+      },
+      "correctAnswer": "reduced / impaired hearing",
+      "options": [
+        "reduced / impaired hearing",
+        "increased hearing",
+        "loss of vision",
+        "pulse disorder"
+      ],
+      "explanation": {
+        "en": "hypoacusia = hypo- (below) + -acusia (hearing). Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-068",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'hypacusis' mean?"
+      },
+      "correctAnswer": "reduced / impaired hearing",
+      "options": [
+        "reduced / impaired hearing",
+        "double hearing",
+        "fear of sound",
+        "hearing hallucination"
+      ],
+      "explanation": {
+        "en": "hypacusis is a synonymous Greek form for impaired hearing. Useful exam pair with hypoacusia."
+      }
+    },
+    {
+      "cardId": "card-069",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'oligoacusia' mean?"
+      },
+      "correctAnswer": "deficient / lessened hearing",
+      "options": [
+        "deficient / lessened hearing",
+        "excessive hearing",
+        "sudden deafness",
+        "softening of the ear"
+      ],
+      "explanation": {
+        "en": "oligoacusia = oligo- (few, little) + -acusia (hearing). Another standard pattern for reduced hearing."
+      }
+    },
+    {
+      "cardId": "card-070",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'acusia' mean?"
+      },
+      "correctAnswer": "hearing",
+      "options": [
+        "hearing",
+        "smell",
+        "taste",
+        "speech"
+      ],
+      "explanation": {
+        "en": "acusia / acusis is a hearing-related Greek noun base used in compound terms. Not a Latin declension noun focus card."
+      }
+    },
+    {
+      "cardId": "card-071",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'aprosopia' mean?"
+      },
+      "correctAnswer": "congenital absence of most or all of the face",
+      "options": [
+        "congenital absence of most or all of the face",
+        "double face",
+        "narrow face",
+        "pain in the face"
+      ],
+      "explanation": {
+        "en": "aprosopia = a- (without) + prosop- (face) + -ia. Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-072",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'diprosopus' mean?"
+      },
+      "correctAnswer": "double-faced malformed fetus",
+      "options": [
+        "double-faced malformed fetus",
+        "narrow-faced person",
+        "soft face",
+        "face pain"
+      ],
+      "explanation": {
+        "en": "diprosopus = di- (double) + prosop- (face) + -us, a masculine Latinized noun. Literally 'two-faced'."
+      }
+    },
+    {
+      "cardId": "card-073",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'leptoprosopia' mean?"
+      },
+      "correctAnswer": "abnormal narrowness of the face",
+      "options": [
+        "abnormal narrowness of the face",
+        "absence of the face",
+        "green vision",
+        "softening of the skull"
+      ],
+      "explanation": {
+        "en": "leptoprosopia = lepto- (narrow, thin) + prosop- (face) + -ia. Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-074",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'craniomalacia' mean?"
+      },
+      "correctAnswer": "softening of the skull bones",
+      "options": [
+        "softening of the skull bones",
+        "fracture of the skull",
+        "inflammation of the skull",
+        "double skull"
+      ],
+      "explanation": {
+        "en": "craniomalacia = cranio- (skull, cranium) + -malacia (softening). Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-075",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'onychomalacia' mean?"
+      },
+      "correctAnswer": "abnormal softness of the nails",
+      "options": [
+        "abnormal softness of the nails",
+        "fungal disease of the nails",
+        "thick nails",
+        "absence of nails"
+      ],
+      "explanation": {
+        "en": "onychomalacia = onycho- (nail) + -malacia (softening). Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-076",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'angiomalacia' mean?"
+      },
+      "correctAnswer": "softening of the walls of blood vessels",
+      "options": [
+        "softening of the walls of blood vessels",
+        "stone in a vessel",
+        "absence of a vessel",
+        "inflammation of a vessel"
+      ],
+      "explanation": {
+        "en": "angiomalacia = angio- (vessel) + -malacia (softening). Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-077",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'splenomalacia' mean?"
+      },
+      "correctAnswer": "softening of the spleen",
+      "options": [
+        "softening of the spleen",
+        "inflammation of the spleen",
+        "enlargement of the spleen",
+        "absence of the spleen"
+      ],
+      "explanation": {
+        "en": "splenomalacia = spleno- (spleen) + -malacia (softening). Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-078",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'green vision'?"
+      },
+      "correctAnswer": "chloropsia",
+      "options": [
+        "chloropsia",
+        "chloroma",
+        "hyperosmia",
+        "acusia"
+      ],
+      "explanation": {
+        "en": "chloropsia = chloro- (green) + -opsia (vision). Greek compound noun."
+      }
+    },
+    {
+      "cardId": "card-079",
+      "type": "mcq",
+      "question": {
+        "en": "Which term is a synonym of 'chloropsia'?"
+      },
+      "correctAnswer": "chloropia",
+      "options": [
+        "chloropia",
+        "leptoprosopia",
+        "sialosis",
+        "pyretotherapia"
+      ],
+      "explanation": {
+        "en": "chloropia is the parallel form using -opia instead of -opsia. Same core idea: green vision."
+      }
+    },
+    {
+      "cardId": "card-080",
+      "type": "mcq",
+      "question": {
+        "en": "Which term means 'presence of sugar in the saliva'?"
+      },
+      "correctAnswer": "sialosaccharia",
+      "options": [
+        "sialosaccharia",
+        "sialorrhoea",
+        "sialadenitis",
+        "glycaemia"
+      ],
+      "explanation": {
+        "en": "sialosaccharia = sialo- (saliva) + sacchar- (sugar) + -ia. Greek compound noun, 1st declension in Latinized usage."
+      }
+    },
+    {
+      "cardId": "card-081",
+      "type": "mcq",
+      "question": {
+        "en": "Which masculine 2nd-declension synonym can express sugar in saliva?"
+      },
+      "correctAnswer": "glycosialismus",
+      "options": [
+        "glycosialismus",
+        "sialosaccharia",
+        "chloropsia",
+        "splanchnoptosis"
+      ],
+      "explanation": {
+        "en": "glycosialismus is the masculine 2nd-declension variant built with -ismus. It contrasts nicely with the 1st-declension form sialosaccharia."
+      }
+    },
+    {
+      "cardId": "card-082",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'stridor congenitus' mean?"
+      },
+      "correctAnswer": "congenital stridor",
+      "options": [
+        "Inborn noisy breathing",
+        "traumatic occlusion",
+        "chest inflammation",
+        "soft palate disease"
+      ],
+      "explanation": {
+        "en": "Phrase card. stridor is a masculine noun; congenitus is a 1st/2nd declension adjective agreeing with it."
+      }
+    },
+    {
+      "cardId": "card-083",
+      "type": "mcq",
+      "question": {
+        "en": "What does 'occlusio traumatica' mean?"
+      },
+      "correctAnswer": "traumatic occlusion",
+      "options": [
+        "traumatic occlusion",
+        "congenital closure of the mouth",
+        "surgical fixation",
+        "pulse disorder"
+      ],
+      "explanation": {
+        "en": "Phrase card. occlusio is a 3rd declension feminine noun; traumatica is 1st/2nd declension adjective in feminine nominative singular."
+      }
+    },
+    {
+      "cardId": "card-084",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'cartilages of the nose' in Latin?"
+      },
+      "correctAnswer": "cartilagines nasi",
+      "options": [
+        "cartilagines nasi",
+        "cartilago nasi",
+        "cartilago nasi",
+        "cartilagines nasorum"
+      ],
+      "explanation": {
+        "en": "cartilago, inis f is 3rd declension; nominative plural cartilagines. nasi is genitive singular of nasus."
+      }
+    },
+    {
+      "cardId": "card-085",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'long flexor muscle of the thumb' in Latin?"
+      },
+      "correctAnswer": "musculus flexor pollicis longus",
+      "options": [
+        "musculus flexor pollicis longus",
+        "musculus longus pollex flexor",
+        "flexor musculus pollex longus",
+        "musculus pollicis flexoris longi"
+      ],
+      "explanation": {
+        "en": "Standard anatomical phrase: musculus flexor pollicis longus. musculus is 2nd declension masculine; longus agrees with it."
+      }
+    },
+    {
+      "cardId": "card-086",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'blind foramen of the tongue' in Latin?"
+      },
+      "correctAnswer": "foramen caecum linguae",
+      "options": [
+        "foramen caecum linguae",
+        "foramen linguae caecus",
+        "caecum foramen lingua",
+        "foramen caeci linguae"
+      ],
+      "explanation": {
+        "en": "foramen is 3rd declension neuter; caecum agrees in nominative neuter singular; linguae is genitive singular."
+      }
+    },
+    {
+      "cardId": "card-087",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'left crus of the diaphragm' in Latin?"
+      },
+      "correctAnswer": "crus sinistrum diaphragmatis",
+      "options": [
+        "crus sinistrum diaphragmatis",
+        "crus sinister diaphragmae",
+        "crus sinistri diaphragma",
+        "cruris sinistri diaphragma"
+      ],
+      "explanation": {
+        "en": "crus is 3rd declension neuter; sinistrum agrees in nominative neuter singular; diaphragmatis is genitive singular."
+      }
+    },
+    {
+      "cardId": "card-088",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'base of phalanx of foot' in Latin?"
+      },
+      "correctAnswer": "basis phalangis pedis",
+      "options": [
+        "basis phalangis pedis",
+        "basis phalanx pedis",
+        "basi phalangis pedis",
+        "basis phalangis pes"
+      ],
+      "explanation": {
+        "en": "basis is 3rd declension feminine Greek noun; phalangis and pedis are genitive singular forms."
+      }
+    },
+    {
+      "cardId": "card-089",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'palatine aponeurosis' in Latin?"
+      },
+      "correctAnswer": "aponeurosis palatina",
+      "options": [
+        "aponeurosis palatina",
+        "aponeurosis palatinus",
+        "palatina aponeurosim",
+        "aponeurosis palatine"
+      ],
+     "explanation": {
+        "en": "aponeurosis is a Greek-origin noun adopted into medical Latin, and it remains feminine gender. The adjective palatinus, -a, -um (relating to the palate) must agree with it in gender (feminine), case (nominative), and number (singular), so it takes the feminine form palatina. This is a common pattern in anatomical Latin: many Greek-origin terms like aponeurosis, fascia, and basis keep their original gender, and adjectives must adapt to match. Example: aponeurosis palatina (palatine aponeurosis, fem.) — compare with musculus palatinus (palatine muscle, masc.) to see how the same adjective changes form to match its noun's gender."
+      }
+    },
+    {
+      "cardId": "card-090",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'coronary thrombosis' in Latin?"
+      },
+      "correctAnswer": "thrombosis coronaria",
+      "options": [
+        "thrombosis coronaria",
+        "thrombosis coronarius",
+        "coronaria thrombosis",
+        "thrombus coronarius"
+      ],
+      "explanation": {
+        "en": "thrombosis is treated as feminine; coronaria agrees in feminine nominative singular."
+      }
+    },
+    {
+      "cardId": "card-091",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'circumscribed osteoporosis of the skull' in Latin?"
+      },
+      "correctAnswer": "osteoporosis circumscripta cranii",
+      "options": [
+        "osteoporosis circumscripta cranii",
+        "osteoporosis cranii circumscriptus",
+        "circumscripta osteoporosis cranium",
+        "osteoporosis circumscripta cranium"
+      ],
+    "explanation": {
+    "en": "osteoporosis is a Greek-origin feminine noun. The adjective circumscriptus, -a, -um (circumscribed, limited) must agree with it in gender (feminine), case (nominative), and number (singular), giving circumscripta. The skull is expressed as cranium, -i n. in the genitive singular cranii, meaning 'of the skull' — showing possession or location. Word order in medical Latin places the main noun first, followed by its adjective, then the genitive. The other options fail for specific reasons: 'circumscriptus' is masculine nominative, mismatching the feminine osteoporosis; 'cranium' is nominative, but we need genitive (of the skull) not a second subject; placing 'circumscripta' first breaks standard medical Latin word order and creates ambiguity. Example: osteoporosis circumscripta cranii (circumscribed osteoporosis of the skull) — compare: fractura circumscripta cranii (circumscribed fracture of the skull) where the same pattern repeats with a different feminine noun."
+  }
+    },
+    {
+      "cardId": "card-092",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'transverse temporal grooves/furrows' in Latin?"
+      },
+      "correctAnswer": "sulci temporales transversi",
+      "options": [
+        "sulci temporales transversi",
+        "sulci transversae temporales",
+        "sulcus temporalis transversi",
+        "sulci tempora transversa"
+      ],
+      "explanation": {
+        "en": "sulci is nominative plural masculine; temporales and transversi both agree in plural masculine."
+      }
+    },
+    {
+      "cardId": "card-093",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'permanent teeth' in Latin?"
+      },
+      "correctAnswer": "dentes permanentes",
+      "options": [
+        "dentes permanentes",
+        "dentis permanentes",
+        "dentes permanentesus",
+        "dentes permanenti"
+      ],
+       "explanation": {
+          "en": "dens, dentis m. is a 3rd-declension masculine noun. To say 'teeth' (plural subject), use the nominative plural: dens → dentes. The adjective permanens, permanentis (3rd-declension, two terminations) must agree with dentes in gender (masculine), case (nominative), and number (plural), giving permanentes. So both words share the same -es ending in nominative plural. The other options fail because: 'dentis' is genitive singular (of a tooth), not plural; 'permanentesus' is not a real Latin form; 'permanenti' is dative singular, mismatching in both case and number. Example: dens (one tooth) → dentes (teeth); permanens (permanent, sing.) → permanentes (permanent, pl.)."
+        }
+    },
+    {
+      "cardId": "card-094",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'second tooth' in Latin?"
+      },
+      "correctAnswer": "dens secundus",
+      "options": [
+        "dens secundus",
+        "dens secundum",
+        "dens secundaria",
+        "dentis secundus"
+      ],
+      "explanation": {
+        "en": "dens is masculine singular; secundus agrees with it. Useful synonym card with permanent tooth."
+      }
+    },
+    {
+      "cardId": "card-095",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'opposer muscle of the thumb' in Latin?"
+      },
+      "correctAnswer": "musculus opponens pollicis",
+      "options": [
+        "musculus opponens pollicis",
+        "musculus oppositor pollex",
+        "opponens musculus pollicis",
+        "musculus opponens pollex"
+      ],
+      "explanation": {
+        "en": "opponens is a present participle functioning adjectivally; pollicis is genitive singular of pollex."
+      }
+    },
+    {
+      "cardId": "card-096",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'round ligament of the liver' in Latin?"
+      },
+      "correctAnswer": "ligamentum teres hepatis",
+      "options": [
+        "ligamentum teres hepatis",
+        "ligamentum teretis hepar",
+        "teres ligamentum hepatis",
+        "ligamentum teres heparis"
+      ],
+      "explanation": {
+        "en": "ligamentum is neuter singular; teres is 3rd declension one-termination adjective agreeing with it; hepatis is genitive singular of hepar."
+      }
+    },
+    {
+      "cardId": "card-097",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'quick pulse' in Latin?"
+      },
+      "correctAnswer": "pulsus celer",
+      "options": [
+        "pulsus celer",
+        "pulsus celere",
+        "pulsus celeris",
+        "pulsus celerum"
+      ],
+      "explanation": {
+        "en": "pulsus is masculine 4th declension singular; celer is the masculine nominative singular form."
+      }
+    },
+    {
+      "cardId": "card-098",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'deep cardiac network' in Latin?"
+      },
+      "correctAnswer": "plexus cardiacus profundus",
+      "options": [
+        "plexus cardiacus profundus",
+        "plexus cardiacum profundum",
+        "profundus plexus cardiaci",
+        "plexus profundum cardiacus"
+      ],
+      "explanation": {
+        "en": "plexus is masculine 4th declension singular; cardiacus and profundus both agree in masculine nominative singular."
+      }
+    },
+    {
+      "cardId": "card-099",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'cerebral surface of temporal bone' in Latin?"
+      },
+      "correctAnswer": "facies cerebralis ossis temporalis",
+      "options": [
+        "facies cerebralis ossis temporalis",
+        "facies cerebrale os temporale",
+        "facies cerebralis os temporale",
+        "facies cerebralis ossa temporalis"
+      ],
+      "explanation": {
+        "en": "facies is 5th declension feminine singular; cerebralis agrees. ossis temporalis is the genitive construction 'of temporal bone'."
+      }
+    },
+    {
+      "cardId": "card-100",
+      "type": "mcq",
+      "question": {
+        "en": "How do you say 'distal surface of tooth' in Latin?"
+      },
+      "correctAnswer": "facies distalis dentis",
+      "options": [
+        "facies distalis dentis",
+        "facies distal dentis",
+        "facies distale dentis",
+        "facies distalis dens"
+      ],
+      "explanation": {
+        "en": "facies is feminine singular 5th declension; distalis is a 3rd-declension adjective of two terminations agreeing with it; dentis is genitive singular of dens."
+      }
+    }
+  ]
+}

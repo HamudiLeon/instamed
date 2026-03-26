@@ -1,0 +1,16 @@
+{
+  "topicKey": "medical-latin-greek",
+  "title": {
+    "en": "Medical Latin & Greek — First-Year Medical Exam Mastery"
+  },
+  "description": {
+    "en": "A structured first-year study category for Medical Latin and Greek, designed for systematic exam preparation and precise terminology training. The deck sequence develops the student from foundational lexical recognition to reliable control of declensions, dictionary entries, stem formation, gender patterns, adjective agreement, singular–plural contrasts, and clinically relevant compound terms. The progression is intentional: early decks establish the morphological and lexical base, intermediate decks train form recognition and rule application, and later decks consolidate high-yield exceptions, phrase construction, and exam-oriented discrimination. The category is built to support repetition, accuracy, and durable recall in the context of an early medical curriculum."
+  },
+  "decks": {
+    "med-latin-core-100-01": {
+      "description": {
+        "en": "Foundational core deck for the first stage of Medical Latin and Greek study. Introduces essential anatomical and clinical terminology while training recognition of basic dictionary forms, word meaning, and high-frequency medical roots. This deck establishes the lexical base required for later work in declensions, adjective agreement, and term formation."
+      }
+    }
+  }
+}

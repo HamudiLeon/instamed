@@ -1,0 +1,1653 @@
+{
+  "schemaId": "studywithme-bg.vocab.v2",
+  "bookKey": "la-medical-firstyear-exam",
+  "chapterKey": "ch-01-complete-273",
+  "title": "Medical Latin — First-Year Exam Vocabulary",
+  "items": [
+    {
+      "word": "costa vera",
+      "translation": "true rib",
+      "hint": "true rib",
+      "examCue": "rib anatomy"
+    },
+    {
+      "word": "costae verae",
+      "translation": "true ribs",
+      "hint": "true ribs, the seven upper pairs of ribs whose cartilages articulate directly with the sternum [I-VII]",
+      "examCue": "rib anatomy"
+    },
+    {
+      "word": "costa spuria",
+      "translation": "false rib",
+      "hint": "false rib",
+      "examCue": "rib anatomy"
+    },
+    {
+      "word": "vena cava",
+      "translation": "vena cava",
+      "hint": "largest vein in the body; alt. vena cava",
+      "examCue": "vein"
+    },
+    {
+      "word": "vena saphena",
+      "translation": "saphenous vein",
+      "hint": "saphenous vein",
+      "examCue": "vein"
+    },
+   {
+    "word": "arteria profunda",
+    "translation": "deep artery",
+    "hint": "deep artery",
+    "examCue": "artery"
+  },
+    {
+      "word": "arteria coronaria",
+      "translation": "coronary artery",
+      "hint": "coronary artery",
+      "examCue": "artery"
+    },
+    {
+      "word": "arteria gastrica",
+      "translation": "gastric artery",
+      "hint": "gastric artery",
+      "examCue": "artery"
+    },
+    {
+      "word": "clavicula dextra",
+      "translation": "right clavicle",
+      "hint": "right clavicle",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "clavicula sinistra",
+      "translation": "left clavicle",
+      "hint": "left clavicle",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "ulna dextra",
+      "translation": "right ulna",
+      "hint": "right ulna",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "chorda umbilicalis",
+      "translation": "umbilical chord",
+      "hint": "the attachment connecting the embryo or fetus with the placenta; alt. umbilical chord",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "glandula mammaria",
+      "translation": "mammary gland",
+      "hint": "glandular organ located on the chest; alt. mammary gland",
+      "examCue": "gland"
+    },
+    {
+      "word": "tuba uterina",
+      "translation": "uterine tube",
+      "hint": "uterine tube; alt. fallopian tube",
+      "examCue": "uterus"
+    },
+    {
+      "word": "plica palatina",
+      "translation": "palatine fold",
+      "hint": "palatine fold",
+      "examCue": "palate"
+    },
+    {
+      "word": "uvula palatina",
+      "translation": "uvula of soft palate",
+      "hint": "uvula of soft palate",
+      "examCue": "palate"
+    },
+    {
+      "word": "substantia spongiosa",
+      "translation": "spongy bone",
+      "hint": "spongy bone; alt. spongy substance",
+      "examCue": "bone"
+    },
+    {
+      "word": "substantia adamantina",
+      "translation": "adamantine substance",
+      "hint": "enamel; alt. adamantine substance",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "substantia eburnea",
+      "translation": "dentine",
+      "hint": "dentine",
+      "examCue": "dentition"
+    },
+    {
+      "word": "tunica mucosa",
+      "translation": "mucous membrane",
+      "hint": "mucosa layer",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "tunica serosa",
+      "translation": "serous coat",
+       "hint": "serous coat; alt. serosa",
+      "examCue": "uterus"
+    },
+    {
+      "word": "membrana interossea",
+      "translation": "interosseous membrane",
+      "hint": "interosseous membrane",
+      "examCue": "bone"
+    },
+    {
+      "word": "anaemia perniciosa",
+      "translation": "pernicious anemia",
+      "hint": "pernicious anemia; alt. an inability to absorb vitamin b12",
+      "examCue": "anemia"
+    },
+    {
+      "word": "anaemia posthaemorrhagica",
+      "translation": "posthemorrhagic anemia",
+      "hint": "posthemorrhagic anemia; alt. an acute anemia caused by sudden loss of blood",
+      "examCue": "anemia"
+    },
+    {
+      "word": "fractura aperta",
+      "translation": "open fracture",
+      "hint": "open fracture; alt. fragments of bone protrude through the skin",
+      "examCue": "fracture"
+    },
+    {
+      "word": "corona clinica",
+      "translation": "clinical crown",
+      "hint": "clinical crown; alt. that part of the crown of a tooth that is visible in the oral cavity",
+      "examCue": "dentition"
+    },
+    {
+      "word": "aqua pura",
+      "translation": "pure water",
+      "hint": "pure water",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "capsula amylacea",
+      "translation": "Starch capsule",
+      "hint": "cachet; alt. seal-shaped capsule or wafer made of flour for enclosing powders",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "capsula gelatinosa",
+      "translation": "gelatinous capsule",
+      "hint": "gelatinous capsule",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "cera alba",
+      "translation": "white wax",
+      "hint": "white wax; alt. the purified form in making ointments and to stop bleeding from bones during surgery",
+      "examCue": "bone"
+    },
+    {
+      "word": "Mentha piperita",
+      "translation": "peppermint",
+      "hint": "peppermint",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "glandula linguae",
+      "translation": "lingual gland",
+      "hint": "lingual gland",
+      "examCue": "gland"
+    },
+    {
+      "word": "valvula aortae",
+      "translation": "aortic valve",
+      "hint": "aortic valve",
+      "examCue": "artery"
+    },
+    {
+      "word": "papilla mammae",
+      "translation": "nipple",
+      "hint": "nipple",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "ruptura cystae",
+      "translation": "cystic rupture",
+      "hint": "cystic rupture",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "rhaphe linguae",
+      "translation": "median sulcus of tongue",
+      "hint": "median sulcus of tongue",
+      "examCue": "tongue"
+    },
+    {
+      "word": "lingula mandibulae",
+      "translation": "lingula of mandible",
+      "hint": "a pointed tongue of bone overlapping the mandibular foramen; alt. lingula of mandible",
+      "examCue": "tongue"
+    },
+    {
+      "word": "spina scapulae",
+      "translation": "spine of scapula",
+      "hint": "spine of scapula",
+      "examCue": "bone"
+    },
+    {
+      "word": "dens sapientiae",
+     "translation": "wisdom tooth",
+      "hint": "wisdom tooth; alt. third-year molar tooth",
+      "examCue": "dentition"
+    },
+    {
+      "word": "tinctura Valeriana",
+      "translation": "valerian tincture",
+      "hint": "valerian tincture",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "aqua Rosae",
+      "translation": "rose water",
+      "hint": "rose water",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "placenta praevia",
+      "translation": "Low-lying placenta",
+      "hint": "a condition in which the placenta partially or wholly blocks the neck of the uterus",
+      "examCue": "uterus"
+    },
+    {
+      "word": "insufficientia valvulae",
+      "translation": "valvular insufficiency",
+      "hint": "valvular insufficiency; alt. failure of the cardiac valves to close perfectly",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "carcinoma glandulae thyroideae",
+      "translation": "thyroid gland carcinoma",
+      "hint": "cancer of the thyroid gland",
+      "examCue": "gland"
+    },
+
+    {
+      "word": "struma maligna",
+      "translation": "malignant goiterm /cancer of the thyroid gland",
+      "hint": "cancer of the thyroid gland",
+      "examCue": "gland"
+    },
+    {
+      "word": "musculus rectus",
+      "translation": "straight muscle",
+      "hint": "straight muscle; alt. members of a group of muscles that proceed either in amore direct or more nearly vertical or horizontal direction",
+      "examCue": "muscle"
+    },
+    {
+      "word": "Nervus opticus",
+      "translation": "optical nerve",
+      "hint": "second cranial nerve (CN II)",
+      "examCue": "nerve"
+    },
+    {
+      "word": "Nervus vagus",
+      "translation": "tenth cranial nerve",
+      "hint": "tenth cranial nerve; alt. vagus nerve  (CN X)",
+      "examCue": "nerve"
+    },
+    {
+      "word": "nodus lymphaticus",
+      "translation": "lymph node",
+      "hint": "lymph node",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "ventriculus dexter",
+      "translation": "right ventricle",
+      "hint": "right ventricle",
+      "examCue": "heart"
+    },
+    {
+      "word": "ventriculus sinister",
+      "translation": "left ventricle",
+      "hint": "left ventricle",
+      "examCue": "heart"
+    },
+    {
+      "word": "morbus acutus",
+      "translation": "acute disease",
+      "hint": "acute disease",
+      "examCue": "disease"
+    },
+    {
+      "word": "morbus chronicus",
+      "translation": "chronic disease",
+      "hint": "chronic disease",
+      "examCue": "disease"
+    },
+    {
+      "word": "morbus epidemicus",
+      "translation": "epidemic disease",
+      "hint": "epidemic disease",
+      "examCue": "disease"
+    },
+    {
+      "word": "morbus contagiosus",
+      "translation": "contagious disease ",
+      "hint": "contagious disease; alt. spreads by direct or indirect contact of people",
+      "examCue": "disease"
+    },
+    {
+      "word": "morbi infectiosi",
+      "translation": "infectious diseases",
+      "hint": "infectious diseases",
+      "examCue": "disease"
+    },
+    {
+      "word": "dens incisivus",
+      "translation": "incisor tooth",
+      "hint": "incisor tooth; alt. canine tooth",
+      "examCue": "dentition"
+    },
+    {
+      "word": "dens lacteus",
+      "translation": "milk tooth",
+      "hint": "milk tooth",
+      "examCue": "dentition"
+    },
+    {
+      "word": "dens deciduus",
+      "translation": "a tooth of the first set of teeth comprising 20 in all",
+      "hint": "a tooth of the first set of teeth comprising 20 in all",
+      "examCue": "dentition"
+    },
+    {
+      "word": "dens serotinus / dens sapientiae",
+      "translation": "wisdom tooth",
+      "hint": "wisdom tooth; alt. third molar / third molar / the eight permanent tooth in the maxilla or mandible",
+      "examCue": "dentition"
+    },
+    {
+      "word": "syrupus compositus",
+      "translation": "compound syrup",
+      "hint": "compound syrup; alt. containing several ingredients",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "atrophia musculorum",
+      "translation": "atrophy of muscles",
+      "hint": "atrophy of muscles; alt. decrease in size and number of muscle fibers",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "folliculus pili",
+      "translation": "hair follicle",
+      "hint": "hair follicle",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "fundus oculi",
+       "translation": "fundus of the eye",
+      "hint": "eyeground; fundus of the eye;",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "bulbus oculi",
+      "translation": "bulb of an eye / the ball of an eye",
+      "hint": "bulb of an eye; alt. the ball of an eye",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "morbi linguae",
+      "translation": "diseases of the tongue",
+      "hint": "diseases of the tongue",
+      "examCue": "disease"
+    },
+    {
+      "word": "morbi glandularum",
+      "translation": "diseases of glands",
+      "hint": "diseases of glands",
+      "examCue": "disease"
+    },
+    {
+      "word": "isthmus uteri",
+      "translation": "isthmus of uterus",
+      "hint": "isthmus of uterus; alt. an elongated construction of the body of the uterus just above the cervix",
+      "examCue": "uterus"
+    },
+    {
+      "word": "ramus mandibulae",
+      "translation": "ramus of mandible",
+      "hint": "ramus of mandible",
+      "examCue": "bone"
+    },
+    {
+      "word": "ileus mechanicus",
+      "translation": "mechanical ileus",
+      "hint": "mechanical ileus; alt. physical obstruction of the bowel due to some mechanical cause",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "trismus neonatorum",
+      "translation": "stiffness of the jaw muscles in neonates",
+      "hint": "stiffness of the jaw muscles in neonates",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "asphyxia neonatorum",
+      "translation": "asphyxia occurring in newborn",
+      "hint": "asphyxia occurring in newborn",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "ligamentum latum",
+      "translation": "broad ligament (of uterus)",
+      "hint": "broad ligament (of uterus)",
+      "examCue": "ligament"
+    },
+    {
+      "word": "ligamentum rotundum",
+      "translation": "round ligament (of elbow joint / femur / liver / uterus)",
+      "hint": "round ligament (of elbow joint; alt. femur",
+      "examCue": "ligament"
+    },
+    {
+      "word": "palatum durum",
+      "translation": "hard palate",
+      "hint": "hard palate",
+      "examCue": "palate"
+    },
+    {
+      "word": "velum palatinum",
+      "translation": "soft palate",
+      "hint": "soft palate",
+      "examCue": "palate"
+    },
+    {
+      "word": "stratum corneum",
+       "translation": "horny layer of the epidermis",
+      "hint": "horny layer of the epidermis",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "stratum fibrosum",
+      "translation": "fibrous layer",
+      "hint": "fibrous layer, the fibrous capsule of an organ",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "unguentum ophthalmicum",
+      "translation": "ophthalmic ointment, eye ointment",
+      "hint": "ophthalmic ointment, eye ointment",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "acidum lacticum",
+      "translation": "lactic acid",
+      "hint": "lactic acid",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "(remedia) analgetica",
+      "translation": "analgesics / painkillers",
+      "hint": "analgesics; alt. painkillers",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "(remedia) antiemetica",
+      "translation": "remedies which prevent nausea and vomiting",
+      "hint": "remedies which prevent nausea and vomiting",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "sedativa",
+      "translation": "sedatives",
+      "hint": "drugs or other substances that exert a soothing effect; alt. sedatives",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "(remedia) ptarmica",
+      "translation": "chemical substances that provoke sneezing",
+      "hint": "chemical substances that provoke sneezing",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "(remedia) antimycotica",
+      "translation": "agents that destroy or prevent the growth of fungi",
+      "hint": "agents that destroy or prevent the growth of fungi",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "cavum nasi",
+      "translation": "nasal cavity",
+      "hint": "the cavity on either side of the nasal septum; alt. nasal cavity",
+      "examCue": "cavity"
+    },
+    {
+      "word": "vestibulum vaginae",
+      "translation": "vestibule of vagina",
+      "hint": "vestibule of vagina",
+      "examCue": "cavity"
+    },
+    {
+      "word": "dorsum linguae",
+      "translation": "the back of a tongue",
+      "hint": "the back of a tongue",
+      "examCue": "tongue"
+    },
+    {
+      "word": "haemorrhagia cerebri",
+      "translation": "cerebral hemorrhage",
+      "hint": "cerebral hemorrhage",
+      "examCue": "hemorrhage"
+    },
+    {
+      "word": "musculi colli",
+      "translation": "muscles of neck",
+      "hint": "muscles of neck",
+      "examCue": "muscle"
+    },
+    {
+      "word": "musculi dorsi",
+      "translation": "muscles of back",
+      "hint": "muscles of back",
+      "examCue": "muscle"
+    },
+    {
+      "word": "ligamentum latum uteri",
+      "translation": "broad ligament of the uterus",
+      "hint": "broad ligament of the uterus",
+      "examCue": "ligament"
+    },
+    {
+      "word": "adnexa uteri",
+      "translation": "appendages of the uterine",
+      "hint": "appendages of the uterus; alt. uterine adnexa. The accessory structures to the uterus",
+      "examCue": "uterus"
+    },
+    {
+      "word": "raphe palati",
+      "translation": "palatine raphe",
+      "hint": "palatine raphe",
+      "examCue": "palate"
+    },
+    {
+      "word": "suturae cranii",
+      "translation": "the structures between the bones of the skull",
+      "hint": "the structures between the bones of the skull",
+      "examCue": "bone"
+    },
+    {
+      "word": "commissura labiorum",
+      "translation": "commissure of lips",
+      "hint": "commissure of lips",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "musculus transversus menti",
+      "translation": "transverse muscles of chin",
+      "hint": "transverse muscles of chin",
+      "examCue": "muscle"
+    },
+    {
+      "word": "oleum Olivarum",
+      "translation": "olive oil",
+      "hint": "olive oil",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "oleum Helianthi",
+      "translation": "sunflower seed oil",
+      "hint": "sunflower seed oil",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "arteria ophthalmica",
+      "translation": "ophthalmic artery",
+      "hint": "ophthalmic artery",
+      "examCue": "artery"
+    },
+    {
+      "word": "arteria gastrica dextra",
+      "translation": "right gastric artery",
+      "hint": "right gastric artery",
+      "examCue": "artery"
+    },
+    {
+      "word": "tunica externa",
+      "translation": "the outer of two or more enveloping layers of any structures",
+      "hint": "the outer of two or more enveloping layers of any structures",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "vesica fellea",
+      "translation": "gallbladder",
+      "hint": "gallbladder",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "vesica urinaria",
+      "translation": "urinary bladder",
+      "hint": "urinary bladder",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "linea obliqua",
+      "translation": "oblique line",
+      "hint": "oblique line",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "linea arcuata",
+      "translation": "arcuate line",
+      "hint": "arcuate line",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "sutura serrata",
+      "translation": "serrate suture",
+      "hint": "serrate suture",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "sutura incisiva",
+      "translation": "incisive suture",
+      "hint": "incisive suture",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "substantia compacta",
+      "translation": "compact substance",
+      "hint": "compact substance",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "glandula mammaria",
+      "translation": "mammary gland",
+      "hint": "mammary gland",
+      "examCue": "gland"
+    },
+    {
+      "word": "glandulae olfactoriae",
+      "translation": "olfactory glands",
+      "hint": "olfactory glands",
+      "examCue": "gland"
+    },
+    {
+      "word": "sulcus olfactorius",
+      "translation": "olfactory sulcus / groove",
+      "hint": "olfactory sulcus; alt. groove",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "vertebrae thoracicae",
+      "translation": "thoracic vertebrae",
+      "hint": "thoracic vertebrae",
+      "examCue": "bone"
+    },
+    {
+      "word": "nervus hypoglossus",
+      "translation": "hypoglossal nerve",
+      "hint": "hypoglossal nerve",
+      "examCue": "nerve"
+    },
+    {
+      "word": "Nervus trigeminus",
+      "translation": "Trigeminal nerve",
+      "hint": "fifth cranial nerve  (CN V)",
+      "examCue": "nerve"
+    },
+    {
+      "word": "fundus gastricus",
+      "translation": "fundus of stomach",
+      "hint": "fundus of stomach",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "calculus urinarius",
+      "translation": "urinary calculus",
+      "hint": "urinary calculus; alt. stone in the kidney, ureter, bladder or urethra",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "musculus risorius",
+      "translation": "facial muscle of mouth / risorius muscle",
+      "hint": "facial muscle of mouth; alt. risorius muscle",
+      "examCue": "muscle"
+    },
+    {
+      "word": "charta cerata",
+      "translation": "waxed paper",
+      "hint": "waxed paper",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "aqua purificata",
+      "translation": "purified water",
+      "hint": "purified water",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "paraffinum solidum",
+      "translation": "hard paraffin",
+      "hint": "hard paraffin",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "tumor adiposus",
+      "translation": "adipose tumor",
+      "hint": "adipose tumor; alt. a benign neoplasm of adipose tissue",
+      "examCue": "tumor"
+    },
+    {
+      "word": "tumor homologus",
+      "translation": "homologous tumor",
+      "hint": "homologous tumor; alt. a tumor composed of tissue of the same sort as that from which it springs",
+      "examCue": "tumor"
+    },
+    {
+      "word": "tumor heterologus",
+      "translation": "heterologous tumor",
+      "hint": "heterologous tumor; alt. composed of a tissue unlike that from which it springs",
+      "examCue": "tumor"
+    },
+    {
+      "word": "margo interosseus",
+      "translation": "interosseous margin",
+      "hint": "interosseous margin",
+      "examCue": "bone"
+    },
+    {
+      "word": "dentitio primaria",
+      "translation": "primary dentition",
+      "hint": "primary dentition",
+      "examCue": "dentition"
+    },
+    {
+      "word": "dentitio secundaria",
+      "translation": "secondary dentition",
+      "hint": "secondary dentition",
+      "examCue": "dentition"
+    },
+    {
+      "word": "radix accessoria",
+      "translation": "accessory root of tooth",
+      "hint": "accessory root of tooth",
+      "examCue": "dentition"
+    },
+    {
+      "word": "corpus adiposum",
+      "translation": "fat body",
+      "hint": "fat body",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "foramen rotundum",
+      "translation": "round foramen",
+      "hint": "round foramen",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "systema alimentarium",
+      "translation": "digestive system",
+      "hint": "digestive system",
+      "examCue": "system"
+    },
+    {
+      "word": "systema lymphaticum",
+      "translation": "lymphatic system",
+      "hint": "lymphatic system",
+      "examCue": "system"
+    },
+    {
+      "word": "systema nervosum",
+      "translation": "nervous system",
+      "hint": "nervous system",
+      "examCue": "system"
+    },
+    {
+      "word": "systema respiratorium",
+      "translation": "respiratory system",
+      "hint": "respiratory system",
+      "examCue": "system"
+    },
+    {
+      "word": "Papaver somniferum",
+      "translation": "sleep-bringing poppy",
+      "hint": "sleep-bringing poppy",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "capsula cordis",
+      "translation": "heart sac",
+      "hint": "heart sac/ the fibroserous membrane covering the heart",
+      "examCue": "heart"
+    },
+    {
+      "word": "atrium cordis dextrum",
+       "translation": "right atrium of the heart",
+      "hint": "the atrium of the right side of the heart",
+      "examCue": "heart"
+    },
+    {
+      "word": "alveoli pulmonis",
+      "translation": "pulmonary alveoli / air sacs",
+      "hint": "pulmonary alveoli; alt. air sacs",
+      "examCue": "lung"
+    },
+    {
+      "word": "cervix uteri",
+      "translation": "cervix of uterus / neck of uterus",
+      "hint": "cervix of uterus; alt. neck of uterus",
+      "examCue": "uterus"
+    },
+    {
+      "word": "cavitas nasi",
+      "translation": "nasal cavity",
+      "hint": "nasal cavity",
+      "examCue": "cavity"
+    },
+    {
+      "word": "cavitas thoracis",
+      "translation": "thoracic cavity",
+      "hint": "thoracic cavity; alt. the space within the thoracic walls, bounded below the diaphragm and above by the neck",
+      "examCue": "cavity"
+    },
+    {
+      "word": "radix linguae",
+      "translation": "root of tongue",
+      "hint": "root of tongue",
+      "examCue": "tongue"
+    },
+    {
+      "word": "musculi abdominis",
+      "translation": "muscles of abdomen",
+      "hint": "muscles of abdomen",
+      "examCue": "muscle"
+    },
+    {
+      "word": "corpus maxillae",
+      "translation": "body of maxilla",
+      "hint": "body of maxilla",
+      "examCue": "bone"
+    },
+    {
+      "word": "dolor capitis",
+      "translation": "headache",
+      "hint": "headache",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "digitus pedis",
+      "translation": "toe",
+      "hint": "toe",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "vestibulum oris",
+      "translation": "vestibule of mouth",
+      "hint": "vestibule of mouth",
+      "examCue": "cavity"
+    },
+    {
+      "word": "cavitas oris propria",
+      "translation": "oral cavity proper",
+      "hint": "oral cavity proper; alt. the space between the dental arches, limited by the isthmus of the fauces",
+      "examCue": "dentition"
+    },
+    {
+      "word": "crisis myasthenia",
+      "translation": "myasthenic crisis /",
+      "hint": "myasthenic crisis ",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "thrombosis coronaria",
+      "translation": "coronary thrombosis",
+      "hint": "coronary thrombosis; alt. a blood clot in a coronary artery",
+      "examCue": "thrombosis"
+    },
+    {
+      "word": "dosis curativa",
+      "translation": "therapeutic dose",
+      "hint": "therapeutic dose; alt. the quantity of any substance required to heal an illness or disease",
+      "examCue": "disease"
+    },
+    {
+      "word": "dosis maxima",
+      "translation": "maximum dose",
+      "hint": "maximum dose",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "basis cranii interna",
+      "translation": "internal surface of cranial base",
+      "hint": "internal surface of cranial base",
+      "examCue": "bone"
+    },
+    {
+      "word": "basis pulmonis",
+      "translation": "base of lung",
+      "hint": "base of lung",
+      "examCue": "lung"
+    },
+    {
+      "word": "rete ovarii",
+      "translation": "a transient network of cells in the developing ovary",
+      "hint": "a transient network of cells in the developing ovary",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "auris externa",
+      "translation": "external ear",
+      "hint": "external ear",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "auris interna",
+      "translation": "internal ear",
+      "hint": "internal ear",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "auris media",
+      "translation": "middle ear",
+      "hint": "middle ear",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "axis opticus",
+      "translation": "optic axis",
+      "hint": "optic axis",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "pars cavernosa",
+      "translation": "cavernous part",
+      "hint": "cavernous part , referred to as the cavernous part or cavernous portion of the male urethra",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "dens caninus",
+      "translation": "canine tooth / cuspid tooth",
+      "hint": "canine tooth; alt. cuspid tooth",
+      "examCue": "dentition"
+    },
+    {
+      "word": "radix clinica",
+      "translation": "clinical root of tooth",
+      "hint": "clinical root of tooth",
+      "examCue": "dentition"
+    },
+    {
+      "word": "commotio cerebri",
+      "translation": "concussion / cerebral concussion",
+      "hint": "traumatic brain injury, a clinical syndrome due to mechanical, usually traumatic injury",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "dolor capitis",
+      "translation": "headache",
+      "hint": "headache",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "caput radii",
+      "translation": "head of the radius",
+      "hint": "head of the radius",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "rima oris",
+      "translation": "oral fissure",
+      "hint": "oral fissure; alt. the aperture of the mouth",
+      "examCue": "cavity"
+    },
+    {
+      "word": "syrupus Papaveris",
+      "translation": "syrup of Poppy",
+      "hint": "syrup of Poppy",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "infectio pyogenica",
+      "translation": "pyogenic infection",
+      "hint": "pyogenic infection; alt. usually with pus formation",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "inflamatio purulenta",
+      "translation": "purulent inflammation",
+      "hint": "purulent inflammation; alt. a form of infection in which pus is formed",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "contractio uteri",
+      "translation": "uterine contraction",
+      "hint": "uterine contraction; alt. rhythmic activity of the myometrium associated with menstruation",
+      "examCue": "uterus"
+    },
+    {
+      "word": "crisis myasthenica",
+     "translation": "myasthenic crisis",
+     "hint": "myasthenic crisis; alt. severe life-threating exacerbation of the manifestations of myasthenic gravis",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "diathesis cystica",
+      "translation": "cystic diathesis",
+      "hint": "cystic diathesis; alt. a condition in which multiple cysts form in the liver",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "thrombosis coronaria",
+      "translation": "coronary thrombosisy",
+      "hint": "coronary thrombosis; alt. a blood clot in the coronary artery",
+      "examCue": "thrombosis"
+    },
+    {
+      "word": "rete arteriosum",
+      "translation": "arterial plexus",
+      "hint": "arterial plexus",
+      "examCue": "artery"
+    },
+    {
+      "word": "dosis curativa",
+      "translation": "curative dose",
+      "hint": "curative dose; alt. the quantity of any substance required to heal an illness or disease",
+      "examCue": "disease"
+    },
+    {
+      "word": "os longum",
+      "translation": "long bone",
+      "hint": "long bone",
+      "examCue": "bone"
+    },
+    {
+      "word": "os breve",
+      "translation": "short bone",
+      "hint": "short bone",
+      "examCue": "bone"
+    },
+    {
+      "word": "os sesamoideum",
+      "translation": "sesamoid bone",
+      "hint": "sesamoid bone; alt. a bone formed after birth in the tendon where it passes over a joint",
+      "examCue": "bone"
+    },
+    {
+      "word": "ossa sesamoidea",
+      "translation": "sesamoid bones",
+      "hint": "sesamoid bones",
+      "examCue": "bone"
+    },
+    {
+      "word": "os palatinum",
+      "translation": "palatine bone",
+      "hint": "palatine bone",
+      "examCue": "palate"
+    },
+    {
+      "word": "os zygomaticum",
+      "translation": "zygomatic bone",
+      "hint": "zygomatic bone",
+      "examCue": "bone"
+    },
+    {
+      "word": "os lacrimale",
+      "translation": "lacrimal bone",
+      "hint": "lacrimal bone",
+      "examCue": "cavity"
+    },
+    {
+      "word": "os pisiforme",
+      "translation": "pisiform bone",
+      "hint": "pisiform bone, a small wrist bone resembling a pea in size and shape that articulates only with the triquetral",
+      "examCue": "bone"
+    },
+    {
+      "word": "os coccygis",
+      "translation": "coccygeal bone / tail bone",
+      "hint": "coccygeal bone; alt. tail bone",
+      "examCue": "bone"
+    },
+    {
+      "word": "ossa cranii",
+      "translation": "bones of skull",
+      "hint": "bones of skull",
+      "examCue": "bone"
+    },
+    {
+      "word": "ossa digitorum",
+      "translation": "bones of digits",
+      "hint": "bones of digits",
+      "examCue": "bone"
+    },
+    {
+      "word": "ossa pedis",
+      "translation": "bones of foot",
+      "hint": "bones of foot",
+      "examCue": "bone"
+    },
+    {
+      "word": "area apicalis",
+      "translation": "the area about the root end of a tooth",
+      "hint": "the area about the root end of a tooth",
+      "examCue": "dentition"
+    },
+    {
+      "word": "arteria maxillaris",
+      "translation": "maxillary artery",
+      "hint": "maxillary artery",
+      "examCue": "artery"
+    },
+    {
+      "word": "aorta ascendens",
+      "translation": "ascending aorta",
+      "hint": "ascending aorta",
+      "examCue": "artery"
+    },
+    {
+      "word": "colon ascendens",
+      "translation": "ascending colon",
+      "hint": "ascending colon; alt. the portion of the colon between the ileocecal orifice and the right colic flexure",
+      "examCue": "dentition"
+    },
+    {
+      "word": "chorda umbilicalis",
+      "translation": "umbilical chord",
+      "hint": "umbilical chord",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "plica sublingualis",
+      "translation": "sublingual folds",
+      "hint": "sublingual folds; alt. created by the sublingual gland; extend horizontally to right and left of lingual frenum where it attaches to the flo",
+      "examCue": "gland"
+    },
+    {
+      "word": "vertebrae sacrales",
+      "translation": "sacral vertebrae",
+      "hint": "sacral vertebrae (S1-S5)",
+      "examCue": "bone"
+    },
+    {
+      "word": "ramus ascendens",
+       "translation": "ascending branch",
+      "hint": "ascendi8ng branch; alt. a branch directed superiorly",
+      "examCue": "dentition"
+    },
+    {
+      "word": "nervus articularis",
+      "translation": "articular nerve",
+      "hint": "articular nerve",
+      "examCue": "nerve"
+    },
+    {
+      "word": "nervus buccalis",
+      "translation": "buccal nerve",
+      "hint": "long buccal nerve",
+      "examCue": "nerve"
+    },
+    {
+      "word": "ramus communicans",
+      "translation": "communicating branch",
+      "hint": "used in the nervous system: a bundle of nerve fibers passing from one named nerve to join another; alt. communicating branch",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "musculus biceps",
+      "translation": "biceps (muscle)",
+      "hint": "biceps (muscle)",
+      "examCue": "muscle"
+    },
+    {
+      "word": "nervi spinales",
+      "translation": "spinal nerves",
+      "hint": "spinal nerves",
+      "examCue": "nerve"
+    },
+    {
+      "word": "musculi faciales",
+      "translation": "muscles of facial expression",
+      "hint": "muscles of facial expression",
+      "examCue": "muscle"
+    },
+    {
+      "word": "ligamentum teres",
+      "translation": "round ligament (of femur, of liver, of uterus)",
+      "hint": "round ligament (of femur, of liver, of uterus)",
+      "examCue": "ligament"
+    },
+    {
+      "word": "cranium cerebrale",
+      "translation": "cerebral cranium",
+      "hint": "cerebral cranium",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "intestinum tenue",
+      "translation": "small intestine",
+      "hint": "small intestine",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "palatum molle",
+      "translation": "soft palate",
+      "hint": "soft palate",
+      "examCue": "palate"
+    },
+    {
+      "word": "ligamenta longitudinalia",
+      "translation": "longitudinal ligaments",
+      "hint": "longitudinal ligaments; alt. the wide fibrous bands running along the front of the entire vertebral column",
+      "examCue": "ligament"
+    },
+    {
+      "word": "organa genitalia",
+      "translation": "genital organs / the organs of the reproduction",
+      "hint": "genital organs; alt. the organs of the reproduction",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "foramen vertebrale",
+      "translation": "vertebral foramen",
+      "hint": "vertebral foramen; alt. the large foramen between the neural arch and the body of the vertebra that contains the spinal cord",
+      "examCue": "bone"
+    },
+    {
+      "word": "crisis febrilis",
+      "translation": "febrile crisis",
+      "hint": "febrile crisis; alt. the stage in a febrile disease when spontaneous decrease in a fever occurs",
+      "examCue": "disease"
+    },
+    {
+      "word": "dosis letalis",
+      "translation": "lethal dose",
+      "hint": "lethal dose",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "pulvis subtilis",
+      "translation": "fine powder",
+      "hint": "fine powder",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "syrupus simplex",
+      "translation": "simple syrup ",
+      "hint": "simple syrup; alt. syrupus albus/ syrupus albus / syrupus sacchari",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "nervus dorsalis scapulae",
+      "translation": "dorsal nerve of scapula",
+      "hint": "dorsal nerve of scapula",
+      "examCue": "nerve"
+    },
+    {
+      "word": "ramus colli nervi facialis",
+      "translation": "cervical branch of facial nerve",
+      "hint": "cervical branch of facial nerve",
+      "examCue": "nerve"
+    },
+    {
+      "word": "musculus biceps brachii",
+      "translation": "Biceps muscle",
+      "hint": "the muscle of the upper arm that flexes the elbow and supinates the forearm",
+      "examCue": "muscle"
+    },
+    {
+      "word": "musculus orbicularis oculi",
+      "translation": "circular muscle of the eye",
+      "hint": "circular muscle of the eye",
+      "examCue": "muscle"
+    },
+    {
+      "word": "musculus orbicularis oris",
+      "translation": "orbicular muscle of mouth",
+      "hint": "orbicular muscle of mouth",
+      "examCue": "muscle"
+    },
+    {
+      "word": "musculi interossei dorsales pedis",
+      "translation": "dorsal interosseous muscles of foot",
+      "hint": "dorsal interosseous muscles of foot",
+      "examCue": "muscle"
+    },
+    {
+      "word": "sulcus arteriae occipitalis",
+      "translation": "occipital groove",
+      "hint": "occipital groove; alt. a narrow grove of the temporal bone that lodges the occipital artery",
+      "examCue": "artery"
+    },
+    {
+      "word": "basis ossis metacarpalis",
+      "translation": "base of metacarpal",
+      "hint": "base of metacarpal",
+      "examCue": "bone"
+    },
+    {
+      "word": "alopecia totalis",
+     "translation": "total hair loss",
+       "hint": "total hair loss; alt. alopecia totalis",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "fractura multiplex",
+      "translation": "multiple fracture",
+      "hint": "1. fracture of two or more places in a bone; alt. 2. fracture of several bones occurring simultaneously",
+      "examCue": "fracture"
+    },
+    {
+      "word": "sclerosis multiplex",
+      "translation": "multiple sclerosis",
+      "hint": "multiple sclerosis; alt. destruction of the myelin within several regions of the brain and spinal cord at different time",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "herpes simplex",
+      "translation": "herpes simplex",
+      "hint": "herpes simplex",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "ulcus perforans",
+      "translation": "perforated ulcus",
+      "hint": "perforating; alt. perforated ulcus",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "insufficientia renalis",
+      "translation": "kidney insufficiency",
+      "hint": "kidney insufficiency",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "vertigo verticalis",
+      "translation": "vertical vertigo",
+      "hint": "vertical vertigo; alt. produced by standing or looking up and down",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "icterus gravis",
+      "translation": "jaundice associated with high fever and delirium",
+      "hint": "jaundice associated with high fever and delirium",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "febris intermittens",
+      "translation": "intermittent fever",
+      "hint": "intermittent fever; alt. a disease with fever which recurs at certain intervals, symptoms disappear completely between paroxysms",
+      "examCue": "disease"
+    },
+    {
+      "word": "febris puerperalis",
+      "translation": "puerperal fever / septicemia following child birth",
+      "hint": "puerperal fever; alt. septicemia following child birth",
+      "examCue": "fever"
+    },
+    {
+      "word": "apparatus lacrimalis",
+      "translation": "lacrimal apparatus",
+      "hint": "lacrimal apparatus",
+      "examCue": "cavity"
+    },
+    {
+      "word": "apparatus digestorius",
+      "translation": "digestive system",
+      "hint": "digestive system",
+      "examCue": "system"
+    },
+    {
+      "word": "apparatus dentalis",
+      "translation": "masticatory system",
+      "hint": "masticatory system",
+      "examCue": "dentition"
+    },
+    {
+      "word": "processus alveolaris",
+      "translation": "alveolar process",
+      "hint": "alveolar process; alt. of the ridge on the surfaces of the upper and lower jaws containing the tooth socket",
+      "examCue": "dentition"
+    },
+    {
+      "word": "arcus dentalis",
+      "translation": "dental arch",
+      "hint": "dental arch; alt. the arch formed by the alveolar process and teeth in each jaw",
+      "examCue": "dentition"
+    },
+    {
+      "word": "arcus palatoglossus",
+      "translation": "glossopalatine arch",
+      "hint": "glossopalatine arch",
+      "examCue": "palate"
+    },
+    {
+      "word": "ductus biliaris",
+      "translation": "bile duct",
+      "hint": "bile duct",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "ductus lactiferi",
+      "translation": "lactiferous ducts",
+      "hint": "lactiferous ducts",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "glandulae salivariae",
+     "translation": "salivary glands",
+      "hint": "1st declension feminine plural (Nominative). Are the exocrine organs (parotid, submandibular, sublingual) ",
+      "examCue": "gland"
+    },
+    {
+      "word": "sinus maxillaris",
+      "translation": "maxillary sinus",
+      "hint": "maxillary sinus; alt. a cavity in the maxillary bone communicating with the middle meatus of the nasal cavity",
+      "examCue": "bone"
+    },
+    {
+      "word": "plexus facialis",
+      "translation": "facial plexus",
+      "hint": "facial plexus; alt. autonomic plexus of the facial artery which sends a branch to the submandibular ganglion",
+      "examCue": "bone"
+    },
+    {
+      "word": "meatus acusticus externus",
+      "translation": "external auditory meatus",
+      "hint": "external auditory meatus",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "status asthmaticus",
+      "translation": "a condition of severe, prolonged asthma",
+      "hint": "a condition of severe, prolonged asthma",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "status praesens",
+       "translation": "present condition",
+      "hint": "the part of the history of a case describing the condition of the patient at initial observation",
+      "examCue": "rib anatomy"
+    },
+    {
+      "word": "processus coracoideus",
+      "translation": "coracoid process",
+      "hint": "coracoid process; alt. from the neck of the scapula",
+      "examCue": "bone"
+    },
+    {
+      "word": "pulsus durus",
+      "translation": "hard pulse",
+      "hint": "hard pulse; alt. a pulse that strikes forcibly against the tip of the finger and is with difficulty compressed suggesting hypertension",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "habitus gracilis",
+      "translation": "small stature / frail underweight appearance",
+      "hint": "small stature; alt. frail underweight appearance",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "genu valgum",
+      "translation": "Knock-knee",
+      "hint": "Knock-knee, a deformity in which the legs are curved inward at the knee",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "genu varum",
+      "translation": "bow-legged (knee bowed out)",
+      "hint": "bow-legged (knee bowed out)",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "ictus cordis",
+      "translation": "heart beat",
+      "hint": "heart beat",
+      "examCue": "heart"
+    },
+    {
+      "word": "descensus uteri",
+      "translation": "prolapse of the uterus",
+      "hint": "prolapse of the uterus",
+      "examCue": "uterus"
+    },
+    {
+      "word": "descensus ventriculi",
+      "translation": "downward displacement of the stomach",
+      "hint": "downward displacement of the stomach",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "digitus manus",
+      "translation": "finger of the hand",
+      "hint": "finger of the hand",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "organa sensuum",
+      "translation": "sense organs",
+      "hint": "sense organs",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "organum olfactus",
+      "translation": "organ of smell",
+      "hint": "organ of smell",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "infarctus hemorrhagicus",
+      "translation": "hemorrhagic infarct",
+      "hint": "hemorrhagic infarct",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "infarctus myocardii",
+        "translation": "myocardial infarction / heart attack",
+      "hint": "heart attack / the loss of living heart muscle as a result of occlusion of a coronary artery",
+      "examCue": "Clinical"
+    },
+    {
+      "word": "pruritus gravidarum",
+      "translation": "intense itching occurring during pregnancy",
+      "hint": "intense itching occurring during pregnancy",
+      "examCue": "itching"
+    },
+    {
+      "word": "pruritus senilis",
+      "translation": "senile pruritus",
+      "hint": "senile pruritus",
+      "examCue": "itching"
+    },
+    {
+      "word": "facies costalis",
+      "translation": "costal surface",
+      "hint": "costal surface; alt. the surface of certain structures that face the ribs",
+      "examCue": "rib anatomy"
+    },
+    {
+      "word": "facies lateralis",
+      "translation": "lateral surface",
+      "hint": "lateral surface; alt. the surface of a part of the body that faces away from the midline",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "facies posterior",
+      "translation": "posterior surface ",
+      "hint": "posterior surface; alt. the surface of the part of the body that faces toward the posterior part of the body",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "facies articularis",
+      "translation": "articular surface",
+      "hint": "articular surface",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "facies dolorosa",
+      "translation": "Painful facial expression",
+      "hint": "facial expression of an unhappy person or one sick or in pain",
+      "examCue": "anatomy"
+    },
+    {
+      "word": "facies hippocratica",
+      "translation": "Hippocratic face. ",
+      "hint": "the facial expression classically described in those dying from long-continued illness",
+      "examCue": "rib anatomy"
+    },
+    {
+      "word": "canities unguium",
+      "translation": "gray or white patches, streaks or spots in the nails",
+      "hint": "gray or white patches, streaks or spots in the nails",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "mollities ossium",
+      "translation": "softness of bones",
+      "hint": "softness of bones",
+      "examCue": "bone"
+    },
+    {
+      "word": "caries dentis",
+      "translation": "dental caries",
+      "hint": "dental caries",
+      "examCue": "caries"
+    },
+    {
+      "word": "rabies paralytica",
+      "translation": "paralytic rabies / dumb rabies",
+      "hint": "paralytic rabies; alt. dumb rabies",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "nigrities linguae",
+      "translation": "black pigmentation of the dorsum of the tongue / black tongue",
+      "hint": "black pigmentation of the dorsum of the tongue; alt. black tongue",
+      "examCue": "tongue"
+    },
+    {
+      "word": "canities circumscripta",
+      "translation": "piebald eyelash/ circumscribed graying",
+      "hint": "circumscribed graying; alt. localized whitening of the hair",
+      "examCue": "medical latin"
+    },
+    {
+      "word": "caries incipiens",
+      "translation": "beginning caries or decay",
+      "hint": "beginning caries or decay",
+      "examCue": "caries"
+    },
+    {
+      "word": "caries primaria",
+      "translation": "primary caries",
+      "hint": "primary caries; alt. initial lesions produced by direct extension from an external surface",
+      "examCue": "caries"
+    },
+    {
+      "word": "caries proximalis",
+      "translation": "proximal caries",
+      "hint": "proximal caries; alt. caries occurring in the proximal surface",
+      "examCue": "caries"
+    }
+  ]
+}

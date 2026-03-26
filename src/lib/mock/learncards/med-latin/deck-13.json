@@ -1,0 +1,2502 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-third-declension-pure-i-stems-core-enhanced",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — 3rd Declension Pure i-Stems: Advanced Exam Mastery",
+      "de": "Medizinisches Latein — Reine i-Stämme der 3. Deklination: Fortgeschrittene Prüfungssicherheit"
+    },
+    "description": {
+      "en": "Advanced extension deck for first-year Medical Latin, building on the core study of pure i-stems of the 3rd declension. Covers identification criteria, paradigm structure, parisyllabic masculine and feminine nouns in -is, neuter nouns in -e, -al, and -ar, the genitive plural in -ium, and historically preserved forms such as the accusative singular -im and ablative singular -i. Expanded with higher-discrimination morphology drills, suffix-family patterns, and clinically oriented contrast tasks designed to strengthen precision under exam conditions.",
+      "de": "Fortgeschrittenes Erweiterungsdeck für Medizinisches Latein im ersten Studienjahr, aufbauend auf dem Kernstudium der reinen i-Stämme der 3. Deklination. Behandelt Erkennungsmerkmale, Paradigmenstruktur, parisyllabische maskuline und feminine Substantive auf -is, Neutra auf -e, -al und -ar, den Genitiv Plural auf -ium sowie historisch bewahrte Formen wie den Akkusativ Singular auf -im und den Ablativ Singular auf -i. Erweitert durch stärker differenzierende Morphologieübungen, Suffixfamilien und klinisch orientierte Kontrastaufgaben zur Festigung der Prüfungssicherheit."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "third-declension",
+      "pure-i-stems",
+      "morphology",
+      "stems",
+      "parisyllabic",
+      "genitive-plural",
+      "suffixes",
+      "clinical",
+      "exam"
+    ],
+    "difficulty": "advanced",
+    "estimatedMinutes": 210,
+    "cardCount": 145,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    }
+  },
+    "cards": [
+        {
+            "cardId": "pi-001",
+            "type": "mcq",
+            "question": {
+                "en": "Which two major groups belong to the Latin 3rd-declension pure i-stems?"
+            },
+            "correctAnswer": "Parisyllabic masculine/feminine nouns in -is, and neuter nouns in -e, -al, or -ar",
+            "options": [
+                "Parisyllabic masculine/feminine nouns in -is, and neuter nouns in -e, -al, or -ar",
+                "Imparisyllabic nouns with stems ending in two consonants, plus neuter nouns in -us, -eris",
+                "Parisyllabic nouns in -is plus all nouns with genitive singular in -onis or -atis",
+                "All 3rd-declension nouns with genitive plural -um plus neuter nouns of any ending"
+            ],
+            "explanation": {
+                "en": "Pure i-stems are defined by two structural subgroups: masculine/feminine parisyllabic nouns with nominative singular in -is, and neuter nouns with nominative singular in -e, -al, or -ar. The distractors here describe real 3rd-declension subgroups (imparisyllabic consonant stems, -on/-at stems) but they belong to different classes."
+            }
+        },
+        {
+            "cardId": "pi-002",
+            "type": "mcq",
+            "question": {
+                "en": "What is the key plural ending that distinguishes pure i-stem masculine/feminine nouns from consonant stems?"
+            },
+            "correctAnswer": "Genitive plural -ium",
+            "options": [
+                "Genitive plural -ium",
+                "Genitive plural -um",
+                "Nominative plural -es",
+                "Accusative plural -es"
+            ],
+            "explanation": {
+                "en": "The exam-critical differentiator is genitive plural -ium. Consonant stems form genitive plural -um. Both groups share nominative plural -es and accusative plural -es, so those endings cannot distinguish the classes. The -ium vs -um contrast is the key."
+            }
+        },
+        {
+            "cardId": "pi-003",
+            "type": "mcq",
+            "question": {
+                "en": "In historical pure i-stem morphology, what was the older accusative singular ending of many masculine/feminine nouns?"
+            },
+            "correctAnswer": "-im",
+            "options": [
+                "-im",
+                "-em",
+                "-um",
+                "-am"
+            ],
+            "explanation": {
+                "en": "Pure i-stems originally had accusative singular -im. The option -em is a plausible distractor because it represents the later replacement form that many masculine/feminine pure i-stems adopted in usage. -um is the 2nd-declension masculine accusative; -am is the 1st-declension feminine accusative."
+            }
+        },
+        {
+            "cardId": "pi-004",
+            "type": "mcq",
+            "question": {
+                "en": "In historical pure i-stem morphology, what was the older ablative singular ending of many masculine/feminine nouns?"
+            },
+            "correctAnswer": "-i",
+            "options": [
+                "-i",
+                "-e",
+                "-o",
+                "-a"
+            ],
+            "explanation": {
+                "en": "The older pure i-stem ablative singular is -i. The option -e is the later replacement form adopted in usage by many m/f pure i-stems (like the consonant-stem pattern). -o is 2nd-declension; -a is 1st-declension."
+            }
+        },
+        {
+            "cardId": "pi-005",
+            "type": "mcq",
+            "question": {
+                "en": "What does 'parisyllabic' mean in this context?"
+            },
+            "correctAnswer": "The nominative singular and genitive singular have the same number of syllables",
+            "options": [
+                "The nominative singular and genitive singular have the same number of syllables",
+                "The genitive singular has more syllables than the nominative singular (imparisyllabic)",
+                "The stem contains a vowel immediately before the case ending",
+                "The noun is always neuter gender in the 3rd declension"
+            ],
+            "explanation": {
+                "en": "Parisyllabic means equal in syllable count across nominative and genitive singular. Example: fe-bris / fe-bris — both have two syllables. The distractor 'genitive has more syllables' defines the imparisyllabic pattern, which applies to consonant stems."
+            }
+        },
+        {
+            "cardId": "pi-006",
+            "type": "mcq",
+            "question": {
+                "en": "A noun is listed as: nominative singular -is, genitive singular -is (two syllables each). Which property does this confirm?"
+            },
+            "correctAnswer": "The noun is parisyllabic — a key indicator of the pure i-stem group",
+            "options": [
+                "The noun is parisyllabic — a key indicator of the pure i-stem group",
+                "The noun is imparisyllabic and therefore a consonant stem",
+                "The noun must be neuter gender with nominative plural -ia",
+                "The noun has genitive plural -um, like consonant stems"
+            ],
+            "explanation": {
+                "en": "Equal syllable count across nominative and genitive (both -is endings, same syllables) signals a parisyllabic noun. This is the primary morphological cue for identifying the masculine/feminine pure i-stem subgroup. It does not by itself guarantee -i and -im, but it triggers the right paradigm expectation."
+            }
+        },
+        {
+            "cardId": "pi-007",
+            "type": "mcq",
+            "question": {
+                "en": "Which set correctly identifies neuter pure i-stem nominative singular endings?"
+            },
+            "correctAnswer": "-e, -al, -ar",
+            "options": [
+                "-e, -al, -ar",
+                "-or, -oris (like amor, color)",
+                "-us, -eris or -us, -oris (like corpus, tempus)",
+                "-en, -inis or -men, -minis (like nomen, abdomen)"
+            ],
+            "explanation": {
+                "en": "The neuter pure i-stem subgroup is recognized by nominative singular endings -e, -al, and -ar. The other options all represent real 3rd-declension neuter or masculine consonant-stem patterns — making them credible distractors."
+            }
+        },
+        {
+            "cardId": "pi-008",
+            "type": "mcq",
+            "question": {
+                "en": "What is the nominative plural of neuter pure i-stems?"
+            },
+            "correctAnswer": "-ia",
+            "options": [
+                "-ia",
+                "-a",
+                "-es",
+                "-ora"
+            ],
+            "explanation": {
+                "en": "Neuter pure i-stems take nominative plural -ia. The option -a is the nominative plural of ordinary neuter consonant stems (e.g., corpora from corpus). The option -ora is a real neuter consonant-stem variant. The option -es belongs to masculine/feminine 3rd-declension nouns."
+            }
+        },
+        {
+            "cardId": "pi-009",
+            "type": "mcq",
+            "question": {
+                "en": "What is the accusative plural of neuter pure i-stems?"
+            },
+            "correctAnswer": "-ia",
+            "options": [
+                "-ia",
+                "-a",
+                "-es",
+                "-im"
+            ],
+            "explanation": {
+                "en": "Neuter rule: accusative plural = nominative plural. In pure i-stems that is -ia. The option -im is the accusative singular form — a deliberate distractor testing whether you confuse singular and plural. The option -a would be the neuter consonant-stem plural."
+            }
+        },
+        {
+            "cardId": "pi-010",
+            "type": "mcq",
+            "question": {
+                "en": "Which ablative singular ending is consistently preserved in neuter pure i-stems?"
+            },
+            "correctAnswer": "-i",
+            "options": [
+                "-i",
+                "-e",
+                "-o",
+                "-a"
+            ],
+            "explanation": {
+                "en": "Neuter pure i-stems preserve ablative singular -i, unlike consonant stems which use -e. Example: rete → ablative reti. The consonant-stem ablative -e is the primary distractor here because students often apply it by analogy."
+            }
+        },
+        {
+            "cardId": "pi-011",
+            "type": "mcq",
+            "question": {
+                "en": "Which ending pair best summarizes the core neuter pure i-stem plural signature?"
+            },
+            "correctAnswer": "Nom./Acc. pl. -ia and Gen. pl. -ium",
+            "options": [
+                "Nom./Acc. pl. -ia and Gen. pl. -ium",
+                "Nom./Acc. pl. -a and Gen. pl. -um (neuter consonant-stem pattern)",
+                "Nom./Acc. pl. -a and Gen. pl. -orum (2nd-declension neuter pattern)",
+                "Nom./Acc. pl. -es and Gen. pl. -ium (mixed pattern, incorrect)"
+            ],
+            "explanation": {
+                "en": "The exam signature for neuter pure i-stems is -ia (nom/acc pl) plus -ium (gen pl). Option B is the genuine consonant-stem neuter pattern (e.g., corpus/corpora/corporum). Option C is the 2nd-declension neuter pattern (e.g., bellum/bella/bellorum). Option D is a mixed pattern that does not exist in standard Latin."
+            }
+        },
+        {
+            "cardId": "pi-012",
+            "type": "mcq",
+            "question": {
+                "en": "For masculine/feminine pure i-stems, which single paradigm row is most diagnostically valuable in exams?"
+            },
+            "correctAnswer": "Genitive plural -ium",
+            "options": [
+                "Genitive plural -ium",
+                "Accusative singular -im (often replaced by -em in later usage)",
+                "Ablative singular -i (often replaced by -e in later usage)",
+                "Nominative plural -es (shared with all 3rd-declension nouns)"
+            ],
+            "explanation": {
+                "en": "All four options represent genuine pure i-stem features, which is what makes this question hard. However, genitive plural -ium is the most consistently retained and diagnostically decisive. The accusative -im and ablative -i are often leveled out by later usage, and nominative plural -es is shared across the entire 3rd declension."
+            }
+        },
+        {
+            "cardId": "pi-013",
+            "type": "mcq",
+            "question": {
+                "en": "Which pair reflects the later replacement endings often seen instead of older pure i-stem -im and -i in masculine/feminine nouns?"
+            },
+            "correctAnswer": "Accusative -em and ablative -e",
+            "options": [
+                "Accusative -em and ablative -e",
+                "Accusative -um and ablative -o",
+                "Accusative -am and ablative -a",
+                "Accusative -es and ablative -ibus"
+            ],
+            "explanation": {
+                "en": "The historically older -im and -i were often displaced by -em and -e, which mirror ordinary 3rd-declension consonant-stem behavior. Options -um/-o are 2nd-declension; -am/-a are 1st-declension; -es/-ibus are plural forms — all wrong."
+            }
+        },
+        {
+            "cardId": "pi-014",
+            "type": "mcq",
+            "question": {
+                "en": "Which form of 'febris' is the best diagnostic cue that this noun belongs to the pure i-stem group?"
+            },
+            "correctAnswer": "febrium (genitive plural)",
+            "options": [
+                "febrium (genitive plural)",
+                "febrim (accusative singular, classical)",
+                "febri (ablative singular, classical)",
+                "febres (nominative plural)"
+            ],
+            "explanation": {
+                "en": "All four options are attested pure i-stem forms of febris. However, febrium is the strongest diagnostic marker because genitive plural -ium is the most consistently preserved feature. Febrim and febri are often replaced by febrem and febre in later usage; febres is shared with consonant stems."
+            }
+        },
+        {
+            "cardId": "pi-015",
+            "type": "mcq",
+            "question": {
+                "en": "Which statement about pure i-stems is most accurate?"
+            },
+            "correctAnswer": "Not every pure i-stem form looks unique; the genitive plural is usually the decisive diagnostic clue",
+            "options": [
+                "Not every pure i-stem form looks unique; the genitive plural is usually the decisive diagnostic clue",
+                "Every case ending in pure i-stems is unique and unmistakable",
+                "Masculine/feminine pure i-stems always retain -im and -i in all periods of Latin",
+                "Pure i-stems are identified exclusively by the nominative singular ending"
+            ],
+            "explanation": {
+                "en": "This is the practical exam rule. Many pure i-stem forms overlap with consonant-stem forms, so you must rely on the most discriminating endings. The other options are all false: not every ending is unique, -im/-i are often replaced, and the nominative alone is insufficient to classify a noun."
+            }
+        },
+        {
+            "cardId": "pi-016",
+            "type": "mcq",
+            "question": {
+                "en": "How do you correctly derive the stem of febris, is f?"
+            },
+            "correctAnswer": "Remove the genitive singular ending -is → febr-",
+            "options": [
+                "Remove the genitive singular ending -is → febr-",
+                "Remove the final -s from nominative singular febris → febri-",
+                "Add -i to the nominative singular → febri- and use that directly",
+                "Use the ablative singular febri- as the stem base"
+            ],
+            "explanation": {
+                "en": "The canonical method is to start from the genitive singular (febris), remove -is, and obtain the stem febr-. Option B produces febri- by removing only -s, which is a common error. Option C adds rather than strips endings. Option D uses the ablative, which is non-standard. All wrong options are tempting because they involve real-looking Latin forms."
+            }
+        },
+        {
+            "cardId": "pi-017",
+            "type": "mcq",
+            "question": {
+                "en": "Which stem is correct for mare, is n?"
+            },
+            "correctAnswer": "mar- (from gen sg maris, remove -is)",
+            "options": [
+                "mar- (from gen sg maris, remove -is)",
+                "mare- (mistakenly using nominative as stem)",
+                "mari- (stripping only -s from maris)",
+                "maris- (the full genitive singular, unstripped)"
+            ],
+            "explanation": {
+                "en": "From maris, remove -is → mar-. The option mare- treats the nominative as the stem base (wrong method). The option mari- removes only -s (leaving -i). The option maris- fails to strip anything. Example: mar- + ia = maria (nom/acc pl); mar- + ium = marium (gen pl)."
+            }
+        },
+        {
+            "cardId": "pi-018",
+            "type": "mcq",
+            "question": {
+                "en": "Which paradigm fragment is correct for a neuter pure i-stem like mare?"
+            },
+            "correctAnswer": "Nom sg mare / Gen sg maris / Acc sg mare / Abl sg mari / Nom pl maria / Gen pl marium",
+            "options": [
+                "Nom sg mare / Gen sg maris / Acc sg mare / Abl sg mari / Nom pl maria / Gen pl marium",
+                "Nom sg mare / Gen sg maris / Acc sg marem / Abl sg mare / Nom pl mares / Gen pl marum",
+                "Nom sg mare / Gen sg maris / Acc sg marim / Abl sg mari / Nom pl maria / Gen pl marium",
+                "Nom sg mare / Gen sg maris / Acc sg mare / Abl sg mari / Nom pl mara / Gen pl marorum"
+            ],
+            "explanation": {
+                "en": "Option A is correct: neuter nouns have nom = acc sg (mare), ablative sg -i (mari), nom/acc pl -ia (maria), gen pl -ium (marium). Option B applies consonant-stem patterns (-em acc, -e abl, -es nom pl, -um gen pl). Option C incorrectly gives accusative -im (which belongs to m/f pure i-stems). Option D applies 2nd-declension neuter plural patterns."
+            }
+        },
+        {
+            "cardId": "pi-019",
+            "type": "mcq",
+            "question": {
+                "en": "Which case ending do both consonant stems and pure i-stems share in the ablative plural?"
+            },
+            "correctAnswer": "-ibus",
+            "options": [
+                "-ibus",
+                "-ium",
+                "-ia",
+                "-im"
+            ],
+            "explanation": {
+                "en": "Ablative plural -ibus is shared across all 3rd-declension nouns. That is precisely why it cannot serve as a discriminating marker for pure i-stems. The unique pure i-stem markers (-ium, -ia, -im, -i) are therefore far more diagnostically useful."
+            }
+        },
+        {
+            "cardId": "pi-020",
+            "type": "mcq",
+            "question": {
+                "en": "Which singular ending pair is historically associated with pure i-stems?"
+            },
+            "correctAnswer": "Accusative singular -im and ablative singular -i",
+            "options": [
+                "Accusative singular -im and ablative singular -i",
+                "Accusative singular -em and ablative singular -e (consonant-stem pattern)",
+                "Accusative singular -um and ablative singular -o (2nd-declension pattern)",
+                "Accusative singular -am and ablative singular -a (1st-declension pattern)"
+            ],
+            "explanation": {
+                "en": "This pair — acc sg -im and abl sg -i — is the mechanistic signature of the old pure i-stem singular. All other options reproduce real Latin accusative/ablative pairs from other declensions, making them cognitively challenging distractors."
+            }
+        },
+        {
+            "cardId": "pi-021",
+            "type": "mcq",
+            "question": {
+                "en": "What does febris, is f mean?"
+            },
+            "correctAnswer": "Fever",
+            "options": [
+                "Fever",
+                "Chills / rigor (often accompanies fever, not the same thing)",
+                "Inflammation (often the cause of fever)",
+                "Infection (frequently triggers fever)"
+            ],
+            "explanation": {
+                "en": "Febris means fever. The distractors here are all clinically associated with fever — chills accompany fever, inflammation and infection produce it — making it necessary to distinguish the word's actual meaning from its clinical context. Example: contra febrim = against fever."
+            }
+        },
+        {
+            "cardId": "pi-022",
+            "type": "mcq",
+            "question": {
+                "en": "Which is the correct genitive plural of febris?"
+            },
+            "correctAnswer": "febrium",
+            "options": [
+                "febrium",
+                "februm (consonant-stem gen pl pattern)",
+                "febribus (dative/ablative plural — wrong case)",
+                "febris (same as nominative/genitive singular — wrong number)"
+            ],
+            "explanation": {
+                "en": "Pure i-stem feminine nouns take genitive plural -ium: febrium. Option februm applies the consonant-stem -um. Option febribus is a real form but in the dative/ablative plural. Option febris is the singular genitive — a trap for students who forget to check number."
+            }
+        },
+        {
+            "cardId": "pi-023",
+            "type": "mcq",
+            "question": {
+                "en": "What does tussis, is f mean?"
+            },
+            "correctAnswer": "Cough",
+            "options": [
+                "Cough",
+                "Expectoration / productive sputum (the result of coughing, not the act itself)",
+                "Dyspnea / shortness of breath (respiratory symptom often accompanying cough)",
+                "Rhinorrhea / nasal discharge (upper respiratory symptom co-occurring with cough)"
+            ],
+            "explanation": {
+                "en": "Tussis means cough. The distractors are all respiratory symptoms that clinically co-exist with coughing, so distinguishing the exact Latin term from its associated symptoms requires precision. Example: Amor tussisque non celantur."
+            }
+        },
+        {
+            "cardId": "pi-024",
+            "type": "mcq",
+            "question": {
+                "en": "What does pertussis, is f mean?"
+            },
+            "correctAnswer": "Pertussis / whooping cough",
+            "options": [
+                "Pertussis / whooping cough",
+                "Laryngitis (upper airway inflammation with cough)",
+                "Bronchitis (lower respiratory inflammation with cough)",
+                "Pleuritis / pleurisy (chest condition producing cough and pain)"
+            ],
+            "explanation": {
+                "en": "Pertussis is the disease name for whooping cough. All distractors are genuine respiratory diseases featuring cough as a major symptom, making them clinically plausible confusable conditions."
+            }
+        },
+        {
+            "cardId": "pi-025",
+            "type": "mcq",
+            "question": {
+                "en": "What does pelvis, is f mean?"
+            },
+            "correctAnswer": "Pelvis",
+            "options": [
+                "Pelvis",
+                "Perineum (the region between the pelvis and external genitalia)",
+                "Peritoneum (the abdominal membrane, distinct from the pelvis)",
+                "Thorax (bony cage, sometimes confused with pelvic bony ring by students)"
+            ],
+            "explanation": {
+                "en": "Pelvis is the anatomical pelvic basin or girdle. The distractors are all anatomical regions that are geographically close to or sometimes confused with the pelvis in students' mental maps."
+            }
+        },
+        {
+            "cardId": "pi-026",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'pelvic cavity'?"
+            },
+            "correctAnswer": "cavitas pelvis",
+            "options": [
+                "cavitas pelvis",
+                "fossa pelvis (would mean pelvic fossa, a different anatomical structure)",
+                "basis pelvis (base of the pelvis, not the cavity)",
+                "cavitas abdominalis (abdominal cavity, not pelvic)"
+            ],
+            "explanation": {
+                "en": "Cavitas pelvis is the standard anatomical term for pelvic cavity. Fossa pelvis and basis pelvis are real phrases but with different meanings. Cavitas abdominalis is the abdominal cavity — a different anatomical space immediately superior to the pelvic cavity."
+            }
+        },
+        {
+            "cardId": "pi-027",
+            "type": "mcq",
+            "question": {
+                "en": "What does basis, is f mean?"
+            },
+            "correctAnswer": "Base / basis",
+            "options": [
+                "Base / basis",
+                "Apex (the opposite pole of a structure — easily confused)",
+                "Fundus (the bottom or deepest part of a hollow organ — semantically close)",
+                "Collum (neck of a structure — adjacent anatomical concept)"
+            ],
+            "explanation": {
+                "en": "Basis means base or basis. The distractors apex, fundus, and collum are all real Latin anatomical terms describing positional or structural features of organs, making them cognitively challenging alternatives."
+            }
+        },
+        {
+            "cardId": "pi-028",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase means 'base of the brain'?"
+            },
+            "correctAnswer": "basis cerebri",
+            "options": [
+                "basis cerebri",
+                "basis cranii (base of the skull, not the brain itself)",
+                "apex cerebri (the apex of the brain)",
+                "fundus cerebri (would mean the floor/bottom of the brain — wrong anatomical term)"
+            ],
+            "explanation": {
+                "en": "Basis cerebri is the base of the brain. Basis cranii is the base of the skull — a very close anatomical neighbor and a common confusion. Apex cerebri means the top, not the base. Fundus is used for hollow organs like the stomach and uterus, not the brain."
+            }
+        },
+        {
+            "cardId": "pi-029",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase means 'internal surface of the cranial base'?"
+            },
+            "correctAnswer": "basis cranii interna",
+            "options": [
+                "basis cranii interna",
+                "basis cranii externa (the external surface — same structure, opposite aspect)",
+                "basis cerebri interna (wrong noun — cerebri not cranii)",
+                "fossa cranii anterior (anterior cranial fossa — a related but distinct structure)"
+            ],
+            "explanation": {
+                "en": "Basis cranii interna means the internal surface of the cranial base. The distractor basis cranii externa is particularly tricky because it differs only in interna vs externa. Fossa cranii anterior is a genuinely adjacent anatomical structure on the internal surface but refers to a specific fossa, not the whole base."
+            }
+        },
+        {
+            "cardId": "pi-030",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase means 'base of the lung'?"
+            },
+            "correctAnswer": "basis pulmonis",
+            "options": [
+                "basis pulmonis",
+                "apex pulmonis (apex of the lung — the upper pole, opposite of base)",
+                "hilus pulmonis (hilum of the lung — a different anatomical feature)",
+                "facies pulmonis (face/surface of the lung — different term)"
+            ],
+            "explanation": {
+                "en": "Basis pulmonis is the anatomical base of the lung (the inferior diaphragmatic surface). Apex pulmonis is the lung apex — a particularly tempting wrong answer because students confuse the two poles. Hilus and facies are real anatomical lung terms but with different meanings."
+            }
+        },
+        {
+            "cardId": "pi-031",
+            "type": "mcq",
+            "question": {
+                "en": "What does the clinical suffix -iasis typically denote?"
+            },
+            "correctAnswer": "A pathological condition or state, especially one involving accumulation or infestation",
+            "options": [
+                "A pathological condition or state, especially one involving accumulation or infestation",
+                "Surgical removal or excision of a structure (that is -ectomy)",
+                "Inflammation of a tissue or organ (that is -itis)",
+                "Deficiency or absence of a substance (that is -penia or -deficiency)"
+            ],
+            "explanation": {
+                "en": "The suffix -iasis denotes a condition or state, especially pathological ones involving stones, parasites, or accumulations. The distractors -ectomy, -itis, and -penia are all real and important medical suffixes with different meanings — making this a useful suffix discrimination exercise."
+            }
+        },
+        {
+            "cardId": "pi-032",
+            "type": "mcq",
+            "question": {
+                "en": "What does lithiasis, is f mean?"
+            },
+            "correctAnswer": "Formation or presence of calculi (stones)",
+            "options": [
+                "Formation or presence of calculi (stones)",
+                "Surgical removal of calculi (that is lithotomy)",
+                "Dissolution of calculi (that is litholysis)",
+                "Inflammation caused by calculi (that is a different process)"
+            ],
+            "explanation": {
+                "en": "Lithiasis means the formation or presence of stones. The distractors all describe real clinical procedures or processes related to calculi: lithotomy (surgical removal), litholysis (chemical dissolution), and calculus-induced inflammation. Knowing which process -iasis names — presence, not removal or dissolution — is the key."
+            }
+        },
+        {
+            "cardId": "pi-033",
+            "type": "mcq",
+            "question": {
+                "en": "What does the element lith- / litho- mean?"
+            },
+            "correctAnswer": "Stone / calculus",
+            "options": [
+                "Stone / calculus",
+                "Sand or granule (similar concept but not the meaning)",
+                "Mineral salt deposit (related concept, not the direct meaning)",
+                "Kidney (the organ most associated with stones — but nephro- means kidney)"
+            ],
+            "explanation": {
+                "en": "Lith- means stone or calculus. The distractor 'kidney' is deliberately placed because nephrolithiasis is the best-known lithiasis — but nephro- is the prefix for kidney, not litho-. Distinguishing organ prefix from pathology prefix is a core skill."
+            }
+        },
+        {
+            "cardId": "pi-034",
+            "type": "mcq",
+            "question": {
+                "en": "What is sialolithiasis?"
+            },
+            "correctAnswer": "Presence or formation of a salivary calculus",
+            "options": [
+                "Presence or formation of a salivary calculus",
+                "Kidney stone disease (nephrolithiasis)",
+                "Urinary tract stone disease (urolithiasis)",
+                "Biliary stone disease (cholelithiasis)"
+            ],
+            "explanation": {
+                "en": "Sialolithiasis = sialo- (salivary) + lithiasis (stone condition). All distractors are genuine -lithiasis disease entities affecting different systems. Knowing the organ prefix (sialo- = saliva) is what distinguishes this answer."
+            }
+        },
+        {
+            "cardId": "pi-035",
+            "type": "mcq",
+            "question": {
+                "en": "What is nephrolithiasis?"
+            },
+            "correctAnswer": "Presence of stones in the kidney",
+            "options": [
+                "Presence of stones in the kidney",
+                "Presence of stones in the urinary bladder (cystolithiasis)",
+                "Presence of stones in the salivary glands (sialolithiasis)",
+                "Presence of stones in the bile ducts (choledocholithiasis)"
+            ],
+            "explanation": {
+                "en": "Nephrolithiasis uses nephro- (kidney) to localize the calculus disease. All options are genuine -lithiasis conditions — the only difference is the organ prefix. This tests whether students have internalized the organ localization function of the prefix."
+            }
+        },
+        {
+            "cardId": "pi-036",
+            "type": "mcq",
+            "question": {
+                "en": "What is urolithiasis?"
+            },
+            "correctAnswer": "Presence of calculi anywhere in the urinary system",
+            "options": [
+                "Presence of calculi anywhere in the urinary system",
+                "Kidney-specific stone disease only (that is nephrolithiasis)",
+                "Ureteral stone disease specifically (that is ureterolithiasis)",
+                "Urinary bladder stone disease specifically (that is cystolithiasis)"
+            ],
+            "explanation": {
+                "en": "Uro- refers to the urinary system broadly. Urolithiasis is therefore the umbrella term encompassing all urinary calculi. The distractors are all more specific -lithiasis subtypes — knowing that uro- is a broader prefix than nephro-, ureter-, or cysto- is the key insight."
+            }
+        },
+        {
+            "cardId": "pi-037",
+            "type": "mcq",
+            "question": {
+                "en": "What does stasis, is f mean?"
+            },
+            "correctAnswer": "Stagnation / cessation of normal flow",
+            "options": [
+                "Stagnation / cessation of normal flow",
+                "Accelerated or turbulent flow (the opposite phenomenon)",
+                "Reversal of normal flow direction",
+                "Dilatation of a vessel with increased flow"
+            ],
+            "explanation": {
+                "en": "Stasis means stoppage or stagnation. In medicine it refers to impaired flow of blood, lymph, or other fluids. The distractors all describe abnormal but opposite or different flow disturbances — making it necessary to recall that stasis specifically means cessation, not acceleration or reversal."
+            }
+        },
+        {
+            "cardId": "pi-038",
+            "type": "mcq",
+            "question": {
+                "en": "What is hemostasis?"
+            },
+            "correctAnswer": "Arrest of bleeding; or stagnation of blood flow",
+            "options": [
+                "Arrest of bleeding; or stagnation of blood flow",
+                "Formation of new blood vessels (angiogenesis)",
+                "Dissolution of a blood clot (thrombolysis / fibrinolysis)",
+                "Production of red blood cells (hematopoiesis / erythropoiesis)"
+            ],
+            "explanation": {
+                "en": "Hemostasis = hemo- (blood) + stasis (stoppage). In clinical language it means arrest of bleeding, but it also carries the sense of blood flow stagnation. The distractors are all vascular/hematological processes involving blood — but with opposite or different meanings. Distinguishing stasis from genesis, lysis, and poiesis is the key."
+            }
+        },
+        {
+            "cardId": "pi-039",
+            "type": "mcq",
+            "question": {
+                "en": "What is lymphostasis?"
+            },
+            "correctAnswer": "Obstruction or cessation of normal lymph flow",
+            "options": [
+                "Obstruction or cessation of normal lymph flow",
+                "Hyperproduction of lymph fluid",
+                "Inflammation of lymphatic vessels (lymphangitis)",
+                "Enlargement of lymph nodes (lymphadenopathy)"
+            ],
+            "explanation": {
+                "en": "Lymphostasis = lympho- + stasis (stoppage). All distractors describe real pathological lymphatic processes — lymph overproduction, lymphangitis, lymphadenopathy — but none of them mean stagnation of flow. Recognizing -stasis as the decisive suffix is essential."
+            }
+        },
+        {
+            "cardId": "pi-040",
+            "type": "mcq",
+            "question": {
+                "en": "What does anamnesis, is f mean in clinical usage?"
+            },
+            "correctAnswer": "Patient's medical history / the clinical process of recollection",
+            "options": [
+                "Patient's medical history / the clinical process of recollection",
+                "Loss of memory or inability to recall (amnesia — the opposite)",
+                "Objective physical examination findings",
+                "Prognosis / prediction of future disease course"
+            ],
+            "explanation": {
+                "en": "Anamnesis (ana- = up/again + mnesis = memory) means recollection and in clinical language refers to the patient's history. The distractor 'loss of memory' (amnesia) is particularly dangerous because the root mnesis is shared — an- as prefix means without, while ana- means back/again."
+            }
+        },
+        {
+            "cardId": "pi-041",
+            "type": "mcq",
+            "question": {
+                "en": "What does diathesis, is f mean?"
+            },
+            "correctAnswer": "Constitutional or inherited predisposition to a disease or condition",
+            "options": [
+                "Constitutional or inherited predisposition to a disease or condition",
+                "A specific diagnosable acute disease entity",
+                "A temporary acquired immune reaction",
+                "An iatrogenic (treatment-induced) condition"
+            ],
+            "explanation": {
+                "en": "Diathesis denotes a constitutional tendency or predisposition — an inborn or deeply embedded susceptibility. It is not the disease itself. The distractors all describe conditions that differ from predisposition: a diagnosable entity is an established disease; a temporary acquired reaction is distinct from constitutional makeup; iatrogenic implies external causation."
+            }
+        },
+        {
+            "cardId": "pi-042",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'cystic diathesis'?"
+            },
+            "correctAnswer": "diathesis cystica",
+            "options": [
+                "diathesis cystica",
+                "diathesis haemorrhagica (haemorrhagic diathesis — real phrase, different meaning)",
+                "diathesis allergica (allergic diathesis — real phrase, different meaning)",
+                "diathesis fibrotica (fibrotic diathesis — real phrase, different meaning)"
+            ],
+            "explanation": {
+                "en": "All four options are real Latin medical phrases with correct agreement (feminine adjective with feminine noun diathesis). This tests whether you know which adjective pairs with which clinical type. Diathesis cystica = cystic predisposition; haemorrhagica = bleeding tendency; allergica = allergic tendency; fibrotica = fibrotic tendency."
+            }
+        },
+        {
+            "cardId": "pi-043",
+            "type": "mcq",
+            "question": {
+                "en": "What does emesis mean?"
+            },
+            "correctAnswer": "Vomiting (active expulsion of gastric contents)",
+            "options": [
+                "Vomiting (active expulsion of gastric contents)",
+                "Nausea (the sensation preceding vomiting, without expulsion)",
+                "Regurgitation (passive effortless return of content — mechanically different)",
+                "Eructation / belching (expulsion of gas only)"
+            ],
+            "explanation": {
+                "en": "Emesis specifically means the active forceful expulsion of gastric contents. The distractors are all related upper GI symptoms: nausea precedes vomiting, regurgitation is passive and lacks the motor effort of vomiting, and eructation is gas. The clinical distinction between these is important."
+            }
+        },
+        {
+            "cardId": "pi-044",
+            "type": "mcq",
+            "question": {
+                "en": "What does hematemesis mean?"
+            },
+            "correctAnswer": "Vomiting of blood (from the upper gastrointestinal tract)",
+            "options": [
+                "Vomiting of blood (from the upper gastrointestinal tract)",
+                "Spitting or coughing blood from the respiratory tract (hemoptysis)",
+                "Blood in the urine (hematuria)",
+                "Passage of dark tarry blood in stool (melena)"
+            ],
+            "explanation": {
+                "en": "Hematemesis = hema- (blood) + emesis (vomiting). The distractor hemoptysis is the classic clinical confusion — both involve blood from the body but via different routes and mechanisms. Hematuria and melena are other important blood loss presentations but via different organs. This is a high-yield clinical discrimination card."
+            }
+        },
+        {
+            "cardId": "pi-045",
+            "type": "mcq",
+            "question": {
+                "en": "Which statement best captures the clinical distinction between hematemesis and hemoptysis?"
+            },
+            "correctAnswer": "Hematemesis = blood vomited from the upper GI tract; hemoptysis = blood coughed/expectorated from the respiratory tract",
+            "options": [
+                "Hematemesis = blood vomited from the upper GI tract; hemoptysis = blood coughed/expectorated from the respiratory tract",
+                "Hematemesis = bright red arterial blood only; hemoptysis = dark venous blood only",
+                "Hematemesis = lower GI bleeding; hemoptysis = upper GI bleeding",
+                "Hematemesis = blood in urine; hemoptysis = blood in stool"
+            ],
+            "explanation": {
+                "en": "This is the must-know medical differentiation for these two pure i-stem vocabulary items. The route and mechanism define the terms: emesis (vomiting) for GI blood, ptysis (spitting/coughing) for respiratory blood. The other options mix up GI anatomy or conflate with hematuria and melena."
+            }
+        },
+        {
+            "cardId": "pi-046",
+            "type": "mcq",
+            "question": {
+                "en": "What does genesis mean?"
+            },
+            "correctAnswer": "Origin, beginning, formation, production",
+            "options": [
+                "Origin, beginning, formation, production",
+                "Cessation or termination of a process (-stasis or -lysis suggests that)",
+                "Destruction or dissolution of a structure (-lysis suggests that)",
+                "Hardening or induration of tissue (-sclerosis suggests that)"
+            ],
+            "explanation": {
+                "en": "Genesis means origin or formation. The distractors pair the concept of genesis against -stasis (stopping), -lysis (dissolution), and -sclerosis (hardening) — all opposing biological processes — to reinforce that genesis specifically implies a productive, formative process."
+            }
+        },
+        {
+            "cardId": "pi-047",
+            "type": "mcq",
+            "question": {
+                "en": "What is osteogenesis?"
+            },
+            "correctAnswer": "Formation and development of bone",
+            "options": [
+                "Formation and development of bone",
+                "Destruction or breakdown of bone (osteolysis)",
+                "Inflammation of bone and marrow (osteomyelitis)",
+                "Softening or demineralization of bone (osteomalacia)"
+            ],
+            "explanation": {
+                "en": "Osteogenesis = osteo- (bone) + genesis (formation). The distractors are all real osteo- compound terms with different meanings: osteolysis = bone dissolution, osteomyelitis = bone marrow inflammation, osteomalacia = bone softening. Knowing the specific process named by -genesis vs -lysis vs -malacia is the key skill."
+            }
+        },
+        {
+            "cardId": "pi-048",
+            "type": "mcq",
+            "question": {
+                "en": "What is hematopoiesis / hemopoiesis?"
+            },
+            "correctAnswer": "Formation and development of blood cellular elements",
+            "options": [
+                "Formation and development of blood cellular elements",
+                "Dissolution or destruction of blood cells (hemolysis)",
+                "Arrest or stagnation of blood flow (hemostasis)",
+                "Clotting or coagulation of blood (hemostasis / thrombosis)"
+            ],
+            "explanation": {
+                "en": "Hematopoiesis = hemato- (blood) + poiesis (making/production). All distractors describe hematological processes using related vocabulary: hemolysis (destruction), hemostasis (stoppage), thrombosis (clotting). This tests whether the student distinguishes -poiesis (making) from -lysis, -stasis, and -thrombosis."
+            }
+        },
+        {
+            "cardId": "pi-049",
+            "type": "mcq",
+            "question": {
+                "en": "What does paresis mean?"
+            },
+            "correctAnswer": "Partial paralysis / incomplete motor weakness",
+            "options": [
+                "Partial paralysis / incomplete motor weakness",
+                "Complete loss of voluntary movement (paralysis)",
+                "Complete loss of sensation only (anesthesia / analgesia)",
+                "Involuntary rhythmic movement (tremor)"
+            ],
+            "explanation": {
+                "en": "Paresis indicates partial or incomplete motor deficit. The key distractor is paralysis (complete motor loss) — these two terms are frequently confused. Anesthesia and tremor represent other neurological phenomena but neither captures the partial motor-deficit concept of paresis."
+            }
+        },
+        {
+            "cardId": "pi-050",
+            "type": "mcq",
+            "question": {
+                "en": "What is the main clinical distinction between paresis and paralysis?"
+            },
+            "correctAnswer": "Paresis = partial / incomplete motor loss; paralysis = complete or major loss of voluntary movement",
+            "options": [
+                "Paresis = partial / incomplete motor loss; paralysis = complete or major loss of voluntary movement",
+                "Paresis = sensory loss only; paralysis = motor loss only",
+                "Paresis = central nervous system lesion; paralysis = peripheral nervous system lesion",
+                "Paresis = always reversible; paralysis = always permanent"
+            ],
+            "explanation": {
+                "en": "The defining distinction is degree of motor loss: partial in paresis, complete or major in paralysis. The other options introduce false distinctions: both can involve central or peripheral lesions, both can be reversible or permanent, and paresis specifically concerns motor (not just sensory) function."
+            }
+        },
+        {
+            "cardId": "pi-051",
+            "type": "mcq",
+            "question": {
+                "en": "What does crisis, is f mean in classical medical usage?"
+            },
+            "correctAnswer": "The critical turning point in the course of a disease",
+            "options": [
+                "The critical turning point in the course of a disease",
+                "The chronic, gradual deterioration phase of a disease",
+                "The recovery and convalescent phase following illness",
+                "The prodrome or earliest onset of a disease"
+            ],
+            "explanation": {
+                "en": "Crisis in classical medical Latin means the decisive turning point — the moment at which a disease either improves or worsens. The other options describe other phases of disease course: chronic deterioration, recovery/convalescence, and prodrome/onset. Knowing where crisis fits in the temporal arc of illness is the clinical key."
+            }
+        },
+        {
+            "cardId": "pi-052",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'myasthenic crisis'?"
+            },
+            "correctAnswer": "crisis myasthenica",
+            "options": [
+                "crisis myasthenica",
+                "crisis thyrotoxica (thyrotoxic crisis — real clinical entity, different condition)",
+                "crisis adrenalis (adrenal crisis — real clinical entity, different condition)",
+                "crisis epileptica (epileptic crisis — real clinical entity, different condition)"
+            ],
+            "explanation": {
+                "en": "All four options are real Latin medical crisis phrases with correct grammatical agreement. This tests whether you know the specific adjective paired with myasthenic. Thyrotoxic, adrenal, and epileptic crises are all distinct clinical emergencies."
+            }
+        },
+        {
+            "cardId": "pi-053",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'gastric crisis'?"
+            },
+            "correctAnswer": "crisis gastrica",
+            "options": [
+                "crisis gastrica",
+                "crisis renalis (renal crisis — real entity, different organ)",
+                "crisis hepatica (hepatic crisis — real entity, different organ)",
+                "crisis vasomotoria (vasomotor crisis — real entity, different mechanism)"
+            ],
+            "explanation": {
+                "en": "All four options are real Latin clinical crisis designations. This tests organ-prefix identification: gastrica from gaster (stomach), renalis from ren (kidney), hepatica from hepar (liver), vasomotoria from vas + motor."
+            }
+        },
+        {
+            "cardId": "pi-054",
+            "type": "mcq",
+            "question": {
+                "en": "What does phthisis mean in historical medical Latin?"
+            },
+            "correctAnswer": "A wasting disease; historically associated with pulmonary tuberculosis",
+            "options": [
+                "A wasting disease; historically associated with pulmonary tuberculosis",
+                "A fungal pulmonary disease (mycosis pulmonum)",
+                "Hardening or fibrosis of the lung (pneumosclerosis)",
+                "Calcification of the lung parenchyma"
+            ],
+            "explanation": {
+                "en": "Phthisis is a classical term for wasting disease and was especially associated with pulmonary tuberculosis in historical medical texts. The distractors are all real pulmonary pathologies — mycosis, sclerosis, calcification — but none carries the historical wasting/consumption meaning of phthisis."
+            }
+        },
+        {
+            "cardId": "pi-055",
+            "type": "mcq",
+            "question": {
+                "en": "What does dosis, is f mean?"
+            },
+            "correctAnswer": "Dose (a measured amount of a substance administered)",
+            "options": [
+                "Dose (a measured amount of a substance administered)",
+                "Dosing schedule or frequency of administration",
+                "Route of administration (oral, intravenous, etc.)",
+                "Drug concentration in a given volume"
+            ],
+            "explanation": {
+                "en": "Dosis means dose — the specific amount of a drug given at one time. The distractors all describe related but distinct pharmacological concepts: schedule (how often), route (how delivered), concentration (amount per volume). Dosis is the amount administered, not the interval, route, or concentration."
+            }
+        },
+        {
+            "cardId": "pi-056",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'curative dose'?"
+            },
+            "correctAnswer": "dosis curativa",
+            "options": [
+                "dosis curativa",
+                "dosis letalis (lethal dose — the dose causing death)",
+                "dosis toxica (toxic dose — the dose producing toxicity)",
+                "dosis minima (minimum dose — the smallest effective dose)"
+            ],
+            "explanation": {
+                "en": "All four options are real Latin pharmacological phrases using the correct feminine agreement pattern with dosis. This tests knowledge of the specific adjective: curativa (curative), letalis (lethal), toxica (toxic), minima (minimum). Understanding which adjective describes a therapeutic goal vs a harmful threshold is clinically important."
+            }
+        },
+        {
+            "cardId": "pi-057",
+            "type": "mcq",
+            "question": {
+                "en": "What is cirrhosis?"
+            },
+            "correctAnswer": "Chronic liver disease with fibrosis and architectural distortion",
+            "options": [
+                "Chronic liver disease with fibrosis and architectural distortion",
+                "Acute liver inflammation / hepatitis (different disease, usually reversible)",
+                "Liver abscess with suppuration (different pathological process)",
+                "Fatty liver disease / hepatic steatosis alone (a precursor, not cirrhosis itself)"
+            ],
+            "explanation": {
+                "en": "Cirrhosis is characterized by chronic fibrosis and architectural disruption of the liver. The distractors are all real liver pathologies at different stages or mechanisms: acute hepatitis, suppurative abscess, and steatosis can all be confused with or lead to cirrhosis but are distinct diagnoses."
+            }
+        },
+        {
+            "cardId": "pi-058",
+            "type": "mcq",
+            "question": {
+                "en": "What is cyanosis?"
+            },
+            "correctAnswer": "Bluish discoloration of skin/mucosae due to reduced oxygenation",
+            "options": [
+                "Bluish discoloration of skin/mucosae due to reduced oxygenation",
+                "Yellow discoloration due to bilirubin accumulation (jaundice/icterus)",
+                "Pale or white discoloration due to anaemia or vasoconstriction (pallor)",
+                "Reddish discoloration due to polycythaemia or inflammation (erythema/plethora)"
+            ],
+            "explanation": {
+                "en": "Cyanosis = cyano- (blue) + osis. All distractors describe real color changes of the skin/mucosae — jaundice (yellow), pallor (white), erythema (red). Testing the color vocabulary of clinical -osis terms is a classic exam strategy."
+            }
+        },
+        {
+            "cardId": "pi-059",
+            "type": "mcq",
+            "question": {
+                "en": "What is aponeurosis?"
+            },
+            "correctAnswer": "A broad, flat tendinous sheet serving as a muscle attachment",
+            "options": [
+                "A broad, flat tendinous sheet serving as a muscle attachment",
+                "A synovial membrane lining a joint capsule",
+                "A periosteal covering over cortical bone",
+                "A fibrocartilaginous intervertebral disc"
+            ],
+            "explanation": {
+                "en": "Aponeurosis is a flat fibrous sheet functioning like a tendon. The distractors are all real fibrous or connective tissue structures that anatomically neighbor or resemble aponeuroses in function or location."
+            }
+        },
+        {
+            "cardId": "pi-060",
+            "type": "mcq",
+            "question": {
+                "en": "What does diagnosis mean?"
+            },
+            "correctAnswer": "Identification of a disease — determining its nature, cause, and classification",
+            "options": [
+                "Identification of a disease — determining its nature, cause, and classification",
+                "Prediction of the future course of a disease (prognosis)",
+                "Treatment or management of a disease (therapia / curatio)",
+                "Prevention of a disease from occurring (prophylaxis)"
+            ],
+            "explanation": {
+                "en": "Diagnosis is identification. The Latin term dia- (through) + gnosis (knowledge) conveys 'knowing through [examination]'. All distractors are adjacent clinical activities: prognosis (what will happen), therapy (what to do about it), prophylaxis (how to prevent it)."
+            }
+        },
+        {
+            "cardId": "pi-061",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'differential diagnosis'?"
+            },
+            "correctAnswer": "diagnosis differentialis",
+            "options": [
+                "diagnosis differentialis",
+                "diagnosis ex exclusione (diagnosis by exclusion — related but different method)",
+                "diagnosis ex juvantibus (diagnosis by treatment response — real Latin term)",
+                "diagnosis clinica (clinical diagnosis — real phrase, different emphasis)"
+            ],
+            "explanation": {
+                "en": "All four are genuine Latin diagnostic phrases. Diagnosis differentialis = systematic comparison of alternatives. Ex exclusione = ruling out all others. Ex juvantibus = inferring diagnosis from what treatment helps. Clinica = based on clinical signs alone. Each describes a distinct diagnostic strategy."
+            }
+        },
+        {
+            "cardId": "pi-062",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'diagnosis by exclusion'?"
+            },
+            "correctAnswer": "diagnosis ex exclusione",
+            "options": [
+                "diagnosis ex exclusione",
+                "diagnosis differentialis (differential diagnosis — broader systematic comparison)",
+                "diagnosis ex juvantibus (by treatment response — real Latin phrase)",
+                "diagnosis per analogiam (by analogy — real diagnostic reasoning type)"
+            ],
+            "explanation": {
+                "en": "Diagnosis ex exclusione means arriving at a diagnosis by eliminating all other possibilities. All options are legitimate Latin diagnostic reasoning phrases, making the clinical distinction the deciding factor: exclusione = ruling out; differentialis = comparing alternatives; juvantibus = inferring from what helps; analogiam = reasoning by similarity."
+            }
+        },
+        {
+            "cardId": "pi-063",
+            "type": "mcq",
+            "question": {
+                "en": "What is gastroptosis?"
+            },
+            "correctAnswer": "Downward displacement or prolapse of the stomach",
+            "options": [
+                "Downward displacement or prolapse of the stomach",
+                "Upward herniation of the stomach (hiatal hernia — opposite direction)",
+                "Twisting or torsion of the stomach (volvulus — different mechanism)",
+                "Inflammation of the stomach wall (gastritis — different pathology)"
+            ],
+            "explanation": {
+                "en": "Gastroptosis = gastro- (stomach) + ptosis (falling/prolapse). The distractor 'hiatal hernia' is particularly good because it also involves abnormal stomach position, but in the opposite direction (upward). Volvulus involves rotation, not dropping. Gastritis involves inflammation, not displacement."
+            }
+        },
+        {
+            "cardId": "pi-064",
+            "type": "mcq",
+            "question": {
+                "en": "What is glossopyrosis?"
+            },
+            "correctAnswer": "A burning sensation of the tongue",
+            "options": [
+                "A burning sensation of the tongue",
+                "Inflammation of the tongue (glossitis — different -itis process)",
+                "Paralysis of the tongue (glossoplegia — different pathology)",
+                "Fissuring or painful cracking of the tongue (not the same as burning)"
+            ],
+            "explanation": {
+                "en": "Glossopyrosis = glosso- (tongue) + pyro- (fire/burning) + osis (condition). All distractors are real tongue pathologies with different Latin elements: glossitis (inflammation), glossoplegia (motor paralysis). The key is recognizing pyro- as the burning element, distinguishing this from -itis and -plegia."
+            }
+        },
+        {
+            "cardId": "pi-065",
+            "type": "mcq",
+            "question": {
+                "en": "What does pyr- / pyro- commonly signal in medical vocabulary?"
+            },
+            "correctAnswer": "Fire, heat, burning, or fever",
+            "options": [
+                "Fire, heat, burning, or fever",
+                "Ice, cold, or hypothermia (that is cryo-)",
+                "Stone or calculus (that is litho-)",
+                "Tongue or speech (that is glosso-)"
+            ],
+            "explanation": {
+                "en": "Pyro- means fire, heat, burning, or fever. This question pairs it against cryo- (cold), litho- (stone), and glosso- (tongue) — all real morphological elements — to reinforce element-to-meaning mapping. A student who confuses pyro- with litho- (both common in medical words) could make clinical errors."
+            }
+        },
+        {
+            "cardId": "pi-066",
+            "type": "mcq",
+            "question": {
+                "en": "What is hemarthrosis?"
+            },
+            "correctAnswer": "Hemorrhagic effusion / blood within a joint space",
+            "options": [
+                "Hemorrhagic effusion / blood within a joint space",
+                "Serous (non-bloody) effusion within a joint space (hydrarthrosis)",
+                "Inflammation of a joint (arthritis)",
+                "Pus within a joint space (pyarthrosis)"
+            ],
+            "explanation": {
+                "en": "Hemarthrosis = hema- (blood) + arthrosis (joint). Distractors all describe joint cavity pathologies but with different contents: hydrarthrosis (fluid), arthritis (inflammation without effusion necessarily), pyarthrosis (pus). The prefix determines what is inside the joint — blood vs fluid vs pus."
+            }
+        },
+        {
+            "cardId": "pi-067",
+            "type": "mcq",
+            "question": {
+                "en": "What is lipomatosis?"
+            },
+            "correctAnswer": "A condition marked by excessive or diffuse deposition of fat",
+            "options": [
+                "A condition marked by excessive or diffuse deposition of fat",
+                "Inflammation of adipose tissue (panniculitis — different pathology)",
+                "Deficiency or absence of adipose tissue (lipodystrophy — opposite)",
+                "Hardening or fibrosis of fat (adiposclerosis — different process)"
+            ],
+            "explanation": {
+                "en": "Lipomatosis = lipo- (fat) + matosis (a pathological state/condition involving excess). All distractors are real adipose-tissue pathologies: panniculitis (inflammation), lipodystrophy (deficiency/redistribution), adiposclerosis (hardening). This requires distinguishing excess deposition from inflammation, deficiency, and hardening."
+            }
+        },
+        {
+            "cardId": "pi-068",
+            "type": "mcq",
+            "question": {
+                "en": "What is mycosis?"
+            },
+            "correctAnswer": "Disease caused by a fungus",
+            "options": [
+                "Disease caused by a fungus",
+                "Disease caused by a bacterium (bacteriosis / bacterial infection)",
+                "Disease caused by a virus (viral infection / virosis)",
+                "Disease caused by a parasite (parasitosis / helminthiasis)"
+            ],
+            "explanation": {
+                "en": "Mycosis = myco- (fungus) + osis (disease condition). This tests whether students have memorized the organism-specific prefix: myco- = fungus. Bacterio-, viro-, parasito- each indicate a different causative class. In clinical settings, correctly attributing -osis to the right organism class determines treatment."
+            }
+        },
+        {
+            "cardId": "pi-069",
+            "type": "mcq",
+            "question": {
+                "en": "What is necrobiosis?"
+            },
+            "correctAnswer": "Physiological / normal death of cells or tissues, as part of development, aging, or normal turnover",
+            "options": [
+                "Physiological / normal death of cells or tissues, as part of development, aging, or normal turnover",
+                "Pathological death of tissue due to injurious insults (necrosis)",
+                "Programmed cell death signaled by cellular machinery (apoptosis)",
+                "Autolytic digestion of dead tissue by lysosomal enzymes"
+            ],
+            "explanation": {
+                "en": "Necrobiosis describes physiological cell/tissue death occurring in normal biological processes — aging, developmental remodeling, normal cellular turnover. All distractors involve cell death but by different mechanisms or in pathological contexts: necrosis is injury-induced, apoptosis is programmed, autolysis is enzymatic degradation."
+            }
+        },
+        {
+            "cardId": "pi-070",
+            "type": "mcq",
+            "question": {
+                "en": "What is the key distinction between necrobiosis and necrosis?"
+            },
+            "correctAnswer": "Necrobiosis = physiological / normal cell death; necrosis = pathological tissue death due to injury",
+            "options": [
+                "Necrobiosis = physiological / normal cell death; necrosis = pathological tissue death due to injury",
+                "Necrobiosis = rapid acute death; necrosis = slow chronic death",
+                "Necrobiosis = death of entire organs; necrosis = death of individual cells only",
+                "They are synonyms in modern pathology — the distinction is obsolete"
+            ],
+            "explanation": {
+                "en": "The physiological vs pathological distinction is the definitive answer. Necrobiosis is part of normal biology; necrosis is injury-driven pathology. The distractors test common student rationalizations: rapid vs slow, organ vs cell, and the false claim of synonymy — all of which are incorrect."
+            }
+        },
+        {
+            "cardId": "pi-071",
+            "type": "mcq",
+            "question": {
+                "en": "What is necrosis?"
+            },
+            "correctAnswer": "Pathological death of cells, tissues, or organs due to injurious processes",
+            "options": [
+                "Pathological death of cells, tissues, or organs due to injurious processes",
+                "Physiological programmed death of cells (apoptosis — different mechanism)",
+                "Normal age-related cellular turnover (necrobiosis — different category)",
+                "Controlled autolytic recycling of organelles (autophagy — different process)"
+            ],
+            "explanation": {
+                "en": "Necrosis is pathological and caused by extrinsic injury (ischemia, toxins, infection, burns, radiation). All distractors describe real forms of cell death but controlled or physiological ones: apoptosis (genetically programmed), necrobiosis (physiological normal), autophagy (recycling). Knowing necrosis as specifically injury-induced is the key."
+            }
+        },
+        {
+            "cardId": "pi-072",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'suppurative necrosis'?"
+            },
+            "correctAnswer": "necrosis suppurativa",
+            "options": [
+                "necrosis suppurativa",
+                "necrosis coagulativa (coagulative necrosis — real pathological type)",
+                "necrosis liquefactiva (liquefactive necrosis — real pathological type)",
+                "necrosis caseosa (caseous necrosis — real pathological type, seen in TB)"
+            ],
+            "explanation": {
+                "en": "All four options are real Latin pathological necrosis subtypes with correct feminine agreement. This tests whether the student can identify which adjective pairs with which morphological process: suppurativa (pus-forming), coagulativa (protein coagulation), liquefactiva (liquefaction), caseosa (cheese-like, classic in tuberculosis)."
+            }
+        },
+        {
+            "cardId": "pi-073",
+            "type": "mcq",
+            "question": {
+                "en": "What does sclerosis mean?"
+            },
+            "correctAnswer": "Hardening or induration of a tissue or organ",
+            "options": [
+                "Hardening or induration of a tissue or organ",
+                "Softening of tissue (malacia — the opposite process)",
+                "Dissolution or loss of tissue substance (lysis — a different process)",
+                "Narrowing of a passage or lumen (stenosis — a distinct but related process)"
+            ],
+            "explanation": {
+                "en": "Sclerosis = scler- (hard) + osis (condition). The distractors are all real pathological processes that can accompany or be confused with sclerosis: malacia (softening, the direct opposite), lysis (dissolution), and stenosis (narrowing, which can result from sclerosis but is a separate concept)."
+            }
+        },
+        {
+            "cardId": "pi-074",
+            "type": "mcq",
+            "question": {
+                "en": "What does scler- / sclero- mean?"
+            },
+            "correctAnswer": "Hard / hardness",
+            "options": [
+                "Hard / hardness",
+                "Soft / flexibility (that is malac-)",
+                "Narrow / constriction (that is sten- / steno-)",
+                "Dark / black (that is melan-)"
+            ],
+            "explanation": {
+                "en": "Scler- means hard. The distractors are all real morphological elements with different meanings: malac- (soft), sten- (narrow), melan- (dark/black). Confusing scler- with sten- is a common error since both can relate to vessel pathology."
+            }
+        },
+        {
+            "cardId": "pi-075",
+            "type": "mcq",
+            "question": {
+                "en": "What does stenosis mean?"
+            },
+            "correctAnswer": "Constriction or narrowing of a passage or orifice",
+            "options": [
+                "Constriction or narrowing of a passage or orifice",
+                "Widening or dilation of a passage (ectasia — the opposite process)",
+                "Rupture or tearing of a passage (rexis — a different process)",
+                "Twisting or torsion of a structure (volvulus / torsion — a different mechanism)"
+            ],
+            "explanation": {
+                "en": "Stenosis = sten- (narrow) + osis (condition). The distractors are all real pathological changes in passages: ectasia (dilation, the direct opposite), rexis (rupture), and torsion (twisting). In vascular and cardiac pathology, distinguishing stenosis from ectasia is clinically essential."
+            }
+        },
+        {
+            "cardId": "pi-076",
+            "type": "mcq",
+            "question": {
+                "en": "What does sten- / steno- mean?"
+            },
+            "correctAnswer": "Narrow / constriction",
+            "options": [
+                "Narrow / constriction",
+                "Wide / broad (that is eury- / lat-)",
+                "Hard (that is scler-)",
+                "Hollow / cavernous (that is coel- / cavern-)"
+            ],
+            "explanation": {
+                "en": "Steno- means narrow. The main distractor is scler- (hard), because arteriosclerosis-causing stenosis makes students associate the two elements — but they describe different properties. Eury- (wide) and coel- (hollow) are the other contrasting concepts."
+            }
+        },
+        {
+            "cardId": "pi-077",
+            "type": "mcq",
+            "question": {
+                "en": "What is thrombosis?"
+            },
+            "correctAnswer": "Formation or presence of a blood clot within the vascular system",
+            "options": [
+                "Formation or presence of a blood clot within the vascular system",
+                "Dissolution of a blood clot (thrombolysis — the opposite therapeutic process)",
+                "Spasm or constriction of a blood vessel (vasospasm)",
+                "Rupture of a blood vessel with hemorrhage"
+            ],
+            "explanation": {
+                "en": "Thrombosis = thrombo- (clot) + osis (condition of). The distractor thrombolysis is particularly important: it uses the same root but means the opposite (dissolving the clot). Vasospasm and hemorrhage are related vascular events but with entirely different mechanisms."
+            }
+        },
+        {
+            "cardId": "pi-078",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'coronary thrombosis'?"
+            },
+            "correctAnswer": "thrombosis coronaria",
+            "options": [
+                "thrombosis coronaria",
+                "thrombosis cerebralis (cerebral thrombosis — different vessel territory)",
+                "thrombosis mesenterica (mesenteric thrombosis — different vessel territory)",
+                "thrombosis pulmonalis (pulmonary thrombosis — different vessel territory)"
+            ],
+            "explanation": {
+                "en": "All four are real Latin thrombosis-location phrases using correct feminine agreement. This tests the adjective for coronary: coronaria (from corona — crown-like vessels around the heart). Cerebralis (brain), mesenterica (mesentery), pulmonalis (lung) all describe different arterial territories."
+            }
+        },
+        {
+            "cardId": "pi-079",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'cerebral thrombosis'?"
+            },
+            "correctAnswer": "thrombosis cerebralis",
+            "options": [
+                "thrombosis cerebralis",
+                "thrombosis coronaria (coronary thrombosis — cardiac, not cerebral)",
+                "thrombosis pulmonalis (pulmonary thrombosis — pulmonary, not cerebral)",
+                "thrombosis venosa (venous thrombosis — vessel type, not organ location)"
+            ],
+            "explanation": {
+                "en": "Thrombosis cerebralis correctly locates the clot in cerebral vessels. All distractors are real thrombosis phrases. Thrombosis venosa is particularly interesting as a distractor because cerebral thrombosis can affect veins — but venosa specifies vessel type, not brain location."
+            }
+        },
+        {
+            "cardId": "pi-080",
+            "type": "mcq",
+            "question": {
+                "en": "What is hemoptysis?"
+            },
+            "correctAnswer": "Expectoration of blood originating from the lungs or bronchial tree",
+            "options": [
+                "Expectoration of blood originating from the lungs or bronchial tree",
+                "Vomiting blood from the upper gastrointestinal tract (hematemesis)",
+                "Blood in the urine (hematuria)",
+                "Oozing blood from mucosal surfaces (diffuse mucosal bleeding)"
+            ],
+            "explanation": {
+                "en": "Hemoptysis = hemo- + ptysis (spitting). The primary distractor is hematemesis — both involve visible blood from the body but via different routes: respiratory (hemoptysis) vs gastrointestinal (hematemesis). Clinical differentiation of these two is a core physical exam skill."
+            }
+        },
+        {
+            "cardId": "pi-081",
+            "type": "mcq",
+            "question": {
+                "en": "What is hemolysis?"
+            },
+            "correctAnswer": "Dissolution or destruction of red blood cells",
+            "options": [
+                "Dissolution or destruction of red blood cells",
+                "Formation of red blood cells (erythropoiesis — the opposite process)",
+                "Agglutination or clumping of red blood cells (a different process)",
+                "Sickling or morphological deformation of red blood cells"
+            ],
+            "explanation": {
+                "en": "Hemolysis = hemo- (blood) + lysis (dissolution). Erythropoiesis is the direct opposite (cell production). Agglutination and sickling both alter red cells structurally but do not constitute dissolution. Knowing -lysis as a destructive element versus -poiesis as a productive one is the key."
+            }
+        },
+        {
+            "cardId": "pi-082",
+            "type": "mcq",
+            "question": {
+                "en": "What does the suffix -lysis generally indicate?"
+            },
+            "correctAnswer": "Dissolution, destruction, decomposition, or loosening",
+            "options": [
+                "Dissolution, destruction, decomposition, or loosening",
+                "Formation, synthesis, or production (-genesis or -poiesis)",
+                "Hardening, induration, or fibrosis (-sclerosis)",
+                "Inflammation or reactive response (-itis)"
+            ],
+            "explanation": {
+                "en": "The suffix -lysis denotes dissolution or breakdown. The distractors each represent a major opposing biological process: -genesis/-poiesis (formation), -sclerosis (hardening), -itis (inflammation). Mastering these suffix contrasts allows rapid decoding of unfamiliar compound terms."
+            }
+        },
+        {
+            "cardId": "pi-083",
+            "type": "mcq",
+            "question": {
+                "en": "What does paralysis mean?"
+            },
+            "correctAnswer": "Loss of voluntary movement (complete or major motor deficit)",
+            "options": [
+                "Loss of voluntary movement (complete or major motor deficit)",
+                "Partial or incomplete motor weakness (paresis — the key look-alike term)",
+                "Loss of sensation without motor deficit (anesthesia / numbness)",
+                "Involuntary abnormal movement (dyskinesia / tremor)"
+            ],
+            "explanation": {
+                "en": "Paralysis means major or complete loss of voluntary movement. Paresis is the key distractor — partial weakness. Students must know the severity spectrum: paresis (partial) → paralysis (major/complete). Anesthesia (sensory loss) and dyskinesia (involuntary movement) are separate phenomena."
+            }
+        },
+        {
+            "cardId": "pi-084",
+            "type": "mcq",
+            "question": {
+                "en": "What does rete, is n mean?"
+            },
+            "correctAnswer": "An anatomical network (of vessels, nerves, or fibers)",
+            "options": [
+                "An anatomical network (of vessels, nerves, or fibers)",
+                "An anatomical cavity or hollow space (cavitas / fossa)",
+                "A membranous covering or wrapping (fascia / membrana)",
+                "A fibrous septum dividing anatomical spaces"
+            ],
+            "explanation": {
+                "en": "Rete means network or net. The distractors are all real anatomical Latin terms for structures that could be confused with a network: cavitas (cavity), membrana (membrane), septum (dividing wall). A network of vessels differs fundamentally from a space, covering, or divider."
+            }
+        },
+        {
+            "cardId": "pi-085",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'arteriolar network'?"
+            },
+            "correctAnswer": "rete arteriosum",
+            "options": [
+                "rete arteriosum",
+                "rete venosum (venous network — different vessel type)",
+                "rete lymphaticum (lymphatic network — different vessel type)",
+                "rete nervosum (nerve network — different structure type)"
+            ],
+            "explanation": {
+                "en": "All four are real anatomical rete phrases with correct neuter singular agreement. The key is the adjective: arteriosum (arterial) vs venosum (venous) vs lymphaticum (lymphatic) vs nervosum (neural). Each names a genuine anatomical network."
+            }
+        },
+        {
+            "cardId": "pi-086",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'rete of the ovary'?"
+            },
+            "correctAnswer": "rete ovarii",
+            "options": [
+                "rete ovarii",
+                "rete testis (rete of the testis — same structure in the male gonad)",
+                "rete carpale dorsale (dorsal carpal rete — wrist, not gonad)",
+                "rete venosum (venous network — describes vessel type, not location)"
+            ],
+            "explanation": {
+                "en": "Rete ovarii is the anastomosing network within the ovary. The distractor 'rete testis' is particularly tricky because it is the analogous structure in the testis — both are real anatomical entities. Knowing the genitive of ovarium (ovarii) vs testis (testis) makes the difference."
+            }
+        },
+        {
+            "cardId": "pi-087",
+            "type": "mcq",
+            "question": {
+                "en": "What does mare, is n mean?"
+            },
+            "correctAnswer": "Sea",
+            "options": [
+                "Sea",
+                "Mother (mater, matris — phonetically similar Latin word)",
+                "Hand (manus, us — another common Latin noun)",
+                "Evil / wickedness (malum — similar sound in some forms)"
+            ],
+            "explanation": {
+                "en": "Mare means sea. This word is primarily a paradigm model for neuter pure i-stems in -e. The distractors are all real common Latin nouns with superficially similar sounds or spellings (mater, manus, malum), testing precise vocabulary recall."
+            }
+        },
+        {
+            "cardId": "pi-088",
+            "type": "mcq",
+            "question": {
+                "en": "Which is the correct nominative plural of mare?"
+            },
+            "correctAnswer": "maria",
+            "options": [
+                "maria",
+                "mares (applies consonant-stem -es nominative plural — incorrect for neuters)",
+                "mara (false 2nd-declension neuter plural analogy)",
+                "marora (false analogy with corpus/corpora type)"
+            ],
+            "explanation": {
+                "en": "Neuter pure i-stems take nominative plural -ia: mare → maria. Option mares is particularly tempting because -es is the standard 3rd-declension nominative plural for masculine and feminine nouns — but neuters have their own rule. Mara and marora are false analogies with other neuter patterns."
+            }
+        },
+        {
+            "cardId": "pi-089",
+            "type": "mcq",
+            "question": {
+                "en": "Which is the correct genitive plural of mare?"
+            },
+            "correctAnswer": "marium",
+            "options": [
+                "marium",
+                "marum (applies consonant-stem -um genitive plural — the wrong pattern)",
+                "marorum (applies 2nd-declension -orum genitive plural — wrong declension)",
+                "maribus (dative/ablative plural — wrong case entirely)"
+            ],
+           "explanation": {
+  "en": "Neuter pure i-stems have genitive plural -ium: marium. Option marum applies the consonant-stem genitive plural -um pattern (e.g., corpus → corporum). Marorum applies the 2nd-declension genitive plural -orum. Maribus is the dative/ablative plural."
+}
+        },
+        {
+            "cardId": "pi-090",
+            "type": "mcq",
+            "question": {
+                "en": "What does calcar, aris n mean in anatomical Latin?"
+            },
+            "correctAnswer": "Spur — a bony spur-like projection or process",
+            "options": [
+                "Spur — a bony spur-like projection or process",
+                "A groove or sulcus (a concave depression — the opposite of a projection)",
+                "A ridge or crest (crista — a ridge rather than a point-like spur)",
+                "A fossa or pit (a hollowing, not a projection)"
+            ],
+            "explanation": {
+                "en": "Calcar is a spur-like pointed projection. The distractors are all real anatomical Latin terms for surface features: sulcus (groove), crista (crest/ridge), and fossa (pit/depression). These are often mixed up in anatomical terminology."
+            }
+        },
+        {
+            "cardId": "pi-091",
+            "type": "mcq",
+            "question": {
+                "en": "What does thenar, aris n mean?"
+            },
+            "correctAnswer": "The thenar eminence — fleshy prominence at the base of the thumb",
+            "options": [
+                "The thenar eminence — fleshy prominence at the base of the thumb",
+                "The hypothenar eminence — fleshy prominence at the base of the little finger",
+                "The dorsum of the hand (dorsum manus)",
+                "The palmar aponeurosis (a fibrous sheet of the palm)"
+            ],
+            "explanation": {
+                "en": "Thenar refers specifically to the thumb-side eminence. The hypothenar is the most tempting distractor — the analogous structure on the ulnar (little finger) side. Dorsum manus and palmar aponeurosis are real palmar structures but in different locations."
+            }
+        },
+        {
+            "cardId": "pi-092",
+            "type": "mcq",
+            "question": {
+                "en": "Which pure i-stem subgroup does animal, alis n belong to?"
+            },
+            "correctAnswer": "Neuter pure i-stem in -al",
+            "options": [
+                "Neuter pure i-stem in -al",
+                "Neuter pure i-stem in -ar (like calcar, thenar)",
+                "Neuter pure i-stem in -e (like rete, mare)",
+                "Masculine/feminine parisyllabic in -is (like febris, tussis)"
+            ],
+            "explanation": {
+                "en": "Animal has nominative singular in -al: this places it in the neuter -al subgroup. All options name genuine pure i-stem subgroups, so this tests whether students have correctly categorized animal. Confusing the -al and -ar subgroups is a frequent error."
+            }
+        },
+        {
+            "cardId": "pi-093",
+            "type": "mcq",
+            "question": {
+                "en": "Which of these nouns is a neuter pure i-stem in -e?"
+            },
+            "correctAnswer": "rete",
+            "options": [
+                "rete",
+                "animal (neuter -al, not -e)",
+                "calcar (neuter -ar, not -e)",
+                "basis (feminine -is, not a neuter at all)"
+            ],
+            "explanation": {
+                "en": "Rete ends in -e in the nominative singular and is neuter — the defining features of the -e subgroup. Animal (-al) and calcar (-ar) are in the other neuter subgroups. Basis is a feminine noun in -is belonging to the parisyllabic m/f subgroup."
+            }
+        },
+        {
+            "cardId": "pi-094",
+            "type": "mcq",
+            "question": {
+                "en": "Which of these nouns is a neuter pure i-stem in -al?"
+            },
+            "correctAnswer": "animal",
+            "options": [
+                "animal",
+                "calcar (neuter -ar, not -al)",
+                "thenar (neuter -ar, not -al)",
+                "mare (neuter -e, not -al)"
+            ],
+            "explanation": {
+                "en": "Animal has nominative singular -al: the neuter -al subgroup. Calcar and thenar both end in -ar, placing them in the -ar subgroup. Mare ends in -e. All are neuter pure i-stems, so this card specifically tests intra-neuter subgroup discrimination."
+            }
+        },
+        {
+            "cardId": "pi-095",
+            "type": "mcq",
+            "question": {
+                "en": "Which of these nouns is a neuter pure i-stem in -ar?"
+            },
+            "correctAnswer": "calcar",
+            "options": [
+                "calcar",
+                "animal (neuter -al, not -ar)",
+                "rete (neuter -e, not -ar)",
+                "mare (neuter -e, not -ar)"
+            ],
+            "explanation": {
+                "en": "Calcar ends in -ar: the neuter -ar subgroup. Animal is -al; rete and mare are -e. Knowing that both -al and -ar are distinct from -e, and from each other, is the targeted skill here."
+            }
+        },
+        {
+            "cardId": "pi-096",
+            "type": "mcq",
+            "question": {
+                "en": "Which set contains only feminine pure i-stem nouns?"
+            },
+            "correctAnswer": "febris, tussis, crisis, dosis",
+            "options": [
+                "febris, tussis, crisis, dosis",
+                "rete, mare, animal, calcar (all neuters)",
+                "febris, rete, crisis, calcar (mixed genders)",
+                "basis, thenar, diagnosis, mare (mixed genders)"
+            ],
+            "explanation": {
+                "en": "Febris, tussis, crisis, and dosis are all feminine nouns in the parisyllabic -is/-is subgroup. All other options introduce neuter nouns (rete, mare, animal, calcar, thenar) into the set. Thenar is also neuter."
+            }
+        },
+        {
+            "cardId": "pi-097",
+            "type": "mcq",
+            "question": {
+                "en": "Which set contains only neuter pure i-stem nouns?"
+            },
+            "correctAnswer": "rete, mare, animal, calcar",
+            "options": [
+                "rete, mare, animal, calcar",
+                "basis, crisis, rete, mare (basis and crisis are feminine)",
+                "thrombosis, necrosis, stasis, paresis (all feminine -osis/-sis nouns)",
+                "diagnosis, dosis, thenar, animal (diagnosis and dosis are feminine)"
+            ],
+            "explanation": {
+                "en": "Rete, mare, animal, and calcar are all neuter pure i-stems. (Thenar is also neuter but not included here.) The other options each smuggle in feminine nouns — basis, crisis, thrombosis, necrosis, stasis, paresis, diagnosis, dosis — all feminine."
+            }
+        },
+        {
+            "cardId": "pi-098",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'against fever' in Latin?"
+            },
+            "correctAnswer": "contra febrim (classical accusative singular -im)",
+            "options": [
+                "contra febrim (classical accusative singular -im)",
+                "contra febrem (later replacement accusative, consonant-stem form)",
+                "pro febre (with febre — abl, not acc; and means 'for fever', not 'against')",
+                "ex febre (out of fever — different preposition, different meaning)"
+            ],
+            "explanation": {
+                "en": "Contra governs the accusative; the classical pure i-stem accusative singular is -im, giving febrim. Option 'contra febrem' is a particularly challenging distractor: febrem is the later-attested replacement form of the accusative singular, following the consonant-stem pattern. Both appear in texts — but febrim preserves the pure i-stem and is the expected exam form."
+            }
+        },
+        {
+            "cardId": "pi-099",
+            "type": "mcq",
+            "question": {
+                "en": "Which phrase correctly means 'against cough' in Latin?"
+            },
+            "correctAnswer": "contra tussim (classical accusative singular -im)",
+            "options": [
+                "contra tussim (classical accusative singular -im)",
+                "contra tussem (later consonant-stem replacement form)",
+                "adversus tussi (wrong preposition + wrong case — ablative)",
+                "sine tussi (without cough — different preposition and meaning)"
+            ],
+            "explanation": {
+                "en": "Contra + accusative → tussim. Like contra febrim, this preserves the classical pure i-stem -im. Option 'contra tussem' is again a tempting distractor because tussem is the replacement accusative form. Adversus tussi has the wrong preposition and ablative case; sine tussi has a completely different meaning."
+            }
+        },
+        {
+            "cardId": "pi-100",
+            "type": "mcq",
+            "question": {
+                "en": "Why is 'contra tussim' particularly important in the study of pure i-stems?"
+            },
+            "correctAnswer": "It preserves the classical accusative singular -im, making the pure i-stem pattern visible in a real clinical phrase",
+            "options": [
+                "It preserves the classical accusative singular -im, making the pure i-stem pattern visible in a real clinical phrase",
+                "It demonstrates the genitive plural -ium in a clinical prescription context",
+                "It illustrates the neuter plural -ia ending in a compound phrase",
+                "It shows the ablative singular -i being governed by the preposition contra"
+            ],
+            "explanation": {
+                "en": "Contra tussim is high-yield precisely because contra governs the accusative, and tussim retains the classical -im form — one of the most testable pure i-stem features. Option D is wrong because contra does not govern the ablative; it takes the accusative. Options B and C describe different endings entirely."
+            }
+        },
+        {
+            "cardId": "pi-101",
+            "type": "mcq",
+            "question": {
+                "en": "Which Latin sentence means 'Good diagnosis, good cure'?"
+            },
+            "correctAnswer": "Diagnosis bona, curatio bona.",
+            "options": [
+                "Diagnosis bona, curatio bona.",
+                "Bene diagnoscitur, bene curatur. (That means 'What is well diagnosed is well cured'.)",
+                "Ubi dolor, ibi cura. (Where there is pain, there is care — different saying)",
+                "Medice, cura te ipsum. (Physician, heal thyself — different saying)"
+            ],
+           "explanation": {
+  "en": "Diagnosis bona, curatio bona is a didactic Latin phrase meaning 'good diagnosis, good cure.' It illustrates noun–adjective agreement in medical Latin rather than representing a classical proverb."
+}
+        },
+        {
+            "cardId": "pi-102",
+            "type": "mcq",
+            "question": {
+                "en": "Which Latin sentence means 'That which is well diagnosed can be well cured'?"
+            },
+            "correctAnswer": "Bene diagnoscitur, bene curatur.",
+            "options": [
+                "Bene diagnoscitur, bene curatur.",
+                "Diagnosis bona, curatio bona. (Good diagnosis, good cure — nominal, not verbal)",
+                "Ubi dolor, ibi cura. (Different saying about pain and care)",
+                "Cuivis dolori remedium est patientia. (Patience is the remedy for every pain)"
+            ],
+            "explanation": {
+                "en": "Bene diagnoscitur, bene curatur uses passive present 3rd-person singular verbs (diagnoscitur = is diagnosed, curatur = is cured). The distractor 'Diagnosis bona, curatio bona' carries the same idea but as a nominal phrase without verbs. The other two are real proverbs with different topics."
+            }
+        },
+        {
+            "cardId": "pi-103",
+            "type": "mcq",
+            "question": {
+                "en": "Which proverb contains the pure i-stem noun tussis in a nominative position?"
+            },
+            "correctAnswer": "Amor tussisque non celantur.",
+            "options": [
+                "Amor tussisque non celantur.",
+                "Bene diagnoscitur, bene curatur. (Contains no form of tussis)",
+                "Contra tussim remedium est silentium. (Contains tussim, accusative — not nominative)",
+                "Diagnosis bona, curatio bona. (Contains no form of tussis)"
+            ],
+            "explanation": {
+                "en": "Amor tussisque non celantur means 'Love and a cough cannot be concealed.' Here tussisque = tussis + enclitic -que (and). The subject is in the nominative, and celantur is 3rd-person plural passive. The distractor 'contra tussim' is clever because it does use tussis — but in the accusative, not the nominative."
+            }
+        },
+        {
+            "cardId": "pi-104",
+            "type": "mcq",
+            "question": {
+                "en": "In noun-adjective agreement, what must happen in a phrase like thrombosis coronaria?"
+            },
+            "correctAnswer": "The adjective must agree with the noun in gender, number, and case",
+            "options": [
+                "The adjective must agree with the noun in gender, number, and case",
+                "The adjective must always be in the same declension as the noun",
+                "The adjective must immediately follow the noun in word order",
+                "The adjective must always be in its feminine form when modifying any medical noun"
+            ],
+            "explanation": {
+                "en": "Agreement in gender, number, and case is the rule. Option B is wrong: in Latin, adjectives and nouns frequently belong to different declensions (as in thrombosis, a 3rd-declension noun, paired with coronaria, a 1st/2nd-declension adjective). Word order is flexible in Latin. And not all medical nouns are feminine."
+            }
+        },
+        {
+            "cardId": "pi-105",
+            "type": "mcq",
+            "question": {
+                "en": "Which strategy is most exam-efficient for mastering 3rd-declension pure i-stems?"
+            },
+            "correctAnswer": "Identify the subgroup (m/f parisyllabic or neuter -e/-al/-ar), derive the stem from the genitive, and anchor paradigm recall on -ium, -i, and neuter -ia",
+            "options": [
+                "Identify the subgroup (m/f parisyllabic or neuter -e/-al/-ar), derive the stem from the genitive, and anchor paradigm recall on -ium, -i, and neuter -ia",
+                "Memorize only the genitive plural -ium; all other endings are identical to consonant stems and need no separate attention",
+                "Treat every 3rd-declension noun ending in -is as a pure i-stem without further checking",
+                "Focus exclusively on neuter subgroups and ignore masculine/feminine pure i-stems as they are rarely tested"
+            ],
+            "explanation": {
+                "en": "The correct approach integrates subgroup identification, stem derivation, and targeted ending recall. Option B is dangerous: other endings do differ and matter. Option C is wrong: not every -is noun is parisyllabic (e.g., pars, partis has different syllable counts and is a mixed i-stem). Option D ignores half the class."
+            }
+        },
+        {
+            "cardId": "pi-106",
+            "type": "mcq",
+            "question": {
+                "en": "What is the classical ablative singular of febris, is f?"
+            },
+            "correctAnswer": "febri (pure i-stem ablative -i)",
+            "options": [
+                "febri (pure i-stem ablative -i)",
+                "febre (later consonant-stem replacement form, ablative -e)",
+                "febris (nominative/genitive singular — wrong case)",
+                "febribus (dative/ablative plural — wrong number)"
+            ],
+            "explanation": {
+                "en": "The classical ablative singular of a pure i-stem is -i: febri. The distractor febre is a real later-attested form following the consonant-stem pattern (-e). Febris is the nominative/genitive singular (same form). Febribus is plural. Example: In many pharmacological abbreviations and prescriptions, the ablative singular is required."
+            }
+        },
+        {
+            "cardId": "pi-107",
+            "type": "mcq",
+            "question": {
+                "en": "What is the classical accusative singular of tussis, is f?"
+            },
+            "correctAnswer": "tussim (classical pure i-stem -im)",
+            "options": [
+                "tussim (classical pure i-stem -im)",
+                "tussem (later consonant-stem replacement accusative)",
+                "tussi (ablative singular — wrong case)",
+                "tussis (nominative/genitive singular — wrong case)"
+            ],
+            "explanation": {
+                "en": "The classical accusative singular of a pure i-stem is -im: tussim. The prime distractor tussem is a real replacement form adopting the consonant-stem accusative pattern. Tussi is the ablative singular. Tussis is both nominative and genitive singular. Example: contra tussim = against cough."
+            }
+        },
+        {
+            "cardId": "pi-108",
+            "type": "mcq",
+            "question": {
+                "en": "Which ablative singular ending appears in both masculine/feminine pure i-stems (classical) and neuter pure i-stems?"
+            },
+            "correctAnswer": "-i",
+            "options": [
+                "-i",
+                "-e (consonant-stem ablative, found in neither pure i-stem group in the classical form)",
+                "-ibus (dative/ablative plural, not singular)",
+                "-is (genitive singular, not ablative)"
+            ],
+            "explanation": {
+                "en": "The ablative singular -i is the shared feature linking both pure i-stem subgroups: m/f nouns preserve it classically (febri, tussi), and neuter nouns consistently retain it (reti, animali). This makes -i a unifying paradigm marker for the entire pure i-stem class."
+            }
+        },
+        {
+            "cardId": "pi-109",
+            "type": "mcq",
+            "question": {
+                "en": "How many syllables does 'febris' have in both its nominative and genitive singular forms?"
+            },
+            "correctAnswer": "Two syllables each (fe-bris / fe-bris) — parisyllabic",
+            "options": [
+                "Two syllables each (fe-bris / fe-bris) — parisyllabic",
+                "Two and three (fe-bris / fe-bri-is) — imparisyllabic",
+                "Three and two (fe-e-bris / fe-bris) — imparisyllabic",
+                "One and two (feb / fe-bris) — imparisyllabic"
+            ],
+            "explanation": {
+                "en": "Febris (nom sg) = fe-bris = 2 syllables. Febris (gen sg) = fe-bris = 2 syllables. Equal count → parisyllabic. This is the morphological criterion placing febris in the pure i-stem group. Imparisyllabic would mean unequal counts across the two forms."
+            }
+        },
+          {
+      "cardId": "pi-110",
+      "type": "mcq",
+      "question": {
+        "en": "What is the correct genitive plural of basis, is f?"
+      },
+      "correctAnswer": "basium",
+      "options": [
+        "basium",
+        "basum",
+        "basorum",
+        "basibus"
+      ],
+      "explanation": {
+        "en": "Basis is a feminine pure i-stem. Pure i-stems form the genitive plural with -ium → basium. Basum would follow a consonant-stem pattern; basorum belongs to the 2nd declension; basibus is the dative/ablative plural."
+      }
+    },
+        {
+            "cardId": "pi-111",
+            "type": "mcq",
+            "question": {
+                "en": "What is the stem of crisis, is f?"
+            },
+            "correctAnswer": "cris- (from gen sg crisis → remove -is)",
+            "options": [
+                "cris- (from gen sg crisis → remove -is)",
+                "crisi- (stripping only -s from the nominative)",
+                "crisis- (the full nominative, unstripped)",
+                "crise- (false analogy, not a real Latin stem)"
+            ],
+            "explanation": {
+                "en": "From the genitive singular crisis, remove -is → cris-. Then build: cris- + ium = crisium (gen pl); cris- + es = crises (nom pl); cris- + i = crisi (abl sg). Option crisi- results from incorrectly removing only -s from the nominative crisis."
+            }
+        },
+        {
+            "cardId": "pi-112",
+            "type": "mcq",
+            "question": {
+                "en": "What is the stem of calcar, aris n?"
+            },
+            "correctAnswer": "calcar- (from gen sg calcaris → remove -is)",
+            "options": [
+                "calcar- (from gen sg calcaris → remove -is)",
+                "calc- (incorrectly stripping more than the -is ending)",
+                "calcari- (stripping only -s from calcaris)",
+                "calcare- (false analogy)"
+            ],
+            "explanation": {
+                "en": "Genitive singular calcaris → remove -is → calcar-. The stem here is identical to the nominative singular, which can be confusing. Option calc- over-strips. Option calcari- removes only -s. Example: calcar- + ia = calcaria (nom/acc pl); calcar- + ium = calcarium (gen pl)."
+            }
+        },
+        {
+            "cardId": "pi-113",
+            "type": "mcq",
+            "question": {
+                "en": "In the phrase 'contra tussim', which case is 'tussim' in?"
+            },
+            "correctAnswer": "Accusative singular",
+            "options": [
+                "Accusative singular",
+                "Ablative singular (contra sometimes governs the ablative — but not in standard Latin)",
+                "Genitive singular (of cough — a possessive use)",
+                "Dative singular (indirect object use)"
+            ],
+            "explanation": {
+                "en": "Contra consistently governs the accusative case in Latin: 'against something' uses the accusative. Tussim is the classical accusative singular of tussis. The distractor 'ablative singular' is designed for students who confuse contra with other prepositions that govern the ablative (sub, de, ex, etc.)."
+            }
+        },
+        {
+            "cardId": "pi-114",
+            "type": "mcq",
+            "question": {
+                "en": "If you see 'tussium' in a Latin prescription, what is its case and number?"
+            },
+            "correctAnswer": "Genitive plural",
+            "options": [
+                "Genitive plural",
+                "Accusative plural (but accusative pl would be tusses, not tussium)",
+                "Nominative plural (but nom pl is tusses, not tussium)",
+                "Genitive singular (but gen sg is tussis, not tussium)"
+            ],
+            "explanation": {
+                "en": "Tussium is the genitive plural of tussis (-ium marks pure i-stem gen pl). All distractors are real cases and numbers of tussis but with different forms: tusses = nom/acc pl, tussis = gen sg. Being able to identify tussium on sight as genitive plural -ium is the core skill."
+            }
+        },
+        {
+            "cardId": "pi-115",
+            "type": "mcq",
+            "question": {
+                "en": "What is the correct genitive plural of dosis, is f?"
+            },
+            "correctAnswer": "dosium",
+            "options": [
+                "dosium",
+                "dosum (consonant-stem gen pl -um — the wrong pattern)",
+                "dosibus (dative/ablative plural — wrong case)",
+                "dosis (same as nominative and genitive singular — wrong number)"
+            ],
+            "explanation": {
+                "en": "Dosis is a pure i-stem feminine noun, so its genitive plural is -ium: dosium. Option dosum is the consonant-stem alternative and the most likely student error. Dosibus is the dative/ablative plural; plain dosis is singular. Example: 'trium dosium' = 'of three doses' (gen pl in context)."
+            }
+        },
+        {
+            "cardId": "pi-116",
+            "type": "mcq",
+            "question": {
+                "en": "What does the suffix -ptosis mean in medical terminology?"
+            },
+            "correctAnswer": "Falling, drooping, or prolapse of a structure",
+            "options": [
+                "Falling, drooping, or prolapse of a structure",
+                "Hardening or induration (-sclerosis signals that)",
+                "Inflammation or reaction (-itis signals that)",
+                "Formation or production (-genesis / -poiesis signals that)"
+            ],
+            "explanation": {
+                "en": "Ptosis comes from Greek ptōsis (falling). It denotes downward displacement or prolapse. The distractors are each major competing suffixes: -sclerosis (hardening), -itis (inflammation), -genesis (formation). Recognizing -ptosis as prolapse allows rapid decoding of gastroptosis, nephroptosis, blepharoptosis, etc."
+            }
+        },
+        {
+            "cardId": "pi-117",
+            "type": "mcq",
+            "question": {
+                "en": "What is nephroptosis?"
+            },
+            "correctAnswer": "Downward displacement or prolapse of the kidney",
+            "options": [
+                "Downward displacement or prolapse of the kidney",
+                "Formation of kidney stones (nephrolithiasis)",
+                "Inflammation of the kidney (nephritis)",
+                "Hardening or fibrosis of the kidney (nephrosclerosis)"
+            ],
+            "explanation": {
+                "en": "Nephroptosis = nephro- (kidney) + ptosis (prolapse). All distractors use nephro- with different suffixes: -lithiasis (stones), -itis (inflammation), -sclerosis (hardening). This tests whether students have internalized -ptosis as prolapse vs -lithiasis, -itis, and -sclerosis as distinct processes."
+            }
+        },
+        {
+            "cardId": "pi-118",
+            "type": "mcq",
+            "question": {
+                "en": "What does pathogenesis mean?"
+            },
+            "correctAnswer": "The origin and mechanism of development of a disease",
+            "options": [
+                "The origin and mechanism of development of a disease",
+                "The study or science of disease (pathology)",
+                "The clinical identification of a disease (diagnosis)",
+                "The prediction of the future course of a disease (prognosis)"
+            ],
+            "explanation": {
+                "en": "Pathogenesis = patho- (disease/suffering) + genesis (origin/formation). It describes how a disease develops mechanistically. Pathology is the broader science of disease. Diagnosis identifies the disease. Prognosis predicts the outcome. The -genesis element anchors the meaning in 'development and origin'."
+            }
+        },
+        {
+            "cardId": "pi-119",
+            "type": "mcq",
+            "question": {
+                "en": "What does the element path- / patho- mean?"
+            },
+            "correctAnswer": "Disease / suffering",
+            "options": [
+                "Disease / suffering",
+                "Treatment or therapy (that is therap-)",
+                "Origin or formation (that is gen-)",
+                "Dissolution or destruction (that is -lysis)"
+            ],
+            "explanation": {
+                "en": "Path- means disease or suffering. This element appears in pathogenesis (disease origin), pathology (study of disease), and many others. The distractors are all morphological elements from this deck: therap- (treatment), gen- (origin), -lysis (dissolution) — each a distinct and important concept."
+            }
+        },
+        {
+            "cardId": "pi-120",
+            "type": "mcq",
+            "question": {
+                "en": "What is arteriosclerosis?"
+            },
+            "correctAnswer": "Hardening and thickening of arterial walls (general term)",
+            "options": [
+                "Hardening and thickening of arterial walls (general term)",
+                "Narrowing of arteries due to muscle spasm (vasospasm — different mechanism)",
+                "Dissolution of arterial plaque (plaque regression — different process)",
+                "Rupture of an arterial wall (dissection or aneurysm — different pathology)"
+            ],
+            "explanation": {
+                "en": "Arteriosclerosis = arterio- + sclerosis (hardening). It is the general umbrella term for arterial wall hardening. The distractors represent other arterial pathologies: vasospasm (spasm/narrowing), plaque regression (dissolution), and wall rupture — all real but mechanistically distinct."
+            }
+        },
+        {
+            "cardId": "pi-121",
+            "type": "mcq",
+            "question": {
+                "en": "What is the key distinction between arteriosclerosis and atherosclerosis?"
+            },
+            "correctAnswer": "Arteriosclerosis = general arterial hardening; atherosclerosis = specific form involving lipid plaque deposition in intima",
+            "options": [
+                "Arteriosclerosis = general arterial hardening; atherosclerosis = specific form involving lipid plaque deposition in intima",
+                "Arteriosclerosis affects veins; atherosclerosis affects arteries",
+                "Arteriosclerosis is always fatal; atherosclerosis is always reversible",
+                "They are complete synonyms — the distinction has no clinical relevance"
+            ],
+            "explanation": {
+                "en": "Arteriosclerosis is the broad category of arterial stiffening/hardening. Atherosclerosis is its most common and clinically important subtype, defined by atheroma (lipid-rich plaque) formation in the arterial intima. The prefix athero- (from Greek athere = porridge/gruel) signals the plaque-specific mechanism."
+            }
+        },
+        {
+            "cardId": "pi-122",
+            "type": "mcq",
+            "question": {
+                "en": "What is cholestasis?"
+            },
+            "correctAnswer": "Impaired or halted flow of bile",
+            "options": [
+                "Impaired or halted flow of bile",
+                "Formation of gallstones / biliary calculi (cholelithiasis)",
+                "Inflammation of the bile ducts (cholangitis)",
+                "Dissolution of bile salts (a therapeutic process, not a condition)"
+            ],
+            "explanation": {
+                "en": "Cholestasis = cholo- (bile) + stasis (stoppage). This tests -stasis against clinically related biliary processes: cholelithiasis (stone formation), cholangitis (inflammation), and bile salt dissolution. Recognizing -stasis as flow cessation, not stone formation or inflammation, is the key skill."
+            }
+        },
+        {
+            "cardId": "pi-123",
+            "type": "mcq",
+            "question": {
+                "en": "What is fibrinolysis?"
+            },
+            "correctAnswer": "Dissolution of a fibrin clot",
+            "options": [
+                "Dissolution of a fibrin clot",
+                "Formation of a fibrin clot (fibrinogenesis / coagulation)",
+                "Hardening of fibrous tissue (fibrosis / sclerosis)",
+                "Inflammation of fibrous membranes (fibrositis)"
+            ],
+            "explanation": {
+                "en": "Fibrinolysis = fibrin + lysis (dissolution). The primary distractor is fibrin clot formation — the direct opposite process. Fibrosis (hardening) and fibrositis (inflammation) are structurally related but involve different suffix meanings. This card reinforces -lysis as dissolution, contrasting it with formation and hardening."
+            }
+        },
+        {
+            "cardId": "pi-124",
+            "type": "mcq",
+            "question": {
+                "en": "What is thrombolysis?"
+            },
+            "correctAnswer": "Dissolution of a thrombus / blood clot",
+            "options": [
+                "Dissolution of a thrombus / blood clot",
+                "Formation of a thrombus (thrombosis — the opposite, a key look-alike)",
+                "Inflammation of a vein with thrombus (thrombophlebitis)",
+                "Surgical removal of a thrombus (thrombectomy)"
+            ],
+            "explanation": {
+                "en": "Thrombolysis = thrombo- + lysis (dissolution). The prime distractor is thrombosis (formation) — it shares the thrombo- prefix but the suffix determines the opposite meaning. Thrombophlebitis and thrombectomy are related procedures but involve inflammation and surgical excision respectively."
+            }
+        },
+        {
+            "cardId": "pi-125",
+            "type": "mcq",
+            "question": {
+                "en": "In clinical context, what does the suffix -lysis tell you about a therapeutic intervention?"
+            },
+            "correctAnswer": "The intervention causes dissolution or breakdown of a substance or structure",
+            "options": [
+                "The intervention causes dissolution or breakdown of a substance or structure",
+                "The intervention causes formation or production (that is -genesis/-poiesis)",
+                "The intervention causes hardening or stabilization (that is -sclerosis)",
+                "The intervention causes narrowing or constriction (that is -stenosis)"
+            ],
+            "explanation": {
+                "en": "In therapeutic naming (thrombolysis, fibrinolysis, lipolysis), -lysis consistently signals that the agent or procedure breaks down the named substance. All distractors use real suffixes from this deck: -genesis/-poiesis (formation), -sclerosis (hardening), -stenosis (narrowing). This is a suffix-function synthesis question."
+            }
+        },
+      {
+  "cardId": "pi-126",
+  "type": "mcq",
+  "question": {
+    "en": "What is calcar avis in neuroanatomy?"
+  },
+  "correctAnswer": "A spur-like elevation on the medial wall of the posterior horn of the lateral ventricle",
+  "options": [
+    "A spur-like elevation on the medial wall of the posterior horn of the lateral ventricle",
+    "An elongated ridge produced by the collateral eminence in the inferior horn of the lateral ventricle",
+    "A rounded elevation formed by the head of the caudate nucleus in the anterior horn of the lateral ventricle",
+    "A longitudinal ridge produced by the thalamus along the floor of the third ventricle"
+  ],
+  "explanation": {
+    "en": "Calcar avis ('spur of the bird') is a ridge on the medial wall of the posterior (occipital) horn of the lateral ventricle. It is produced by indentation of the calcarine sulcus from the medial surface of the occipital lobe. Other ventricular elevations exist, such as the collateral eminence in the inferior horn and the impression of the caudate nucleus in the anterior horn, but these are distinct anatomical structures."
+  }
+},
+        {
+            "cardId": "pi-127",
+            "type": "mcq",
+            "question": {
+                "en": "What does rete testis refer to?"
+            },
+            "correctAnswer": "An anastomosing network of ducts in the testis conveying sperm from seminiferous tubules to efferent ductules",
+            "options": [
+                "An anastomosing network of ducts in the testis conveying sperm from seminiferous tubules to efferent ductules",
+                "A venous plexus surrounding the testis (plexus pampiniformis — different structure)",
+                "The blood-testis barrier formed by Sertoli cells",
+                "The testicular artery entering at the hilum"
+            ],
+            "explanation": {
+                "en": "Rete testis is the network of ducts forming a transitional pathway within the testis. The plexus pampiniformis is a real anatomical venous network associated with the testis but external to it. The blood-testis barrier is a cellular phenomenon, not a named rete. The testicular artery is a vessel, not a duct network."
+            }
+        },
+        {
+            "cardId": "pi-128",
+            "type": "mcq",
+            "question": {
+                "en": "What does angiogenesis mean?"
+            },
+            "correctAnswer": "Formation of new blood vessels",
+            "options": [
+                "Formation of new blood vessels",
+                "Dissolution or regression of blood vessels (angionecrosis / vascular regression)",
+                "Hardening of blood vessel walls (arteriosclerosis)",
+                "Narrowing of a blood vessel (stenosis / vasoconstriction)"
+            ],
+            "explanation": {
+                "en": "Angiogenesis = angio- (vessel) + genesis (formation). This tests the -genesis element against opposing vascular processes: dissolution (lysis), hardening (sclerosis), and narrowing (stenosis). All distractors use vocabulary from this deck, making the correct identification of -genesis as 'formation' the determining skill."
+            }
+        },
+        {
+            "cardId": "pi-129",
+            "type": "mcq",
+            "question": {
+                "en": "What is the key functional distinction between -genesis and -poiesis as medical suffixes?"
+            },
+            "correctAnswer": "-genesis = origin or formation broadly; -poiesis = productive formation, especially of blood cells or secretions",
+            "options": [
+                "-genesis = origin or formation broadly; -poiesis = productive formation, especially of blood cells or secretions",
+                "They are strict synonyms — genesis and poiesis are interchangeable in all medical contexts",
+                "-genesis = destruction; -poiesis = formation (opposite meanings)",
+                "-genesis = pathological formation; -poiesis = physiological formation only"
+            ],
+            "explanation": {
+                "en": "-Genesis (from Greek genesis = birth/origin) and -poiesis (from Greek poiein = to make) both denote formation, but -poiesis is preferentially used for cellular production (hematopoiesis, erythropoiesis, thrombopoiesis). They are not interchangeable — you would not say 'hematogenesis' to mean blood cell production. Option C reverses their meanings."
+            }
+        },
+        {
+            "cardId": "pi-130",
+            "type": "mcq",
+            "question": {
+                "en": "In 'diagnosis bona, curatio bona', why is the adjective bona (and not bonus or bonum) used?"
+            },
+            "correctAnswer": "Both diagnosis and curatio are feminine nouns, requiring the feminine nominative singular adjective bona",
+            "options": [
+                "Both diagnosis and curatio are feminine nouns, requiring the feminine nominative singular adjective bona",
+                "Bona is an indeclinable adverb form used with medical nouns",
+                "Medical Latin always uses the feminine adjective regardless of noun gender",
+                "Bona is the neuter plural form agreeing with multiple nouns"
+            ],
+            "explanation": {
+                "en": "Diagnosis (from the -sis group) and curatio (1st-declension -tio) are both feminine. Therefore the agreeing adjective must be feminine nominative singular: bona (not masculine bonus or neuter bonum). This tests understanding that agreement applies across different declensions — a core Latin skill."
+            }
+        },
+        {
+            "cardId": "pi-131",
+            "type": "mcq",
+            "question": {
+                "en": "Which adjective form correctly agrees with rete (neuter nominative singular) in a nominal phrase?"
+            },
+            "correctAnswer": "Neuter nominative singular adjective form (e.g., arteriosum, not arteriosa or arteriosus)",
+            "options": [
+                "Neuter nominative singular adjective form (e.g., arteriosum, not arteriosa or arteriosus)",
+                "Feminine nominative singular form, because rete is an -is genitive noun",
+                "Masculine nominative singular form, because network structures are conventionally masculine",
+                "The adjective takes the same ending as the genitive singular: retis → arteriosis"
+            ],
+            "explanation": {
+                "en": "Rete is neuter, so its agreeing adjective must be neuter: arteriosum (not arteriosa or arteriosus). Option B is a trap for students who see the genitive retis and mistake the noun's gender. Adjective agreement follows the noun's actual gender, not its declension or genitive ending."
+            }
+        },
+        {
+            "cardId": "pi-132",
+            "type": "mcq",
+            "question": {
+                "en": "What is the nominative plural of crisis, is f?"
+            },
+            "correctAnswer": "crises",
+            "options": [
+                "crises",
+                "crisia (false neuter plural — crisis is feminine, not neuter)",
+                "crisis (same as nominative/genitive singular — wrong number)",
+                "crisium (genitive plural — wrong case)"
+            ],
+            "explanation": {
+                "en": "Feminine 3rd-declension nouns take nominative plural -es: crises. Option crisia would be correct if crisis were neuter (like mare → maria) — a deliberate neuter-analogy trap. Option crisis is the singular form. Crisium is the genitive plural — another tempting wrong answer for students who know -ium but apply it to the wrong case."
+            }
+        },
+        {
+            "cardId": "pi-133",
+            "type": "mcq",
+            "question": {
+                "en": "What is the nominative plural of dosis, is f?"
+            },
+            "correctAnswer": "doses",
+            "options": [
+                "doses",
+                "dosia (false neuter plural applied to a feminine noun)",
+                "dosis (nominative/genitive singular — wrong number)",
+                "dosium (genitive plural — wrong case)"
+            ],
+            "explanation": {
+                "en": "Dosis is feminine, not neuter, so nominative plural = doses (-es, standard m/f 3rd-declension plural). Dosia would only be correct for a neuter pure i-stem. Dosium is the genitive plural (correct case/number but wrong for nominative plural). Dosis remains the singular form."
+            }
+        },
+       {
+      "cardId": "pi-134",
+      "type": "mcq",
+      "question": {
+        "en": "Which Latin phrase correctly means 'arterial sclerosis'?"
+      },
+      "correctAnswer": "sclerosis arterialis",
+      "options": [
+        "sclerosis arterialis",
+        "arteriosclerosis",
+        "sclerosis arteriarum",
+        "arteria sclerotica"
+      ],
+      "explanation": {
+        "en": "Sclerosis arterialis means arterial sclerosis. Arteriosclerosis is the compound Greek-Latin medical term. Sclerosis arteriarum means sclerosis of the arteries (genitive plural). Arteria sclerotica instead describes a sclerotic artery rather than the disease process."
+      }
+    },
+        {
+            "cardId": "pi-135",
+            "type": "mcq",
+            "question": {
+                "en": "What does 'diagnosis ex juvantibus' mean?"
+            },
+            "correctAnswer": "Diagnosis inferred from what alleviates the patient's symptoms (by what helps)",
+            "options": [
+                "Diagnosis inferred from what alleviates the patient's symptoms (by what helps)",
+                "Diagnosis by exclusion of all other conditions",
+                "Diagnosis by systematic comparison of similar diseases",
+                "Diagnosis established by laboratory or imaging findings"
+            ],
+            "explanation": {
+                "en": "Ex juvantibus comes from juvare (to help/benefit). If giving a specific treatment relieves symptoms, this response itself informs the diagnosis. This is a distinct diagnostic reasoning strategy from exclusion (ex exclusione), comparison (differentialis), and objective investigation. Example: empirical antifungal therapy confirming a fungal diagnosis by clinical improvement."
+            }
+        },
+        {
+            "cardId": "pi-136",
+            "type": "mcq",
+            "question": {
+                "en": "In the phrase 'cavitas pelvis', identify the case of 'pelvis':"
+            },
+            "correctAnswer": "Genitive singular (of the pelvis — specifying which cavity)",
+            "options": [
+                "Genitive singular (of the pelvis — specifying which cavity)",
+                "Nominative singular (the pelvis as subject)",
+                "Ablative singular (from / by / in the pelvis)",
+                "Accusative singular (the pelvis as direct object)"
+            ],
+            "explanation": {
+                "en": "In cavitas pelvis, pelvis modifies cavitas by specifying what kind of cavity: 'the cavity of the pelvis.' This is a possessive/descriptive genitive singular. Nominative, ablative, and accusative would serve different syntactic roles not fitting this attributive noun phrase structure."
+            }
+        },
+        {
+      "cardId": "pi-137",
+      "type": "mcq",
+      "question": {
+        "en": "Which of the following is a consonant stem (NOT a pure i-stem)?"
+      },
+      "correctAnswer": "cor, cordis n",
+      "options": [
+        "cor, cordis n",
+        "febris, is f",
+        "rete, is n",
+        "animal, alis n"
+      ],
+      "explanation": {
+        "en": "Cor, cordis is a neuter consonant stem and not a pure i-stem. Febris is a parisyllabic feminine pure i-stem, while rete and animal belong to the neuter pure i-stem subgroups (-e and -al respectively)."
+      }
+    },
+         {
+      "cardId": "pi-138",
+      "type": "mcq",
+      "question": {
+        "en": "Which noun has genitive plural in -um rather than -ium?"
+      },
+      "correctAnswer": "corpus, corporis n",
+      "options": [
+        "corpus, corporis n",
+        "febris, is f",
+        "dosis, is f",
+        "animal, alis n"
+      ],
+      "explanation": {
+        "en": "Corpus is a consonant-stem neuter noun with genitive plural corporum (-um). Febris, dosis, and animal are pure i-stems and therefore form their genitive plural with -ium."
+      }
+    },
+        {
+            "cardId": "pi-139",
+            "type": "mcq",
+            "question": {
+                "en": "What is the classical accusative singular of pelvis, is f?"
+            },
+            "correctAnswer": "pelvim (classical pure i-stem -im)",
+            "options": [
+                "pelvim (classical pure i-stem -im)",
+                "pelvem (later consonant-stem replacement accusative)",
+                "pelvi (ablative singular — wrong case)",
+                "pelvis (nominative/genitive singular — wrong case)"
+            ],
+            "explanation": {
+                "en": "Pelvis follows the same pattern as febris and tussis: classical accusative singular -im → pelvim. Option pelvem is the later replacement form. Pelvi is the ablative singular (or old locative). Pelvis is the nominative/genitive singular. Example: 'per pelvim' = through the pelvis (but requires accusative, so 'per pelvim' or 'per pelvem' depending on period)."
+            }
+        },
+        {
+            "cardId": "pi-140",
+            "type": "mcq",
+            "question": {
+                "en": "In 'Amor tussisque non celantur', what is the grammatical function of '-que' attached to tussisque?"
+            },
+            "correctAnswer": "An enclitic conjunction meaning 'and', making tussisque = tussis + and",
+            "options": [
+                "An enclitic conjunction meaning 'and', making tussisque = tussis + and",
+                "A genitive case ending indicating 'of the cough'",
+                "A suffix transforming tussis into an adjective meaning 'cough-related'",
+                "A diminutive suffix indicating a small or mild cough"
+            ],
+            "explanation": {
+                "en": "In Latin, -que is an enclitic conjunction (and) appended to the second of two connected words. Amor tussisque = amor et tussis = love and cough. This also confirms that tussis here is nominative singular serving as the second subject of celantur (are concealed). This question tests both the grammatical knowledge of -que and the ability to parse complex Latin structures."
+            }
+        },
+        {
+            "cardId": "pi-141",
+            "type": "mcq",
+            "question": {
+                "en": "Which form is the ablative singular of rete, is n?"
+            },
+            "correctAnswer": "reti",
+            "options": [
+                "reti",
+                "rete (nominative = accusative singular — neuter rule, not ablative)",
+                "retis (genitive singular — wrong case)",
+                "retia (nominative/accusative plural — wrong number and case)"
+            ],
+            "explanation": {
+                "en": "Neuter pure i-stems consistently preserve ablative singular -i: rete → reti. Option rete is correct for nominative and accusative singular (neuter nom = acc) but not ablative. Retis is genitive singular. Retia is the nominative/accusative plural. Example: 'in reti' = in the network (ablative of location)."
+            }
+        },
+        {
+            "cardId": "pi-142",
+            "type": "mcq",
+            "question": {
+                "en": "Which of the following endings is unique to pure i-stem plurals and not shared with any other 3rd-declension pattern?"
+            },
+            "correctAnswer": "Nominative/accusative plural -ia (neuter) and genitive plural -ium",
+            "options": [
+                "Nominative/accusative plural -ia (neuter) and genitive plural -ium",
+                "Nominative plural -es (shared with all 3rd-declension m/f nouns)",
+                "Ablative plural -ibus (shared across the entire 3rd declension)",
+                "Dative plural -ibus (shared across the entire 3rd declension)"
+            ],
+            "explanation": {
+                "en": "The only truly unique endings are the neuter plural -ia and genitive plural -ium. Nominative plural -es, ablative plural -ibus, and dative plural -ibus are all shared with consonant stems and therefore non-diagnostic. This card synthesizes the entire paradigm into a discrimination rule."
+            }
+        },
+        {
+            "cardId": "pi-143",
+            "type": "mcq",
+            "question": {
+                "en": "A student finds the form 'animalium' in an anatomy text. What is it?"
+            },
+            "correctAnswer": "Genitive plural of animal, alis n",
+            "options": [
+                "Genitive plural of animal, alis n",
+                "Nominative plural of animal, alis n (that would be animalia)",
+                "Accusative plural of animal, alis n (that would be animalia)",
+                "Ablative plural of animal, alis n (that would be animalibus)"
+            ],
+            "explanation": {
+                "en": "Animalium is the genitive plural: stem animal- + -ium. Animalia is both nominative and accusative plural (neuter rule). Animalibus is dative/ablative plural. This card trains rapid case identification for neuter pure i-stem forms when encountered in texts."
+            }
+        },
+        {
+            "cardId": "pi-144",
+            "type": "mcq",
+            "question": {
+                "en": "Which is the most complete and accurate exam summary of 3rd-declension pure i-stem morphology?"
+            },
+            "correctAnswer": "Two subgroups: (1) m/f parisyllabic -is/-is with gen pl -ium, classical acc sg -im, abl sg -i; (2) neuter -e/-al/-ar with abl sg -i, nom/acc pl -ia, gen pl -ium",
+            "options": [
+                "Two subgroups: (1) m/f parisyllabic -is/-is with gen pl -ium, classical acc sg -im, abl sg -i; (2) neuter -e/-al/-ar with abl sg -i, nom/acc pl -ia, gen pl -ium",
+                "One group only: all 3rd-declension nouns ending in -is are pure i-stems with gen pl -ium",
+                "Two subgroups: m/f in -is with gen pl -um, and neuter in -e/-al/-ar with nom/acc pl -a",
+                "The only diagnostic feature is genitive plural -ium; all other endings are identical to consonant stems"
+            ],
+            "explanation": {
+                "en": "Option A correctly states both subgroups with their characteristic endings. Option B wrongly claims all -is nouns are pure i-stems (imparisyllabic nouns like rex, regis are not). Option C gives consonant-stem endings (-um, -a) to both groups — the classic error. Option D is partially true but incomplete: ablative -i and neuter -ia are also diagnostic and should not be ignored."
+            }
+        },
+        {
+            "cardId": "pi-145",
+            "type": "mcq",
+            "question": {
+                "en": "In a Latin medical formula, you encounter the phrase 'contra febrim et tussim'. What grammatical pattern does this demonstrate?"
+            },
+            "correctAnswer": "Both febrim and tussim are classical pure i-stem accusative singular forms governed by the preposition contra",
+            "options": [
+                "Both febrim and tussim are classical pure i-stem accusative singular forms governed by the preposition contra",
+                "Both are ablative singular forms — contra governs the ablative in Latin",
+                "Febrim and tussim are genitive plural forms indicating 'of fevers and of coughs'",
+                "The -im ending shows these are 2nd-declension masculine accusative forms"
+            ],
+            "explanation": {
+                "en": "Contra governs the accusative case. The -im forms (febrim, tussim) are the classical pure i-stem accusative singular. Option B is wrong: contra does not govern the ablative. Option C confuses accusative singular -im with genitive plural -ium. Option D attributes -im to the 2nd declension, which uses -um for the masculine accusative singular. This phrase is a clean synthesis test of preposition, case, and pure i-stem knowledge."
+            }
+        }
+    ]
+}

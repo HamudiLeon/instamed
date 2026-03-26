@@ -1,0 +1,305 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-exam-prep",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Rapid Integrated Review",
+      "de": "Medizinisches Latein — Kompakte integrierte Wiederholung"
+    },
+    "description": {
+      "en": "Compact review deck for first-year Medical Latin exam preparation. Integrates high-yield pronunciation rules, accent placement, combining vowels, basic term formation, grammatical concord, and standard medical sayings into a short mixed format designed for rapid consolidation and pre-exam recall.",
+      "de": "Kompaktes Wiederholungsdeck zur Vorbereitung auf die Prüfung in Medizinischem Latein im ersten Studienjahr. Es verbindet zentrale Ausspracheregeln, Akzentsetzung, Verbindungsvokale, grundlegende Terminologiebildung, grammatische Kongruenz und geläufige medizinische Sentenzen in einem kurzen gemischten Format zur raschen Festigung und unmittelbaren Prüfungsvorbereitung."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "exam-prep",
+      "pronunciation",
+      "accent",
+      "term-building",
+      "concord",
+      "sayings",
+      "rapid-review"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 20,
+    "cardCount": 20,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "card-011",
+      "type": "mcq",
+      "question": {
+        "en": "How is the letter 'C' pronounced in the word 'cysta'?"
+      },
+      "correctAnswer": "[ts]",
+      "options": ["[k]", "[ts]", "[s]", "[ch]"],
+      "explanation": {
+        "en": "Before soft vowels (e, i, y) and diphthongs (ae, oe, eu), 'c' is pronounced [ts]. In 'cysta', 'y' is a soft vowel, so c → [ts]: [TSÜS-ta]."
+      }
+    },
+    {
+      "cardId": "card-012",
+      "type": "mcq",
+      "question": {
+        "en": "How is 'C' pronounced in 'costa' or 'cutis'?"
+      },
+      "correctAnswer": "[k]",
+      "options": ["[ts]", "[k]", "[s]", "[h]"],
+      "explanation": {
+        "en": "Before hard vowels (a, o, u) and consonants, 'c' is pronounced [k]. 'Costa' [KOS-ta] and 'cutis' [KU-tis] both begin with hard vowels."
+      }
+    },
+    {
+      "cardId": "card-013",
+      "type": "mcq",
+      "question": {
+        "en": "In the word 'sanguis', how is the combination 'ngu' pronounced?"
+      },
+      "correctAnswer": "[ngv]",
+      "options": ["[ng]", "[ngu]", "[ngv]", "[nv]"],
+      "explanation": {
+        "en": "In Latin-origin words, 'ngu' before a vowel is pronounced [ngv]. 'Sanguis' (blood) → [SAN-gvis]. The 'u' after 'g' takes the [v] value, as in 'qu' → [kv]."
+      }
+    },
+    {
+      "cardId": "card-014",
+      "type": "mcq",
+      "question": {
+        "en": "Where is the accent placed in a word consisting of only two syllables?"
+      },
+      "correctAnswer": "always on the first syllable",
+      "options": ["always on the first syllable", "always on the second syllable", "it depends on vowel length", "the final syllable"],
+      "explanation": {
+        "en": "Dissyllables always carry accent on the first (and only possible) non-final syllable. Example: 'os' [OS], 'vena' [VE-na], 'femur' [FE-mur]."
+      }
+    },
+    {
+      "cardId": "card-015",
+      "type": "mcq",
+      "question": {
+        "en": "Which syllable of a Latin medical term is NEVER stressed?"
+      },
+      "correctAnswer": "the final syllable",
+      "options": ["the first syllable", "the penult", "the final syllable", "the antepenult"],
+      "explanation": {
+        "en": "The ultima (final syllable) is never accented in Latin. Stress falls on the penult if it is long, otherwise on the antepenult."
+      }
+    },
+    {
+      "cardId": "card-016",
+      "type": "mcq",
+      "question": {
+        "en": "What is the general rule for using Latin vs. Greek roots in medical terminology?"
+      },
+      "correctAnswer": "Latin for anatomy, Greek for pathology/treatment",
+      "options": [
+        "Greek for anatomy, Latin for pathology",
+        "Latin for anatomy, Greek for pathology/treatment",
+        "Both are used interchangeably for anatomy",
+        "Only Latin is used for clinical terms"
+      ],
+      "explanation": {
+        "en": "By convention, anatomical structures are named in Latin (e.g., 'musculus', 'arteria'), while disease states and therapeutic terms derive from Greek (e.g., 'myositis', 'cardiotomy')."
+      }
+    },
+    {
+      "cardId": "card-017",
+      "type": "mcq",
+      "question": {
+        "en": "What does the Greek prefix 'a-' or 'an-' signify?"
+      },
+      "correctAnswer": "without or absence of",
+      "options": ["against", "excessive", "without or absence of", "around"],
+      "explanation": {
+        "en": "'a-' (before consonants) and 'an-' (before vowels) mean 'without' or 'absence of'. Example: 'apnoea' = absence of breathing; 'anaemia' = absence of sufficient blood/haemoglobin."
+      }
+    },
+    {
+      "cardId": "card-018",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of the clinical suffix '-itis'?"
+      },
+      "correctAnswer": "inflammation",
+      "options": ["tumor", "pain", "inflammation", "softening"],
+      "explanation": {
+        "en": "'-itis' denotes inflammation of the named structure. Example: 'gastritis' = inflammation of the stomach; 'appendicitis' = inflammation of the appendix."
+      }
+    },
+    {
+      "cardId": "card-019",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of the clinical suffix '-oma'?"
+      },
+      "correctAnswer": "tumor or neoplasm",
+      "options": ["inflammation", "tumor or neoplasm", "incision", "paralysis"],
+      "explanation": {
+        "en": "'-oma' indicates a tumour or abnormal mass. Example: 'carcinoma' = malignant epithelial tumour; 'adenoma' = benign glandular tumour. Not all -omas are malignant."
+      }
+    },
+    {
+      "cardId": "card-020",
+      "type": "mcq",
+      "question": {
+        "en": "What does the root 'gastr-' refer to?"
+      },
+      "correctAnswer": "stomach",
+      "options": ["liver", "intestine", "stomach", "vessel"],
+      "explanation": {
+        "en": "'gastr-' is the Greek root for stomach (gaster). Example: 'gastritis' = stomach inflammation; 'gastrectomy' = surgical removal of the stomach."
+      }
+    },
+    {
+      "cardId": "card-021",
+      "type": "mcq",
+      "question": {
+        "en": "What is the combining vowel usually used for Greek roots?"
+      },
+      "correctAnswer": "-o-",
+      "options": ["-a-", "-e-", "-i-", "-o-"],
+      "explanation": {
+        "en": "Greek roots use '-o-' as the combining vowel when joined to another element. Example: 'gastro-enterology' (gastr- + o + enter- + o + -logia)."
+      }
+    },
+    {
+      "cardId": "card-022",
+      "type": "mcq",
+      "question": {
+        "en": "What is the combining vowel usually used for Latin roots?"
+      },
+      "correctAnswer": "-i-",
+      "options": ["-a-", "-e-", "-i-", "-o-"],
+      "explanation": {
+        "en": "Latin roots take '-i-' as the combining vowel. Example: 'dorsi-flexio' (dors- + i + flexio); 'ossification' (oss- + i + -ficatio)."
+      }
+    },
+    {
+      "cardId": "card-023",
+      "type": "mcq",
+      "question": {
+        "en": "Define 'syngnathia' based on its word parts."
+      },
+      "correctAnswer": "condition of joined jaws",
+      "options": [
+        "inflammation of the jaw",
+        "absence of the jaw",
+        "condition of joined jaws",
+        "surgical repair of the jaw"
+      ],
+      "explanation": {
+        "en": "syn- (together/joined) + gnath- (jaw) + -ia (condition/state). 'Syngnathia' is a congenital fusion of the upper and lower jaws."
+      }
+    },
+    {
+      "cardId": "card-024",
+      "type": "mcq",
+      "question": {
+        "en": "What is the English translation of 'Nulla est medicina sine lingua Latina'?"
+      },
+      "correctAnswer": "Medicine is nothing without the Latin language",
+      "options": [
+        "First, do no harm",
+        "Medicine is nothing without the Latin language",
+        "Repetition is the mother of study",
+        "Note well"
+      ],
+      "explanation": {
+        "en": "A maxim used in medical education to stress that Latin is the foundation of clinical and anatomical terminology. Word-for-word: nulla (none/nothing) + est (is) + medicina (medicine) + sine (without) + lingua (language) + Latina (Latin)."
+      }
+    },
+    {
+      "cardId": "card-025",
+      "type": "mcq",
+      "question": {
+        "en": "Translate 'Primum non nocere'."
+      },
+      "correctAnswer": "First, do no harm",
+      "options": [
+        "First, do no harm",
+        "The truth never perishes",
+        "Note well",
+        "Heal yourself"
+      ],
+      "explanation": {
+        "en": "'Primum non nocere' — the foundational bioethical principle attributed to Hippocratic teaching. Word-for-word: primum (first) + non (not) + nocere (to harm)."
+      }
+    },
+    {
+      "cardId": "card-026",
+      "type": "mcq",
+      "question": {
+        "en": "What is the meaning of 'haematologia'?"
+      },
+      "correctAnswer": "the study of blood",
+      "options": ["the study of blood", "blood poisoning", "red blood cell", "bleeding"],
+      "explanation": {
+        "en": "haemat- (blood, Greek haima) + -o- (combining vowel) + -logia (study of). 'Haematologia' is the medical specialty concerned with blood and blood-forming organs."
+      }
+    },
+    {
+      "cardId": "card-027",
+      "type": "mcq",
+      "question": {
+        "en": "When a suffix begins with a vowel (e.g., -itis), do you use a combining vowel?"
+      },
+      "correctAnswer": "No",
+      "options": ["Yes, always", "No", "Only if the root ends in a consonant", "Only for Greek roots"],
+      "explanation": {
+        "en": "The combining vowel is dropped when the suffix starts with a vowel. Example: 'arthr-' + '-itis' → 'arthritis' (not 'arthro-itis'). The combining vowel is retained only when the suffix begins with a consonant."
+      }
+    },
+    {
+      "cardId": "card-028",
+      "type": "mcq",
+      "question": {
+        "en": "In the complex term 'hepatocholangiocystoduodenostomia', what does 'angio' refer to?"
+      },
+      "correctAnswer": "duct or vessel",
+      "options": ["liver", "bile", "duct or vessel", "gallbladder"],
+      "explanation": {
+        "en": "In this compound, 'angio' (Greek angeion = vessel/duct) refers to the bile duct (cholangio = bile duct). The full term names a surgical anastomosis linking liver, bile duct, gallbladder, and duodenum."
+      }
+    },
+    {
+      "cardId": "card-029",
+      "type": "mcq",
+      "question": {
+        "en": "What does the Latin saying 'Repetitio est mater studiorum' mean?"
+      },
+      "correctAnswer": "Repetition is the mother of study",
+      "options": [
+        "Labor conquers all",
+        "Repetition is the mother of study",
+        "Time flies",
+        "Knowledge is power"
+      ],
+      "explanation": {
+        "en": "Word-for-word: repetitio (repetition) + est (is) + mater (mother) + studiorum (genitive plural of studium = study). A classical pedagogical maxim particularly relevant to memorising Latin medical terminology."
+      }
+    },
+    {
+      "cardId": "card-030",
+      "type": "mcq",
+      "question": {
+        "en": "What is 'Grammatical Concord' in Latin?"
+      },
+      "correctAnswer": "adjectives must match nouns in gender, number, and case",
+      "options": [
+        "nouns must always precede adjectives",
+        "adjectives must match nouns in gender, number, and case",
+        "only the first letter is capitalized",
+        "rhyming between words is mandatory"
+      ],
+      "explanation": {
+        "en": "Concord (concordantia) requires every adjective to agree with its noun in gender, number, and case — regardless of word order. Example: 'musculus longus' (m. nom. sg.) vs. 'ligamentum longum' (n. nom. sg.)."
+      }
+    }
+  ]
+}

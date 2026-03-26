@@ -1,0 +1,284 @@
+{
+  "schemaId": "studywithme-bg.vocab.v2",
+  "bookKey": "la-medical-phrases-teacher-deck",
+  "chapterKey": "ch-01-phrases-la-en",
+  "title": "Medical Latin Phrases (LA → EN)",
+  "items": [
+    {
+      "word": "intra musculum",
+      "translation": "intramuscular; within a muscle",
+      "hint": "prepositional medical phrase indicating route or location",
+      "examCue": "administration / anatomy"
+    },
+    {
+      "word": "per anum",
+      "translation": "by or through the anus",
+      "hint": "prepositional phrase with per",
+      "examCue": "administration route"
+    },
+    {
+      "word": "ante cibum",
+      "translation": "before a meal",
+      "hint": "timing phrase used in prescriptions",
+      "examCue": "pharmacy timing"
+    },
+    {
+      "word": "(in) loco typico",
+      "translation": "in a typical location",
+      "hint": "describes the usual anatomical or pathological site",
+      "examCue": "clinical description"
+    },
+    {
+      "word": "in utero",
+      "translation": "within the uterus; in the womb",
+      "hint": "common obstetric phrase",
+      "examCue": "obstetrics"
+    },
+    {
+      "word": "ad libitum",
+      "translation": "freely; as desired",
+      "hint": "phrase indicating no fixed restriction",
+      "examCue": "general medical instruction"
+    },
+    {
+      "word": "per rectum",
+      "translation": "by or through the rectum",
+      "hint": "administration or examination route",
+      "examCue": "administration route"
+    },
+    {
+      "word": "in vivo",
+      "translation": "in the living body",
+      "hint": "contrasts with in vitro",
+      "examCue": "research / biology"
+    },
+    {
+      "word": "in vitro",
+      "translation": "in glass; in an artificial environment",
+      "hint": "used for laboratory conditions outside the body",
+      "examCue": "research / biology"
+    },
+    {
+      "word": "salus per aquam",
+      "translation": "health through water",
+      "hint": "classical phrase behind the word spa",
+      "examCue": "historical medical Latin"
+    },
+    {
+      "word": "per os (PO)",
+      "translation": "by mouth; orally",
+      "hint": "standard prescription abbreviation",
+      "examCue": "administration route"
+    },
+    {
+      "word": "ex tempore",
+      "translation": "immediately; on the spot",
+      "hint": "prepared or done right away",
+      "examCue": "pharmacy / timing"
+    },
+    {
+      "word": "ab imo pectore",
+      "translation": "from the bottom of the heart; sincerely",
+      "hint": "idiomatic Latin phrase",
+      "examCue": "general phrase"
+    },
+    {
+      "word": "corpus sine pectore",
+      "translation": "a body without a soul",
+      "hint": "figurative phrase; source wording preserved",
+      "examCue": "general phrase"
+    },
+    {
+      "word": "pro ratione aetatis",
+      "translation": "according to age",
+      "hint": "used for age-adjusted consideration",
+      "examCue": "clinical instruction"
+    },
+    {
+      "word": "diagnosis ex exclusione",
+      "translation": "diagnosis by exclusion",
+      "hint": "diagnosis made after ruling out alternatives",
+      "examCue": "clinical reasoning"
+    },
+    {
+      "word": "erythema ab igni",
+      "translation": "localized erythema due to chronic heat exposure",
+      "hint": "dermatologic term",
+      "examCue": "dermatology"
+    },
+    {
+      "word": "contra febrim",
+      "translation": "against fever",
+      "hint": "therapeutic indication phrase",
+      "examCue": "treatment indication"
+    },
+    {
+      "word": "contra tussim",
+      "translation": "against cough; relieving cough",
+      "hint": "therapeutic indication phrase",
+      "examCue": "treatment indication"
+    },
+    {
+      "word": "pro dosi",
+      "translation": "for a dose",
+      "hint": "pharmaceutical instruction phrase",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "per mensem",
+      "translation": "monthly; by the month",
+      "hint": "time interval phrase",
+      "examCue": "timing"
+    },
+    {
+      "word": "rami ad pontem",
+      "translation": "branches to the pons",
+      "hint": "anatomical phrase from arterial supply",
+      "examCue": "neuroanatomy"
+    },
+    {
+      "word": "ante mortem",
+      "translation": "before death",
+      "hint": "contrasts with post mortem",
+      "examCue": "clinical timing"
+    },
+    {
+      "word": "post mortem",
+      "translation": "after death",
+      "hint": "used for examination after death",
+      "examCue": "forensic / pathology"
+    },
+    {
+      "word": "contra bonos mores",
+      "translation": "against good morals",
+      "hint": "legal-ethical Latin phrase",
+      "examCue": "ethics"
+    },
+    {
+      "word": "a capite ad calcem",
+      "translation": "from head to heel",
+      "hint": "describes complete examination or extent",
+      "examCue": "clinical description"
+    },
+    {
+      "word": "in partes aequales",
+      "translation": "in equal parts",
+      "hint": "prescription compounding phrase",
+      "examCue": "pharmacy"
+    },
+    {
+      "word": "dens in dente",
+      "translation": "tooth within a tooth",
+      "hint": "developmental dental anomaly",
+      "examCue": "dental"
+    },
+    {
+      "word": "pulvis pro dentibus",
+      "translation": "tooth powder",
+      "hint": "pharmaceutical or dental preparation",
+      "examCue": "dental / pharmacy"
+    },
+    {
+      "word": "vis a fronte",
+      "translation": "force acting from the front",
+      "hint": "mechanical directional phrase",
+      "examCue": "physics / anatomy"
+    },
+    {
+      "word": "vis a tergo",
+      "translation": "force acting from behind",
+      "hint": "mechanical directional phrase",
+      "examCue": "physics / anatomy"
+    },
+    {
+      "word": "in situ",
+      "translation": "in place; in its original position",
+      "hint": "used for anatomy and pathology",
+      "examCue": "clinical description"
+    },
+    {
+      "word": "carcinoma in situ",
+      "translation": "carcinoma confined to its site of origin",
+      "hint": "malignant cells without invasion beyond the original site",
+      "examCue": "oncology"
+    },
+    {
+      "word": "fetus in fetu",
+      "translation": "condition in which a malformed parasitic fetus is contained within another fetus",
+      "hint": "rare developmental anomaly; source normalized from typo",
+      "examCue": "embryology"
+    },
+    {
+      "word": "ad usum proprium",
+      "translation": "for one's own use",
+      "hint": "prescription or legal phrase",
+      "examCue": "pharmacy / legal"
+    },
+    {
+      "word": "post coitum",
+      "translation": "after sexual intercourse",
+      "hint": "timing phrase",
+      "examCue": "gynecology"
+    },
+    {
+      "word": "ante partum",
+      "translation": "before childbirth; antepartum",
+      "hint": "obstetric timing phrase",
+      "examCue": "obstetrics"
+    },
+    {
+      "word": "manus in mano",
+      "translation": "hand in hand",
+      "hint": "idiomatic phrase",
+      "examCue": "general phrase"
+    },
+    {
+      "word": "ante meridiem",
+      "translation": "before midday; a.m.",
+      "hint": "time phrase",
+      "examCue": "timing"
+    },
+    {
+      "word": "post meridiem",
+      "translation": "after midday; p.m.",
+      "hint": "time phrase",
+      "examCue": "timing"
+    },
+    {
+      "word": "per diem",
+      "translation": "per day; every day",
+      "hint": "common medical timing phrase",
+      "examCue": "timing"
+    },
+    {
+      "word": "dies a quo",
+      "translation": "the day from which",
+      "hint": "starting point in time calculation",
+      "examCue": "timing / legal"
+    },
+    {
+      "word": "in spe",
+      "translation": "in hope",
+      "hint": "idiomatic phrase",
+      "examCue": "general phrase"
+    },
+    {
+      "word": "pro re nata",
+      "translation": "as needed; when necessary",
+      "hint": "often abbreviated PRN",
+      "examCue": "pharmacy timing"
+    },
+    {
+      "word": "bis in die",
+      "translation": "twice a day",
+      "hint": "dosing frequency phrase",
+      "examCue": "pharmacy timing"
+    },
+    {
+      "word": "quater in die",
+      "translation": "four times a day",
+      "hint": "dosing frequency phrase; source normalized from typo 'quarter'",
+      "examCue": "pharmacy timing"
+    }
+  ]
+}
