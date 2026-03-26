@@ -1,0 +1,308 @@
+{
+  "schemaId": "studywithme-bg.vocab.v2",
+  "bookKey": "la-adjectiva-medica-core",
+  "chapterKey": "ch-01-la-en-enhanced",
+  "title": "Medical Latin Adjectives — Core Set I (LA → EN)",
+  "items": [
+    {
+      "word": "abdominalis, e",
+      "translation": "pertaining to the abdomen; belly-region",
+      "hint": "used for structures, pain, walls, or organs of the abdomen",
+      "examCue": "abdomen"
+    },
+    {
+      "word": "abducens, ntis",
+      "translation": "moving away from the midline",
+      "hint": "describes outward movement; e.g. abducens nerve moves the eye laterally",
+      "examCue": "away from midline"
+    },
+    {
+      "word": "abscedens, ntis",
+      "translation": "forming pus; tending to suppurate",
+      "hint": "used for lesions or processes that develop into an abscess",
+      "examCue": "pus-forming"
+    },
+    {
+      "word": "adducens, ntis",
+      "translation": "moving toward the midline",
+      "hint": "describes inward movement of a limb or structure",
+      "examCue": "toward midline"
+    },
+    {
+      "word": "acutus",
+      "translation": "sharp; sudden in onset; severe",
+      "hint": "used for pain, angles, or diseases with rapid onset",
+      "examCue": "acute = sudden/sharp"
+    },
+    {
+      "word": "alveolaris, e",
+      "translation": "related to a socket or small cavity",
+      "hint": "used for tooth sockets or pulmonary alveoli",
+      "examCue": "socket / alveolus"
+    },
+    {
+      "word": "apertus",
+      "translation": "open; uncovered; patent",
+      "hint": "used for open wounds, open procedures, or patent passages",
+      "examCue": "open"
+    },
+    {
+      "word": "apicalis, e",
+      "translation": "related to the tip, summit, or apex",
+      "hint": "used for lung apex, root apex, cardiac apex",
+      "examCue": "tip / apex"
+    },
+    {
+      "word": "artificialis, e",
+      "translation": "man-made; produced by intervention; induced",
+      "hint": "used for artificial airway, artificial feeding, induced conditions",
+      "examCue": "artificial / induced"
+    },
+    {
+      "word": "arterialis, e",
+      "translation": "related to an artery",
+      "hint": "used for arterial blood, arterial wall, arterial supply",
+      "examCue": "artery"
+    },
+    {
+      "word": "auditivus",
+      "translation": "related to hearing",
+      "hint": "used for auditory pathways, auditory canal, auditory testing",
+      "examCue": "hearing"
+    },
+    {
+      "word": "anaemicus",
+      "translation": "affected by low blood or low hemoglobin state",
+      "hint": "used for patients or tissue states associated with anemia",
+      "examCue": "anemia"
+    },
+    {
+      "word": "benignus",
+      "translation": "non-aggressive; not malignant; relatively harmless",
+      "hint": "used for tumors or clinical courses with favorable behavior",
+      "examCue": "not cancerous / mild"
+    },
+    {
+      "word": "brevis, e",
+      "translation": "short; brief",
+      "hint": "common in muscle names to distinguish from longus",
+      "examCue": "short"
+    },
+    {
+      "word": "biceps",
+      "translation": "having two heads or two points of origin",
+      "hint": "used especially for muscles such as biceps brachii",
+      "examCue": "two-headed"
+    },
+    {
+      "word": "capax, acis",
+      "translation": "able to hold much; spacious; with large capacity",
+      "hint": "used for cavities or reservoirs with expanded capacity",
+      "examCue": "capacity / roomy"
+    },
+    {
+      "word": "cervicalis, e",
+      "translation": "related to the neck",
+      "hint": "may refer to neck structures or the cervix depending on context",
+      "examCue": "neck / cervix context"
+    },
+    {
+      "word": "chronicus",
+      "translation": "long-lasting; persistent over time",
+      "hint": "used for diseases with prolonged course",
+      "examCue": "chronic = long duration"
+    },
+    {
+      "word": "communicans, ntis",
+      "translation": "connecting; communicating between two structures",
+      "hint": "used for communicating branches, vessels, or spaces",
+      "examCue": "linking structures"
+    },
+    {
+      "word": "confluens, ntis",
+      "translation": "flowing together; merging",
+      "hint": "used for rashes, lesions, or vessels that join into one area",
+      "examCue": "merging"
+    },
+    {
+      "word": "congenitus",
+      "translation": "present at birth; inborn",
+      "hint": "used for malformations, syndromes, and structural abnormalities existing from birth",
+      "examCue": "present at birth"
+    },
+    {
+      "word": "cruciformis, e",
+      "translation": "cross-shaped",
+      "hint": "used for ligaments, sutures, and anatomical patterns",
+      "examCue": "cross-shaped"
+    },
+    {
+      "word": "deficiens, ntis",
+      "translation": "lacking; insufficient; deficient",
+      "hint": "used for nutrient, hormone, or functional deficiency states",
+      "examCue": "insufficient"
+    },
+    {
+      "word": "deformans, ntis",
+      "translation": "causing distortion or deformity",
+      "hint": "used for diseases that progressively alter normal structure",
+      "examCue": "deforming"
+    },
+    {
+      "word": "dexter, tra, trum",
+      "translation": "right-sided",
+      "hint": "used for right organs, limbs, chambers, and directional anatomy",
+      "examCue": "right"
+    },
+    {
+      "word": "deltoideus",
+      "translation": "triangular; shaped like the Greek letter delta",
+      "hint": "used for the deltoid muscle and similar shapes",
+      "examCue": "triangle-shaped"
+    },
+    {
+      "word": "divergens, ntis",
+      "translation": "moving apart; spreading away from a common point",
+      "hint": "used for strabismus, vessels, or fibers that separate",
+      "examCue": "spreading apart"
+    },
+    {
+      "word": "externus",
+      "translation": "outer; situated on the outside",
+      "hint": "used to distinguish external from internal layers or structures",
+      "examCue": "outer"
+    },
+    {
+      "word": "facialis, e",
+      "translation": "related to the face",
+      "hint": "used for facial nerve, facial muscles, facial bones",
+      "examCue": "face"
+    },
+    {
+      "word": "fibrosus",
+      "translation": "made of fibers; fibrous; scar-like in texture",
+      "hint": "used for capsules, connective tissue, thickened bands",
+      "examCue": "fiber-rich"
+    },
+    {
+      "word": "filiformis, e",
+      "translation": "thread-like; slender and narrow",
+      "hint": "used for papillae, appendages, or narrow projections",
+      "examCue": "thread-like"
+    },
+    {
+      "word": "frontalis, e",
+      "translation": "related to the forehead or front part",
+      "hint": "used for frontal bone, frontal lobe, frontal sinus",
+      "examCue": "forehead / front"
+    },
+    {
+      "word": "fungiformis, e",
+      "translation": "mushroom-shaped",
+      "hint": "classically used for fungiform papillae of the tongue",
+      "examCue": "mushroom-shaped"
+    },
+    {
+      "word": "hepaticus",
+      "translation": "related to the liver",
+      "hint": "used for hepatic artery, hepatic veins, hepatic disease",
+      "examCue": "liver"
+    },
+    {
+      "word": "incipiens, ntis",
+      "translation": "beginning; early-stage; starting",
+      "hint": "used for early disease or initial pathological change",
+      "examCue": "early / starting"
+    },
+    {
+      "word": "intermittens, ntis",
+      "translation": "occurring on and off; not continuous",
+      "hint": "used for fever, symptoms, pulse, or obstruction that comes and goes",
+      "examCue": "comes and goes"
+    },
+    {
+      "word": "imminens, ntis",
+      "translation": "about to occur; impending",
+      "hint": "used for threatened rupture, labor, or other urgent events",
+      "examCue": "impending"
+    },
+    {
+      "word": "inoperabilis, e",
+      "translation": "not suitable for surgery; cannot be operated on",
+      "hint": "used for tumors or conditions that are unresectable",
+      "examCue": "not operable"
+    },
+    {
+      "word": "internus",
+      "translation": "inner; situated within",
+      "hint": "used to distinguish internal from external structures",
+      "examCue": "inner"
+    },
+    {
+      "word": "instabilis, e",
+      "translation": "not stable; prone to change or collapse",
+      "hint": "used for joints, fractures, hemodynamics, mood, gait",
+      "examCue": "unstable"
+    },
+    {
+      "word": "iuvenilis, e",
+      "translation": "youthful; occurring in the young",
+      "hint": "used for juvenile forms of disease",
+      "examCue": "young age"
+    },
+    {
+      "word": "levis, e",
+      "translation": "light; mild; not severe",
+      "hint": "used for mild symptoms or slight intensity",
+      "examCue": "mild"
+    },
+    {
+      "word": "longus",
+      "translation": "long",
+      "hint": "common in anatomical naming to distinguish from brevis",
+      "examCue": "long"
+    },
+    {
+      "word": "lymphaticus",
+      "translation": "related to lymph or lymph vessels",
+      "hint": "used for lymphatic drainage, vessels, and nodes",
+      "examCue": "lymph"
+    },
+    {
+      "word": "magnus",
+      "translation": "large; great; major",
+      "hint": "used in anatomy for larger paired structures",
+      "examCue": "large"
+    },
+    {
+      "word": "malignus",
+      "translation": "harmful; aggressive; cancerous in behavior",
+      "hint": "used for tumors with invasion, metastasis, or dangerous progression",
+      "examCue": "malignant"
+    },
+    {
+      "word": "manualis, e",
+      "translation": "done by hand; relating to the hand",
+      "hint": "used for manual examination, manipulation, or hand-related actions",
+      "examCue": "by hand"
+    },
+    {
+      "word": "marginalis, e",
+      "translation": "located at the edge or border",
+      "hint": "used for margins of organs, teeth, lesions, or surgical fields",
+      "examCue": "at the border"
+    },
+    {
+      "word": "medianus",
+      "translation": "in the middle; central",
+      "hint": "used for median plane, median nerve, midline structures",
+      "examCue": "middle"
+    },
+    {
+      "word": "medialis, e",
+      "translation": "closer to the midline",
+      "hint": "directional anatomical term opposite of lateralis",
+      "examCue": "toward midline"
+    }
+  ]
+}

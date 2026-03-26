@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --surface-0: #05070b;
+  --surface-1: rgba(15, 20, 29, 0.84);
+  --surface-2: rgba(20, 28, 40, 0.92);
+  --line-soft: rgba(255, 255, 255, 0.08);
+  --text-strong: #f7fbff;
+  --text-muted: #93a3b8;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+  background:
+    radial-gradient(circle at 14% 12%, rgba(109, 228, 255, 0.14), transparent 22%),
+    radial-gradient(circle at 82% 18%, rgba(120, 119, 198, 0.1), transparent 26%),
+    radial-gradient(circle at bottom, rgba(16, 185, 129, 0.08), transparent 22%),
+    var(--surface-0);
+  color: var(--text-strong);
+}
+
+body {
+  font-family:
+    "Satoshi",
+    "SF Pro Display",
+    "Segoe UI",
+    sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent 24%),
+    radial-gradient(circle at top, rgba(109, 228, 255, 0.08), transparent 30%);
+}
+
+.phone-frame {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 32px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent 16%),
+    rgba(5, 7, 10, 0.96);
+  box-shadow:
+    0 20px 80px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+.scrollbar-none {
+  scrollbar-width: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+.premium-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 20px 20px;
+}

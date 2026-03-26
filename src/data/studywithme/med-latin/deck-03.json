@@ -1,0 +1,736 @@
+{
+  "schemaId": "studywithme-bg.learncard.v1",
+  "deckKey": "med-latin-exam-s4-phrases-sayings-40",
+  "meta": {
+    "title": {
+      "en": "Medical Latin — Phrases, Concord, and Sayings",
+      "de": "Medizinisches Latein — Phrasen, Kongruenz und Sentenzen"
+    },
+    "description": {
+      "en": "Applied practice deck for first-year Medical Latin. Focuses on noun–adjective agreement, genitive phrase structure, and high-yield Latin sayings commonly encountered in early medical terminology study. Designed to strengthen grammatical accuracy, phrase interpretation, and confident recognition of standard academic expressions in an exam-oriented context.",
+      "de": "Anwendungsorientiertes Übungsdeck für Medizinisches Latein im ersten Studienjahr. Im Mittelpunkt stehen die Kongruenz von Substantiv und Adjektiv, die Struktur von Genitivverbindungen sowie zentrale lateinische Sentenzen, wie sie im frühen medizinischen Terminologiestudium häufig vorkommen. Das Deck stärkt grammatische Sicherheit, das Verständnis von Wortgruppen und die sichere Erkennung standardisierter akademischer Ausdrücke im prüfungsorientierten Kontext."
+    },
+    "level": "medical",
+    "tags": [
+      "medical",
+      "latin",
+      "phrases",
+      "concord",
+      "genitive",
+      "sayings",
+      "terminology",
+      "exam"
+    ],
+    "difficulty": "intermediate",
+    "estimatedMinutes": 60,
+    "cardCount": 40,
+    "languages": {
+      "source": "la",
+      "target": "en"
+    },
+    "source": {
+      "file": "FirstSemLatinExerc_25 (1).pdf",
+      "exam": "MU-Varna Latin Medical Terminology 1st semester"
+    }
+  },
+  "cards": [
+    {
+      "cardId": "s4-4001",
+      "type": "mcq",
+      "question": {
+        "en": "In Latin noun–adjective phrases, adjectives must agree with the noun in:"
+      },
+      "correctAnswer": "number, gender, and case",
+      "options": [
+        "tense only",
+        "number only",
+        "number, gender, and case",
+        "person and mood"
+      ],
+      "explanation": {
+        "en": "Grammatical concord: adjectives match nouns in number, gender, and case. (Exercise IV, p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4002",
+      "type": "mcq",
+      "question": {
+        "en": "A 2-noun medical phrase with the second noun in genitive usually corresponds to English:"
+      },
+      "correctAnswer": "'of' (possession/relation)",
+      "options": [
+        "'and'",
+        "'with'",
+        "'of' (possession/relation)",
+        "'toward'"
+      ],
+      "explanation": {
+        "en": "Genitive denotes possession/relation often translated with 'of'. (Exercise IV, p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4003",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'vesica fellea'."
+      },
+      "correctAnswer": "gallbladder",
+      "options": [
+        "urinary bladder",
+        "gallbladder",
+        "stomach",
+        "liver"
+      ],
+      "explanation": {
+        "en": "Given example noun-adjective phrase. (Exercise IV, p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4004",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'vesica biliaris'."
+      },
+      "correctAnswer": "gallbladder (synonym)",
+      "options": [
+        "bile duct",
+        "gallbladder (synonym)",
+        "bile juice",
+        "kidney"
+      ],
+      "explanation": {
+        "en": "Handout: vesica biliaris is synonym of vesica fellea. (p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4005",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'substantia grisea'."
+      },
+      "correctAnswer": "gray matter",
+      "options": [
+        "white matter",
+        "gray matter",
+        "spinal cord",
+        "muscle"
+      ],
+      "explanation": {
+        "en": "Example of noun-adjective phrase. (p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4006",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'glandulae gastricae'."
+      },
+      "correctAnswer": "gastric glands",
+      "options": [
+        "salivary glands",
+        "gastric glands",
+        "lymph nodes",
+        "gallbladder"
+      ],
+      "explanation": {
+        "en": "Example noun-adjective phrase (plural). (p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4007",
+      "type": "mcq",
+      "question": {
+        "en": "Translate literally: 'sulcus medianus linguae'."
+      },
+      "correctAnswer": "median groove of the tongue",
+      "options": [
+        "deep vein of the tongue",
+        "median groove of the tongue",
+        "tongue suture",
+        "tongue ulcer"
+      ],
+      "explanation": {
+        "en": "Given as synonym/definition in genitive phrase example. (p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4008",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'striae gravidarum'."
+      },
+      "correctAnswer": "pregnancy stretch marks",
+      "options": [
+        "skin folds",
+        "pregnancy stretch marks",
+        "gastric rugae",
+        "muscle striations"
+      ],
+      "explanation": {
+        "en": "Example: striae (nom. pl.) + gravidarum (gen. pl.). (p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4009",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Otium sine litteris mors est.'"
+      },
+      "correctAnswer": "Leisure without literature is death.",
+      "options": [
+        "Leisure without literature is death.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.6)."
+      }
+    },
+    {
+      "cardId": "s4-4010",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Qui non proficit, deficit.'"
+      },
+      "correctAnswer": "He who does not progress, loses ground.",
+      "options": [
+        "He who does not progress, loses ground.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.6)."
+      }
+    },
+    {
+      "cardId": "s4-4011",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Patientia victrix.'"
+      },
+      "correctAnswer": "Patience is victorious.",
+      "options": [
+        "Patience is victorious.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.6)."
+      }
+    },
+    {
+      "cardId": "s4-4012",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Labor omnia vincit improbus.'"
+      },
+      "correctAnswer": "Unceasing effort conquers all.",
+      "options": [
+        "Unceasing effort conquers all.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.9)."
+      }
+    },
+    {
+      "cardId": "s4-4013",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'De nihilo nihil fit.'"
+      },
+      "correctAnswer": "From nothing, nothing comes.",
+      "options": [
+        "From nothing, nothing comes.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.9)."
+      }
+    },
+    {
+      "cardId": "s4-4014",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Est modus in rebus.'"
+      },
+      "correctAnswer": "There is a measure/mean in all things.",
+      "options": [
+        "There is a measure/mean in all things.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.9)."
+      }
+    },
+    {
+      "cardId": "s4-4015",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Tempora mutantur, et nos mutamur in illis.'"
+      },
+      "correctAnswer": "Times change, and we change with them.",
+      "options": [
+        "Times change, and we change with them.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.10)."
+      }
+    },
+    {
+      "cardId": "s4-4016",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Vultus est index animi.'"
+      },
+      "correctAnswer": "The face is a sign of the soul.",
+      "options": [
+        "The face is a sign of the soul.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.10)."
+      }
+    },
+    {
+      "cardId": "s4-4017",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Historia magistra vitae est.'"
+      },
+      "correctAnswer": "History is the tutor/teacher of life.",
+      "options": [
+        "History is the tutor/teacher of life.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.20)."
+      }
+    },
+    {
+      "cardId": "s4-4018",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Nulla est medicina sine lingua Latina.'"
+      },
+      "correctAnswer": "Medicine is nothing without Latin.",
+      "options": [
+        "Medicine is nothing without Latin.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.20)."
+      }
+    },
+    {
+      "cardId": "s4-4019",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Medice, cura te ipsum!'"
+      },
+      "correctAnswer": "Physician, heal thyself!",
+      "options": [
+        "Physician, heal thyself!",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.25)."
+      }
+    },
+    {
+      "cardId": "s4-4020",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Medicus curat, natura sanat.'"
+      },
+      "correctAnswer": "The physician treats; nature heals.",
+      "options": [
+        "The physician treats; nature heals.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.25)."
+      }
+    },
+    {
+      "cardId": "s4-4021",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Similia similibus curantur.'"
+      },
+      "correctAnswer": "Like cures like.",
+      "options": [
+        "Like cures like.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.25)."
+      }
+    },
+    
+    {
+      "cardId": "s4-4022",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Contraria contrariis curantur.'"
+      },
+      "correctAnswer": "Opposites are cured with opposites.",
+      "options": [
+        "Opposites are cured with opposites.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.25)."
+      }
+    },
+    {
+      "cardId": "s4-4023",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Qui tacet consentire videtur.'"
+      },
+      "correctAnswer": "Silence implies consent.",
+      "options": [
+        "Silence implies consent.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.25)."
+      }
+    },
+    {
+      "cardId": "s4-4024",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Gutta cavat lapidem, non vi sed saepe cadendo.'"
+      },
+      "correctAnswer": "The drop hollows the stone, not by force but by falling often.",
+      "options": [
+        "The drop hollows the stone, not by force but by falling often.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.20-21)."
+      }
+    },
+    {
+      "cardId": "s4-4025",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Parva scintilla saepe magnam flammam excitat.'"
+      },
+      "correctAnswer": "A small spark often kindles a great flame.",
+      "options": [
+        "A small spark often kindles a great flame.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.21)."
+      }
+    },
+    {
+      "cardId": "s4-4026",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Memorandum.'"
+      },
+      "correctAnswer": "A reminder / memo.",
+      "options": [
+        "A reminder / memo.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.30)."
+      }
+    },
+    {
+      "cardId": "s4-4027",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Erratum.'"
+      },
+      "correctAnswer": "An error (in writing/printing).",
+      "options": [
+        "An error (in writing/printing).",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.30)."
+      }
+    },
+    {
+      "cardId": "s4-4028",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Curriculum vitae.'"
+      },
+      "correctAnswer": "Course of one's life (CV).",
+      "options": [
+        "Course of one's life (CV).",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.30)."
+      }
+    },
+    {
+      "cardId": "s4-4029",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Maximum remedium irae mora est.'"
+      },
+      "correctAnswer": "The best remedy for anger is delay.",
+      "options": [
+        "The best remedy for anger is delay.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.30)."
+      }
+    },
+    {
+      "cardId": "s4-4030",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Quae nocent docent.'"
+      },
+      "correctAnswer": "That which hurts, teaches.",
+      "options": [
+        "That which hurts, teaches.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.31)."
+      }
+    },
+    {
+      "cardId": "s4-4031",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Post prandium stabis, post cenam ambulabis.'"
+      },
+      "correctAnswer": "After lunch rest; after supper walk.",
+      "options": [
+        "After lunch rest; after supper walk.",
+        "Time flies.",
+        "Knowledge is power.",
+        "We learn for life."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.31)."
+      }
+    },
+    {
+      "cardId": "s4-4032",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Festina lente.'"
+      },
+      "correctAnswer": "Make haste slowly.",
+      "options": [
+        "Silence implies consent.",
+        "Make haste slowly.",
+        "Leisure without literature is death.",
+        "Like cures like."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.10)."
+      }
+    },
+    {
+      "cardId": "s4-4033",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Veritas numquam perit.'"
+      },
+      "correctAnswer": "Truth never perishes.",
+      "options": [
+        "The physician treats; nature heals.",
+        "A reminder.",
+        "From nothing, nothing comes.",
+        "Truth never perishes."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.10)."
+      }
+    },
+    {
+      "cardId": "s4-4034",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Et ipsa scientia potestas est.'"
+      },
+      "correctAnswer": "And knowledge itself is power.",
+      "options": [
+        "The best remedy for anger is delay.",
+        "After lunch rest; after supper walk.",
+        "History is the teacher of life.",
+        "And knowledge itself is power."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.10)."
+      }
+    },
+    {
+      "cardId": "s4-4035",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Plenus venter non studet libenter.'"
+      },
+      "correctAnswer": "A full belly doesn't like studying.",
+      "options": [
+        "A small spark kindles a flame.",
+        "An error in writing.",
+        "Medicine is nothing without Latin.",
+        "A full belly doesn't like studying."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.10)."
+      }
+    },
+    {
+      "cardId": "s4-4036",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Aquila non captat muscas.'"
+      },
+      "correctAnswer": "The eagle doesn't catch flies.",
+      "options": [
+        "Opposites are cured with opposites.",
+        "Times change, and we change with them.",
+        "The eagle doesn't catch flies.",
+        "A reminder."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.25)."
+      }
+    },
+    {
+      "cardId": "s4-4037",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Nemo in amore videt.'"
+      },
+      "correctAnswer": "No one in love sees.",
+      "options": [
+        "No one in love sees.",
+        "Like cures like.",
+        "Course of one's life.",
+        "Truth never perishes."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.21)."
+      }
+    },
+    {
+      "cardId": "s4-4038",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Un ius compendium, alterius dispendium.'"
+      },
+      "correctAnswer": "The gain of one is the loss of another.",
+      "options": [
+        "The drop hollows the stone.",
+        "From nothing, nothing comes.",
+        "Physician, heal thyself!",
+        "The gain of one is the loss of another."
+      ],
+      "explanation": {
+        "en": "Latin saying from the handout (p.31)."
+      }
+    },
+    {
+      "cardId": "s4-4039",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase is a genitive construction (\"of ...\")?"
+      },
+      "correctAnswer": "sulcus medianus linguae",
+      "options": [
+        "substantia grisea",
+        "glandulae gastricae",
+        "sulcus medianus linguae",
+        "vesica biliaris"
+      ],
+      "explanation": {
+        "en": "Genitive example: linguae = 'of the tongue'. (Exercise IV, p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4040",
+      "type": "mcq",
+      "question": {
+        "en": "Which phrase is a noun–adjective phrase (agreement), not genitive?"
+      },
+      "correctAnswer": "substantia grisea",
+      "options": [
+        "striae gravidarum",
+        "sulcus medianus linguae",
+        "substantia grisea",
+        "rhaphe linguae"
+      ],
+      "explanation": {
+        "en": "substantia + grisea: adjective agrees with noun. (Exercise IV, p.19)"
+      }
+    },
+    {
+      "cardId": "s4-4041",
+      "type": "mcq",
+      "question": {
+        "en": "Translate: 'Similia similibus curantur'"
+      },
+      "correctAnswer": "Like cures like.",
+      "options": [
+        "The physician treats, nature cures.",
+        "Like cures like.",
+        "The eagle doesn't capture flies.",
+        "A good man skilled in the art of speaking"
+      ],
+      "explanation": {
+        "en": "Like cures like. (Like is cured by like, or The same is cured by the same."
+      }
+    }
+  ]
+}

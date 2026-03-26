@@ -1,0 +1,197 @@
+[
+  {
+    "id": "reel-clinical-001",
+    "type": "clinical_case",
+    "title": "Chest Pain During Dialysis",
+    "description": "Mechanism-first ACS differential in a dialysis patient.",
+    "channels": ["for-you", "step2", "clinical-cases", "rapid-review"],
+    "tags": ["step2", "cardiology", "clinical-reasoning", "rapid-review"],
+    "difficulty": "high_yield",
+    "creatorId": "creator-1",
+    "createdAt": "2026-03-22T09:00:00.000Z",
+    "updatedAt": "2026-03-22T09:00:00.000Z",
+    "contentVersion": 1,
+    "coverImageUrl": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=900&q=80",
+    "reviewMeta": {
+      "estimatedSeconds": 55,
+      "examTags": ["next-best-step", "renal", "cardiology"],
+      "learningObjectives": ["Use ECG clues in dialysis patients", "Separate demand ischemia from STEMI mimics"]
+    },
+    "socialMetrics": {
+      "likes": 1488,
+      "bookmarks": 608,
+      "shares": 91
+    },
+    "card": {
+      "type": "clinical_case",
+      "stem": "A 64-year-old man with end-stage renal disease on hemodialysis develops sudden substernal chest pressure 20 minutes into treatment. He is diaphoretic and nauseated. ECG shows peaked T waves with 1 mm ST elevation in V2-V3. Potassium is 6.8 mEq/L.",
+      "question": "What is the most appropriate immediate management?",
+      "answer": "Give IV calcium immediately while evaluating for concurrent acute coronary syndrome.",
+      "explanation": "Severe hyperkalemia can create pseudo-infarction patterns, but membrane stabilization cannot wait. Calcium gluconate reduces the risk of malignant arrhythmia within minutes; insulin-dextrose and dialysis address potassium removal. Ongoing ischemia should still be assessed in parallel because dialysis patients can have real ACS.",
+      "differentialDiagnosis": ["Hyperkalemia with pseudo-STEMI pattern", "Anterior STEMI", "Uremic pericarditis"],
+      "teachingPoints": ["Treat unstable hyperkalemia before diagnostic perfectionism", "Dialysis patients may have mixed pathology", "Serial ECGs after potassium correction are high yield"],
+      "hint": "Stabilize the myocardium first.",
+      "nextBestStep": "IV calcium gluconate, telemetry, repeat ECG after potassium-shifting therapy",
+      "mechanism": "Elevated extracellular potassium lowers the resting membrane potential and impairs cardiac conduction."
+    }
+  },
+  {
+    "id": "reel-anatomy-001",
+    "type": "anatomy_image",
+    "title": "Brachial Plexus Quick Drill",
+    "description": "Tap the posterior cord branch before reveal.",
+    "channels": ["for-you", "anatomy"],
+    "tags": ["anatomy", "upper-limb", "labels"],
+    "difficulty": "moderate",
+    "creatorId": "creator-2",
+    "createdAt": "2026-03-20T11:00:00.000Z",
+    "updatedAt": "2026-03-20T11:00:00.000Z",
+    "contentVersion": 1,
+    "coverImageUrl": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&w=900&q=80",
+    "reviewMeta": {
+      "estimatedSeconds": 40,
+      "examTags": ["anatomy", "upper-limb"],
+      "learningObjectives": ["Localize branches of the posterior cord", "Associate cords with terminal nerves"]
+    },
+    "card": {
+      "type": "anatomy_image",
+      "imageUrl": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&w=900&q=80",
+      "prompt": "Identify the branch of the posterior cord that innervates the deltoid.",
+      "hint": "Think surgical neck injuries.",
+      "hotspots": [
+        {
+          "id": "hotspot-axillary",
+          "label": "Axillary nerve",
+          "x": 56,
+          "y": 44,
+          "radius": 10,
+          "explanation": "The axillary nerve travels through the quadrangular space and wraps around the surgical neck of the humerus."
+        },
+        {
+          "id": "hotspot-radial",
+          "label": "Radial nerve",
+          "x": 68,
+          "y": 63,
+          "radius": 12,
+          "explanation": "The radial nerve is the major terminal branch of the posterior cord supplying the posterior compartments."
+        }
+      ],
+      "revealMode": "tap",
+      "answerExplanation": "The axillary nerve is the posterior cord branch classically injured with surgical neck fractures, producing deltoid weakness and sensory loss over the lateral shoulder."
+    }
+  },
+  {
+    "id": "reel-mcq-001",
+    "type": "mcq",
+    "title": "Nephritic vs Nephrotic Pattern",
+    "description": "Fast pathology discrimination drill.",
+    "channels": ["for-you", "step1", "pathophysiology", "rapid-review"],
+    "tags": ["step1", "renal", "pathology", "rapid-review"],
+    "difficulty": "moderate",
+    "creatorId": "creator-1",
+    "createdAt": "2026-03-18T13:10:00.000Z",
+    "updatedAt": "2026-03-18T13:10:00.000Z",
+    "contentVersion": 1,
+    "reviewMeta": {
+      "estimatedSeconds": 35,
+      "examTags": ["renal", "pathology"],
+      "learningObjectives": ["Differentiate nephritic from nephrotic syndromes"]
+    },
+    "card": {
+      "type": "mcq",
+      "stem": "A 9-year-old boy develops cola-colored urine, periorbital edema, and hypertension two weeks after impetigo. Which pathologic process best explains his presentation?",
+      "options": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Subepithelial immune complex deposition after streptococcal infection",
+          "explanation": "Correct. Poststreptococcal glomerulonephritis produces nephritic syndrome with granular immune complex deposition."
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Podocyte effacement caused by T-cell cytokines",
+          "explanation": "This describes minimal change disease, which causes nephrotic syndrome rather than a nephritic picture."
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Linear anti-GBM antibody deposition",
+          "explanation": "This points to Goodpasture disease, usually with pulmonary hemorrhage and RPGN."
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "Mesangial IgA deposition after a mucosal infection",
+          "explanation": "IgA nephropathy follows infections more closely, often within days, not after a latent interval."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The delayed onset after streptococcal skin infection and nephritic findings strongly favor poststreptococcal glomerulonephritis with subepithelial humps."
+    }
+  },
+  {
+    "id": "reel-vocab-001",
+    "type": "vocab",
+    "title": "Vocabulary Sprint: Koilonychia",
+    "description": "Rapid reinforcement of physical exam terminology.",
+    "channels": ["for-you", "vocabulary"],
+    "tags": ["vocab", "hematology", "physical-exam"],
+    "difficulty": "intro",
+    "creatorId": "creator-3",
+    "createdAt": "2026-03-19T07:45:00.000Z",
+    "updatedAt": "2026-03-19T07:45:00.000Z",
+    "contentVersion": 1,
+    "reviewMeta": {
+      "estimatedSeconds": 25,
+      "examTags": ["vocab", "physical-exam"],
+      "learningObjectives": ["Recognize classic iron deficiency terminology"]
+    },
+    "card": {
+      "type": "vocab",
+      "term": "Koilonychia",
+      "pronunciation": "koy-loh-NIK-ee-uh",
+      "simpleDefinition": "Spoon-shaped nails.",
+      "advancedDefinition": "A concave nail deformity classically associated with chronic iron deficiency and occasionally systemic illness.",
+      "relatedConcept": "Iron deficiency anemia",
+      "exampleUsage": "On exam, brittle spoon-shaped nails supported chronic iron deficiency as the cause of fatigue.",
+      "mnemonic": "A spoon helps scoop iron-rich cereal."
+    }
+  },
+  {
+    "id": "reel-social-001",
+    "type": "social_post",
+    "title": "Creator Pearl: ABG Pattern Shortcut",
+    "description": "Short creator reel on respiratory compensation logic.",
+    "channels": ["for-you", "following", "clinical-pearls"],
+    "tags": ["clinical-pearls", "acid-base", "step2"],
+    "difficulty": "high_yield",
+    "creatorId": "creator-2",
+    "createdAt": "2026-03-23T15:30:00.000Z",
+    "updatedAt": "2026-03-23T15:30:00.000Z",
+    "contentVersion": 1,
+    "coverImageUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80",
+    "reviewMeta": {
+      "estimatedSeconds": 30,
+      "examTags": ["acid-base", "step2"],
+      "learningObjectives": ["Apply compensation heuristics quickly"]
+    },
+    "socialMetrics": {
+      "likes": 2894,
+      "bookmarks": 911,
+      "shares": 242
+    },
+    "card": {
+      "type": "social_post",
+      "caption": "If the CO2 shift looks too small for the bicarbonate change, stop and ask whether there is a second process hiding in the gas.",
+      "mediaUrl": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=900&q=80",
+      "cta": "Save for your next acid-base block",
+      "educationalTakeaway": "Compensation that overshoots or undershoots the expected range suggests a mixed disorder.",
+      "metrics": {
+        "likes": 2894,
+        "bookmarks": 911,
+        "shares": 242
+      }
+    }
+  }
+]
